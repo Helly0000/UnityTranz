@@ -1,0 +1,16 @@
+<GameData>
+	<LocalizedText>
+		<Row Tag="LOC_P0K_BUILDING_TEMPLE_POSEIDON_NAME" Language="en_US">
+			<Text>Temple of Poseidon</Text>
+		</Row>
+		<Row Tag="LOC_P0K_BUILDING_TEMPLE_POSEIDON_DESCRIPTION" Language="en_US">
+			<Text>Each Fishing Boat within 4 tiles of this wonder provides +1 [ICON_AMENITIES] Amenity. +1 [ICON_Faith] Faith to all Water tiles in this city. Must be placed adjacent to a Fishing Boat.</Text>
+		</Row>
+		<Row Tag="LOC_P0K_BUILDING_TEMPLE_POSEIDON_QUOTE" Language="en_US">
+			<Text>“Hear, Poseidon, ruler of the sea profound, whose liquid grasp begirds the solid ground; who, at the bottom of the stormy main, dark and deep-bosomed holdest they watery reign.”[NEWLINE]– Orpheus</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_WONDERS_PAGE_P0K_BUILDING_TEMPLE_POSEIDON_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>The remains of the Temple of Poseidon sit atop Cape Sounion, 70 kilometers southeast of Athens. This area was a sanctuary dating back to the Bronze Age, but the current Temple of Poseidon was constructed in the 5th century BCE - the Golden Age of Athens. Remarkably similar in style to the Temple of Hephaestion in Athens, the Temple of Poseidon is thought to have been designed by the same architect. It is certain that the Temple of Poseidon, 60 meters above the Aegean Sea, was a revered landmark visible from afar by departing or approaching sailors.</Text>
+		</Row>
+	</LocalizedText>
+</GameData>

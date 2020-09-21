@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+ Real Building Upgrades
+ Author: Infixo
+ 2018-03-04: Created
+-->
+<GameData>
+	<BaseGameText>
+		<!-- Government Buildings -->
+		<!--
+		<Row Tag="LOC_BUILDING_GOV_TALL_NAME">
+			<Text>Audience Chamber</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_GOV_WIDE_NAME">
+			<Text>Ancestral Hall</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_GOV_CONQUEST_NAME">
+			<Text>Warlord's Throne</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_GOV_FAITH_NAME">
+			<Text>Grand Master's Chapel</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_GOV_CITYSTATES_NAME">
+			<Text>Foreign Ministry</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_GOV_SPIES_NAME">
+			<Text>Intelligence Agency</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_GOV_MILITARY_NAME">
+			<Text>War Department</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_GOV_CULTURE_NAME">
+			<Text>National History Museum</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_GOV_SCIENCE_NAME">
+			<Text>Royal Society</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_GOV_TALL_DESCRIPTION">
+			<Text>+1 [ICON_Amenities] Amenity and +4 [ICON_Housing] Housing in Cities with [ICON_Governor] Governors[NEWLINE]-2 Loyalty in Cities without [ICON_Governor] Governors.[NEWLINE]Awards +1 [Icon_Governor] Governor Title.</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_GOV_WIDE_DESCRIPTION">
+			<Text>50% increased [ICON_Production] Production toward Settlers.[NEWLINE]New cities receive a free Builder.[NEWLINE]Awards +1 [Icon_Governor] Governor Title.</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_GOV_CONQUEST_DESCRIPTION">
+			<Text>Capturing an enemy City grants 20% bonus [ICON_Production] Production in all Cities for 5 turns.[NEWLINE]Awards +1 [Icon_Governor] Governor Title.</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_GOV_CITYSTATES_DESCRIPTION">
+			<Text>Leveraging City States costs half [ICON_Gold] Gold.[NEWLINE]Leveraged Units gain +4 [ICON_Strength] Combat Strength.[NEWLINE]Awards +1 [Icon_Governor] Governor Title.</Text>
+		</Row>
+		<Row Tag="GOV_CITYSTATES_COMBAT_STRENGTH_DESCRIPTION">
+			<Text>+4 from Foreign Ministry</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_GOV_SPIES_DESCRIPTION">
+			<Text>+1 Spy and Spy capacity.[NEWLINE]All Spy Operations have a higher chance of success.[NEWLINE]Awards +1 [Icon_Governor] Governor Title.</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_GOV_FAITH_DESCRIPTION">
+			<Text>Grants the ability to buy land units with [ICON_Faith] Faith.[NEWLINE]Pillaging Improvements and Districts provides bonus [ICON_Faith] Faith.[NEWLINE]Awards +1 [Icon_Governor] Governor Title.</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_GOV_MILITARY_DESCRIPTION">
+			<Text>All units when they eliminate a unit, they heal up to 20 hit points.[NEWLINE]Awards +1 [Icon_Governor] Governor Title.</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_GOV_CULTURE_DESCRIPTION">
+			<Text>Provides 4 slots for any Great Work.[NEWLINE]Awards +1 [Icon_Governor] Governor Title.</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_GOV_SCIENCE_DESCRIPTION">
+			<Text>Builders gain the ability to use all of their charges to provide bonus [ICON_Production] Production to a District Project. Once per city per turn.[NEWLINE]Awards +1 [Icon_Governor] Governor Title.</Text>
+		</Row>
+		-->
+		<!-- Water Entertainment Complex Buildings -->
+		<Row Tag="LOC_BUILDING_FERRIS_WHEEL_UPGRADE_NAME">
+			<Text>Ferris Wheel Upgrade</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_FERRIS_WHEEL_UPGRADE_DESCRIPTION">
+			<Text>+1 [ICON_Tourism] Tourism and all tiles in this City gain +1 Appeal.</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_AQUARIUM_UPGRADE_NAME">
+			<Text>Aquarium Upgrade</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_AQUARIUM_UPGRADE_DESCRIPTION">
+			<Text>Scientific research conducted here generates +1 [ICON_GreatScientist] Great Scientist point. Bonus Amenity extends to each city center within 9 tiles.</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_AQUATICS_CENTER_UPGRADE_NAME">
+			<Text>Aquatics Center Upgrade</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_AQUATICS_CENTER_UPGRADE_DESCRIPTION">
+			<Text>All [ICON_Tourism] Tourism yields are increased +10%. Bonus Amenity extends to each city center within 9 tiles.</Text>
+		</Row>
+		<!-- Neighborhood Buildings -->
+		<Row Tag="LOC_BUILDING_FOOD_MARKET_UPGRADE_NAME">
+			<Text>Food Market Upgrade</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_FOOD_MARKET_UPGRADE_DESCRIPTION">
+			<Text>Bigger market can service more food providers. Plantations and Pastures in this city gain +2 [ICON_Food] Food each. Can only be built once in a city, even if the city has multiple Neighborhoods.</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_SHOPPING_MALL_UPGRADE_NAME">
+			<Text>Shopping Mall Upgrade</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_SHOPPING_MALL_UPGRADE_DESCRIPTION">
+			<Text>Luxury goods bring more tourists and improve revenues. Increases +2 [ICON_Tourism] Tourism in this city. Luxury Resources in this city gain +2 [ICON_Gold] Gold each. Can only be built once in a city, even if the city has multiple Neighborhoods.</Text>
+		</Row>
+		<!-- Uniques -->
+		<Row Tag="LOC_BUILDING_ORDU_UPGRADE_NAME">
+			<Text>Ordu Upgrade</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_ORDU_UPGRADE_DESCRIPTION">
+			<Text>A building upgrade unique to Mongolia. Grants +1 [ICON_GreatGeneral] Great General point and +2 [ICON_Production] Production from Pastures. May not be built in an Encampment district that already has a Barracks.</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_TSIKHE_UPGRADE_NAME">
+			<Text>Tsikhe Upgrade</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_TSIKHE_UPGRADE_DESCRIPTION">
+			<Text>A building upgrade unique to Georgia. It seems that your engineers outperformed themsels. This upgrade increases the strength of your outer defenses to the (really) highest possible level. Provides +1 [ICON_Housing] Housing, +1 [ICON_Amenities] Amenity and +1 [ICON_Faith] Faith.</Text>
+		</Row>
+	</BaseGameText>
+	
+<LocalizedText>
+	<!-- updates of vanilla building upgrades -->
+	<Replace Tag="LOC_BUILDING_PALACE_UPGRADE_DESCRIPTION" Language="en_US">
+		<Text>The improved Palace is finally worthy of its main resident - you! Increases [ICON_PressureUp]+1 Loyalty pressure in this city.</Text>
+	</Replace>
+	<Replace Tag="LOC_BUILDING_AMPHITHEATER_UPGRADE_DESCRIPTION" Language="en_US">
+		<Text>An upgraded Amphitheater is able to accommodate more spectators. Increases by +0.2 [ICON_Culture] Culture per [ICON_Citizen] Citizen in this city.</Text>
+	</Replace>
+	<Replace Tag="LOC_BUILDING_LIBRARY_UPGRADE_DESCRIPTION" Language="en_US">
+		<Text>An upgraded Library allows to store more clay plates, parchment scrolls, and books. Citizens are visiting it more often. Increases by +0.2 [ICON_Science] Science per [ICON_Citizen] Citizen in this city.</Text>
+	</Replace>
+	<Replace Tag="LOC_BUILDING_MADRASA_UPGRADE_DESCRIPTION" Language="en_US">
+		<Text>A building upgrade unique to Arabia. Recent renovation allows for the education of women. Increases by +0.3 [ICON_Science] Science per [ICON_Citizen] Citizen in this city.</Text>
+	</Replace>
+	<Replace Tag="LOC_BUILDING_UNIVERSITY_UPGRADE_DESCRIPTION" Language="en_US">
+		<Text>An upgraded University allows for researching non-technical sciences. Increases by +0.2 [ICON_Science] Science per [ICON_Citizen] Citizen in this city.</Text>
+	</Replace>
+	<Replace Tag="LOC_BUILDING_MARKET_UPGRADE_DESCRIPTION" Language="en_US">
+		<Text>An upgraded Market hosts more traders and shopkeepers. [ICON_Resource_Citrus] Citrus, [ICON_Resource_Cocoa] Cocoa, [ICON_Resource_Olives] Olives, [ICON_Resource_Spices] Spices, [ICON_Resource_Sugar] Sugar and [ICON_Resource_Tea] Tea resources gain +3 [ICON_Gold] Gold each.</Text>
+	</Replace>
+	<Replace Tag="LOC_BUILDING_LIGHTHOUSE_UPGRADE_DESCRIPTION" Language="en_US">
+		<Text>An upgraded Lighthouse allows Fishing Boats to sail further. Adds +1 [ICON_Food] Food to all Fishing Boats and Fisheries in this city.</Text>
+	</Replace>
+	<Replace Tag="LOC_BUILDING_SEAPORT_UPGRADE_DESCRIPTION" Language="en_US">
+		<Text>Recent upgrades in Seaport infrastructure increased its capacity allowing the City to grow. +1 [ICON_TradeRoute] Trade Route capacity. Bonus [ICON_Production] Production equal to the adjacency bonus of the Harbor district. +1 [ICON_Gold] Gold from all Fishing Boats and Fisheries in this city. Adds +3 [ICON_Production] Production to each Offshore Oil Rig in this city.</Text>
+	</Replace>
+	<!-- DLC: Poland -->
+	<Replace Tag="LOC_BUILDING_SUKIENNICE_UPGRADE_DESCRIPTION" Language="en_US">
+		<Text>A building upgrade unique to Poland. Grants an additional +1 [ICON_GreatMerchant] Great Merchant point per turn. [ICON_Resource_Citrus] Citrus, [ICON_Resource_Cocoa] Cocoa, [ICON_Resource_Olives] Olives, [ICON_Resource_Spices] Spices, [ICON_Resource_Sugar] Sugar and [ICON_Resource_Tea] Tea resources gain +3 [ICON_Gold] Gold each.</Text>
+	</Replace>
+</LocalizedText>
+	
+</GameData>

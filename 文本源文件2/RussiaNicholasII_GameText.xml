@@ -1,0 +1,222 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by Ed Beach (Firaxis Games) -->
+<GameData>
+	<LocalizedText>
+		<!--MOD-->
+		<Row Tag="LOC_MOD_JFD_RUSSIA_NICHOLAS_II_DESCRIPTION" Language="en_US">
+			<Text>------------------------------------[NEWLINE]LEADER -- NICHOLAS II[NEWLINE][NEWLINE]TRAIT - TRANS-SIBERIAN RAILWAY[NEWLINE]Build Industrial Zone districts 50% faster and train Military Engineers in half the time in cities with an Industrial Zone. May spend [ICON_FAITH] Faith to purchase Industrial Zone buildings.[NEWLINE][NEWLINE]TRAIT ([COLOR_LIGHTBLUE]RULE WITH FAITH[ENDCOLOR]) - BLOOD, VOWS, AND HONOUR[NEWLINE]Has an additional Religious Card slot in any Government and receives a [ICON_GOVERNOR] Governor Title with Civics that unlock a Government, beginning with Political Philosophy.[NEWLINE][NEWLINE]AGENDA - PASSION-BEARER[NEWLINE]Friendly to those civilizations that are ahead in [ICON_FAITH] Faith provided they share the same Religion. Dislikes impious civilizations that follow their Religion that are also lacking in [ICON_FAITH] Faith.</Text>
+		</Row>
+		<!--LEADER-->
+		<Row Tag="LOC_LEADER_JFD_NICHOLAS_II_NAME" Language="en_US">
+			<Text>Nicholas II</Text>
+		</Row>
+		<!--Agenda-->
+		<Row Tag="LOC_AGENDA_JFD_PASSION_BEARER_NAME" Language="en_US">
+			<Text>Passion Bearer</Text>
+		</Row>
+		<Row Tag="LOC_AGENDA_JFD_PASSION_BEARER_DESCRIPTION" Language="en_US">
+			<Text>Friendly to those civilizations that are ahead in [ICON_FAITH] Faith provided they share the same Religion. Dislikes impious civilizations that follow their Religion that are also lacking in [ICON_FAITH] Faith.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_KUDO_LEADER_JFD_NICHOLAS_II_REASON_LEADS_FAITH_AND_SAME_RELIGION" Language="en_US">
+			<Text>(You are strong in Faith and you share his Religion.)</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MODIFIER_AGENDA_JFD_PASSION_BEARER_LEADS_FAITH_AND_SAME_RELIGION" Language="en_US">
+			<Text>Nicholas II respects your dedication to your shared faith</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_LEADER_JFD_NICHOLAS_II_REASON_LAGS_FAITH_AND_SAME_RELIGION" Language="en_US">
+			<Text>(You are weak in Faith and you share his Religion.)</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MODIFIER_AGENDA_JFD_PASSION_BEARER_LAGS_FAITH_AND_SAME_RELIGION" Language="en_US">
+			<Text>Nicholas II is dismayed at your lacking virtue</Text>
+		</Row>
+		<!--DOM-->
+		<Row Tag="LOC_LOADING_INFO_LEADER_JFD_NICHOLAS_II" Language="en_US">
+			<Text>Nicholas II, Emperor of Russia, and noble passion bearer of Christ. Mother Russia lacks the spirit that once made it powerful and proud. Her people are without faith and direction. Take upon your shoulders this burdensome duty, and lead Mother Russia once more down the path of faith and industry.</Text>
+		</Row>
+		<!--Traits-->
+		<Row Tag="LOC_TRAIT_LEADER_JFD_TRANS_SIBERIAN_RAILWAY_NAME" Language="en_US">
+			<Text>Trans-Siberian Railway</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_LEADER_JFD_TRANS_SIBERIAN_RAILWAY_DESCRIPTION" Language="en_US">
+			<Text>Build Industrial Zone districts 50% faster and train Military Engineers in half the time in cities with an Industrial Zone. May spend [ICON_FAITH] Faith to purchase Industrial Zone buildings.</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_LEADER_JFD_BLOOD_VOWS_HONOUR_NAME" Language="en_US">
+			<Text>Blood, Vows, and Honour</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_LEADER_JFD_BLOOD_VOWS_HONOUR_DESCRIPTION" Language="en_US">
+			<Text>Has an additional Religious Card slot in any Government and receives a [ICON_GOVERNOR] Governor Title with Civics that unlock a Government, beginning with Political Philosophy.</Text>
+		</Row>
+		<!--Civilopedia-->
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_JFD_NICHOLAS_II_TITLE" Language="en_US">
+			<Text>Nicholas II</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_JFD_NICHOLAS_II_SUBTITLE" Language="en_US">
+			<Text>Emperor of Russia</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_JFD_NICHOLAS_II_QUOTE" Language="en_US">
+			<Text>Lord, save Russia and bring her peace.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_JFD_NICHOLAS_II_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>The future Nicholas II was born at Tsarskoe Selo in May 1868, the first child of the heir to the Russian throne, Alexander Alexandrovich, and his Danish-born wife, Maria Fedorovna. Nicholas was brought up in a warm and loving family environment and was educated by a succession of private tutors. He particularly enjoyed the study of history and proved adept at mastering foreign languages, but found it much more difficult to grasp the complexities of economics and politics. Greatly influenced by his father, who became emperor in 1881 as Alexander III, and by Konstantin Pobedonostsev, one of his teachers and a senior government official, Nicholas was deeply conservative, a strong believer in autocracy, and very religious. At the age of nineteen, he entered the army, and the military was to remain a passion throughout his life. After three years service in the army, Nicholas was sent on a ten-month tour of Europe and Asia to widen his experience of the world.[NEWLINE][NEWLINE]In 1894 Alexander III died and Nicholas became emperor. Despite his broad education, Nicholas felt profoundly unprepared for the responsibility that was thrust upon him and contemporaries remarked that he looked lost and bewildered. Within a month of his father's death, Nicholas married; he had become engaged to Princess Alix of Hesse in the spring of 1894 and his accession to the throne made marriage urgent. The new empress, known in Russia as Alexandra, played a crucial role in Nicholas's life. A serious and devoutly religious woman who believed fervently in the autocratic power of the Russian monarchy, she stiffened her husband's resolve at moments of indecision.[NEWLINE][NEWLINE]The couple had five children, Olga (b. 1895), Tatiana (b. 1897), Maria (b. 1899), Anastasia (b.1901), and Alexei (b. 1904). The birth of a son and heir in 1904 was the occasion for great rejoicing, but this was soon marred as it became clear that Alexei suffered from hemophilia. Their son's illness drew Nicholas and Alexandra closer together. The empress had an instinctive aversion to high society, and the imperial family spent most of their time at Tsarskoe Selo, only venturing into St. Petersburg on formal occasions.[NEWLINE][NEWLINE]While Nicholas's reign began with marriage and personal happiness, his coronation in 1896 was marked by disaster. Public celebrations were held at Khodynka on the outskirts of Moscow, but the huge crowds that had gathered there got out of hand and several thousand people were crushed to death. That night the newly crowned emperor and empress appeared at a ball, apparently oblivious to the catastrophe. The image of Nicholas II enjoying himself while many of his subjects lay dead gave his reign a sour start.
+			</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_JFD_NICHOLAS_II_CHAPTER_HISTORY_PARA_2" Language="en_US">
+			<Text>Nicholas followed his father's policies for much of his first decade as monarch, relying on the men who had advised Alexander III, especially Sergei Witte, the minister of finance and the architect of Russia's economic growth during the 1890s. Russian industry grew rapidly during the decade, aided by investment from abroad and particularly from France, assisted by a political alliance between the two countries signed during the last months of Alexander III's reign. Russia was also expanding in the Far East. The construction of the Trans-Siberian Railroad, linking European Russia with the empire's Pacific coast, had begun in 1891, and this resurgence of Russian interest in the region worried Japan. The twin developments of industrialization and Far Eastern expansion both came to a head early in the twentieth century. In 1904, Japan launched an attack on Russia. Nicholas II believed this was no more than "a bite from a flea," but his confidence in Russia's armed forces was misplaced. The Japanese inflicted a crushing and humiliating defeat on them, forcing the army to surrender Port Arthur in December 1904 and destroying the Russian fleet in the Battle of Tsushima in May 1905.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_JFD_NICHOLAS_II_CHAPTER_HISTORY_PARA_3" Language="en_US">
+			<Text>The emperor was stoical about Russia's military failure, but by the time peace negotiations began in the summer of 1905, the war with Japan was no longer the central problem. On January 9, 1905, a huge demonstration took place in St. Petersburg, calling for better working conditions, political changes, and a popular representative assembly. Although the demonstrators were peaceful, troops opened fire on them, killing more than a thousand people on what came to be known as "Bloody Sunday." This opened the floodgates of discontent. Workers throughout the Russian Empire went out on strike to show sympathy with their 1905 slain compatriots. As spring arrived, peasants across Russia voiced their discontent. There were more than three thousand instances of peasant unrest where troops were required to subdue villagers.[NEWLINE][NEWLINE]Nicholas II's reaction was confused. Believing that he had a God-given right to rule Russia and must pass his patrimony on unchanged to his heir, he tried to put down the revolts by force and resisted any attempt to erode his authority. But this tactic did not stem the surge of urban and rural discontent, and the fragility of the regime's position was brought home to him by the assassination of his uncle, the governor-general of Moscow, Grand Duke Sergei Alexandrovich, in February. Against his natural instincts, the emperor agreed to a series of concessions, culminating in October with the establishment of an elected legislature, the Duma. Nicholas resented this encroachment on his autocratic prerogatives and resentfully blamed it on Witte, the chief author of the October Manifesto. "There was no other way out," Nicholas wrote to his mother immediately afterwards "than to cross oneself and give what everyone was asking for." The emperor's character is shown in sharp focus by the events of 1905. Nicholas was a determined man who knew his own mind and had a clear sense of where his duty lay. But he was stubborn and very slow to recognize the need for change.[NEWLINE][NEWLINE]Nicholas found it difficult to accept that his powers had been limited, and he tried to act as though he were still an autocrat. He was encouraged in this by the government's ability to put down the rebellions across Russia. The appointment in April 1906 of a new minister of the interior, Peter Stolypin, marked the beginning of a policy of repression combined with reform. Elevated to prime minister in the summer of 1906 because of his success in quelling discontent, Stolypin recommended a wide range of reforms. Nicholas II, however, did not agree on the need for reform. Once an uneasy calm had been reestablished across the empire, he concluded that further change was unnecessary. Nicholas wanted to return to the pre-1905 situation and to continue to rule as an autocrat. The 1913 celebration of the tercentenary of the Romanov dynasty gave ample illustration of his view of the situation—he and the empress posed for photographs dressed in costumes styled to reflect their ancestors in the seventeenth century. Nicholas wanted to hark back to an earlier age and reclaim the power held by his forebears.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_JFD_NICHOLAS_II_CHAPTER_HISTORY_PARA_4" Language="en_US">
+			<Text>The test of World War I exposed Nicholas's weaknesses. The dismal performance of the Russian armies in the early stages of the war brought his sense of duty to the fore and he took direct charge of the army as commander-in-chief, although his ministers tried to dissuade him, arguing that he would now be personally blamed for any further military failures. Nicholas was, however, convinced that he should lead his troops at this critical moment, and after August 1915 he spent most of his time at headquarters away from Petrograd (as St. Petersburg had been renamed when the war began). This had important consequences for the government of the empire. The empress was one of the main conduits by which Nicholas learned what was happening in the capital, and in his absence she became increasingly reliant on Rasputin, a "holy man" who had gained the trust of the imperial family through the comfort he was able to offer the hemophiliac Alexei. The empress, already isolated from Petrograd society, grew even more distant during the war and was highly susceptible to Rasputin's influence. She wrote to Nicholas frequently at headquarters, giving him the views of "Our friend" (as she termed Rasputin) on ministerial appointments and other political matters. The emperor too was a lonely figure as the war progressed. He had alienated much of Russia's moderate political opinion even before 1914, and the regime's refusal to countenance any participation in government by these parties, even as the military situation worsened, had caused attitudes to harden on both sides. Wider popular opinion also turned against the emperor. Alexandra's German background gave rise to a widespread belief that she wanted a Russian defeat, and this, allied with increasingly extravagant rumors about Rasputin, served to discredit the imperial family.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_JFD_NICHOLAS_II_CHAPTER_HISTORY_PARA_5" Language="en_US">
+			<Text>When demonstrations and riots broke out in Petrograd at the end of February 1917, there was no segment of society that would support the monarchy. Nicholas was at headquarters at Mogilev, four hundred miles south of the capital, and his attempt to return to Petrograd by train was thwarted. Military commanders and politicians urged him to allow parliamentary rule, but even at this critical moment, Nicholas clung to his belief in his own autocracy. "I am responsible before God and Russia for everything that has happened and is happening," he told his generals. His failure to make immediate concessions cost Nicholas his throne. By the time he was willing to compromise, the situation in Petrograd had so deteriorated that abdication was the only acceptable solution. On March 2 he gave up the throne, in favor of his son. After medical advice that Alexei was unfit, he offered the throne to his brother, Mikhail. When he refused, the Romanov dynasty came to an end.[NEWLINE][NEWLINE]In the aftermath of the revolution, negotiations took place to enable Nicholas and his family to seek exile in Britain. These came to nothing because the British government feared a popular reaction if it offered shelter to the Russian emperor. Nicholas was placed under arrest by the new Provisional Government at Tsarskoe Selo, but in August 1917, he and his family were moved to the town of Tobolsk in the Urals, 1,200 miles east of Moscow. After the Bolshevik Revolution in October 1917, the position of the imperial family became much more precarious. The outbreak of the civil war raised the possibility that the emperor might be rescued by opponents of the Bolshevik government. At the end of April 1918, Nicholas II and his family were moved to Yekaterinburg, the center of Bolshevik power in the Ural region, and in mid-July orders came from Moscow to kill them. Early in the morning of July 17, they were all shot. Their bodies were thrown into a disused mine-shaft and remained there until after the collapse of the Soviet Union. In 1998, their remains were brought back to St. Petersburg and interred in the Peter-Paul fortress, the traditional burial place of Russia's imperial family.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_JFD_NICHOLAS_II_CHAPTER_CAPSULE_BODY" Language="en_US">
+			<Text>Nicholas' Russia is the spreading amoeba you don’t want next door. He is great at absorbing all the land, lads, and boyfriends around him!</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_JFD_NICHOLAS_II_CHAPTER_DETAILED_BODY" Language="en_US">
+			<Text>Russia's bonuses are ideal for taking over large swaths of territory on the ground. First because each city starts large, and second because Lavras gain extra tiles for their city when a Great Person is expended. Russia’s cities will quickly gain lots of tiles. Couple that with Nicholas' ladness, and you have a very powerful empire that can win any type of victory.</Text>
+		</Row>
+		<!--Diplomacy-->
+		<!--FIRST MEET-->
+		<!--First AI line-->
+		<Row Tag="LOC_DIPLO_FIRST_MEET_LEADER_JFD_NICHOLAS_II_ANY" Language="en_US">
+			<Text>I am Nicholas II, servant of God and of Russia. Please accept my humble welcome.</Text>
+		</Row>
+		<!--AI invitation to visit nearby City-->
+		<Row Tag="LOC_DIPLO_FIRST_MEET_VISIT_RECIPIENT_LEADER_JFD_NICHOLAS_II_ANY" Language="en_US">
+			<Text>Welcome. Please, join me at my nearby city.</Text>
+		</Row>
+		<!--AI accepts Human invitation-->
+		<Row Tag="LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_POSITIVE_LEADER_JFD_NICHOLAS_II_ANY" Language="en_US">
+			<Text>An agreeable invitation.</Text>
+		</Row>
+		<!--AI invitation to exchange Capital Information-->
+		<Row Tag="LOC_DIPLO_FIRST_MEET_NO_MANS_INFO_EXCHANGE_LEADER_JFD_NICHOLAS_II_ANY" Language="en_US">
+			<Text>I would like us to pursue a policy of peace, and believe that the first place to start is by sharing information about our capitals.</Text>
+		</Row>
+		<!--GREETINGS-->
+		<Row Tag="LOC_DIPLO_GREETING_LEADER_JFD_NICHOLAS_II_ANY" Language="en_US">
+			<Text>Welcome.</Text>
+		</Row>
+		<!--DELEGATION-->
+		<!--AI Accepts-->
+		<Row Tag="LOC_DIPLO_ACCEPT_DELEGATION_FROM_HUMAN_LEADER_JFD_NICHOLAS_II_ANY" Language="en_US">
+			<Text>It would please me to see your delegation.</Text>
+		</Row>
+		<!--AI Rejects-->
+		<Row Tag="LOC_DIPLO_REJECT_DELEGATION_FROM_HUMAN_LEADER_JFD_NICHOLAS_II_ANY" Language="en_US">
+			<Text>I would have nothing to say to your delegation.</Text>
+		</Row>
+		<!--AI Requests -->
+		<Row Tag="LOC_DIPLO_DELEGATION_FROM_AI_LEADER_JFD_NICHOLAS_II_ANY" Language="en_US">
+			<Text>A Russian delegation has been sent, bringing with him our finest vodka. Drink to your good health.</Text>
+		</Row>
+		<!--OPEN BORDERS-->
+		<!--AI accepts from human-->
+		<Row Tag="LOC_DIPLO_ACCEPT_OPEN_BORDERS_FROM_HUMAN_LEADER_JFD_NICHOLAS_II_ANY" Language="en_US">
+			<Text>Excellent terms.</Text>
+		</Row>
+		<!--AI rejects from human-->
+		<Row Tag="LOC_DIPLO_REJECT_OPEN_BORDERS_FROM_HUMAN_LEADER_JFD_NICHOLAS_II_ANY" Language="en_US">
+			<Text>Unfortunately, this is not agreeable.</Text>
+		</Row>
+		<!--AI requests from human-->
+		<Row Tag="LOC_DIPLO_OPEN_BORDERS_FROM_AI_LEADER_JFD_NICHOLAS_II_ANY" Language="en_US">
+			<Text>Closed borders breeds only suspicion. Let us open our two lands to one another</Text>
+		</Row>
+		<!--DECLARE FRIENDSHIP-->
+		<!--AI accepts from human-->
+		<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_HUMAN_LEADER_JFD_NICHOLAS_II_ANY" Language="en_US">
+			<Text>You do me an honour. I will of course accept.</Text>
+		</Row>
+		<!--AI Rejects from human -->
+		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_HUMAN_LEADER_JFD_NICHOLAS_II_ANY" Language="en_US">
+			<Text>No. I believe you would only bring shame to my name.</Text>
+		</Row>
+		<!--AI Requests friendship from human-->
+		<Row Tag="LOC_DIPLO_DECLARE_FRIEND_FROM_AI_LEADER_JFD_NICHOLAS_II_ANY" Language="en_US">
+			<Text>Will you join me in a declaration of friendship?</Text>
+		</Row>
+		<!--Human accepts AI requests, AI responds-->
+		<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_JFD_NICHOLAS_II_ANY" Language="en_US">
+			<Text>I am indebted to you for this kindness.</Text>
+		</Row>
+		<!--Human rejects AI requests, AI responds-->
+		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_JFD_NICHOLAS_II_ANY" Language="en_US">
+			<Text>I regret that we cannot find common terms.</Text>
+		</Row>
+		<!--ALLIANCE-->
+		<!--AI Requests an alliance from human-->
+		<Row Tag="LOC_DIPLO_MAKE_ALLIANCE_FROM_AI_LEADER_JFD_NICHOLAS_II_ANY" Language="en_US">
+			<Text>I believe it is in our best interests to form an alliance together. What do you say?</Text>
+		</Row>
+		<!--KUDOS & WARNINGS-->
+		<!--AI Kudos-->
+		<Row Tag="LOC_DIPLO_KUDO_EXIT_LEADER_JFD_NICHOLAS_II_ANY" Language="en_US">
+			<Text>Your faith is a model for other leaders.</Text>
+		</Row>
+		<!--AI Warnings-->
+		<Row Tag="LOC_DIPLO_WARNING_EXIT_LEADER_JFD_NICHOLAS_II_ANY" Language="en_US">
+			<Text>You shame God with your lack of faith.</Text>
+		</Row>
+		<!--AI warns player for border troops-->
+		<Row Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_LEADER_JFD_NICHOLAS_II_ANY" Language="en_US">
+			<Text>I will not tolerate an incursion upon Russian lands. Remove your troops or face the consequences.</Text>
+		</Row>
+		<!--TRADE-->
+		<!--AI Accepts Deal-->
+		<Row Tag="LOC_DIPLO_ACCEPT_MAKE_DEAL_FROM_AI_LEADER_JFD_NICHOLAS_II_ANY" Language="en_US">
+			<Text>{LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_JFD_NICHOLAS_II_ANY}</Text>
+		</Row>
+		<!--AI Rejects Deal-->
+		<Row Tag="LOC_DIPLO_REJECT_MAKE_DEAL_FROM_AI_LEADER_JFD_NICHOLAS_II_ANY" Language="en_US">
+			<Text>{LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_JFD_NICHOLAS_II_ANY}</Text>
+		</Row>
+		<!--DENOUNCE-->
+		<!--From Human-->
+		<Row Tag="LOC_DIPLO_DENOUNCE_FROM_HUMAN_LEADER_JFD_NICHOLAS_II_ANY" Language="en_US">
+			<Text>May God be your judge.</Text>
+		</Row>
+		<!--From AI-->
+		<Row Tag="LOC_DIPLO_DENOUNCE_FROM_AI_LEADER_JFD_NICHOLAS_II_ANY" Language="en_US">
+			<Text>You are not to be trusted, and the rest of the world must be told. (Denounces You)</Text>
+		</Row>
+		<!--Rationale-->
+		<Row Tag="LOC_DIPLO_DENOUNCE_REASON_FROM_AI_LEADER_ANY_REASON_JFD_PASSION_BEARER_LAGS_FAITH_AND_SAME_RELIGION" Language="en_US">
+			<Text>(You have low Faith.)</Text>
+		</Row>
+		<!--DECLARE WAR-->
+		<!--Human Declares War-->
+		<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_HUMAN_LEADER_JFD_NICHOLAS_II_ANY" Language="en_US">
+			<Text>God watches over me. Russia will triumph against you.</Text>
+		</Row>
+		<!--AI Declares War-->
+		<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_JFD_NICHOLAS_II_ANY" Language="en_US">
+			<Text>It is perhaps not the best time for war, but a duty to God compels me to march forward.</Text>
+		</Row>
+		<!--MAKE PEACE-->
+		<!--AI accepts from human-->
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_AI_ACCEPT_DEAL_LEADER_JFD_NICHOLAS_II_ANY" Language="en_US">
+			<Text>This has always been the preferred outcome.</Text>
+		</Row>
+		<!--AI refuses human-->
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_AI_REFUSE_DEAL_LEADER_JFD_NICHOLAS_II_ANY" Language="en_US">
+			<Text>I will not shirk my duties.</Text>
+		</Row>
+		<!--AI requests from human-->
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_FROM_AI_LEADER_JFD_NICHOLAS_II_ANY" Language="en_US">
+			<Text>I believe that peace is now the best course of action.</Text>
+		</Row>
+		<!--DEFEAT-->
+		<!--AI is Defeated-->
+		<Row Tag="LOC_DIPLO_DEFEAT_FROM_AI_LEADER_JFD_NICHOLAS_II_ANY" Language="en_US">
+			<Text>God has seen fit to shame me.</Text>
+		</Row>
+		<!--Human is Defeated (will see this in hotseat)-->
+		<Row Tag="LOC_DIPLO_DEFEAT_FROM_HUMAN_LEADER_JFD_NICHOLAS_II_ANY" Language="en_US">
+			<Text>[LOC_DIPLO_DEFEAT_FROM_AI_LEADER_JFD_NICHOLAS_II_ANY]</Text>
+		</Row>
+	</LocalizedText>
+</GameData>

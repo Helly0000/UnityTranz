@@ -1,0 +1,272 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by Ed Beach (Firaxis Games) -->
+<GameData>
+	<LocalizedText>
+		<Row Tag="LOC_LEADER_MER_ENRICO_NAME" Language="en_US">
+			<Text>Enrico Dandolo</Text>
+		</Row>
+		<!--Traits-->
+		<Row Tag="LOC_TRAIT_LEADER_MER_ENRICO_NAME" Language="en_US">
+			<Text>Horses of Saint Mark</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_LEADER_MER_ENRICO_DESCRIPTION" Language="en_US">
+			<Text>Capturing a City grants [ICON_Gold] Gold and [ICON_Culture] Culture per [ICON_GreatWork_Sculpture] Great Work of Art and [ICON_GreatWork_Relic] Relic present in the city. Naval Units receive a +5 [ICON_Strength] Combat Strength bonus against district defenses.</Text>
+		</Row>
+		<Row Tag="LOC_MODIFIER_MER_ENRICO_NAVAL_BOMBARDMENT_DESC" Language="en_US">
+			<Text>+5 [ICON_Strength] Combat Strength bonus against district defenses (from Enrico Dandolo).</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_CIVILIZATION_MER_STATO_DA_MAR_NAME" Language="en_US">
+			<Text>Stato da Màr</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_CIVILIZATION_MER_STATO_DA_MAR_DESCRIPTION" Language="en_US">
+			<Text>For each other city with at least 3 specialty districts, your [ICON_Capital] capital can construct an additional District and you receive +1 [ICON_TradeRoute] Trade Route Capacity. Your Capital receives +1 [ICON_Housing] Housing for each District present. Canals are unlocked at Buttress instead of Steam Power.</Text>
+		</Row> 
+		<Row Tag="LOC_TRAIT_CIVILIZATION_UNIT_MER_GALLEASS_NAME" Language="en_US">
+			<Text>Galeazza</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_CIVILIZATION_UNIT_MER_GALLEASS_DESCRIPTION" Language="en_US">
+			<Text>A unique naval unit</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_MER_GALLEASS_NAME" Language="en_US">
+			<Text>Galeazza</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_MER_GALLEASS_DESCRIPTION" Language="en_US">
+			<Text>Unique Venetian naval siege unit, capable of bombard damage. 30 [ICON_Strength] Melee Strength, 40 [ICON_Ranged] Bombard Strength. </Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_CIVILIZATION_DISTRICT_MER_CANAL_NAME" Language="en_US">
+			<Text>Fondaco</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_CIVILIZATION_DISTRICT_MER_CANAL_DESCRIPTION" Language="en_US">
+			<Text>A unique district</Text>
+		</Row>
+		<Row Tag="LOC_DISTRICT_MER_CANAL_NAME" Language="en_US">
+			<Text>Fondaco</Text>
+		</Row>
+		<Row Tag="LOC_DISTRICT_MER_CANAL_DESCRIPTION" Language="en_US">
+			<Text>Must be built on coast. Receives a major (+2) [ICON_Gold] Gold adjacency bonus from City Centers and Canals, and a minor (+0.5) [ICON_Gold] Gold adjacency bonus from districts. Yields [ICON_Production] Production equal to it's adjacency bonus when an established [ICON_Governor] Governor is present in its city. +4 [ICON_Housing] Housing. +1 [ICON_GreatMerchant] Great Merchant and +1 [ICON_GreatAdmiral] Great Admiral points per turn. +1 [ICON_Gold] Gold from Domestic [ICON_TradeRoute] Trade Routes sent to this city.</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_MER_VENICE_NAME" Language="en_US">
+			<Text>Venice</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_MER_VENICE_DESCRIPTION" Language="en_US">
+			<Text>Venetian Empire</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_MER_VENICE_DESCRIPTION_JFD_CIVILIZATION" Language="en_US">
+			<Text>Venetian Civilization</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_MER_VENICE_ADJECTIVE"	  Language="en_US">
+			<Text>Venetian</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_MER_VENICE_1" Language="en_US">
+			<Text>Venice</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_MER_VENICE_2" Language="en_US">
+			<Text>Verona</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_MER_VENICE_3" Language="en_US">
+			<Text>Belluno</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_MER_VENICE_4" Language="en_US">
+			<Text>Padua</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_MER_VENICE_5" Language="en_US">
+			<Text>Rovigo</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_MER_VENICE_6" Language="en_US">
+			<Text>Vicenza</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_MER_VENICE_7" Language="en_US">
+			<Text>Treviso</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_MER_VENICE_8" Language="en_US">
+			<Text>Schio</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_MER_VENICE_9" Language="en_US">
+			<Text>Bassano</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_MER_VENICE_10" Language="en_US">
+			<Text>San Donà</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_MER_VENICE_11" Language="en_US">
+			<Text>Parenzo</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_MER_VENICE_12" Language="en_US">
+			<Text>Chioggia</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_MER_VENICE_13" Language="en_US">
+			<Text>Casteło</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_MER_VENICE_14" Language="en_US">
+			<Text>Villafranca</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_MER_VENICE_15" Language="en_US">
+			<Text>Montebelluna</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_MER_VENICE_16" Language="en_US">
+			<Text>Vittorio Veneto</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_MER_VENICE_17" Language="en_US">
+			<Text>Parenzo</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_MER_VENICE_18" Language="en_US">
+			<Text>Umago</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_MER_VENICE_19" Language="en_US">
+			<Text>Cittanova</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_MER_VENICE_20" Language="en_US">
+			<Text>San Lorenzo del Pasenatico</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_MER_VENICE_21" Language="en_US">
+			<Text>Montona</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_MER_VENICE_22" Language="en_US">
+			<Text>Pirano</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_MER_VENICE_23" Language="en_US">
+			<Text>Rovigno</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_MER_VENICE_24" Language="en_US">
+			<Text>Sebenico</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_MER_VENICE_25" Language="en_US">
+			<Text>Cattaro</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_MER_VENICE_26" Language="en_US">
+			<Text>Perasto</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_MER_VENICE_27" Language="en_US">
+			<Text>Budua</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_MER_VENICE_28" Language="en_US">
+			<Text>Corfù</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_MER_VENICE_29" Language="en_US">
+			<Text>Passo</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_MER_VENICE_30" Language="en_US">
+			<Text>Santa Maura</Text>
+		</Row>
+		<!--Citizens-->
+		<Row Tag="LOC_CITIZEN_MER_VENICE_MALE_1" Language="en_US">
+			<Text>Adelchi</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_MER_VENICE_MALE_2" Language="en_US">
+			<Text>Sviturno</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_MER_VENICE_MALE_3" Language="en_US">
+			<Text>Verecondo</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_MER_VENICE_MALE_4" Language="en_US">
+			<Text>Cristiano</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_MER_VENICE_MALE_5" Language="en_US">
+			<Text>Bartolo</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_MER_VENICE_MALE_6" Language="en_US">
+			<Text>Gianmario</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_MER_VENICE_MALE_7" Language="en_US">
+			<Text>Abenzio</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_MER_VENICE_MALE_8" Language="en_US">
+			<Text>Cassio</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_MER_VENICE_MALE_9" Language="en_US">
+			<Text>Monitore</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_MER_VENICE_MALE_10" Language="en_US">
+			<Text>Araldo</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_MER_VENICE_MODERN_MALE_1" Language="en_US">
+			<Text>Baldo</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_MER_VENICE_MODERN_MALE_2" Language="en_US">
+			<Text>Settimo</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_MER_VENICE_MODERN_MALE_3" Language="en_US">
+			<Text>Sireno</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_MER_VENICE_MODERN_MALE_4" Language="en_US">
+			<Text>Icilio</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_MER_VENICE_MODERN_MALE_5" Language="en_US">
+			<Text>Colombano</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_MER_VENICE_MODERN_MALE_6" Language="en_US">
+			<Text>Ursicio</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_MER_VENICE_MODERN_MALE_7" Language="en_US">
+			<Text>Alano</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_MER_VENICE_MODERN_MALE_8" Language="en_US">
+			<Text>Fosco</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_MER_VENICE_MODERN_MALE_9" Language="en_US">
+			<Text>Petronio</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_MER_VENICE_MODERN_MALE_10" Language="en_US">
+			<Text>Doroteo</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_MER_VENICE_FEMALE_1" Language="en_US">
+			<Text>Nina</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_MER_VENICE_FEMALE_2" Language="en_US">
+			<Text>Atanasia</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_MER_VENICE_FEMALE_3" Language="en_US">
+			<Text>Odilia</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_MER_VENICE_FEMALE_4" Language="en_US">
+			<Text>Irene</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_MER_VENICE_FEMALE_5" Language="en_US">
+			<Text>Calogera</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_MER_VENICE_FEMALE_6" Language="en_US">
+			<Text>Elisa</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_MER_VENICE_FEMALE_7" Language="en_US">
+			<Text>Silvana</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_MER_VENICE_FEMALE_8" Language="en_US">
+			<Text>Michela</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_MER_VENICE_FEMALE_9" Language="en_US">
+			<Text>Grazia</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_MER_VENICE_FEMALE_10" Language="en_US">
+			<Text>Amelia</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_MER_VENICE_MODERN_FEMALE_1" Language="en_US">
+			<Text>Fabiola</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_MER_VENICE_MODERN_FEMALE_2" Language="en_US">
+			<Text>Sabrina</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_MER_VENICE_MODERN_FEMALE_3" Language="en_US">
+			<Text>Raffaella</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_MER_VENICE_MODERN_FEMALE_4" Language="en_US">
+			<Text>Marina</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_MER_VENICE_MODERN_FEMALE_5" Language="en_US">
+			<Text>Ortensia </Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_MER_VENICE_MODERN_FEMALE_6" Language="en_US">
+			<Text>Rosalia</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_MER_VENICE_MODERN_FEMALE_7" Language="en_US">
+			<Text>Isabella</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_MER_VENICE_MODERN_FEMALE_8" Language="en_US">
+			<Text>Nicla</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_MER_VENICE_MODERN_FEMALE_9" Language="en_US">
+			<Text>Alina</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_MER_VENICE_MODERN_FEMALE_10" Language="en_US">
+			<Text>Alda</Text>
+		</Row>
+	</LocalizedText>
+</GameData>

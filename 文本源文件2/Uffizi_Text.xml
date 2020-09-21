@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<EnglishText>
+		<Row Tag="LOC_BUILDING_UFFIZI_NAME">
+			<Text>Uffizi</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_UFFIZI_DESCRIPTION">
+			<Text>1 free Great Artist appears near the city where the wonder was built. Contains 3 slots for Great Works of Art. Any City with Art Museum yields + 1 Culture. It must be built on flat Grassland or Plains next to a City Centre. Requires Bank Building.</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_UFFIZI_QUOTE">
+			<Text>"All those things have given me the greatest satisfaction and contentment because they are not only for the honor of God but are likewise for my own remembrance."[NEWLINE] – Cosimo de Medici</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_WONDERS_PAGE_BUILDING_UFFIZI_CHAPTER_HISTORY_PARA_1">
+			<Text>Originally constructed from 1560 through 1581 AD as offices (in Italian, uffizi) for the Florentine magistrates, the Uffizi Gallery is one of the world's oldest and most famous art repositories, housing the finest collection of Italian Renaissance paintings anywhere. It is also now home to priceless antiques, sculptures, and more than 100,000 drawings and prints. In 1574, the unfinished top floor was converted into a repository for art treasures amassed by the ruling de Medici family. Over the following decades, other portions of the structure were refurbished as art galleries and storage areas. According to Vasari, artists such as da Vinci and Michelangelo gathered at the Uffizi "for beauty, for work and for recreation."</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_WONDERS_PAGE_BUILDING_UFFIZI_CHAPTER_HISTORY_PARA_2">
+			<Text></Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_WONDERS_PAGE_BUILDING_UFFIZI_CHAPTER_HISTORY_PARA_3">
+			<Text></Text>
+		</Row>
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_CWON_BOTTICELLI_NAME">
+			<Text>Sandro Botticelli</Text>
+		</Row>
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_CWON_RAPHAEL_NAME">
+			<Text>Raphael</Text>
+		</Row>
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_CWON_CARAVAGGIO_NAME">
+			<Text>Caravaggio</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_CWON_RAPHAEL_CHAPTER_HISTORY_PARA_1">
+			<Text>Raffaello Sanzio da Urbino  (1483 – April 6, 1520), known as Raphael, was an Italian painter and architect of the High Renaissance. His work is admired for its clarity of form, ease of composition, and visual achievement of the Neoplatonic ideal of human grandeur. Together with Michelangelo and Leonardo da Vinci, he forms the traditional trinity of great masters of that period.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_CWON_RAPHAEL_CHAPTER_HISTORY_PARA_2">
+			<Text>Raphael was enormously productive, running an unusually large workshop and, despite his death at 37, leaving a large body of work. Many of his works are found in the Vatican Palace, where the frescoed Raphael Rooms were the central, and the largest, work of his career. The best known work is The School of Athens in the Vatican Stanza della Segnatura. After his early years in Rome, much of his work was executed by his workshop from his drawings, with considerable loss of quality. He was extremely influential in his lifetime, though outside Rome his work was mostly known from his collaborative printmaking.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_CWON_RAPHAEL_CHAPTER_HISTORY_PARA_3">
+			<Text>After his death, the influence of his great rival Michelangelo was more widespread until the 18th and 19th centuries, when Raphael's more serene and harmonious qualities were again regarded as the highest models. His career falls naturally into three phases and three styles, first described by Giorgio Vasari: his early years in Umbria, then a period of about four years (1504–1508) absorbing the artistic traditions of Florence, followed by his last hectic and triumphant twelve years in Rome, working for two Popes and their close associates.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_CWON_BOTTICELLI_CHAPTER_HISTORY_PARA_1">
+			<Text>Alessandro di Mariano di Vanni Filipepi (c.1445 – May 17, 1510), known as Sandro Botticelli , was an Italian painter of the Early Renaissance. He belonged to the Florentine School under the patronage of Lorenzo de' Medici, a movement that Giorgio Vasari would characterize less than a hundred years later in his Vita of Botticelli as a "golden age". Botticelli's posthumous reputation suffered until the late 19th century; since then, his work has been seen to represent the linear grace of Early Renaissance painting.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_CWON_BOTTICELLI_CHAPTER_HISTORY_PARA_2">
+			<Text>As well as the small number of mythological subjects which are his best known works today, he painted a wide range of religious subjects and also some portraits. He and his workshop were especially known for their Madonna and Childs, many in the round tondo shape. Botticelli's best-known works are The Birth of Venus and Primavera, both in the Uffizi in Florence. He lived all his life in the same neighbourhood of Florence, with probably his only significant time elsewhere the months he spent painting in Pisa in 1474 and the Sistine Chapel in Rome in 1481–82.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_CWON_BOTTICELLI_CHAPTER_HISTORY_PARA_3">
+			<Text>Only one of his paintings is dated, though others can be dated from other records with varying degrees of certainty, and the development of his style traced with confidence. He was an independent master for all the 1470s, growing in mastery and reputation, and the 1480s were his most successful decade, when all his large mythological paintings were done, and many of his best Madonnas. By the 1490s his style became more personal and to some extent mannered, and he could be seen as moving in a direction opposite to that of Leonardo da Vinci (seven years his junior) and a new generation of painters creating the High Renaissance style as Botticelli returned in some ways to the Gothic style.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_CWON_CARAVAGGIO_CHAPTER_HISTORY_PARA_1">
+			<Text>Michelangelo Merisi da Caravaggio (28 September 1571 – 18 July 1610) was an Italian painter active in Rome, Naples, Malta, and Sicily from the early 1590s to 1610. His paintings combine a realistic observation of the human state, both physical and emotional, with a dramatic use of lighting, which had a formative influence on Baroque painting.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_CWON_CARAVAGGIO_CHAPTER_HISTORY_PARA_2">
+			<Text>Caravaggio employed close physical observation with a dramatic use of chiaroscuro that came to be known as tenebrism. He made the technique a dominant stylistic element, darkening shadows and transfixing subjects in bright shafts of light. Caravaggio vividly expressed crucial moments and scenes, often featuring violent struggles, torture and death. He worked rapidly, with live models, preferring to forgo drawings and work directly onto the canvas. His influence on the new Baroque style that emerged from Mannerism was profound. It can be seen directly or indirectly in the work of Peter Paul Rubens, Jusepe de Ribera, Gian Lorenzo Bernini, and Rembrandt, and artists in the following generation heavily under his influence were called the "Caravaggisti" or "Caravagesques", as well as tenebrists or tenebrosi ("shadowists").</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_CWON_CARAVAGGIO_CHAPTER_HISTORY_PARA_3">
+			<Text>Caravaggio trained as a painter in Milan before moving in his twenties to Rome. He developed a considerable name as an artist, and as a violent, touchy and provocative man. A brawl led to a death sentence for murder and forced him to flee to Naples. There he again established himself as one of the most prominent Italian painters of his generation. He traveled in 1607 to Malta and on to Sicily, and pursued a papal pardon for his sentence. In 1609 he returned to Naples, where he was involved in a violent clash; his face was disfigured and rumours of his death circulated. Questions about his mental state arose from his erratic and bizarre behavior. He died in 1610 under uncertain circumstances while on his way from Naples to Rome. Reports stated that he died of a fever, but suggestions have been made that he was murdered or that he died of lead poisoning.</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_CWON_RAPHAEL_1_NAME">
+			<Text>Sistine Madonna</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_CWON_RAPHAEL_2_NAME">
+			<Text>The Transfiguration</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_CWON_RAPHAEL_3_NAME">
+			<Text>La Donna Velata</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_CWON_BOTTICELLI_1_NAME">
+			<Text>The Birth of Venus</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_CWON_BOTTICELLI_2_NAME">
+			<Text>The Adoration of the Magi</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_CWON_BOTTICELLI_3_NAME">
+			<Text>Primavera</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_CWON_CARAVAGGIO_1_NAME">
+			<Text>Supper at Emmaus</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_CWON_CARAVAGGIO_2_NAME">
+			<Text>Medusa</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_CWON_CARAVAGGIO_3_NAME">
+			<Text>The Incredulity of Saint Thomas</Text>
+		</Row>
+	</EnglishText>
+</GameData>

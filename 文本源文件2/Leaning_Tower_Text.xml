@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<GameData>
+	<LocalizedText>
+		<Row Tag="LOC_BUILDING_LEANING_TOWER_NAME" Language="en_US">
+			<Text>Leaning Tower of Pisa</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_LEANING_TOWER_DESCRIPTION" Language="en_US">
+			<Text>Harbors receive +1.5 Gold from each adjacent District. +25% combat experience for all Naval units trained in this city. +100% Tourism pressure from this city towards other civilizations starting from the Modern Era. Requires Harbor and must be built next to City Center.</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_LEANING_TOWER_QUOTE" Language="en_US">
+			<Text>"Nature is relentless and unchangeable, and it is indifferent as to whether its hidden reasons and actions are understandable to man or not."[NEWLINE]- Galileo Galilei</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_WONDERS_PAGE_BUILDING_LEANING_TOWER_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>The Leaning Tower of Pisa is the campanile, or freestanding bell tower, of the cathedral of the Italian city of Pisa, known worldwide for its nearly four-degree lean, the result of an unstable foundation. The tower is situated behind the Pisa Cathedral and is the third-oldest structure in the city's Cathedral Square (Piazza del Duomo), after the cathedral and the Pisa Baptistry.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_WONDERS_PAGE_BUILDING_LEANING_TOWER_CHAPTER_HISTORY_PARA_2" Language="en_US">
+			<Text>The tower's tilt began during construction in the 12th century, due to soft ground on one side, which was unable to properly support the structure's weight. The tilt increased in the decades before the structure was completed in the 14th century. It gradually increased until the structure was stabilized (and the tilt partially corrected) by efforts in the late 20th and early 21st centuries.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_WONDERS_PAGE_BUILDING_LEANING_TOWER_CHAPTER_HISTORY_PARA_3" Language="en_US">
+			<Text>The height of the tower is 55.86 metres (183.27 feet) from the ground on the low side and 56.67 metres (185.93 feet) on the high side. The width of the walls at the base is 2.44 m (8 ft 0.06 in). Its weight is estimated at 14,500 metric tons (16,000 short tons). The tower has 296 or 294 steps; the seventh floor has two fewer steps on the north-facing staircase. In 1990 the tower leaned at an angle of 5.5 degrees, but following remedial work between 1993 and 2001 this was reduced to 3.97 degrees, reducing the overhang by 45 cm at a cost of £200m. It lost a further 4 cm of tilt in the two decades to 2018.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_WONDERS_PAGE_BUILDING_LEANING_TOWER_CHAPTER_HISTORY_PARA_4" Language="en_US">
+			<Text></Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_LEANING_TOWER_HARBOR_DISTRICT_GOLD" Language="en_US">
+			<Text>+{1_num} [ICON_Gold] Gold from the adjacent {1_Num : plural 1?district; other?districts;} (Leaning Tower of Pisa).</Text>
+		</Row>
+	</LocalizedText>
+</GameData>

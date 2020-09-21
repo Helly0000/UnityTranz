@@ -1,0 +1,373 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<LocalizedText>
+		<!-- Leader Dialog -->
+		<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_HUMAN_LEADER_YNL_KING_HASSAN_ANY" Language="en_US">
+			<Text>We are pleased to accept your offer of friendship.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_HUMAN_LEADER_YNL_KING_HASSAN_ANY" Language="en_US">
+			<Text>We are not interested at this time.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DECLARE_FRIEND_FROM_AI_LEADER_YNL_KING_HASSAN_ANY" Language="en_US">
+			<Text>Would you like to formally declare our friendship?</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_YNL_KING_HASSAN_ANY" Language="en_US">
+			<Text>Wonderful.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_YNL_KING_HASSAN_ANY" Language="en_US">
+			<Text>That is unfortunate.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_HUMAN_LEADER_YNL_KING_HASSAN_ANY" Language="en_US">
+			<Text>Blood is spattered, the night to come withers... Now, die!</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_YNL_KING_HASSAN_ANY" Language="en_US">
+			<Text>Hearken. The knell hath tolled thy name.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DEFEAT_FROM_AI_LEADER_YNL_KING_HASSAN_ANY" Language="en_US">
+			<Text>My original form is that of a corpse. It is merely returning to the earth.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DEFEAT_FROM_HUMAN_LEADER_YNL_KING_HASSAN_ANY" Language="en_US">
+			<Text>My original form is that of a corpse. It is merely returning to the earth. </Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_DELEGATION_FROM_HUMAN_LEADER_YNL_KING_HASSAN_ANY" Language="en_US">
+			<Text>We are happy to welcome your delegation to our capital.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_DELEGATION_FROM_HUMAN_LEADER_YNL_KING_HASSAN_ANY" Language="en_US">
+			<Text>We politely refuse your delegation.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DELEGATION_FROM_AI_LEADER_YNL_KING_HASSAN_ANY" Language="en_US">
+			<Text>Will you receive our diplomatic delegation in your capital?</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_DELEGATION_FROM_AI_LEADER_YNL_KING_HASSAN_ANY" Language="en_US">
+			<Text>Excellent!</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_DELEGATION_FROM_AI_LEADER_YNL_KING_HASSAN_ANY" Language="en_US">
+			<Text>That is too bad, perhaps at a later date.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DENOUNCE_FROM_HUMAN_LEADER_YNL_KING_HASSAN_ANY" Language="en_US">
+			<Text>There is no greater sin than to defy the anointed servant of the Lord. You will pay dearly for this.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DENOUNCE_FROM_AI_LEADER_YNL_KING_HASSAN_ANY" Language="en_US">
+			<Text>You are another Judas, come to betray the Lord. (Denounces You).</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_EMBASSY_FROM_HUMAN_LEADER_YNL_KING_HASSAN_ANY" Language="en_US">
+			<Text>We are happy to allow you to construct an embassy in our capital.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_EMBASSY_FROM_HUMAN_LEADER_YNL_KING_HASSAN_ANY" Language="en_US">
+			<Text>We are not interested at this time.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_EMBASSY_FROM_AI_LEADER_YNL_KING_HASSAN_ANY" Language="en_US">
+			<Text>Will you allow us to establish an embassy in your capital?</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_EMBASSY_FROM_AI_LEADER_YNL_KING_HASSAN_ANY" Language="en_US">
+			<Text>Oh happy day!</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_EMBASSY_FROM_AI_LEADER_YNL_KING_HASSAN_ANY" Language="en_US">
+			<Text>Disappointing.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_LEADER_YNL_KING_HASSAN_ANY" Language="en_US">
+			<Text>I am the Hassan amongst Hassans! I have no name. A name that is easy on the tongue would be good.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_VISIT_RECIPIENT_LEADER_YNL_KING_HASSAN_ANY" Language="en_US">
+			<Text>We have a city nearby. Would you like to visit? You could attend our upcoming celebration.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_POSITIVE_LEADER_YNL_KING_HASSAN_ANY" Language="en_US">
+			<Text>By all means.  It will be a pleasure to see your growing city up close.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_NO_MANS_INFO_EXCHANGE_LEADER_YNL_KING_HASSAN_ANY" Language="en_US">
+			<Text>Neither of us hails from nearby, but perhaps we should mark our homelands on each other's maps?</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_GREETING_LEADER_YNL_KING_HASSAN_ANY" Language="en_US">
+			<Text>What do you wish of me?</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_KUDO_EXIT_LEADER_YNL_KING_HASSAN_ANY" Language="en_US">
+			<Text>Thy person seems credible. Thine heart is particularly outstanding. A strength of spirit that is unshaken by anything, that is something we all need.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_EXIT_LEADER_YNL_KING_HASSAN_ANY" Language="en_US">
+			<Text>I hear the tolling of the bell. An especially heavy head hath appeared today.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_MAKE_ALLIANCE_FROM_HUMAN_LEADER_YNL_KING_HASSAN_ANY" Language="en_US">
+			<Text>We are pleased to accept your offer of an alliance.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_MAKE_ALLIANCE_FROM_HUMAN_LEADER_YNL_KING_HASSAN_ANY" Language="en_US">
+			<Text>We are not interested at this time.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_ALLIANCE_FROM_AI_LEADER_YNL_KING_HASSAN_ANY" Language="en_US">
+			<Text>Would you like to form an alliance?</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_MAKE_ALLIANCE_FROM_AI_LEADER_YNL_KING_HASSAN_ANY" Language="en_US">
+			<Text>Wonderful.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_MAKE_ALLIANCE_FROM_AI_LEADER_YNL_KING_HASSAN_ANY" Language="en_US">
+			<Text>That is unfortunate.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_DEAL_AI_ACCEPT_DEAL_LEADER_YNL_KING_HASSAN_ANY" Language="en_US">
+			<Text>Yes, I am happy to accept this deal.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_DEAL_AI_REFUSE_DEAL_LEADER_YNL_KING_HASSAN_ANY" Language="en_US">
+			<Text>I cannot accept this deal.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_MAKE_DEAL_FROM_AI_LEADER_YNL_KING_HASSAN_ANY" Language="en_US">
+			<Text>Thank you. I think this will benefit each of us.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_MAKE_DEAL_FROM_AI_LEADER_YNL_KING_HASSAN_ANY" Language="en_US">
+			<Text>I must say, I'm a bit disappointed.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_DEAL_AI_ADJUST_DEAL_LEADER_YNL_KING_HASSAN_ANY" Language="en_US">
+			<Text>This deal is more to my liking.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_AI_REFUSE_DEMAND_LEADER_YNL_KING_HASSAN_ANY" Language="en_US">
+			<Text>Making demands will get you nowhere.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_AI_ACCEPT_DEMAND_LEADER_YNL_KING_HASSAN_ANY" Language="en_US">
+			<Text>I will comply.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_HUMAN_ACCEPT_DEMAND_FROM_AI_LEADER_YNL_KING_HASSAN_ANY" Language="en_US">
+			<Text>You are wise in accepting my demands.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_HUMAN_REFUSE_DEMAND_FROM_AI_LEADER_YNL_KING_HASSAN_ANY" Language="en_US">
+			<Text>I may have to resort to other means to have my demands met!</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_AI_ACCEPT_DEAL_LEADER_YNL_KING_HASSAN_ANY" Language="en_US">
+			<Text>I accept your terms for peace.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_AI_REFUSE_DEAL_LEADER_YNL_KING_HASSAN_ANY" Language="en_US">
+			<Text>There can be no peace between us!</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_FROM_AI_LEADER_YNL_KING_HASSAN_ANY" Language="en_US">
+			<Text>Peace, mmkay?</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_MAKE_PEACE_FROM_AI_LEADER_YNL_KING_HASSAN_ANY" Language="en_US">
+			<Text>The war is over.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_MAKE_PEACE_FROM_AI_LEADER_YNL_KING_HASSAN_ANY" Language="en_US">
+			<Text>Then the war continues.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_OPEN_BORDERS_FROM_HUMAN_LEADER_YNL_KING_HASSAN_ANY" Language="en_US">
+			<Text>We are happy to open up our borders to your units.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_OPEN_BORDERS_FROM_HUMAN_LEADER_YNL_KING_HASSAN_ANY" Language="en_US">
+			<Text>We are not interested at this time.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_OPEN_BORDERS_FROM_AI_LEADER_YNL_KING_HASSAN_ANY" Language="en_US">
+			<Text>Will you allow our units to cross through your territory?</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_OPEN_BORDERS_FROM_AI_LEADER_YNL_KING_HASSAN_ANY" Language="en_US">
+			<Text>Excellent!</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_OPEN_BORDERS_FROM_AI_LEADER_YNL_KING_HASSAN_ANY" Language="en_US">
+			<Text>That is unfortunate.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_DONT_SETTLE_NEAR_ME_AI_RESPONSE_POSITIVE_LEADER_YNL_KING_HASSAN_ANY" Language="en_US">
+			<Text>My sincerest apologies! I didn't notice your city was so close.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_DONT_SETTLE_NEAR_ME_AI_RESPONSE_NEGATIVE_LEADER_YNL_KING_HASSAN_ANY" Language="en_US">
+			<Text>My people need land. Who are you to say that they cannot have it?</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_DONT_SETTLE_NEAR_ME_AI_LEADER_YNL_KING_HASSAN_ANY" Language="en_US">
+			<Text>Your people settle too close! You should consider seeking land elsewhere.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_DONT_SETTLE_NEAR_ME_HUMAN_RESPONSE_POSITIVE_LEADER_YNL_KING_HASSAN_ANY" Language="en_US">
+			<Text>Thank you.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_DONT_SETTLE_NEAR_ME_HUMAN_RESPONSE_NEGATIVE_LEADER_YNL_KING_HASSAN_ANY" Language="en_US">
+			<Text>If you cannot respect our lands, then I will not respect you.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_AI_RESPONSE_POSITIVE_LEADER_YNL_KING_HASSAN_ANY" Language="en_US">
+			<Text>Apologies, we were just looking for some Barbarians to hassle.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_AI_RESPONSE_NEGATIVE_LEADER_YNL_KING_HASSAN_ANY" Language="en_US">
+			<Text>I like marching my troops around, it shows how powerful I am if you get my drift.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_STOP_SPYING_ON_ME_AI_RESPONSE_POSITIVE_LEADER_YNL_KING_HASSAN_ANY" Language="en_US">
+			<Text>Yes, you're right. I regret that I had to resort to such tactics. It won't happen again.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_STOP_SPYING_ON_ME_AI_RESPONSE_NEGATIVE_LEADER_YNL_KING_HASSAN_ANY" Language="en_US">
+			<Text>Hah! What makes you think I would make that kind of promise?</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_STOP_DIGGING_UP_ARTIFACTS_AI_RESPONSE_POSITIVE_LEADER_YNL_KING_HASSAN_ANY" Language="en_US">
+			<Text>I hadn't realized that you laid claim to these lands. It was a simple mistake.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_STOP_DIGGING_UP_ARTIFACTS_AI_RESPONSE_NEGATIVE_LEADER_YNL_KING_HASSAN_ANY" Language="en_US">
+			<Text>The mysteries of the past are free to everyone. You cannot claim them!</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_STOP_CONVERTING_MY_CITIES_AI_RESPONSE_POSITIVE_LEADER_YNL_KING_HASSAN_ANY" Language="en_US">
+			<Text>Though I will respect your wishes, I am disappointed that you cannot see the error of your ways.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_STOP_CONVERTING_MY_CITIES_AI_RESPONSE_NEGATIVE_LEADER_YNL_KING_HASSAN_ANY" Language="en_US">
+			<Text>No, no. This is for the best. You will see, I assure you.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_LEADER_YNL_KING_HASSAN_ANY" Language="en_US">
+			<Text>Your troops tread too close to my borders. I hope it's just to view our picturesque countryside.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_HUMAN_RESPONSE_POSITIVE_LEADER_YNL_KING_HASSAN_ANY" Language="en_US">
+			<Text>Thank you.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_STOP_SPYING_ON_ME_LEADER_YNL_KING_HASSAN_ANY" Language="en_US">
+			<Text>I should have known you'd stoop so low as to use espionage against me. Remove your spies at once!</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_STOP_SPYING_ON_ME_HUMAN_RESPONSE_POSITIVE_LEADER_YNL_KING_HASSAN_ANY" Language="en_US">
+			<Text>Thank you.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_STOP_SPYING_ON_ME_HUMAN_RESPONSE_NEGATIVE_LEADER_YNL_KING_HASSAN_ANY" Language="en_US">
+			<Text>I will remember this insult. You can be sure of that!</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_STOP_DIGGING_UP_ARTIFACTS_LEADER_YNL_KING_HASSAN_ANY" Language="en_US">
+			<Text>Our cultural history is not yours to plunder. It is time for you to leave our lands!</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_STOP_DIGGING_UP_ARTIFACTS_HUMAN_RESPONSE_POSITIVE_LEADER_YNL_KING_HASSAN_ANY" Language="en_US">
+			<Text>Thank you.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_STOP_DIGGING_UP_ARTIFACTS_HUMAN_RESPONSE_NEGATIVE_LEADER_YNL_KING_HASSAN_ANY" Language="en_US">
+			<Text>If you cannot respect our lands, then I will not respect you.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_STOP_CONVERTING_MY_CITIES_LEADER_YNL_KING_HASSAN_ANY" Language="en_US">
+			<Text>Your proselytizers are not welcome among my people. I must ask that you remove them immediately.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_STOP_CONVERTING_MY_CITIES_HUMAN_RESPONSE_POSITIVE_LEADER_YNL_KING_HASSAN_ANY" Language="en_US">
+			<Text>Thank you.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_STOP_CONVERTING_MY_CITIES_HUMAN_RESPONSE_NEGATIVE_LEADER_YNL_KING_HASSAN_ANY" Language="en_US">
+			<Text>I assure you there will be consequences for this - if not now, then later.</Text>
+		</Row>
+		<!-- Generic kudos for random agendas -->
+		<Row Tag="LOC_DIPLO_KUDO_LEADER_YNL_KING_HASSAN_REASON_AGENDA_HIGH_CULTURE" Language="en_US">
+			<Text>I am impressed with the unique culture your people are developing.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_KUDO_LEADER_YNL_KING_HASSAN_REASON_AGENDA_HIGH_HAPPINESS" Language="en_US">
+			<Text>I'm hearing talk that your people want to celebrate your rule. Nice job keeping them happy.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_KUDO_LEADER_YNL_KING_HASSAN_REASON_AGENDA_HIGH_INCOME" Language="en_US">
+			<Text>Your treasury is filling up quite nicely. It's always nice to have such strong income, isn't it?</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_KUDO_LEADER_YNL_KING_HASSAN_REASON_AGENDA_HIGH_INDUSTRY" Language="en_US">
+			<Text>I extend my heartiest congratulations on the productivity of your people.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_KUDO_LEADER_YNL_KING_HASSAN_REASON_AGENDA_MODIFIER_NOT_COMPETING_MINORS" Language="en_US">
+			<Text>We are true friends with the smaller civilizations. We appreciate that you recognize this fact.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_KUDO_LEADER_YNL_KING_HASSAN_REASON_AGENDA_HIGH_POPULATION" Language="en_US">
+			<Text>The number of people living in your empire is truly impressive.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_KUDO_LEADER_YNL_KING_HASSAN_REASON_AGENDA_HIGH_SCIENCE" Language="en_US">
+			<Text>I am impressed with the depth of your scientific research.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_KUDO_LEADER_YNL_KING_HASSAN_REASON_AGENDA_HIGH_STANDING_ARMY" Language="en_US">
+			<Text>I love a leader who is surrounded by an impressive military.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_KUDO_LEADER_YNL_KING_HASSAN_REASON_AGENDA_ENJOYS_WAR" Language="en_US">
+			<Text>It is in combat that the true soul of a civilization is revealed. May the best man win.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_KUDO_LEADER_YNL_KING_HASSAN_REASON_AGENDA_MODIFIER_GREAT_PERSON_ADVOCATE_LAG" Language="en_US">
+			<Text>I am pleased to see that the great minds of the world prefer our empire to yours.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_KUDO_LEADER_YNL_KING_HASSAN_REASON_AGENDA_MODIFIER_WONDER_ADVOCATE_LAG" Language="en_US">
+			<Text>It makes me happy that you leave the wonder building to us.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_KUDO_LEADER_YNL_KING_HASSAN_REASON_AGENDA_HIGH_PROTECT_CITY_STATES" Language="en_US">
+			<Text>Your protection of a city-state's right to exist sets an example for all the world to follow.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_KUDO_LEADER_YNL_KING_HASSAN_REASON_AGENDA_MED_PROTECT_CITY_STATES" Language="en_US">
+			<Text>The strong should protect the weak. It is good to see you agree.</Text>
+		</Row>
+		<!--Kudos for future random agendas (not yet implemented)-->
+		<Row Tag="LOC_DIPLO_KUDO_LEADER_YNL_KING_HASSAN_REASON_AGENDA_HIGH_AIRPOWER" Language="en_US">
+			<Text>I must say, the power of your airforce is not one to be trifled with. Very nice.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_KUDO_LEADER_YNL_KING_HASSAN_REASON_AGENDA_PROTECTS_CITY_STATES" Language="en_US">
+			<Text>It is an admirable thing to look out for those who cannot look out for themselves.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_KUDO_LEADER_YNL_KING_HASSAN_REASON_AGENDA_CLEARS_BARBARIAN_CAMPS" Language="en_US">
+			<Text>These Barbarians have been a nuisance to us all. Thank you for your help!</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_KUDO_LEADER_YNL_KING_HASSAN_REASON_AGENDA_ENVIRONMENT" Language="en_US">
+			<Text>We have only been given one earth, and I am glad that I am not the only one to respect that.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_KUDO_LEADER_YNL_KING_HASSAN_REASON_AGENDA_EXPLOITATION" Language="en_US">
+			<Text>The world is ours for the taking! And take it, you have.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_KUDO_LEADER_YNL_KING_HASSAN_REASON_AGENDA_SAME_GOVERNMENT" Language="en_US">
+			<Text>I see you're a like-minded individual, and must commend your government practices.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_KUDO_LEADER_YNL_KING_HASSAN_REASON_AGENDA_HIGH_NUKE_LOVE" Language="en_US">
+			<Text>Great minds think alike, I see. There are so many uses for that technology...</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_KUDO_LEADER_YNL_KING_HASSAN_REASON_AGENDA_HIGH_FAITH" Language="en_US">
+			<Text>Peace be to you and yours. It is heartening to see another just as pious as myself.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_KUDO_LEADER_YNL_KING_HASSAN_REASON_AGENDA_LOW_EXPLORATION" Language="en_US">
+			<Text>Yes, very good. Leave the exploring to me.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_KUDO_LEADER_YNL_KING_HASSAN_REASON_AGENDA_PARANOID" Language="en_US">
+			<Text>I am relieved to see that your empire poses no threat to ours.</Text>
+		</Row>
+		<!-- Generic warnings for random agendas -->
+		<Row Tag="LOC_DIPLO_WARNING_LEADER_YNL_KING_HASSAN_REASON_AGENDA_LOW_CULTURE" Language="en_US">
+			<Text>You are not doing much to develop a strong culture. What will we have to remember about your people?</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_LEADER_YNL_KING_HASSAN_REASON_AGENDA_LOW_HAPPINESS" Language="en_US">
+			<Text>You might want to look into a few more amenities for your citizens. I don't think they are enjoying your rule.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_LEADER_YNL_KING_HASSAN_REASON_AGENDA_LOW_INCOME" Language="en_US">
+			<Text>Your empire is headed toward bankruptcy.  How can you survive with debt piling up?</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_LEADER_YNL_KING_HASSAN_REASON_AGENDA_MODIFIER_COMPETING_MINORS" Language="en_US">
+			<Text>You tread on dangerous ground by making common cause with city-states. Leave them to us.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_LEADER_YNL_KING_HASSAN_REASON_AGENDA_LOW_INDUSTRY" Language="en_US">
+			<Text>Your people are lazy and unworthy. If you can produce nothing, your civilization will soon be forgotten.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_LEADER_YNL_KING_HASSAN_REASON_AGENDA_LOW_POPULATION" Language="en_US">
+			<Text>There are so few people living in your empire. It must be hard to get anything done.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_LEADER_YNL_KING_HASSAN_REASON_AGENDA_LOW_SCIENCE" Language="en_US">
+			<Text>You are not spending much time on research. How will your people keep up?</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_LEADER_YNL_KING_HASSAN_REASON_AGENDA_LOW_STANDING_ARMY" Language="en_US">
+			<Text>You have so few troops.  Aren't you scared for your life?</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_LEADER_YNL_KING_HASSAN_REASON_AGENDA_PARANOID" Language="en_US">
+			<Text>Your cities are so close.  Your troops are so strong.  You are making me nervous!</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_LEADER_YNL_KING_HASSAN_REASON_AGENDA_MODIFIER_GREAT_PERSON_ADVOCATE_LEAD" Language="en_US">
+			<Text>Your recruitment of great people we coveted is becoming a real problem.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_LEADER_YNL_KING_HASSAN_REASON_AGENDA_MODIFIER_WONDER_ADVOCATE_LEAD" Language="en_US">
+			<Text>Do you not realize that we are supposed to be the preeminent builders of wonders?</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_LEADER_YNL_KING_HASSAN_REASON_AGENDA_HIGH_ATTACK_CITY_STATES" Language="en_US">
+			<Text>Only cowards attack the small powers of the world. You are worthless to us.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_LEADER_YNL_KING_HASSAN_REASON_AGENDA_MED_ATACK_CITY_STATES" Language="en_US">
+			<Text>Consider this a warning. Do not attack the minor powers again.</Text>
+		</Row>
+		<!--Warnings for future random agendas (not yet implemented)-->
+		<Row Tag="LOC_DIPLO_WARNING_LEADER_YNL_KING_HASSAN_REASON_AGENDA_LOW_AIRPOWER" Language="en_US">
+			<Text>There is no glory to keeping your feet on the ground. You should really try building an airforce.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_LEADER_YNL_KING_HASSAN_REASON_AGENDA_ATTACKS_CITY_STATES" Language="en_US">
+			<Text>It is a deplorable thing to bully the weak.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_LEADER_YNL_KING_HASSAN_REASON_AGENDA_IGNORES_BARBARIAN_CAMPS" Language="en_US">
+			<Text>How can you let those Barbarians run amok so close to your home?</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_LEADER_YNL_KING_HASSAN_REASON_AGENDA_ENVIRONMENT" Language="en_US">
+			<Text>I must tell you that your destruction of our earth is not just affecting you, but your neighbors as well.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_LEADER_YNL_KING_HASSAN_REASON_AGENDA_EXPLOITATION" Language="en_US">
+			<Text>Bountiful lands surround you! How can you ignore them?</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_LEADER_YNL_KING_HASSAN_REASON_AGENDA_DIFFERENT_GOVERNMENT" Language="en_US">
+			<Text>Our ideological differences are only the beginning. I cannot approve of the way you govern your people...</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_LEADER_YNL_KING_HASSAN_REASON_AGENDA_LOW_NUKE_LOVE" Language="en_US">
+			<Text>Nuclear weaponry is the future! How can you not see that?</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_LEADER_YNL_KING_HASSAN_REASON_AGENDA_LOW_FAITH" Language="en_US">
+			<Text>What guides you? Surely, you cannot believe in nothing. Come, show your people the light!</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_LEADER_YNL_KING_HASSAN_REASON_AGENDA_HIGH_EXPLORATION" Language="en_US">
+			<Text>There is only so much to discover, and I'm afraid I cannot abide anyone who sets out ahead of my own explorers.</Text>
+		</Row>
+	</LocalizedText>
+</GameData>

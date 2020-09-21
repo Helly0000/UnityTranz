@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by Ed Beach (Firaxis Games) -->
+<GameData>
+	<LocalizedText>
+		<!--LEADER-->
+		<Row Tag="LOC_LEADER_MER_OSCAR_II_NORWAY_NAME" Language="en_US">
+			<Text>Oscar II</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_MER_CHRISTIANIA" Language="en_US">
+			<Text>Christiania</Text>
+		</Row>
+		<!--Traits-->
+		<Row Tag="LOC_TRAIT_LEADER_MER_WELFARE_OF_THE_BROTHER_PEOPLES_NORWEGIAN_NAME" Language="en_US">
+			<Text>Broderfolkenes Vel</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_LEADER_MER_WELFARE_OF_THE_BROTHER_PEOPLES_NORWEGIAN_DESCRIPTION" Language="en_US">
+			<Text>Receive +30% [ICON_Production] Production towards Projects and Naval units in cities at maximum Loyalty. Cities with a Harbor, Campus, or Theatre Square District gain +1 [ICON_Amenities] Amenity and +2 Loyalty; bonus is doubled if the City has all three of these Districts. Can build Open-Air Museums after the Nationalism civic is researched.</Text>
+		</Row>
+		<Row Tag="LOC_IMPROVEMENT_MER_NORWEGIAN_OPEN_AIR_MUSEUM_DESCRIPTION" Language="en_US">
+			<Text>Unlocks the Builder ability to construct an Open-Air Museum. [NEWLINE][NEWLINE] Provides +2 Loyalty per turn. +2 [ICON_Culture] Culture and +2 [ICON_Tourism] Tourism for each type of terrain (Snow, Tundra, Desert, Plains or Grassland) in which at least one Norwegian city is founded. One per city. Tiles with Open Air Museums cannot be swapped.</Text>
+		</Row>
+		<!--Civilopedia-->
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_MER_OSCAR_II_NORWAY_TITLE" Language="en_US">
+			<Text>Oscar II</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_MER_OSCAR_II_NORWAY_SUBTITLE" Language="en_US">
+			<Text>King of Sweden and Norway</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_MER_OSCAR_II_NORWAY_QUOTE" Language="en_US">
+			<Text>I would rather have people laugh at my economies than weep for my extravagance.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_MER_OSCAR_II_NORWAY_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Oscar II, baptised Oscar Fredrik, was King of Sweden from 1872 until his death and King of Norway from 1872 until 1905. The third son of King Oscar I of Sweden and Josephine of Leuchtenberg, he was a descendant of Gustav I of Sweden through his mother.  </Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_MER_OSCAR_II_NORWAY_CHAPTER_HISTORY_PARA_2" Language="en_US">
+			<Text>His acute intelligence and his aloofness from the dynastic considerations affecting most European sovereigns (both of his grandfathers were French military commanders who served under Napoleon) gave the king considerable weight as an arbitrator in international questions. At the request of Great Britain, Germany and the United States in 1889 he appointed the Chief Justice of Samoa under the Treaty of Berlin, and he was again called on to arbitrate in Samoan affairs in 1899. </Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_MER_OSCAR_II_NORWAY_CHAPTER_HISTORY_PARA_3" Language="en_US">
+			<Text>He remained a strong supporter of the Navy throughout his life, and frequently visited ships of the fleet. When the coastal defence ship Oscar II was launched, he even signed his name on the vessel's aft main gun tower. In 1858 a collection of his lyrical and narrative poems, Memorials of the Swedish Fleet, published anonymously, obtained the second prize of the Swedish Academy. His "Contributions to the Military History of Sweden in the Years 1711, 1712, 1713", originally appeared in the Annals of the Academy, and were printed separately in 1865. </Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_MER_OSCAR_II_NORWAY_CHAPTER_HISTORY_PARA_4" Language="en_US">
+			<Text>Being a theater lover, he commissioned a new opera house to be built by Axel Anderberg for the Royal Swedish Opera which was inaugurated on 19 September 1898. It is until today the current home of that institution. Oscar II told Henrik Ibsen that his Ghosts was "not a good play". As he was dying, he requested that the theatres not be closed on account of his death. His wishes were respected. </Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_MER_OSCAR_II_NORWAY_CHAPTER_HISTORY_PARA_5" Language="en_US">
+			<Text>Oscar was king during a time when Sweden was undergoing a period of industrialization and rapid technological progress. His reign also saw the gradual decline of the Union of Sweden and Norway, which culminated in its dissolution in 1905. He was subsequently succeeded as King of Norway by his grandnephew Prince Carl of Denmark under the regnal name Haakon VII, and as King of Sweden by his eldest son, Gustaf V. </Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_MER_OSCAR_II_NORWAY_CHAPTER_CAPSULE_BODY" Language="en_US">
+			<Text>Oscar II's Sweden seeks to keep it's Population happy, providing bonuses towards Projects for earning Great People, important to the Swedish Nobel Prize ability. </Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_MER_OSCAR_II_NORWAY_CHAPTER_DETAILED_BODY" Language="en_US">
+			<Text>Sweden's strengths in earning Great People is enhanced by Oscar II's bonus towards Projects in happy and ecstatic cities. His Naval Production bonus is important for ensuring the defense of Sweden's coastlines.</Text>
+		</Row>
+		<!--Diplomacy-->
+		<!--FIRST MEET-->
+		<!--First AI line-->
+		<Row Tag="LOC_DIPLO_FIRST_MEET_LEADER_MER_OSCAR_II_NORWAY_ANY" Language="en_US">
+			<Text>I am Oscar II, King of Norway. Welcome, stranger. Let us talk, so we can learn more about each other and forge a lasting friendship.</Text>
+		</Row>
+		<!--AI invitation to visit nearby City-->
+		<Row Tag="LOC_DIPLO_FIRST_MEET_VISIT_RECIPIENT_LEADER_MER_OSCAR_II_NORWAY_ANY" Language="en_US">
+			<Text>My finest opera house is hosting a show later, would you be interested in joining me as an honoured guest?</Text>
+		</Row>
+		<!--AI accepts Human invitation-->
+		<Row Tag="LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_POSITIVE_LEADER_MER_OSCAR_II_NORWAY_ANY" Language="en_US">
+			<Text>I will visit it myself, Thank you.</Text>
+		</Row>
+		<!--AI invitation to exchange Capital Information-->
+		<Row Tag="LOC_DIPLO_FIRST_MEET_NO_MANS_INFO_EXCHANGE_LEADER_MER_OSCAR_II_NORWAY_ANY" Language="en_US">
+			<Text>We should exchange maps of our capitals.</Text>
+		</Row>
+		<!--GREETINGS-->
+		<Row Tag="LOC_DIPLO_GREETING_LEADER_MER_OSCAR_II_NORWAY_ANY" Language="en_US">
+			<Text>Welcome!</Text>
+		</Row>
+		<!--DELEGATION-->
+		<!--AI Accepts-->
+		<Row Tag="LOC_DIPLO_ACCEPT_DELEGATION_FROM_HUMAN_LEADER_MER_OSCAR_II_NORWAY_ANY" Language="en_US">
+			<Text>Your delegation will be welcomed with open arms.</Text>
+		</Row>
+		<!--AI Rejects-->
+		<Row Tag="LOC_DIPLO_REJECT_DELEGATION_FROM_HUMAN_LEADER_MER_OSCAR_II_NORWAY_ANY" Language="en_US">
+			<Text>We don't have time for foreign politics at this moment, we're very busy with the internal ones.</Text>
+		</Row>
+		<!--AI Requests -->
+		<Row Tag="LOC_DIPLO_DELEGATION_FROM_AI_LEADER_MER_OSCAR_II_NORWAY_ANY" Language="en_US">
+			<Text>I have sent a delegation to your capital, they have copies of some of my favourite works of literature. I even slipped in a copy of my own work. Enjoy.</Text>
+		</Row>
+		<!--OPEN BORDERS-->
+		<!--AI accepts from human-->
+		<Row Tag="LOC_DIPLO_ACCEPT_OPEN_BORDERS_FROM_HUMAN_LEADER_MER_OSCAR_II_NORWAY_ANY" Language="en_US">
+			<Text>This is acceptable.</Text>
+		</Row>
+		<!--AI rejects from human-->
+		<Row Tag="LOC_DIPLO_REJECT_OPEN_BORDERS_FROM_HUMAN_LEADER_MER_OSCAR_II_NORWAY_ANY" Language="en_US">
+			<Text>We must say no.</Text>
+		</Row>
+		<!--AI requests from human-->
+		<Row Tag="LOC_DIPLO_OPEN_BORDERS_FROM_AI_LEADER_MER_OSCAR_II_NORWAY_ANY" Language="en_US">
+			<Text>I have sent a request for open borders to you. I hope the terms are satisfactory.</Text>
+		</Row>
+		<!--DECLARE FRIENDSHIP-->
+		<!--AI accepts from human-->
+		<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_HUMAN_LEADER_MER_OSCAR_II_NORWAY_ANY" Language="en_US">
+			<Text>We have considered your offer, and would be happy to call you friend.</Text>
+		</Row>
+		<!--AI Rejects from human -->
+		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_HUMAN_LEADER_MER_OSCAR_II_NORWAY_ANY" Language="en_US">
+			<Text>We already have too many of our own things to worry about, without including you.</Text>
+		</Row>
+		<!--AI Requests friendship from human-->
+		<Row Tag="LOC_DIPLO_DECLARE_FRIEND_FROM_AI_LEADER_MER_OSCAR_II_NORWAY_ANY" Language="en_US">
+			<Text>Our close ties should be made official.</Text>
+		</Row>
+		<!--Human accepts AI requests, AI responds-->
+		<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_MER_OSCAR_II_NORWAY_ANY" Language="en_US">
+			<Text>A friendship to last, for sure.</Text>
+		</Row>
+		<!--Human rejects AI requests, AI responds-->
+		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_MER_OSCAR_II_NORWAY_ANY" Language="en_US">
+			<Text>Hmph, maybe another time.</Text>
+		</Row>
+		<!--ALLIANCE-->
+		<!--AI Requests an alliance from human-->
+		<Row Tag="LOC_DIPLO_MAKE_ALLIANCE_FROM_AI_LEADER_MER_OSCAR_II_NORWAY_ANY" Language="en_US">
+			<Text>We would like to extend an offer of union to your nation.</Text>
+		</Row>
+		<!--KUDOS & WARNINGS-->
+		<!--AI Kudos-->
+		<Row Tag="LOC_DIPLO_KUDO_EXIT_LEADER_MER_OSCAR_II_NORWAY_CULTURE" Language="en_US">
+			<Text>Your civilizaton is one of the most cultured and industrious i have seen. You should be proud.</Text>
+		</Row>
+		<!--AI Warnings-->
+		<Row Tag="LOC_DIPLO_WARNING_EXIT_LEADER_MER_OSCAR_II_NORWAY_ANY" Language="en_US">
+			<Text>Your people must be bored to death with nothing to do to pass their time.</Text>
+		</Row>
+		<!--AI warns player for border troops-->
+		<Row Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_LEADER_MER_OSCAR_II_NORWAY_ANY" Language="en_US">
+			<Text>Our borders are more protected then they may seem, you should consider moving.</Text>
+		</Row>
+		<!--TRADE-->
+		<!--AI Accepts Deal-->
+		<Row Tag="LOC_DIPLO_ACCEPT_MAKE_DEAL_FROM_AI_LEADER_MER_OSCAR_II_NORWAY_ANY" Language="en_US">
+			<Text>{LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_MER_OSCAR_II_NORWAY_ANY}</Text>
+		</Row>
+		<!--AI Rejects Deal-->
+		<Row Tag="LOC_DIPLO_REJECT_MAKE_DEAL_FROM_AI_LEADER_MER_OSCAR_II_NORWAY_ANY" Language="en_US">
+			<Text>{LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_MER_OSCAR_II_NORWAY_ANY}</Text>
+		</Row>
+		<!--DENOUNCE-->
+		<!--From Human-->
+		<Row Tag="LOC_DIPLO_DENOUNCE_FROM_HUMAN_LEADER_MER_OSCAR_II_NORWAY_ANY" Language="en_US">
+			<Text>I hardly need to listen to the ramblings of an uncultured fool.</Text>
+		</Row>
+		<!--From AI-->
+		<Row Tag="LOC_DIPLO_DENOUNCE_FROM_AI_LEADER_MER_OSCAR_II_NORWAY_ANY" Language="en_US">
+			<Text>The lack of wit and sense in your leadership is a disgrace, your people deserve better. (Denounces You)</Text>
+		</Row>
+
+		<!--DECLARE WAR-->
+		<!--Human Declares War-->
+		<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_HUMAN_LEADER_MER_OSCAR_II_NORWAY_ANY" Language="en_US">
+			<Text>If War is what you're after, a war is what you'll get.</Text>
+		</Row>
+		<!--AI Declares War-->
+		<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_MER_OSCAR_II_NORWAY_ANY" Language="en_US">
+			<Text>War would be my last choice, but you leave me with few others.</Text>
+		</Row>
+		<!--MAKE PEACE-->
+		<!--AI accepts from human-->
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_AI_ACCEPT_DEAL_LEADER_MER_OSCAR_II_NORWAY_ANY" Language="en_US">
+			<Text>Of course.</Text>
+		</Row>
+		<!--AI refuses human-->
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_AI_REFUSE_DEAL_LEADER_MER_OSCAR_II_NORWAY_ANY" Language="en_US">
+			<Text>Don't think me a coward.</Text>
+		</Row>
+		<!--AI requests from human-->
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_FROM_AI_LEADER_MER_OSCAR_II_NORWAY_ANY" Language="en_US">
+			<Text>War is leading us nowhere. In the name of progress and learning, this must end.</Text>
+		</Row>
+		<!--DEFEAT-->
+		<!--AI is Defeated-->
+		<Row Tag="LOC_DIPLO_DEFEAT_FROM_AI_LEADER_MER_OSCAR_II_NORWAY_ANY" Language="en_US">
+			<Text>I will admit, this defeat has left me bitter and angry. I will die knowing i failed my people.</Text>
+		</Row>
+		<!--Human is Defeated (will see this in hotseat)-->
+		<Row Tag="LOC_DIPLO_DEFEAT_FROM_HUMAN_LEADER_MER_OSCAR_II_NORWAY_ANY" Language="en_US">
+			<Text>[LOC_DIPLO_DEFEAT_FROM_AI_LEADER_MER_OSCAR_II_NORWAY_ANY]</Text>
+		</Row>
+	</LocalizedText>
+</GameData>

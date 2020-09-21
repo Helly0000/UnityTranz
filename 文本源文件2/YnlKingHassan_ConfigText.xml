@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<LocalizedText>
+		<!-- 文明 -->
+		<Row Tag="LOC_CIVILIZATION_YNL_NIZARI_NAME" Language="en_US">
+			<Text>Nizari</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_YNL_NIZARI_DESCRIPTION" Language="en_US">
+			<Text>Nizari</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_YNL_NIZARI_ADJECTIVE" Language="en_US">
+			<Text>Nizari</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_CIVILIZATION_YNL_NIZARI_NAME" Language="en_US">
+			<Text>Alamut</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_CIVILIZATION_YNL_NIZARI_DESCRIPTION" Language="en_US">
+			<Text>+50% [ICON_Production] Production toward Builders. Inquisitors can Remove Heresy one extra time. +4 [ICON_Strength] strength versus civilizations following another Religion.</Text>
+		</Row>
+		
+		<!-- 指導者 -->
+		<Row Tag="LOC_LEADER_YNL_KING_HASSAN_NAME" Language="en_US">
+			<Text>King Hassan</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_LEADER_YNL_KING_HASSAN_NAME" Language="en_US">
+			<Text>Azrael</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_LEADER_YNL_KING_HASSAN_DESCRIPTION" Language="en_US">
+			<Text>If a Nizari Unit defeats an enemy unit within the borders of the enemy city, that city loses 20 Loyalty. +8 [ICON_Strength] strength versus civilizations in a Dark Age. Kulliye provide +2 [ICON_Culture] Culture if adjacent to an Aqueduct.</Text>
+		</Row>
+		<Row Tag="LOC_LEADER_YNL_KING_HASSAN_DOM_TEXT" Language="en_US">
+			<Text>---Hand over thy head.</Text>
+		</Row>
+		
+		<!-- UD -->
+		<Row Tag="LOC_DISTRICT_MAUSOLEUM_OF_THE_EVENING_BELL_NAME" Language="en_US">
+			<Text>Mausoleum of the evening bell</Text>
+		</Row>
+		<Row Tag="LOC_DISTRICT_MAUSOLEUM_OF_THE_EVENING_BELL_DESCRIPTION" Language="en_US">
+			<Text>A district unique to Nizarifor religious activity. Replaces the Holy Site district.[NEWLINE][NEWLINE]+2 [ICON_GreatProphet] Great Prophet points, +1 [ICON_GreatEngineer] Great Engineer point, +1 [ICON_GreatScientist] Great Scientist point, +1 [ICON_GreatMerchant] Great Merchant point. +1 [ICON_Production] Production for each adjacent other District. Also unlocks the da’wa jadida project. this project gains [ICON_GreatAdmiral] Great Admiral points and [ICON_GreatGeneral] Great General points once completed.</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_LEADER_DISTRICT_MAUSOLEUM_OF_THE_EVENING_BELL_NAME" Language="en_US">
+			<Text>Nizari unique District: Mausoleum of the evening bell</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_DISTRICTS_PAGE_DISTRICT_MAUSOLEUM_OF_THE_EVENING_BELL_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text></Text>
+		</Row>
+
+		<!-- UU -->
+		<Row Tag="LOC_TRAIT_UNIT_YNL_ASSASSIN_NAME" Language="en_US">
+			<Text>Nizari unique unit: Assassin</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_YNL_ASSASSIN_DESCRIPTION" Language="en_US">
+			<Text>Nizari unique Medieval era unit. Does not suffer combat penalties when damaged. Remains hidden from units more than 1 hex away. [ICON_Movement] Movement 3.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_YNL_ASSASSIN_NAME" Language="en_US">
+			<Text>Assassin</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_YNL_ASSASSIN_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text></Text>
+		</Row>
+		
+		<!-- UI -->
+		<Row Tag="LOC_IMPROVEMENT_YNL_KULLIYE_NAME" Language="en_US">
+			<Text>Kulliye</Text>
+		</Row>
+		<Row Tag="LOC_IMPROVEMENT_YNL_KULLIYE_DESCRIPTION" Language="en_US">
+			<Text>Unlocks the Builder ability to construct a Kulliye, unique to Nizari.[NEWLINE][NEWLINE]+1 [ICON_Production] Production, +3 [ICON_Faith] Faith, +1 [ICON_Amenities] Amenity, +3 [ICON_Housing] Housing. One per City. Can be built on Desert/Grass/Plains. </Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_CIVILIZATION_IMPROVEMENT_YNL_KULLIYE_NAME" Language="en_US">
+			<Text>Nizari unique improvement: Kulliye</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_IMPROVEMENTS_PAGE_IMPROVEMENT_YNL_KULLIYE_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text></Text>
+		</Row>
+	</LocalizedText>
+</GameData>

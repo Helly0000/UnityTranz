@@ -1,0 +1,962 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<LocalizedText>
+		
+		
+		
+		
+		
+		
+		<Replace Tag="LOC_CITY_NAME_RHEIMS" Language="es_ES">
+			<Text>Reims</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_BRIANCON" Language="es_ES">
+			<Text>Nice</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_GAP" Language="es_ES">
+			<Text>Lille</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_JARNAC" Language="es_ES">
+			<Text>Orleans</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_TOUL" Language="es_ES">
+			<Text>Toulon</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_ALBA_LA_ROMAINE" Language="es_ES">
+			<Text>Strasbourg</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_BOULOGNE" Language="es_ES">
+			<Text>Brest</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_DIEPPE" Language="es_ES">
+			<Text>Le Havre</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_VERDUN" Language="es_ES">
+			<Text>Clermont-Ferrand</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_AMBOISE" Language="es_ES">
+			<Text>Angers</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_CHARTRES" Language="es_ES">
+			<Text>Le Mans</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_MONTELIMAR" Language="es_ES">
+			<Text>Saint-Etienne</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_CARCASSONNE" Language="es_ES">
+			<Text>Perpignan</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_CALAIS" Language="es_ES">
+			<Text>Nîmes</Text>
+		</Replace>
+
+
+
+
+		<Replace Tag="LOC_CITY_NAME_RHEIMS" Language="zh_Hans_CN">
+			<Text>Reims</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_BRIANCON" Language="zh_Hans_CN">
+			<Text>Nice</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_GAP" Language="zh_Hans_CN">
+			<Text>Lille</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_JARNAC" Language="zh_Hans_CN">
+			<Text>Orleans</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_TOUL" Language="zh_Hans_CN">
+			<Text>Toulon</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_ALBA_LA_ROMAINE" Language="zh_Hans_CN">
+			<Text>Strasbourg</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_BOULOGNE" Language="zh_Hans_CN">
+			<Text>Brest</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_DIEPPE" Language="zh_Hans_CN">
+			<Text>Le Havre</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_VERDUN" Language="zh_Hans_CN">
+			<Text>Clermont-Ferrand</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_AMBOISE" Language="zh_Hans_CN">
+			<Text>Angers</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_CHARTRES" Language="zh_Hans_CN">
+			<Text>Le Mans</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_MONTELIMAR" Language="zh_Hans_CN">
+			<Text>Saint-Etienne</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_CARCASSONNE" Language="zh_Hans_CN">
+			<Text>Perpignan</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_CALAIS" Language="zh_Hans_CN">
+			<Text>Nîmes</Text>
+		</Replace>
+
+
+
+		<Replace Tag="LOC_CITY_NAME_RHEIMS" Language="ru_RU">
+			<Text>Reims</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_BRIANCON" Language="ru_RU">
+			<Text>Nice</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_GAP" Language="ru_RU">
+			<Text>Lille</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_JARNAC" Language="ru_RU">
+			<Text>Orleans</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_TOUL" Language="ru_RU">
+			<Text>Toulon</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_ALBA_LA_ROMAINE" Language="ru_RU">
+			<Text>Strasbourg</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_BOULOGNE" Language="ru_RU">
+			<Text>Brest</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_DIEPPE" Language="ru_RU">
+			<Text>Le Havre</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_VERDUN" Language="ru_RU">
+			<Text>Clermont-Ferrand</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_AMBOISE" Language="ru_RU">
+			<Text>Angers</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_CHARTRES" Language="ru_RU">
+			<Text>Le Mans</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_MONTELIMAR" Language="ru_RU">
+			<Text>Saint-Etienne</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_CARCASSONNE" Language="ru_RU">
+			<Text>Perpignan</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_CALAIS" Language="ru_RU">
+			<Text>Nîmes</Text>
+		</Replace>
+
+
+
+
+		<Replace Tag="LOC_CITY_NAME_RHEIMS" Language="pl_PL">
+			<Text>Reims</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_BRIANCON" Language="pl_PL">
+			<Text>Nice</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_GAP" Language="pl_PL">
+			<Text>Lille</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_JARNAC" Language="pl_PL">
+			<Text>Orleans</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_TOUL" Language="pl_PL">
+			<Text>Toulon</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_ALBA_LA_ROMAINE" Language="pl_PL">
+			<Text>Strasbourg</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_BOULOGNE" Language="pl_PL">
+			<Text>Brest</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_DIEPPE" Language="pl_PL">
+			<Text>Le Havre</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_VERDUN" Language="pl_PL">
+			<Text>Clermont-Ferrand</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_AMBOISE" Language="pl_PL">
+			<Text>Angers</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_CHARTRES" Language="pl_PL">
+			<Text>Le Mans</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_MONTELIMAR" Language="pl_PL">
+			<Text>Saint-Etienne</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_CARCASSONNE" Language="pl_PL">
+			<Text>Perpignan</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_CALAIS" Language="pl_PL">
+			<Text>Nîmes</Text>
+		</Replace>
+
+
+
+		<Replace Tag="LOC_CITY_NAME_RHEIMS" Language="ko_KR">
+			<Text>Reims</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_BRIANCON" Language="ko_KR">
+			<Text>Nice</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_GAP" Language="ko_KR">
+			<Text>Lille</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_JARNAC" Language="ko_KR">
+			<Text>Orleans</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_TOUL" Language="ko_KR">
+			<Text>Toulon</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_ALBA_LA_ROMAINE" Language="ko_KR">
+			<Text>Strasbourg</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_BOULOGNE" Language="ko_KR">
+			<Text>Brest</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_DIEPPE" Language="ko_KR">
+			<Text>Le Havre</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_VERDUN" Language="ko_KR">
+			<Text>Clermont-Ferrand</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_AMBOISE" Language="ko_KR">
+			<Text>Angers</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_CHARTRES" Language="ko_KR">
+			<Text>Le Mans</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_MONTELIMAR" Language="ko_KR">
+			<Text>Saint-Etienne</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_CARCASSONNE" Language="ko_KR">
+			<Text>Perpignan</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_CALAIS" Language="ko_KR">
+			<Text>Nîmes</Text>
+		</Replace>
+
+
+
+		<Replace Tag="LOC_CITY_NAME_RHEIMS" Language="ja_JP">
+			<Text>Reims</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_BRIANCON" Language="ja_JP">
+			<Text>Nice</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_GAP" Language="ja_JP">
+			<Text>Lille</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_JARNAC" Language="ja_JP">
+			<Text>Orleans</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_TOUL" Language="ja_JP">
+			<Text>Toulon</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_ALBA_LA_ROMAINE" Language="ja_JP">
+			<Text>Strasbourg</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_BOULOGNE" Language="ja_JP">
+			<Text>Brest</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_DIEPPE" Language="ja_JP">
+			<Text>Le Havre</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_VERDUN" Language="ja_JP">
+			<Text>Clermont-Ferrand</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_AMBOISE" Language="ja_JP">
+			<Text>Angers</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_CHARTRES" Language="ja_JP">
+			<Text>Le Mans</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_MONTELIMAR" Language="ja_JP">
+			<Text>Saint-Etienne</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_CARCASSONNE" Language="ja_JP">
+			<Text>Perpignan</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_CALAIS" Language="ja_JP">
+			<Text>Nîmes</Text>
+		</Replace>
+
+
+
+
+		<Replace Tag="LOC_CITY_NAME_RHEIMS" Language="it_IT">
+			<Text>Reims</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_BRIANCON" Language="it_IT">
+			<Text>Nice</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_GAP" Language="it_IT">
+			<Text>Lille</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_JARNAC" Language="it_IT">
+			<Text>Orleans</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_TOUL" Language="it_IT">
+			<Text>Toulon</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_ALBA_LA_ROMAINE" Language="it_IT">
+			<Text>Strasbourg</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_BOULOGNE" Language="it_IT">
+			<Text>Brest</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_DIEPPE" Language="it_IT">
+			<Text>Le Havre</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_VERDUN" Language="it_IT">
+			<Text>Clermont-Ferrand</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_AMBOISE" Language="it_IT">
+			<Text>Angers</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_CHARTRES" Language="it_IT">
+			<Text>Le Mans</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_MONTELIMAR" Language="it_IT">
+			<Text>Saint-Etienne</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_CARCASSONNE" Language="it_IT">
+			<Text>Perpignan</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_CALAIS" Language="it_IT">
+			<Text>Nîmes</Text>
+		</Replace>
+
+
+
+		<Replace Tag="LOC_CITY_NAME_RHEIMS" Language="de_DE">
+			<Text>Reims</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_BRIANCON" Language="de_DE">
+			<Text>Nice</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_GAP" Language="de_DE">
+			<Text>Lille</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_JARNAC" Language="de_DE">
+			<Text>Orleans</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_TOUL" Language="de_DE">
+			<Text>Toulon</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_ALBA_LA_ROMAINE" Language="de_DE">
+			<Text>Strasbourg</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_BOULOGNE" Language="de_DE">
+			<Text>Brest</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_DIEPPE" Language="de_DE">
+			<Text>Le Havre</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_VERDUN" Language="de_DE">
+			<Text>Clermont-Ferrand</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_AMBOISE" Language="de_DE">
+			<Text>Angers</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_CHARTRES" Language="de_DE">
+			<Text>Le Mans</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_MONTELIMAR" Language="de_DE">
+			<Text>Saint-Etienne</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_CARCASSONNE" Language="de_DE">
+			<Text>Perpignan</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_CALAIS" Language="de_DE">
+			<Text>Nîmes</Text>
+		</Replace>
+
+
+
+
+
+		<Replace Tag="LOC_CITY_NAME_RHEIMS" Language="pt_BR">
+			<Text>Reims</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_BRIANCON" Language="pt_BR">
+			<Text>Nice</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_GAP" Language="pt_BR">
+			<Text>Lille</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_JARNAC" Language="pt_BR">
+			<Text>Orleans</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_TOUL" Language="pt_BR">
+			<Text>Toulon</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_ALBA_LA_ROMAINE" Language="pt_BR">
+			<Text>Strasbourg</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_BOULOGNE" Language="pt_BR">
+			<Text>Brest</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_DIEPPE" Language="pt_BR">
+			<Text>Le Havre</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_VERDUN" Language="pt_BR">
+			<Text>Clermont-Ferrand</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_AMBOISE" Language="pt_BR">
+			<Text>Angers</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_CHARTRES" Language="pt_BR">
+			<Text>Le Mans</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_MONTELIMAR" Language="pt_BR">
+			<Text>Saint-Etienne</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_CARCASSONNE" Language="pt_BR">
+			<Text>Perpignan</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_CALAIS" Language="pt_BR">
+			<Text>Nîmes</Text>
+		</Replace>
+
+
+		
+
+		
+		<Replace Tag="LOC_CITY_NAME_RHEIMS" Language="zh_Hant_HK">
+			<Text>Reims</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_BRIANCON" Language="zh_Hant_HK">
+			<Text>Nice</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_GAP" Language="zh_Hant_HK">
+			<Text>Lille</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_JARNAC" Language="zh_Hant_HK">
+			<Text>Orleans</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_TOUL" Language="zh_Hant_HK">
+			<Text>Toulon</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_ALBA_LA_ROMAINE" Language="zh_Hant_HK">
+			<Text>Strasbourg</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_BOULOGNE" Language="zh_Hant_HK">
+			<Text>Brest</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_DIEPPE" Language="zh_Hant_HK">
+			<Text>Le Havre</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_VERDUN" Language="zh_Hant_HK">
+			<Text>Clermont-Ferrand</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_AMBOISE" Language="zh_Hant_HK">
+			<Text>Angers</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_CHARTRES" Language="zh_Hant_HK">
+			<Text>Le Mans</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_MONTELIMAR" Language="zh_Hant_HK">
+			<Text>Saint-Etienne</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_CARCASSONNE" Language="zh_Hant_HK">
+			<Text>Perpignan</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_CALAIS" Language="zh_Hant_HK">
+			<Text>Nîmes</Text>
+		</Replace>
+		
+		
+		
+		
+		
+		
+		
+		
+		<Replace Tag="LOC_CITY_NAME_RHEIMS" Language="en_US">
+			<Text>Reims</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_BRIANCON" Language="en_US">
+			<Text>Nice</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_GAP" Language="en_US">
+			<Text>Lille</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_JARNAC" Language="en_US">
+			<Text>Orleans</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_TOUL" Language="en_US">
+			<Text>Toulon</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_ALBA_LA_ROMAINE" Language="en_US">
+			<Text>Strasbourg</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_BOULOGNE" Language="en_US">
+			<Text>Brest</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_DIEPPE" Language="en_US">
+			<Text>Le Havre</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_VERDUN" Language="en_US">
+			<Text>Clermont-Ferrand</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_AMBOISE" Language="en_US">
+			<Text>Angers</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_CHARTRES" Language="en_US">
+			<Text>Le Mans</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_MONTELIMAR" Language="en_US">
+			<Text>Saint-Etienne</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_CARCASSONNE" Language="en_US">
+			<Text>Perpignan</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_CALAIS" Language="en_US">
+			<Text>Nîmes</Text>
+		</Replace>
+		
+	
+		<Row Tag="LOC_TRAIT_LEADER_GEDEMO_NAPOLEON_NAME" Language="en_US">
+			<Text>Grande Armée</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_LEADER_GEDEMO_NAPOLEON_DESCRIPTION" Language="en_US">
+			<Text>All units have a -1 [ICON_Gold] Gold reduced maintenance cost. Get an additional Military [ICON_Policy] Policy card slot after the 'Military Science' technology is researched. Can build [ICON_DISTRICT_ENCAMPMENT] Encampment districts in half the usual time.</Text>
+		</Row>
+
+
+		
+
+
+		<Row Tag="LOC_LEADER_GEDEMO_NAPOLEON" Language="en_US">
+			<Text>Napoleon Bonaparte</Text>
+		</Row>
+		
+		<Row Tag="LOC_LOADING_INFO_LEADER_GEDEMO_NAPOLEON" Language="en_US">
+			<Text>Long life and triumph to you, First Consul and Emperor of France, Napoleon I, ruler of the French people.  France lies at the heart of Europe. Long has Paris been the world center of culture, arts and letters. Although surrounded by competitors - and often enemies - France has endured as a great nation. Its armies have marched triumphantly into battle from one end of the world to the other, its soldiers and generals among the best in history.[NEWLINE][NEWLINE]Napoleon Bonaparte, France yearns for you to rebuild your empire, to lead her once more to glory and greatness, to make France once more the epicenter of culture and refinement.  Emperor, will you ride once more against your foes?  Can you build a civilization that will stand the test of time?</Text>
+		</Row>
+		<!--Civilopedia-->
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_GEDEMO_NAPOLEON_TITLE" Language="en_US">
+			<Text>First Consul of the First French Republic</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_GEDEMO_NAPOLEON_SUBTITLE" Language="en_US">
+			<Text>Emperor</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_GEDEMO_NAPOLEON_QUOTE" Language="en_US">
+			<Text>It is not possible; It's not French!</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_GEDEMO_NAPOLEON_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Napoleon Bonaparte was born on the island of Corsica, where he entered a military academy at the age of ten. In school he displayed a great aptitude for mathematics, history, and geography, as well as a total indifference to literature and the humanities. At fourteen he was commissioned as a sub-lieutenant in an artillery regiment. When the French revolution broke out, Napoleon sided with the Revolutionaries and was appointed lieutenant-colonel of artillery, where he quickly made a name for himself as a successful commander. Early on Napoleon displayed both his military brilliance and his ability to navigate the perilous political landscape of Revolutionary France, where one false step could cost you your head - literally. By 1794 he was a brigadier-general, and by 1795 he was appointed command of the French Army of the Interior. He was 25 years of age. Over the next few years Napoleon led French armies to major victories over various continental foes, including the extremely powerful Austrians.[NEWLINE][NEWLINE]Capitalizing on his success and his growing popularity with the citizens and the army, in 1800 he overthrew the government and appointed himself "First Consul." Five years later he would crown himself "Emperor and Consul for Life," displaying his fine contempt for the democratic roots of the Revolution that brought him to power. An exceptional administrator, Napoleon rapidly reorganized the government, repealed the more radical and violent laws of the Revolution, and reopened the churches, cementing his popularity with the people of France. However, France was still at war with most of Europe, and Napoleon once again took to the battlefields, where he won stunning victories against Austria, causing that country and England to make peace.[NEWLINE][NEWLINE]England remained nervous of France's imperial intentions, and war resumed in 1803. Napoleon found himself facing a daunting alliance that included England, Austria, Russia and Sweden. Acting with amazing speed and cunning, Napoleon used his "interior lines" to concentrate his forces against the dispersed enemy. He rapidly marched across Europe, capturing the capital of Austria and then crushing the Russian forces at the battle of Austerlitz. Austria sued for peace once again. For several years Napoleon would defeat every foe that came against him. He crushed the Prussians, the Spanish, and the Austrians yet again. However, Russia and England remained undefeated. Eventually Napoleon decided that he would never be safe in Europe as long as Russia, aided by the perfidious English, was on his flank. With England secure behind the Channel and its superb navy, he had little choice but to attack Russia, the only foe in the alliance his armies could reach. In 1812 he led half a million men to attack Moscow. The Russian forces retreated before his advance, taking or burning anything that might be of use to the invaders, while in the rear Cossack raiders destroyed Napoleon's supply lines. Bonaparte did reach and capture Moscow, but once again the Russians had removed or burnt anything there that might feed his men, and he was forced to retreat, fighting the Russian troops and the even more deadly Russian winter mile after bitter mile. By the end of the campaign Napoleon had lost 96% of his army. Upon returning to Paris, Napoleon immediately recruited another army of 350,000, but his image of invulnerability was gone, and all Europe rose against him. Prussia, Russia and Austria allied against him, and England threw more troops into contested Spain. Though Napoleon was to again win famous victories, his enemies continued their relentless attacks. Eventually the allies drove their way into Paris, and Napoleon abdicated. For his trouble he was given rulership of the island of Elba, along with an income of six million francs, to be paid by France.[NEWLINE][NEWLINE]Later he would return to France and try to regain power one last time, but he was finally and irrevocably defeated by an English and Prussian army at Waterloo in Belgium. This time he was confined for life at the island of Sainte-Helene, a thousand miles from the coast of Africa. He died there in 1821.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_GEDEMO_NAPOLEON_CHAPTER_HISTORY_PARA_2" Language="en_US">
+			<Text>Napoleon was one of the most brilliant generals of all time. He moved his troops with astounding rapidity, and he always knew exactly where to strike in order to cause the most damage. Domestically he turned out to be a decent, imaginative ruler and France flourished under his control (until his endless wars sapped her strength and will to fight). An Army general to his core, he never was able to create a navy able to seriously challenge England's dominance over the oceans.[NEWLINE][NEWLINE]In the end, he just couldn't beat everybody.</Text>
+		</Row>
+
+
+
+ 
+		
+		
+		
+		
+		<!--Diplomacy-->
+		<!--FIRST MEET-->
+		<!--First AI line-->
+		<Row Tag="LOC_DIPLO_FIRST_MEET_LEADER_GEDEMO_NAPOLEON_ANY" Language="en_US">
+			<Text>Welcome, Stranger! I am Napoleon, Emperor of France! I am loyal to my friends, death to my enemies. Which will you be?</Text>
+		</Row>
+		<!--AI invitation to visit nearby City-->
+		<Row Tag="LOC_DIPLO_FIRST_MEET_VISIT_RECIPIENT_LEADER_GEDEMO_NAPOLEON_ANY" Language="en_US">
+			<Text>Welcome. I am Napoleon of France, the greatest military mind in the history of the world!</Text>
+		</Row>
+		<!--AI accepts Human invitation-->
+		<Row Tag="LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_POSITIVE_LEADER_GEDEMO_NAPOLEON_ANY" Language="en_US">
+			<Text>I thank you for your service to France!</Text>
+		</Row>
+		<!--AI invitation to exchange Capital Information-->
+		<Row Tag="LOC_DIPLO_FIRST_MEET_NO_MANS_INFO_EXCHANGE_LEADER_GEDEMO_NAPOLEON_ANY" Language="en_US">
+			<Text>Ah. We meet at last. I am Napoleon, Emperor of France. Come: let us discuss the division of the world between our two great nations.</Text>
+		</Row>
+		<!--GREETINGS-->
+		<Row Tag="LOC_DIPLO_GREETING_LEADER_GEDEMO_NAPOLEON_ANY" Language="en_US">
+			<Text>Until we meet again.</Text>
+		</Row>
+		<!--DELEGATION-->
+		<!--AI Accepts-->
+		<Row Tag="LOC_DIPLO_ACCEPT_DELEGATION_FROM_HUMAN_LEADER_GEDEMO_NAPOLEON_ANY" Language="en_US">
+			<Text>Your usefulness has been noted. Thank you.</Text>
+		</Row>
+		<!--AI Rejects-->
+		<Row Tag="LOC_DIPLO_REJECT_DELEGATION_FROM_HUMAN_LEADER_GEDEMO_NAPOLEON_ANY" Language="en_US">
+			<Text>Your offer is an insult to the person of the Emperor - that is to say, me. I most haughtily decline it.</Text>
+		</Row>
+		<!--AI Requests -->
+		<Row Tag="LOC_DIPLO_DELEGATION_FROM_AI_LEADER_GEDEMO_NAPOLEON_ANY" Language="en_US">
+			<Text>France offers you this exceptional gift. I urge you to accept.</Text>
+		</Row>
+		<!--OPEN BORDERS-->
+		<!--AI accepts from human-->
+		<Row Tag="LOC_DIPLO_ACCEPT_OPEN_BORDERS_FROM_HUMAN_LEADER_GEDEMO_NAPOLEON_ANY" Language="en_US">
+			<Text>Certainly. The Emperor's generosity is legendary!</Text>
+		</Row>
+		<!--AI rejects from human-->
+		<Row Tag="LOC_DIPLO_REJECT_OPEN_BORDERS_FROM_HUMAN_LEADER_GEDEMO_NAPOLEON_ANY" Language="en_US">
+			<Text>My time is precious. Do not waste it with this nonsense.</Text>
+		</Row>
+		<!--AI requests from human-->
+		<Row Tag="LOC_DIPLO_OPEN_BORDERS_FROM_AI_LEADER_GEDEMO_NAPOLEON_ANY" Language="en_US">
+			<Text>Will you allow our units to cross through your territory?</Text>
+		</Row>
+		<!--DECLARE FRIENDSHIP-->
+		<!--AI accepts from human-->
+		<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_HUMAN_LEADER_GEDEMO_NAPOLEON_ANY" Language="en_US">
+			<Text>I accept your offer of friendship. I believe both our peoples may stand to profit from this arrangement.</Text>
+		</Row>
+		<!--AI Rejects from human -->
+		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_HUMAN_LEADER_GEDEMO_NAPOLEON_ANY" Language="en_US">
+			<Text>There must be some mistake. I am sure you would not intentionally insult the great French people with such a ridiculous offer.</Text>
+		</Row>
+		<!--AI Requests friendship from human-->
+		<Row Tag="LOC_DIPLO_DECLARE_FRIEND_FROM_AI_LEADER_GEDEMO_NAPOLEON_ANY" Language="en_US">
+			<Text>My beloved friend, I trust that you will find this trade to your liking.</Text>
+		</Row>
+		<!--Human accepts AI requests, AI responds-->
+		<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_GEDEMO_NAPOLEON_ANY" Language="en_US">
+			<Text>Thank you, friend.</Text>
+		</Row>
+		<!--Human rejects AI requests, AI responds-->
+		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_GEDEMO_NAPOLEON_ANY" Language="en_US">
+			<Text>How disappointing.</Text>
+		</Row>
+		<!--ALLIANCE-->
+		<!--AI Requests an alliance from human-->
+		<Row Tag="LOC_DIPLO_MAKE_ALLIANCE_FROM_AI_LEADER_GEDEMO_NAPOLEON_ANY" Language="en_US">
+			<Text>Would you like to form an alliance?</Text>
+		</Row>
+		<!--KUDOS & WARNINGS-->
+		<!--AI Kudos-->
+		<Row Tag="LOC_DIPLO_KUDO_EXIT_LEADER_GEDEMO_NAPOLEON_ANY" Language="en_US">
+			<Text>I beg your pardon?</Text>
+		</Row>
+		<!--AI Warnings-->
+		<Row Tag="LOC_DIPLO_WARNING_EXIT_LEADER_GEDEMO_NAPOLEON_ANY" Language="en_US">
+			<Text>You are playing a dangerous game.</Text>
+		</Row>
+		<!--AI warns player for border troops-->
+		<Row Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_LEADER_GEDEMO_NAPOLEON_ANY" Language="en_US">
+			<Text>My friend, France needs the following: move your soldiers from our borders. I trust that you will not disappoint us.</Text>
+		</Row>
+		<!--TRADE-->
+		<!--AI Accepts Deal-->
+		<Row Tag="LOC_DIPLO_ACCEPT_MAKE_DEAL_FROM_AI_LEADER_GEDEMO_NAPOLEON_ANY" Language="en_US">
+			<Text>{LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_GEDEMO_NAPOLEON_ANY}</Text>
+		</Row>
+		<!--AI Rejects Deal-->
+		<Row Tag="LOC_DIPLO_REJECT_MAKE_DEAL_FROM_AI_LEADER_GEDEMO_NAPOLEON_ANY" Language="en_US">
+			<Text>{LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_GEDEMO_NAPOLEON_ANY}</Text>
+		</Row>
+		<!--DENOUNCE-->
+		<!--From Human-->
+		<Row Tag="LOC_DIPLO_DENOUNCE_FROM_HUMAN_LEADER_GEDEMO_NAPOLEON_ANY" Language="en_US">
+			<Text>Indeed? I trust that you will not live to regret your short-sightedness.</Text>
+		</Row>
+		<!--From AI-->
+		<Row Tag="LOC_DIPLO_DENOUNCE_FROM_AI_LEADER_GEDEMO_NAPOLEON_ANY" Language="en_US">
+			<Text>I'm beginning to suspect this is some plot to neutralize me. Go away!. (Denounces You).</Text>
+		</Row>
+		<!--DECLARE WAR-->
+		<!--Human Declares War-->
+		<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_HUMAN_LEADER_GEDEMO_NAPOLEON_ANY" Language="en_US">
+			<Text>You have insulted France for the last time. Prepare for war!</Text>
+		</Row>
+		<!--AI Declares War-->
+		<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_GEDEMO_NAPOLEON_ANY" Language="en_US">
+			<Text>You have fallen into my trap. Now you shall pay..</Text>
+		</Row>
+		<!--MAKE PEACE-->
+		<!--AI accepts from human-->
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_AI_ACCEPT_DEAL_LEADER_GEDEMO_NAPOLEON_ANY" Language="en_US">
+			<Text>I suppose I must.</Text>
+		</Row>
+		<!--AI refuses human-->
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_AI_REFUSE_DEAL_LEADER_GEDEMO_NAPOLEON_ANY" Language="en_US">
+			<Text>Certainly not.</Text>
+		</Row>
+		<!--AI requests from human-->
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_FROM_AI_LEADER_GEDEMO_NAPOLEON_ANY" Language="en_US">
+			<Text>It appears that I have greatly underestimated you. I shall not make the same mistake again, I promise you.</Text>
+		</Row>
+		<!--DEFEAT-->
+		<!--AI is Defeated-->
+		<Row Tag="LOC_DIPLO_DEFEAT_FROM_AI_LEADER_GEDEMO_NAPOLEON_ANY" Language="en_US">
+			<Text>I am undone. There is nothing left but honor. Do with me what you will.</Text>
+		</Row>
+		<!--Human is Defeated (will see this in hotseat)-->
+		<Row Tag="LOC_DIPLO_DEFEAT_FROM_HUMAN_LEADER_GEDEMO_NAPOLEON_ANY" Language="en_US">
+			<Text>[LOC_DIPLO_DEFEAT_FROM_AI_LEADER_GEDEMO_NAPOLEON_ANY]</Text>
+		</Row>
+
+	
+
+
+		<Row Tag="LOC_AGENDA_GEDEMO_NAPOLEON_NAME" Language="en_US">
+			<Text>Napoleonic Wars</Text>
+		</Row>
+		<Row Tag="LOC_AGENDA_GEDEMO_NAPOLEON_DESCRIPTION" Language="en_US">
+			<Text>Likes civilizations at war with powers other than France. Dislikes civilizations at peace.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_LEADER_GEDEMO_NAPOLEON_REASON_ANY" Language="en_US">
+			<Text>(You do not interact on the world chessboard.)</Text>
+		</Row>
+
+		<Replace Tag="LOC_DIPLO_MODIFIER_SHORT_LIFE_GLORY_AT_WAR" Language="en_US">
+			<Text>The Leader is happy to see your civilization is at war with others.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_MODIFIER_SHORT_LIFE_GLORY_NOT_AT_WAR" Language="en_US">
+			<Text>The Leader is not happy to see your civilization is currently at peace.</Text>
+		</Replace>
+		
+
+
+		<Row Tag="LOC_AGENDA_GEDEMO_NAPOLEON_NAME" Language="fr_FR">
+			<Text>Guerres Napoleoniennes</Text>
+		</Row>
+		<Row Tag="LOC_AGENDA_GEDEMO_NAPOLEON_DESCRIPTION" Language="fr_FR">
+			<Text>Aime les civiizations en guerre avec d'autres puissances que la France. N'apprécie pas les civilisations en paix.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_LEADER_GEDEMO_NAPOLEON_REASON_ANY" Language="fr_FR">
+			<Text>(Vous n'interagissez pas sur l'échiquier mondial.)</Text>
+		</Row>
+
+		<Replace Tag="LOC_DIPLO_MODIFIER_SHORT_LIFE_GLORY_AT_WAR" Language="fr_FR">
+			<Text>Le Dirigeant est ravi de vous savoir en guerre contre d'autres civilisations.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_MODIFIER_SHORT_LIFE_GLORY_NOT_AT_WAR" Language="fr_FR">
+			<Text>Le Dirigeant est déçu de voir que votre civilisation est actuellement en paix.</Text>
+		</Replace>
+		
+		
+		
+
+		<Row Tag="LOC_TRAIT_LEADER_GEDEMO_NAPOLEON_NAME"  Language="fr_FR" >
+			<Text>Grande Armée</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_LEADER_GEDEMO_NAPOLEON_DESCRIPTION"  Language="fr_FR" >
+			<Text>Toutes les unités ont un coût de maintenance réduit de 1 [ICON_Gold] Or. Une fois la Science Militaire découverte, bénéficiez d'une [ICON_Policy] Carte de doctrine militaire supplémentaire. Les [ICON_DISTRICT_ENCAMPMENT] Campements Militaires sont construits deux fois plus rapidement.</Text>
+		</Row>
+		
+		
+
+		
+		
+		
+		
+		<Row Tag="LOC_LEADER_GEDEMO_NAPOLEON" Language="fr_FR">
+			<Text>Napoleon Bonaparte</Text>
+		</Row>
+		
+		<Row Tag="LOC_LOADING_INFO_LEADER_GEDEMO_NAPOLEON" Language="fr_FR">
+			<Text>Que votre vie soit longue et votre triomphe immense, premier consul et empereur de France, Napoléon Ier, dirigeant du peuple français. La France est au coeur de l'Europe. Paris est depuis longtemps le noyau mondial de la culture, des arts et des lettres. Bien qu'entourée de rivaux, et souvent d'ennemis, la France a su résister et rester une grande nation. Ses armées ont parcouru le monde, accumulant les victoires, et ses soldats et généraux sont parmi les plus réputés de toute l'histoire.[NEWLINE][NEWLINE]Napoléon Bonaparte, la France attend de vous que vous reconstruisiez votre empire et que vous la meniez une fois de plus à la gloire et à la grandeur. Votre nation souhaite redevenir l'épicentre de la culture et du raffinement. Empereur, repousserez-vous une fois de plus les attaques ennemies ? Bâtirez-vous une civilisation capable de résister au passage du temps ?</Text>
+		</Row>
+
+		<!--Civilopedia french-->
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_GEDEMO_NAPOLEON_TITLE" Language="fr_FR">
+			<Text>Premier Consul de la Première République française</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_GEDEMO_NAPOLEON_SUBTITLE" Language="fr_FR">
+			<Text>Empereur</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_GEDEMO_NAPOLEON_QUOTE" Language="fr_FR">
+			<Text>Ce n’est pas possible ; cela n’est pas français</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_GEDEMO_NAPOLEON_CHAPTER_HISTORY_PARA_1" Language="fr_FR">
+			<Text>Napoléon Bonaparte vit le jour en Corse. Il entra dans une école militaire à 10 ans. Il possédait d'excellentes capacités en mathématiques, histoire et géographie, mais se montrait profondément indifférent à la littérature et aux autres sciences humaines. À l'âge de 14 ans, il fut reçu lieutenant en second d'un régiment d'artillerie. Puis la révolution éclata, et il se rangea alors du côté des révolutionnaires. Il fut élu lieutenant-colonel d'artillerie et se fit un nom grâce à ses qualités d'homme de commandement. On voit très vite émerger chez Napoléon deux qualités : son intelligence militaire et son aptitude à évoluer dans les sphères politiques périlleuses d'une France révolutionnaire, où le moindre faux-pas peut vous coûter la tête (au sens propre du terme). En 1794, Napoléon fut promu général de division. En 1795, il prit le commandement de l'armée de l'Intérieur. Il a 25 ans. Les années qui suivirent, Napoléon dirigea les armées françaises et sortit victorieux des confrontations l'opposant à divers ennemis du continent, dont la très puissante armée d'Autriche.[NEWLINE][NEWLINE]Il mit alors à profit l'immense popularité qu'il avait acquis auprès des citoyens et de l'armée. En 1800, un coup d'État élaboré le propulsa Premier consul. Cinq ans plus tard, il se couronna Empereur à vie, dévoilant ainsi son mépris pour cette jeune démocratie qui l'avait pourtant amené au pouvoir. Napoléon s'imposa comme un administrateur remarquable. Il réorganisa le gouvernement, abrogea les lois les plus violentes et radicales nées de la Révolution, réhabilita l'église et consolida sa popularité auprès du peuple français. Néanmoins, la France était encore en guerre avec la plupart des pays d'Europe. Napoléon repartit donc se battre et remporta des victoires implacables contre l'Autriche, poussant ce pays à faire la paix avec l'Angleterre.[NEWLINE][NEWLINE]L'Angleterre n'était pas sereine face aux envies impériales de la France, et une nouvelle guerre éclata en 1803. Napoléon se retrouva face à une imposante alliance composée de l'Angleterre, de l'Autriche, de la Russie et de la Suède. Grâce à une rapidité d'action et un flair sans égal, Napoléon se servit de ses lignes intérieures pour concentrer ses forces sur un ennemi dispersé. L'Empereur marcha ainsi sur l'Europe, prit la capitale autrichienne et remporta la fameuse bataille d'Austerlitz contre les forces russes. L'Autriche demanda la paix une nouvelle fois. Pendant plusieurs années, Napoléon parvint à vaincre tous ses opposants : les Prussiens, les Espagnols et les Autrichiens, encore et toujours. En revanche, l'Angleterre et la Russie restèrent invaincus. Napoléon finit par envisager qu'il ne serait jamais en sécurité en Europe tant que la Russie, épaulée par les perfides Anglais, resterait à l'affût. L'Angleterre se sentait en sécurité grâce à la barrière naturelle de la Manche et surtout, grâce à sa flotte exceptionnelle. Un seul choix s'imposa à Napoléon : attaquer la Russie, le seul pays de l'alliance ennemie à portée de ses troupes. En 1812, il lança une attaque sur Moscou avec un demi-million d'hommes. Devant une telle percée, les armées russes battirent en retraite, non sans prendre le soin d'emporter ou de détruire tout ce qui pouvait être utile à l'envahisseur. Pendant ce temps-là, les Cosaques s'attaquaient aux lignes arrière de Napoléon. Bonaparte finit par atteindre et prendre Moscou. Mais une fois encore, les Russes étaient passés par là, et avaient tout emporté ou brûlé derrière eux. Dans l'impossibilité de nourrir ses hommes, Napoléon fut forcé de battre en retraite et fut confronté une nouvelle fois à une forte résistance russe, mais surtout, à un hiver de plus en plus rude. A la fin de la campagne de Russie, Napoléon avait perdu 96% de son armée. De retour à Paris, Napoléon reforma une armée de 350 000 hommes, mais son invincibilité n'était plus qu'un mythe, et toute l'Europe se souleva contre lui. La Prusse, le Russie et l'Autriche s'allièrent contre lui, tandis que l'Angleterre envoyait des troupes supplémentaires pour faire basculer l'Espagne. Cela n'empêcha pas Napoléon de gagner d'autres illustres victoires, mais ses ennemis continuèrent malgré tout leurs attaques incessantes. Ces derniers finirent par atteindre Paris et Napoléon se vit contraint d'abdiquer. Il fut par la suite déchu par le Sénat et exilé sur l'île d'Elbe, dont il se vit confier le contrôle, avec un revenu de six millions de francs payés par la France.[NEWLINE][NEWLINE]Plus tard, il revint en métropole pour tenter de reprendre la tête du pays, mais fut finalement vaincu de manière irrévocable lors de la bataille de Waterloo par les armées anglaise et prussienne. Il fut alors emprisonné sur l'île de Sainte-Hélène à des milliers de kilomètres de la côte africaine. C'est là qu'il mourut en 1821.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_GEDEMO_NAPOLEON_CHAPTER_HISTORY_PARA_2" Language="fr_FR">
+			<Text>Napoléon fut l'un des plus brillants chefs d'armée de tous les temps. Il parvenait à déplacer ses troupes avec une rapidité impressionnante et avait un don pour savoir où et quand frapper afin de causer le plus de dégâts chez son ennemi. Pour son pays, il fut un dirigeant imaginatif et respectable. La France connut un bel épanouissement sous son règne (jusqu'à ce que les guerres incessantes aient raison de sa force et de sa volonté). Si diriger une armée était inné chez lui, il ne parvint tout de même pas à réunir des forces navales susceptibles d'inquiéter la Royal Navy.[NEWLINE][NEWLINE]L'Histoire retiendra qu'il ne pouvait tout simplement pas vaincre tout le monde.</Text>
+		</Row>
+
+
+
+		
+		
+		
+		<!--Diplomacy french-->
+		<!--FIRST MEET french-->
+		<!--First AI line french-->
+		<Row Tag="LOC_DIPLO_FIRST_MEET_LEADER_GEDEMO_NAPOLEON_ANY" Language="fr_FR">
+			<Text>Je suis Napoleon Bonaparte, Premier Consul de France. Venez-en aux faits, je suis assez occupé...</Text>
+		</Row>
+		<!--AI invitation to visit nearby City french-->
+		<Row Tag="LOC_DIPLO_FIRST_MEET_VISIT_RECIPIENT_LEADER_GEDEMO_NAPOLEON_ANY" Language="fr_FR">
+			<Text>Bienvenue en France, étranger! Vous venez assister au spectacle d'une journée de l'Empereur?</Text>
+		</Row>
+		<!--AI accepts Human invitation french-->
+		<Row Tag="LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_POSITIVE_LEADER_GEDEMO_NAPOLEON_ANY" Language="fr_FR">
+			<Text>Je vous remercie.</Text>
+		</Row>
+		<!--AI invitation to exchange Capital Information french -->
+		<Row Tag="LOC_DIPLO_FIRST_MEET_NO_MANS_INFO_EXCHANGE_LEADER_GEDEMO_NAPOLEON_ANY" Language="fr_FR">
+			<Text>Nous souhaiterion échanger des informations à toutes fins utiles, telles que l'emplacement de nos capitales respectives...qu'en pensez-vous?</Text>
+		</Row>
+		<!--GREETINGS french-->
+		<Row Tag="LOC_DIPLO_GREETING_LEADER_GEDEMO_NAPOLEON_ANY" Language="fr_FR">
+			<Text>Bonjour, je suis Napoléon. Que voulez-vous?</Text>
+		</Row>
+		<!--DELEGATION french-->
+		<!--AI Accepts french-->
+		<Row Tag="LOC_DIPLO_ACCEPT_DELEGATION_FROM_HUMAN_LEADER_GEDEMO_NAPOLEON_ANY" Language="fr_FR">
+			<Text>Je vous remercie pour vos présents, ils amuseront un temps les enfants de mes valets.</Text>
+		</Row>
+		<!--AI Rejects french-->
+		<Row Tag="LOC_DIPLO_REJECT_DELEGATION_FROM_HUMAN_LEADER_GEDEMO_NAPOLEON_ANY" Language="fr_FR">
+			<Text>Non, malheureusement.</Text>
+		</Row>
+		<!--AI Requests french-->
+		<Row Tag="LOC_DIPLO_DELEGATION_FROM_AI_LEADER_GEDEMO_NAPOLEON_ANY" Language="fr_FR">
+			<Text>Je vous envoie une délégation commerciale avec des cadeaux de mon pays : des vetements à la mode (cela vous changera) et quelques plats préparés (vous a-t-on dit que la nourriture est abjecte chez vous?).</Text>
+		</Row>
+		<!--OPEN BORDERS french-->
+		<!--AI accepts from human french-->
+		<Row Tag="LOC_DIPLO_ACCEPT_OPEN_BORDERS_FROM_HUMAN_LEADER_GEDEMO_NAPOLEON_ANY" Language="fr_FR">
+			<Text>C'est avec plaisir que nous ouvrons nos frontières à vos unités (il faut bien avouer que nous n'avons rien à craindre de votre armée de pacotille).</Text>
+		</Row>
+		<!--AI rejects from human french-->
+		<Row Tag="LOC_DIPLO_REJECT_OPEN_BORDERS_FROM_HUMAN_LEADER_GEDEMO_NAPOLEON_ANY" Language="fr_FR">
+			<Text>Nous ne sommes pas intéressés pour l'instant.</Text>
+		</Row>
+		<!--AI requests from human french-->
+		<Row Tag="LOC_DIPLO_OPEN_BORDERS_FROM_AI_LEADER_GEDEMO_NAPOLEON_ANY" Language="fr_FR">
+			<Text>Permettrez-vous à nos unités de traverser votre territoire?</Text>
+		</Row>
+		<!--DECLARE FRIENDSHIP french-->
+		<!--AI accepts from human french-->
+		<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_HUMAN_LEADER_GEDEMO_NAPOLEON_ANY" Language="fr_FR">
+			<Text>J'accepte votre offre d'amitié. Ne nous decevez pas.</Text>
+		</Row>
+		<!--AI Rejects from human french-->
+		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_HUMAN_LEADER_GEDEMO_NAPOLEON_ANY" Language="fr_FR">
+			<Text>Je n'ai pas envie de m'afficher avec vous pour le moment.</Text>
+		</Row>
+		<!--AI Requests friendship from human french-->
+		<Row Tag="LOC_DIPLO_DECLARE_FRIEND_FROM_AI_LEADER_GEDEMO_NAPOLEON_ANY" Language="fr_FR">
+			<Text>Je vous suggère fortement d'accepter mon amitié, ou vous pourriez le regretter.</Text>
+		</Row>
+		<!--Human accepts AI requests, AI responds french-->
+		<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_GEDEMO_NAPOLEON_ANY" Language="fr_FR">
+			<Text>Je vous remercie.</Text>
+		</Row>
+		<!--Human rejects AI requests, AI responds french-->
+		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_GEDEMO_NAPOLEON_ANY" Language="fr_FR">
+			<Text>C'est fâcheux.</Text>
+		</Row>
+		<!--ALLIANCE-->
+		<!--AI Requests an alliance from human french-->
+		<Row Tag="LOC_DIPLO_MAKE_ALLIANCE_FROM_AI_LEADER_GEDEMO_NAPOLEON_ANY" Language="fr_FR">
+			<Text>Aimeriez-vous former une alliance?</Text>
+		</Row>
+		<!--KUDOS & WARNINGS french-->
+		<!--AI Kudos-->
+		<Row Tag="LOC_DIPLO_KUDO_EXIT_LEADER_GEDEMO_NAPOLEON_ANY" Language="fr_FR">
+			<Text>Ah! Ah! Vous êtes ambitieux, j'aime ça!</Text>
+		</Row>
+		<!--AI Warnings french-->
+		<Row Tag="LOC_DIPLO_WARNING_EXIT_LEADER_GEDEMO_NAPOLEON_ANY" Language="fr_FR">
+			<Text>On ne tire pas sur l'ambulance, enfin quand celle-ci n'est pas encore inventée, on peut tout se permettre, non?</Text>
+		</Row>
+		<!--AI warns player for border troops french-->
+		<Row Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_LEADER_GEDEMO_NAPOLEON_ANY" Language="fr_FR">
+			<Text>Veuillez retirer vos troupes de mes frontières. Vos soudards font un bruit épouvantable!</Text>
+		</Row>
+		<!--TRADE french-->
+		<!--AI Accepts Deal french-->
+		<Row Tag="LOC_DIPLO_ACCEPT_MAKE_DEAL_FROM_AI_LEADER_GEDEMO_NAPOLEON_ANY" Language="fr_FR">
+			<Text>{LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_GEDEMO_NAPOLEON_ANY}</Text>
+		</Row>
+		<!--AI Rejects Deal french-->
+		<Row Tag="LOC_DIPLO_REJECT_MAKE_DEAL_FROM_AI_LEADER_GEDEMO_NAPOLEON_ANY" Language="fr_FR">
+			<Text>{LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_GEDEMO_NAPOLEON_ANY}</Text>
+		</Row>
+		<!--DENOUNCE french-->
+		<!--From Human french-->
+		<Row Tag="LOC_DIPLO_DENOUNCE_FROM_HUMAN_LEADER_GEDEMO_NAPOLEON_ANY" Language="fr_FR">
+			<Text>J'en ai assez de vous ménager: votre comportement m'agace, tenez le vous pour dit!.</Text>
+		</Row>
+		<!--From AI french-->
+		<Row Tag="LOC_DIPLO_DENOUNCE_FROM_AI_LEADER_GEDEMO_NAPOLEON_ANY" Language="fr_FR">
+			<Text>Vous n'êtes qu'une petite fiente...et encore ce n'est pas trés courtois pour la fiente! (Dénonciation)</Text>
+		</Row>
+		<!--DECLARE WAR french-->
+		<!--Human Declares War french-->
+		<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_HUMAN_LEADER_GEDEMO_NAPOLEON_ANY" Language="fr_FR">
+			<Text>Il est temps que j'intègre votre peuple à mon empire: il aura enfin un leader digne de ce nom!</Text>
+		</Row>
+		<!--AI Declares War french-->
+		<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_GEDEMO_NAPOLEON_ANY" Language="fr_FR">
+			<Text>Cela me fatigue tant cela me parait être une fomalité inutile, bref je vous déclare la guerre!</Text>
+		</Row>
+		<!--MAKE PEACE french-->
+		<!--AI accepts from human french-->
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_AI_ACCEPT_DEAL_LEADER_GEDEMO_NAPOLEON_ANY" Language="fr_FR">
+			<Text>J'ai du mal à l'admettre mais oui faisons cela!.</Text>
+		</Row>
+		<!--AI refuses human french-->
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_AI_REFUSE_DEAL_LEADER_GEDEMO_NAPOLEON_ANY" Language="fr_FR">
+			<Text>Alors, on en a marre?</Text>
+		</Row>
+		<!--AI requests from human french-->
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_FROM_AI_LEADER_GEDEMO_NAPOLEON_ANY" Language="fr_FR">
+			<Text>Je vous propose une trève, quand pensez-vous?</Text>
+		</Row>
+		<!--DEFEAT french-->
+		<!--AI is Defeated french-->
+		<Row Tag="LOC_DIPLO_DEFEAT_FROM_AI_LEADER_GEDEMO_NAPOLEON_ANY" Language="fr_FR">
+			<Text>Je vous conseille de bien choisir le lieu de mon exil...</Text>
+		</Row>
+		<!--Human is Defeated (will see this in hotseat) french-->
+		<Row Tag="LOC_DIPLO_DEFEAT_FROM_HUMAN_LEADER_GEDEMO_NAPOLEON_ANY" Language="fr_FR">
+			<Text>[LOC_DIPLO_DEFEAT_FROM_AI_LEADER_GEDEMO_NAPOLEON_ANY]</Text>
+		</Row>
+
+		
+
+		<Replace Tag="LOC_CITY_NAME_RHEIMS" Language="fr_FR">
+			<Text>Reims</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_BRIANCON" Language="fr_FR">
+			<Text>Nice</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_GAP" Language="fr_FR">
+			<Text>Lille</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_JARNAC" Language="fr_FR">
+			<Text>Orleans</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_TOUL" Language="fr_FR">
+			<Text>Toulon</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_ALBA_LA_ROMAINE" Language="fr_FR">
+			<Text>Strasbourg</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_BOULOGNE" Language="fr_FR">
+			<Text>Brest</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_DIEPPE" Language="fr_FR">
+			<Text>Le Havre</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_VERDUN" Language="fr_FR">
+			<Text>Clermont-Ferrand</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_AMBOISE" Language="fr_FR">
+			<Text>Angers</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_CHARTRES" Language="fr_FR">
+			<Text>Le Mans</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_MONTELIMAR" Language="fr_FR">
+			<Text>Saint-Etienne</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_CARCASSONNE" Language="fr_FR">
+			<Text>Perpignan</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_CALAIS" Language="fr_FR">
+			<Text>Nîmes</Text>
+		</Replace>
+	</LocalizedText>
+</GameData>

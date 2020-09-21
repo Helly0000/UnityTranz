@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<LocalizedText>
+		<!-- 文明 -->
+		<Row Tag="LOC_CIVILIZATION_YNL_YAMATO_DYNASTY_NAME" Language="en_US">
+			<Text>Yamato Dynasty</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_YNL_YAMATO_DYNASTY_DESCRIPTION" Language="en_US">
+			<Text>Yamato Dynasty</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_YNL_YAMATO_DYNASTY_ADJECTIVE" Language="en_US">
+			<Text>Yamato Dynasty</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_CIVILIZATION_YNL_YAMATO_DYNASTY_NAME" Language="en_US">
+			<Text>Spirits of island country</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_CIVILIZATION_YNL_YAMATO_DYNASTY_DESCRIPTION" Language="en_US">
+			<Text>+3 [ICON_Housing] Housing in coastal cities. +1 [ICON_Faith] Faith from Grass. Cities with a garrisoned unit get +2 Loyalty per turn.</Text>
+		</Row>
+		
+		<!-- 指導者 -->
+		<Row Tag="LOC_LEADER_YNL_TAMAMO_NAME" Language="en_US">
+			<Text>Tamamo no mae</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_LEADER_YNL_TAMAMO_NAME" Language="en_US">
+			<Text>Eightfold Blessing of Amaterasu</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_LEADER_YNL_TAMAMO_DESCRIPTION" Language="en_US">
+			<Text>Military units receive +1 [ICON_Strength] Combat Strength when attacking for each different Luxury resource improved in Yamato Dynasty. All military units Heals at the end of every turn, even after moving or attacking. Combat victories provide [ICON_Science] Science equal to 50% of the [ICON_Strength] Combat Strength of the defeated unit.</Text>
+		</Row>
+		<Row Tag="LOC_LEADER_YNL_TAMAMO_DOM_TEXT" Language="en_US">
+			<Text>What do I like? Well of course while it may be small it would be MY HOME....well, although bigger will still better.</Text>
+		</Row>
+
+		<!-- UI -->
+		<Row Tag="LOC_IMPROVEMENT_YNL_SESSYOUSEKI_NAME" Language="en_US">
+			<Text>Sessyouseki</Text>
+		</Row>
+		<Row Tag="LOC_IMPROVEMENT_YNL_SESSYOUSEKI_DESCRIPTION" Language="en_US">
+			<Text>Unlocks the Builder ability to construct a Sessyouseki, unique to Yamato Dynasty.[NEWLINE][NEWLINE]+1 [ICON_Science] Science, +1 [ICON_Culture] Culture, +1 [ICON_Faith] Faith. +2 [ICON_Faith] Faith if adjacent to a Holy Site district. [ICON_Faith] Faith for every 1 adjacent Rainforest. +1 [ICON_Faith] Faith for every 1 adjacent Woods. One per City. Can not be built on Hills.</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_CIVILIZATION_IMPROVEMENT_YNL_SESSYOUSEKI_NAME" Language="en_US">
+			<Text>Yamato Dynasty unique improvement: Sessyouseki</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_IMPROVEMENTS_PAGE_IMPROVEMENT_YNL_SESSYOUSEKI_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text></Text>
+		</Row>
+
+		<!-- UB -->
+		<Row Tag="LOC_BUILDING_YNL_CHEMICAL_PLANT_NAME" Language="en_US">
+			<Text>Chemical Plant</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_YNL_CHEMICAL_PLANT_DESCRIPTION" Language="en_US">
+			<Text>A building unique to Yamato Dynasty. Replace the Factory. +4 [ICON_Production] Production to all city centers within 9 tiles. After researching the Electricity technology this building provides an additional +4 [ICON_Science] Scienceto its city. This bonus applies once to a city, and multiple copies of this building within 9 tiles of a city center do not provide additional bonuses.</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_CIVILIZATION_BUILDING_YNL_CHEMICAL_PLANT_NAME" Language="en_US">
+			<Text>Republic of Yamato Dynasty building: Chemical Plant</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_BUILDINGS_PAGE_BUILDING_YNL_CHEMICAL_PLANT_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text></Text>
+		</Row>
+	</LocalizedText>
+</GameData>

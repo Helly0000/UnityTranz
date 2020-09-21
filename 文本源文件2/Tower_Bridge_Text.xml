@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+    <EnglishText>
+        <Row Tag="LOC_BUILDING_TOWER_BRIDGE_NAME">
+            <Text>Tower Bridge</Text>
+        </Row>
+        <Row Tag="LOC_BUILDING_TOWER_BRIDGE_DESCRIPTION">
+            <Text>+8% Production in cities on Capital Continent and +8% Gold in cities not on Capital Continent. Awards +3 Coal per turn. Land units can cross without embarking. Works like a modern road and creates roads (if not present) in the land tiles on either ends. It must be built on a Coast tile where it must run straight across the hex between two land tiles directly opposite one another and at least one water tile must be adjacent to each end of the bridge. It cannot be built on a Lake.</Text>
+        </Row>
+        <Row Tag="LOC_BUILDING_TOWER_BRIDGE_QUOTE">
+            <Text>"The statesmen who construct, and the warriors who achieve, are only influenced by the instinct of power, and animated by the love of country. Those are the feelings and those the methods which form empires." - Benjamin Disraeli</Text>
+        </Row>
+        <Row Tag="LOC_PEDIA_WONDERS_PAGE_BUILDING_TOWER_BRIDGE_CHAPTER_HISTORY_PARA_1">
+            <Text>Tower Bridge is a combined bascule and suspension bridge in London, built between 1886 and 1894. The bridge crosses the River Thames close to the Tower of London and has become an iconic symbol of London. Because of this, Tower Bridge is sometimes confused with London Bridge, situated some 0.5 mi (0.80 km) upstream. Tower Bridge is one of five London bridges now owned and maintained by the Bridge House Estates, a charitable trust overseen by the City of London Corporation. It is the only one of the Trust's bridges not to connect the City of London directly to the Southwark bank, as its northern landfall is in Tower Hamlets.</Text>
+        </Row>
+        <Row Tag="LOC_PEDIA_WONDERS_PAGE_BUILDING_TOWER_BRIDGE_CHAPTER_HISTORY_PARA_2">
+            <Text>The bridge consists of two bridge towers tied together at the upper level by two horizontal walkways, designed to withstand the horizontal tension forces exerted by the suspended sections of the bridge on the landward sides of the towers. The vertical components of the forces in the suspended sections and the vertical reactions of the two walkways are carried by the two robust towers. The bascule pivots and operating machinery are housed in the base of each tower. Before its restoration in the 2010s, the bridge's colour scheme dated from 1977, when it was painted red, white and blue for Queen Elizabeth II's Silver Jubilee. Its colours were subsequently restored to blue and white.</Text>
+        </Row>
+        <Row Tag="LOC_PEDIA_WONDERS_PAGE_BUILDING_TOWER_BRIDGE_CHAPTER_HISTORY_PARA_3">
+            <Text></Text>
+        </Row>
+    </EnglishText>
+</GameData>

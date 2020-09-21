@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- DiploText -->
+<!-- Author: Richard -->
+<!-- DateCreated: 12/3/2017 6:10:28 PM -->
+<GameData>
+	<LocalizedText>
+	<!--Pedia-->
+		<Row Tag="LOC_CIVINFO_MER_VENICE_LOCATION" Language="en_US">
+			<Text>Veneto, Italy</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_MER_VENICE_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>The Republic of Venice, traditionally known as La Serenissima (Most Serene Republic of Venice), was a sovereign state and maritime republic in northeastern Italy, which existed for a millennium between the 8th century and the 18th century. It was based in the lagoon communities of the historically prosperous city of Venice, and was a leading European economic and trading power during the Middle Ages and the Renaissance.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_MER_VENICE_CHAPTER_HISTORY_PARA_2" Language="en_US">
+			<Text>The Venetian city state was founded as a safe haven for the people escaping persecution in mainland Europe after the decline of the Roman Empire. In its early years, it prospered on the salt trade. In subsequent centuries, the city state established a thalassocracy. It dominated trade on the Mediterranean Sea, including commerce between Europe and North Africa, as well as Asia. The Venetian navy was used in the Crusades, most notably in the Fourth Crusade. Venice achieved territorial conquests along the Adriatic Sea. The city became home to an extremely wealthy merchant class, who patronized renowned art and architecture along the city's lagoons. Venetian merchants were influential financiers in Europe. The city was also the birthplace of great European explorers, especially Marco Polo, as well as Baroque composers such as Vivaldi and Benedetto Marcello.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_MER_VENICE_CHAPTER_HISTORY_PARA_3" Language="en_US">
+			<Text>The republic was ruled by the Doge, who was elected by members of the Great Council of Venice, the city-state's parliament. The ruling class was an oligarchy of merchants and aristocrats. Venice and other Italian maritime republics played a key role in fostering capitalism. Venetian citizens generally supported the system of governance. The city-state enforced strict laws and employed ruthless tactics in its prisons.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_MER_VENICE_CHAPTER_HISTORY_PARA_4" Language="en_US">
+			<Text>The opening of new trade routes to the Americas and the East Indies via the Atlantic Ocean marked the beginning of Venice's decline as a powerful maritime republic. The city state suffered defeats from the navy of the Ottoman Empire. In 1797, the republic was plundered by retreating Austrian and then French forces, following an invasion by Napoleon Bonaparte, and the Republic of Venice was split into the Austrian Venetian Province, the Cisalpine Republic, a French client state, and the Ionian French departments of Greece. Venice then became a part of a unified Italy in the 19th century.</Text>
+		</Row>
+	<!--DOM-->
+	<Row Tag="LOC_LOADING_INFO_LEADER_MER_ENRICO" Language="en_US">
+		<Text>Greetings, more Serene Doge Enrico Dandolo, Venice once more seeks the service of your shrewd leadership. Spread the Venetian influence beyond the waters of it's canals, out into the ocean, and creating a dominion of states that will further it's growth. </Text>
+	</Row>
+	<!--Agenda-->
+	<Row Tag="LOC_AGENDA_MER_DUCALE_NAME" Language="en_US">
+		<Text>Fourth Crusade</Text>
+	</Row>
+	<Row Tag="LOC_AGENDA_MER_DUCALE_DESCRIPTION" Language="en_US">
+		<Text>Favors warmongers who share his religion. Dislikes civilizations of different religions who have high culture.</Text>
+	</Row>
+	<Row Tag="LOC_DIPLO_KUDOS_LEADER_MER_ENRICO_REASON_LOYALTY" Language="en_US">
+		<Text>(You share a religion)</Text>
+	</Row>
+	<Row Tag="LOC_DIPLO_MODIFIER_MER_ENRICO_DUCALE_HIGH_FAITH" Language="en_US">
+		<Text>Enrico is happy you share his religion.</Text>
+	</Row>
+	<Row Tag="LOC_DIPLO_WARNING_LEADER_MER_ENRICO_REASON_SAME_CONTINENT" Language="en_US">
+		<Text>(You have a different religion)</Text>
+	</Row>
+	<Row Tag="LOC_DIPLO_MODIFIER_MER_ENRICO_DUCALE_SAME_CONTINENT" Language="en_US">
+		<Text>Enrico is angered by your beliefs.</Text>
+	</Row>
+	<!--Civilopedia-->
+	<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_MER_ENRICO_TITLE" Language="en_US">
+		<Text>Enrico Dandolo</Text>
+	</Row>
+	<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_MER_ENRICO_SUBTITLE" Language="en_US">
+		<Text>Most Serene Doge</Text>
+	</Row>
+	<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_MER_ENRICO_QUOTE" Language="en_US">
+		<Text></Text>
+	</Row>
+	<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_MER_ENRICO_CHAPTER_HISTORY_PARA_1" Language="en_US">
+		<Text>Enrico Dandolo was the 41st Doge of Venice from 1192 until his death. He is remembered for his piety, longevity, and shrewdness, and is known for his role in the Fourth Crusade and the Sack of Constantinople.</Text>
+	</Row>
+	<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_MER_ENRICO_CHAPTER_HISTORY_PARA_2" Language="en_US">
+		<Text>On June 1, 1192, after Orio Mastropietro abdicated the throne, Dandolo became the forty-first Doge of Venice. He was the second doge to be chosen by a council of forty electors. Already aged and blind, but deeply ambitious, he displayed tremendous energy and mental capacity. His remarkable deeds over the next eleven years have led some to hypothesize that he actually may have been in his mid seventies when he became Venice's leader, but historian Thomas F. Madden argues that he was almost certainly born in or around 1107, making him about eighty-five when he assumed the throne. Though not the first doge to take the promissione ducale, Dandolo's is the earliest that is available to historians. </Text>
+	</Row>
+	<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_MER_ENRICO_CHAPTER_HISTORY_PARA_3" Language="en_US">
+		<Text>One of Dandolo’s first decrees as doge was to evict all foreigners who had lived in Venice for fewer than two years on August 16, 1192. Landlords were obligated to evict any of these foreigners from their premises. Citizens who violated the decree had to pay fifty lire, and foreigners’ goods were confiscated. Additionally, Venetians were not allowed to lend money to foreigners—excepting those from the areas of Umana or Ragusa—for a period that exceeded fifteen days. The reason why this decree was implemented is unknown, but it seems to correlate to a recent increase of foreigners into Venice, since it did not affect foreigners who had been living in the city for more than two years.</Text>
+	</Row>
+	<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_MER_ENRICO_CHAPTER_HISTORY_PARA_4" Language="en_US">
+		<Text>In 1193, Dandolo commanded an attack on the nearby city of Zara, which for years had troubled Venice and threatened its control over the Dalmatian Coast. Until 1180, Zara had been under Venetian control, until they staged a successful rebellion in which they became the sole city on this coast that was against Venetian interests. Dandolo seemed to have always supported Venice's reinstating power over the city, since he had contributed money to doge Orio Mastropiero's 1187 military attempt to regain control there. Dandolo's 1193 attack on Zara was only somewhat successful. He managed to regain control over the islands of Pago, Ossero, and Arbe, which had been lost in a 1190 attempt led by Mastropiero, though not Zara.</Text>
+	</Row>
+	<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_MER_ENRICO_CHAPTER_HISTORY_PARA_6" Language="en_US">
+		<Text>The Crusade fleet left Venice for the Fourth Crusade during the first week of October 1202, following an emotional and rousing ceremony in San Marco di Venezia where Dandolo "took the cross" –committed himself to crusading–and promised to "go live or die" with the Crusaders in exchange for his people's support, and his sons' taking his place during his absence. The Crusaders arrived in Zara in November, the sheer size of their fleet intimidating the Zarans into near surrender.</Text>
+	</Row>
+	<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_MER_ENRICO_CHAPTER_HISTORY_PARA_7" Language="en_US">
+		<Text>Dandolo agreed to the Crusade leaders' plan to place Alexius Angelus on the throne of the Byzantine Empire in return for his support and funds to help the Crusade. The Crusaders thus took another detour to Constantinople, where the conquest and sack of Constantinople took place on April 12, 1204. During the looting, Dandolo had many items of value sent back to Venice, including the four Horses of St. Mark that decorate the Venetian cathedral to this day. When Constantinople fell, Dandolo understood that he needed to quickly restore stability to the empire to avoid disorder that could threaten Venice. One necessary task was to find an emperor for the new Latin empire. Dandolo was offered the position, but he refused, and Baldwin of Flanders instead took the throne.</Text>
+	</Row>
+	<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_MER_ENRICO_CHAPTER_CAPSULE_BODY" Language="en_US">
+		<Text>Enrico's focus is warfare, particularly against culturally advanced Civilizations with Great Works of Art and Relics to steal.</Text>
+	</Row>
+	<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_MER_ENRICO_CHAPTER_DETAILED_BODY" Language="en_US">
+		<Text>Venice's power comes from expansion, the more cities they own the more powerful they can become. Constructing Districts in all your cities is important in growing Venice as a powerful capital city and expanding trade opportunities.</Text>
+	</Row>
+	<!--Diplomacy-->
+	<!--FIRST MEET-->
+	<!--First AI line-->
+	<Row Tag="LOC_DIPLO_FIRST_MEET_LEADER_MER_ENRICO_ANY" Language="en_US">
+		<Text>Welcome to Venice. I am Doge Enrico Dandolo. </Text>
+	</Row>
+	<!--DECLARE FRIENDSHIP-->
+	<!--AI accepts from human-->
+	<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_HUMAN_LEADER_MER_ENRICO_ANY" Language="en_US">
+		<Text>Venive gains a great deal from this. I accept.</Text>
+	</Row>
+	<!--AI Rejects from human-->
+	<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_HUMAN_LEADER_MER_ENRICO_ANY" Language="en_US">
+		<Text>This is no good.</Text>
+	</Row>
+	<!--AI Requests friendship from human-->
+	<Row Tag="LOC_DIPLO_DECLARE_FRIEND_FROM_AI_LEADER_MER_ENRICO_ANY" Language="en_US">
+		<Text>We would both have much to gain from this.</Text>
+	</Row>
+	<!--KUDOS & WARNINGS-->
+	<!--AI Kudos-->
+	<Row Tag="LOC_DIPLO_KUDO_EXIT_LEADER_MER_ENRICO_ANY" Language="en_US">
+		<Text>We have sworn an oath to the cross to do god's will upon this world. </Text>
+	</Row>
+	<!--AI Warnings-->
+	<Row Tag="LOC_DIPLO_WARNING_EXIT_LEADER_MER_ENRICO_ANY" Language="en_US">
+		<Text>You are heretics, and the culture you spread is stolen and false.</Text>
+	</Row>
+	<!--AI warns player for border troops-->
+	<Row Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_LEADER_MER_ENRICO_ANY" Language="en_US">
+		<Text>These are troubled waters, you should keep away.</Text>
+	</Row>
+	<!--DENOUNCE-->
+	<!--From Human-->
+	<Row Tag="LOC_DIPLO_DENOUNCE_FROM_HUMAN_LEADER_MER_ENRICO_ANY" Language="en_US">
+		<Text>Bah, foolish words from a foolish leader.</Text>
+	</Row>
+	<!--From AI-->
+	<Row Tag="LOC_DIPLO_DENOUNCE_FROM_AI_LEADER_MER_ENRICO_ANY" Language="en_US">
+		<Text>You lack the true qualities of leadership. Your people deserve better. (Denounces You).</Text>
+	</Row>
+	<!--Rationale-->
+	<Row Tag="LOC_DIPLO_DENOUNCE_REASON_FROM_AI_LEADER_ANY_REASON_MER_ENRICO_DUCALE_SAME_CONTINENT" Language="en_US">
+		<Text>(You follow a different religion)</Text>
+	</Row>
+	<!--DECLARE WAR-->
+	<!--Human Declares War-->
+	<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_HUMAN_LEADER_MER_ENRICO_ANY" Language="en_US">
+		<Text>You lack the courage and conviction to see this through to the end.</Text>
+	</Row>
+	<!--AI Declares War-->
+	<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_MER_ENRICO_ANY" Language="en_US">
+		<Text>I have sworn to the cross to go to war, and to die for my god if that is his will. But i will do so serving it, if i must.</Text>
+	</Row>
+	<!--DEFEAT-->
+	<!--AI is Defeated-->
+	<Row Tag="LOC_DIPLO_DEFEAT_FROM_AI_LEADER_MER_ENRICO_ANY" Language="en_US">
+		<Text>I will die knowing this is his will, and that i have served both him and Venice dutifully.</Text>
+	</Row>
+	</LocalizedText>
+</GameData>

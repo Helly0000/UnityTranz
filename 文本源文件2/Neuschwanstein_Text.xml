@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<EnglishText>
+		<Row Tag="LOC_BUILDING_NEUSCHWANSTEIN_NAME">
+			<Text>Neuschwanstein Castle</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_NEUSCHWANSTEIN_DESCRIPTION">
+			<Text>Any City with Medieval or Renaissance Walls yields + 2 [ICON_Culture] Culture, + 2 [ICON_Gold] Gold, +1 [ICON_Amenities] Amenities. It must be built on a Hill adjacent to a Mountain.</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_NEUSCHWANSTEIN_QUOTE">
+			<Text>"The location is one of the most beautiful to be found, holy and unapproachable, a worthy temple for the divine friend who has brought salvation and true blessing to the world." – King Ludwig II of Bavaria</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_WONDERS_PAGE_BUILDING_NEUSCHWANSTEIN_CHAPTER_HISTORY_PARA_1">
+			<Text>Neuschwanstein Castle is a 19th-century Romanesque Revival palace on a rugged hill above the village of Hohenschwangau near Füssen in southwest Bavaria, Germany. The palace was commissioned by Ludwig II of Bavaria as a retreat and in honour of the composer Richard Wagner. Ludwig paid for the palace out of his personal fortune and by means of extensive borrowing, rather than Bavarian public funds. The castle was intended as a home for the king, until he died in 1886. It was open to the public shortly after his death. Since then more than 61 million people have visited Neuschwanstein Castle. More than 1.3 million people visit annually, with as many as 6,000 per day in the summer.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_WONDERS_PAGE_BUILDING_NEUSCHWANSTEIN_CHAPTER_HISTORY_PARA_2">
+			<Text></Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_WONDERS_PAGE_BUILDING_NEUSCHWANSTEIN_CHAPTER_HISTORY_PARA_3">
+			<Text></Text>
+		</Row>
+	</EnglishText>
+	<LocalizedText>
+		<Replace Tag="LOC_BUILDING_NEUSCHWANSTEIN_NAME" Language="de_DE">
+			<Text>Neuschwanstein</Text>
+		</Replace>
+		<Replace Tag="LOC_BUILDING_NEUSCHWANSTEIN_DESCRIPTION" Language="de_DE">
+			<Text>+2 [ICON_Culture] Kultur, + 2 [ICON_Gold] Gold und +1 [ICON_Amenities] Annehmlichkeit in jeder Stadt mit mittelalterlichen Mauern oder Renaissance-Mauern. Muss auf einem Hügel angrenzend an ein Bergfeld errichtet werden.</Text>
+		</Replace>
+		<Replace Tag="LOC_BUILDING_NEUSCHWANSTEIN_QUOTE" Language="de_DE">
+			<Text>"Ich habe die Absicht, die alte Burgruine Hohenschwangau bei der Pöllatschlucht neu aufbauen zu lassen, im echten Styl der alten deutschen Ritterburgen." – König Ludwig II. von Bayern</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_WONDERS_PAGE_BUILDING_NEUSCHWANSTEIN_CHAPTER_HISTORY_PARA_1" Language="de_DE">
+			<Text>Das Schloss Neuschwanstein steht oberhalb von Hohenschwangau bei Füssen im südöstlichen bayerischen Allgäu. Der Bau wurde ab 1869 für den bayerischen König Ludwig II. als idealisierte Vorstellung einer Ritterburg aus der Zeit des Mittelalters errichtet. Der König lebte allerdings nur wenige Monate im Schloss und starb noch vor der Fertigstellung der Anlage. Neuschwanstein wurde ursprünglich als Neue Burg Hohenschwangau bezeichnet, seinen heutigen Namen trägt es seit 1886.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_WONDERS_PAGE_BUILDING_NEUSCHWANSTEIN_CHAPTER_HISTORY_PARA_2" Language="de_DE">
+			<Text>Neuschwanstein ist das berühmteste der Schlösser Ludwigs II. und eine der bekanntesten Sehenswürdigkeiten Deutschlands. Es wird jährlich von etwa 1,5 Millionen Touristen besucht. Das oftmals als „Märchenschloss“ bezeichnete Neuschwanstein ist nahezu ganzjährig für Besucher geöffnet. Die Architektur und Innenausstattung sind vom romantischen Eklektizismus des 19. Jahrhunderts geprägt; das Schloss gilt als ein Hauptwerk des Historismus.</Text>
+		</Replace>
+	</LocalizedText>
+</GameData>

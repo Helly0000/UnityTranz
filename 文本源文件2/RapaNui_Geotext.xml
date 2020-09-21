@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- GameData1 -->
+<!-- Author: Gedemo -->
+<!-- DateCreated: 2/14/2019 7:44:24 PM -->
+<GameData>
+
+
+	<LocalizedText>
+
+		
+		<Row Tag="LOC_NAMED_MOUNTAIN_ANAMARANA_NAME"  Language="en_US">
+			<Text>Maunga Anamarana</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_MOUNTAIN_OMOANGA_NAME"  Language="en_US">
+			<Text>Maunga Omo Anga</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_MOUNTAIN_MAEAHORU_NAME"  Language="en_US">
+			<Text>Maunga Maea Horu</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_MOUNTAIN_PUKATIKEI_NAME"  Language="en_US">
+			<Text>Maunga Pukatikei</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_MOUNTAIN_ORITO_NAME"  Language="en_US">
+			<Text>Maunga Orito</Text>
+		</Row>
+		
+		<Row Tag="LOC_NAMED_VOLCANO_KAU_NAME"  Language="en_US">
+			<Text>Rano Kau</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_VOLCANO_RARAKU_NAME"  Language="en_US">
+			<Text>Rano Raraku</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_VOLCANO_TEREVAKA_NAME"  Language="en_US">
+			<Text>Terevaka</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_VOLCANO_POIKE_NAME"  Language="en_US">
+			<Text>Poike</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_VOLCANO_MOTIRO_NAME"  Language="en_US">
+			<Text>Motu Motiro Hiva</Text>
+		</Row>
+		
+
+
+
+		
+		<Row Tag="LOC_NAMED_MOUNTAIN_ANAMARANA_NAME"  Language="fr_FR">
+			<Text>Maunga Anamarana</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_MOUNTAIN_OMOANGA_NAME"  Language="fr_FR">
+			<Text>Maunga Omo Anga</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_MOUNTAIN_MAEAHORU_NAME"  Language="fr_FR">
+			<Text>Maunga Maea Horu</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_MOUNTAIN_PUKATIKEI_NAME"  Language="fr_FR">
+			<Text>Maunga Pukatikei</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_MOUNTAIN_ORITO_NAME"  Language="fr_FR">
+			<Text>Maunga Orito</Text>
+		</Row>
+		
+		<Row Tag="LOC_NAMED_VOLCANO_KAU_NAME"  Language="fr_FR">
+			<Text>Rano Kau</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_VOLCANO_RARAKU_NAME"  Language="fr_FR">
+			<Text>Rano Raraku</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_VOLCANO_TEREVAKA_NAME"  Language="fr_FR">
+			<Text>Terevaka</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_VOLCANO_POIKE_NAME"  Language="fr_FR">
+			<Text>Poike</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_VOLCANO_MOTIRO_NAME"  Language="fr_FR">
+			<Text>Motu Motiro Hiva</Text>
+		</Row>
+	</LocalizedText>
+
+</GameData>

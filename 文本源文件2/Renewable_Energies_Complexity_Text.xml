@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Text -->
+<!-- Author: JNR -->
+<GameData>
+	<BaseGameText>
+		<!-- Tech descriptions for improvement bonuses -->
+		<Row Tag="LOC_TECH_OFFWORLD_MISSION_JNR_RENEWABLE_BONUS_DESCRIPTION">
+			<Text>Extra +1 [ICON_Power] Power per turn from each Geothermal Plant.</Text>
+		</Row>
+		<Row Tag="LOC_TECH_PREDICTIVE_SYSTEMS_JNR_RENEWABLE_BONUS_DESCRIPTION">
+			<Text>Extra +1 [ICON_Power] Power per turn from each Solar Farm and each Offshore Wind Farm.</Text>
+		</Row>
+		<Row Tag="LOC_TECH_COMPOSITES_JNR_RENEWABLE_BONUS_DESCRIPTION">
+			<Text>Extra +1 [ICON_Power] Power per turn from Wind Farms (on land only).</Text>
+		</Row>
+		<Row Tag="LOC_TECH_COMPUTERS_JNR_RENEWABLE_BONUS_DESCRIPTION">
+			<Text>Grants the ability to construct an additional Spy. +25% [ICON_Tourism] Tourism across your empire.[NEWLINE][NEWLINE]Extra +2 [ICON_Power] Power per turn from each Hydroelectric Dam.</Text>
+		</Row>
+		<!-- Resources-->
+		<Row Tag="LOC_RESOURCE_JNR_RENEWABLE_TRANSFERABLE_ENERGY_NAME">
+			<Text>Renewable Energy</Text>
+		</Row>
+		<!-- Building Names -->
+		<Row Tag="LOC_BUILDING_JNR_RENEWABLE_COLLECTION_NAME">
+			<Text>Battery Storage Substation</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_JNR_RENEWABLE_DISTRIBUTION_NAME">
+			<Text>Battery Storage Power Station</Text>
+		</Row>
+		<!-- Building Descriptions -->
+		<Row Tag="LOC_BUILDING_JNR_RENEWABLE_COLLECTION_DESCRIPTION">
+			<Text>Converts some [ICON_Power] Power from local renewable sources into [ICON_RESOURCE_JNR_RENEWABLE_TRANSFERABLE_ENERGY] Renewable Energy resource for use at a {LOC_BUILDING_JNR_RENEWABLE_DISTRIBUTION_NAME} at a 1:1 ratio.[NEWLINE][ICON_Bullet]Any [ICON_Power] Power added to improvements and buildings through technology upgrades.[NEWLINE][ICON_Bullet]Any [ICON_Power] Power added for terrain and feature bonuses.</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_JNR_RENEWABLE_DISTRIBUTION_DESCRIPTION">
+			<Text>Automatically converts any amount of [Icon_RESOURCE_JNR_RENEWABLE_TRANSFERABLE_ENERGY] Renewable Energy into [ICON_Power] Power for cities within 6 tiles that need it each turn, at the rate of:[NEWLINE][ICON_Bullet]1 [Icon_RESOURCE_JNR_RENEWABLE_TRANSFERABLE_ENERGY] Renewable Energy [ICON_PowerRight] 1 [ICON_Power] Power[NEWLINE][ICON_Bullet]No CO2 into the atmosphere[NEWLINE]Its [ICON_Production] Production, [ICON_Science] Science, and [ICON_Culture] Culture bonus is extended to all City Centers within 6 tiles that do not already have a bonus from a Power Plant building.</Text>
+		</Row>
+		<!-- Convert Reactor Project -->
+		<Row Tag="LOC_PROJECT_JNR_CONVERT_REACTOR_TO_RENEWABLE">
+			<Text>Convert to Renewable Power</Text>
+		</Row>
+		<Row Tag="LOC_PROJECT_JNR_CONVERT_REACTOR_TO_RENEWABLE_SHORT_NAME">
+			<Text>Convert to Renewable Power</Text>
+		</Row>
+		<Row Tag="LOC_PROJECT_JNR_CONVERT_REACTOR_TO_RENEWABLE_DESCRIPTION">
+			<Text>Decommissions the current Power Plant in this city, and replaces it with the {LOC_BUILDING_JNR_RENEWABLE_DISTRIBUTION_NAME}.[NEWLINE][NEWLINE]{LOC_BUILDING_JNR_RENEWABLE_DISTRIBUTION_NAME}:[NEWLINE]{LOC_BUILDING_JNR_RENEWABLE_DISTRIBUTION_DESCRIPTION}</Text>
+		</Row>
+		<!-- Governor Update -->
+		<Row Tag="LOC_GOVERNOR_PROMOTION_MERCHANT_RENEWABLE_ENERGY_JNR_TRANSFERABLE_DESCRIPTION">
+			<Text>All Offshore Wind Farms, Solar Farms, Wind Farms, Geothermal Plants, and Hydroelectric Dams in this city receive +1 [ICON_POWER] Power and +2 [ICON_Gold] Gold and with Nanotechnology researched produce +1 [ICON_RESOURCE_JNR_RENEWABLE_TRANSFERABLE_ENERGY] Renewable Energy.</Text>
+		</Row>
+		<!-- New Renewable Descriptions -->
+		<Row Tag="LOC_IMPROVEMENT_GEOTHERMAL_PLANT_DESCRIPTION_JNR_TERRAIN_COMPLEXITY">
+			<Text>Unlocks the Builder ability to construct a Geothermal Plant.[NEWLINE][NEWLINE]Provides +2 [ICON_Power] Power per turn from renewable geothermal sources.[NEWLINE][ICON_Bullet]Extra +1 [ICON_Power] Power per turn if built on a Geothermal Fissure.[NEWLINE][ICON_Bullet]Extra +1 [ICON_Power] Power per turn when the Offworld Mission technology is researched.[NEWLINE][NEWLINE]Must be built on a Geothermal Fissure or on Volcanic Soil.</Text>
+		</Row>
+		<Row Tag="LOC_IMPROVEMENT_WIND_FARM_DESCRIPTION_JNR_TERRAIN_COMPLEXITY">
+			<Text>Unlocks the Builder ability to construct a Wind Farm.[NEWLINE][NEWLINE]Provides +1 [ICON_Power] Power per turn from renewable wind sources.[NEWLINE][ICON_Bullet]Extra +1 [ICON_Power] Power per turn if built adjacent to coast.[NEWLINE][ICON_Bullet]Extra +1 [ICON_Power] Power per turn when the Composites technology is researched.[NEWLINE][NEWLINE]Must be built on Hills terrain.</Text>
+		</Row>
+		<Row Tag="LOC_IMPROVEMENT_OFFSHORE_WIND_FARM_DESCRIPTION_JNR_TERRAIN_COMPLEXITY">
+			<Text>Unlocks the Military Engineer ability to construct an Offshore Wind Farm.[NEWLINE][NEWLINE]Provides +2 [ICON_Power] Power per turn from renewable wind sources.[NEWLINE][ICON_Bullet]Extra +1 [ICON_Power] Power per turn if built on Ocean.[NEWLINE][ICON_Bullet]Extra +1 [ICON_Power] Power per turn when the Predictive Systems technology is reseached.[NEWLINE]+1 [ICON_Gold] Gold yield if built on Coast or Lake.[NEWLINE][NEWLINE]Must be built on Coast, Lake, or Ocean terrain.[NEWLINE]Requires the Seasteads technology to be built on Ocean terrain.</Text>
+		</Row>
+		<Row Tag="LOC_IMPROVEMENT_SOLAR_FARM_DESCRIPTION_JNR_TERRAIN_COMPLEXITY">
+			<Text>Unlocks the Builder ability to construct a Solar Farm.[NEWLINE][NEWLINE]Provides +2 [ICON_Power] Power per turn from renewable solar sources.[NEWLINE][ICON_Bullet]Extra +1 [ICON_Power] Power per turn if built on Desert.[NEWLINE][ICON_Bullet]Reduction by -1 [ICON_Power] Power per turn if built on Tundra or Snow.[NEWLINE][ICON_Bullet]Extra +1 [ICON_Power] Power per turn when the Predictive Systems technology is reseached.[NEWLINE]No [ICON_Gold] Gold yield on Snow, Tundra, or Desert.[NEWLINE][NEWLINE]Must be built on flat terrain.[NEWLINE]Requires the Advanced Power Cells technology to be built on Tundra or Snow terrain.</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_HYDROELECTRIC_DAM_DESCRIPTION_JNR_TERRAIN_COMPLEXITY">
+			<Text>Provides +4 [ICON_Power] Power per turn from renewable water sources.[NEWLINE][ICON_Bullet]Extra +2 [ICON_Power] Power per turn when the Computers technology is researched.</Text>
+		</Row>
+	</BaseGameText>
+</GameData>

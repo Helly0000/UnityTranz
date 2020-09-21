@@ -1,0 +1,696 @@
+<GameData>
+	<LocalizedText>
+		<!--Pantheons-->
+		<Row Tag="LOC_POK_BELIEF_CULT_OF_HERMES_NAME" Language="en_US">
+			<Text>Messenger God</Text>
+		</Row>
+		<Row Tag="LOC_POK_BELIEF_CULT_OF_HERMES_DESCRIPTION" Language="en_US">
+			<Text>+1 [ICON_TradeRoute] Trade Route capacity and a free Trader in your capital. Trade Routes provide an additional +2 [ICON_Gold] Gold and +1 [ICON_Faith] Faith. Other civilizations' Trade Routes to you provide +1 [ICON_Faith] Faith for them.</Text>
+		</Row>
+		<Row Tag="LOC_POK_BELIEF_GOD_OF_ARTISANRY_NAME" Language="en_US">
+			<Text>God of Artisanry</Text>
+		</Row>
+		<Row Tag="LOC_POK_BELIEF_GOD_OF_ARTISANRY_DESCRIPTION" Language="en_US">
+			<Text>+1 [ICON_Culture] Culture from Mines over Luxury and Bonus resources.</Text>
+		</Row>
+		<Row Tag="LOC_POK_BELIEF_GOD_OF_METALLURGY_NAME" Language="en_US">
+			<Text>God of Metallurgy</Text>
+		</Row>
+		<Row Tag="LOC_POK_BELIEF_GOD_OF_METALLURGY_DESCRIPTION" Language="en_US">
+			<Text>+1 [ICON_Science] Science from Mines over Luxury and Bonus resources.</Text>
+		</Row>
+		<Row Tag="LOC_POK_BELIEF_GOD_OF_DIPLOMACY_NAME" Language="en_US">
+			<Text>God of Diplomacy</Text>
+		</Row>
+		<Row Tag="LOC_POK_BELIEF_GOD_OF_DIPLOMACY_DESCRIPTION" Language="en_US">
+			<Text>+2 Influence points per turn toward earning city-state [ICON_Envoy] Envoys.</Text>
+		</Row>
+		<Row Tag="LOC_POK_BELIEF_GOD_OF_CREATION_NAME" Language="en_US">
+			<Text>God of Creation</Text>
+		</Row>
+		<Row Tag="LOC_POK_BELIEF_GOD_OF_CREATION_DESCRIPTION" Language="en_US">
+			<Text>Newly-trained Builders gain 1 extra build action.</Text>
+		</Row>
+		<Row Tag="LOC_POK_BELIEF_SUN_GOD_NAME" Language="en_US">
+			<Text>Sun God</Text>
+		</Row>
+		<Row Tag="LOC_POK_BELIEF_SUN_GOD_DESCRIPTION" Language="en_US">
+			<Text>+1 [ICON_Food] Food from [ICON_RESOURCE_WHEAT] Wheat, [ICON_RESOURCE_RICE] Rice, and [ICON_RESOURCE_BANANAS] Bananas.</Text>
+		</Row>
+		<Row Tag="LOC_POK_BELIEF_ANAHITAS_BLESSING_NAME" Language="en_US">
+			<Text>Goddess of Calm Waters</Text>
+		</Row>
+		<Row Tag="LOC_POK_BELIEF_ANAHITAS_BLESSING_DESCRIPTION" Language="en_US">
+			<Text>+1 [ICON_Food] Food from Coastal water tiles and lakes.</Text>
+		</Row>
+		<Row Tag="LOC_POK_BELIEF_SACRED_BEASTS_NAME" Language="en_US">
+			<Text>Sacred Beasts</Text>
+		</Row>
+		<Row Tag="LOC_POK_BELIEF_SACRED_BEASTS_DESCRIPTION" Language="en_US">
+			<Text>+2 [ICON_Faith] Faith from [ICON_RESOURCE_IVORY] Ivory, [ICON_RESOURCE_HORSES] Horses, [ICON_RESOURCE_FURS] Furs, and [ICON_RESOURCE_WHALES] Whales. Compatible with Resourceful (Oxen) and Sukritact's Resources (Camels, Bison, and Sharks).</Text>
+		</Row>
+		<Row Tag="LOC_POK_BELIEF_SONG_OF_THE_DJINN_NAME" Language="en_US">
+			<Text>Desert Miracles</Text>
+		</Row>
+		<Row Tag="LOC_POK_BELIEF_SONG_OF_THE_DJINN_DESCRIPTION" Language="en_US">
+			<Text>+2 [ICON_Gold] Gold from Desert and Desert Hills.</Text>
+		</Row>
+		<Row Tag="LOC_POK_BELIEF_SPIRITS_OF_THE_TUNDRA_NAME" Language="en_US">
+			<Text>Tundra Spirits</Text>
+		</Row>
+		<Row Tag="LOC_POK_BELIEF_SPIRITS_OF_THE_TUNDRA_DESCRIPTION" Language="en_US">
+			<Text>+1 [ICON_Culture] Culture from Tundra and Tundra Hills.</Text>
+		</Row>
+		<Row Tag="LOC_POK_BELIEF_SUPPLICATION_TO_BARAM_NAME" Language="en_US">
+			<Text>Rainforest Rituals</Text>
+		</Row>
+		<Row Tag="LOC_POK_BELIEF_SUPPLICATION_TO_BARAM_DESCRIPTION" Language="en_US">
+			<Text>+1 [ICON_Culture] Culture from Jungles.</Text>
+		</Row>
+		<Row Tag="LOC_POK_BELIEF_GIFTS_OF_THE_DRYADS_NAME" Language="en_US">
+			<Text>Hallowed Groves</Text>
+		</Row>
+		<Row Tag="LOC_POK_BELIEF_GIFTS_OF_THE_DRYADS_DESCRIPTION" Language="en_US">
+			<Text>+2 [ICON_Gold] Gold from Forests.</Text>
+		</Row>
+		<!--Follower Beliefs-->
+		<Row Tag="LOC_POK_BELIEF_THESMOPHORIA_NAME" Language="en_US">
+			<Text>Thesmophoria</Text>
+		</Row>
+		<Row Tag="LOC_POK_BELIEF_THESMOPHORIA_DESCRIPTION" Language="en_US">
+			<Text>+1 [ICON_Gold] Gold from tiles with luxury resources.</Text>
+		</Row>
+		<Row Tag="LOC_POK_BELIEF_SEMINARIES_NAME" Language="en_US">
+			<Text>Seminaries</Text>
+		</Row>
+		<Row Tag="LOC_POK_BELIEF_SEMINARIES_DESCRIPTION" Language="en_US">
+			<Text>Shrines and Temples provide [ICON_Science] Science equal to their intrinsic [ICON_Faith] Faith output.</Text>
+		</Row>
+		<Row Tag="LOC_POK_BELIEF_PROSPERITY_DOCTRINE_NAME" Language="en_US">
+			<Text>Prosperity Doctrine</Text>
+		</Row>
+		<Row Tag="LOC_POK_BELIEF_PROSPERITY_DOCTRINE_DESCRIPTION" Language="en_US">
+			<Text>May purchase Commercial Hub and Entertainment Complex district buildings with [ICON_Faith] Faith.</Text>
+		</Row>
+		<Row Tag="LOC_POK_BELIEF_SACRED_WATERS_NAME" Language="en_US">
+			<Text>Sacred Waters</Text>
+		</Row>
+		<Row Tag="LOC_POK_BELIEF_SACRED_WATERS_DESCRIPTION" Language="en_US">
+			<Text>May purchase Harbor and Water Park district buildings with [ICON_Faith] Faith.</Text>
+		</Row>
+		<Row Tag="LOC_POK_BELIEF_ALMSGIVING_NAME" Language="en_US">
+			<Text>Almsgiving</Text>
+		</Row>
+		<Row Tag="LOC_POK_BELIEF_ALMSGIVING_DESCRIPTION" Language="en_US">
+			<Text>+2% [ICON_Gold] Gold for each follower.</Text>
+		</Row>
+		<Row Tag="LOC_POK_BELIEF_VOTIVE_OFFERINGS_NAME" Language="en_US">
+			<Text>Votive Offerings</Text>
+		</Row>
+		<Row Tag="LOC_POK_BELIEF_VOTIVE_OFFERINGS_DESCRIPTION" Language="en_US">
+			<Text>+1% [ICON_Culture] Culture for each follower.</Text>
+		</Row>
+		<Row Tag="LOC_POK_BELIEF_SYMBOLS_OF_THE_GODS_NAME" Language="en_US">
+			<Text>Symbols of the Gods</Text>
+		</Row>
+		<Row Tag="LOC_POK_BELIEF_SYMBOLS_OF_THE_GODS_DESCRIPTION" Language="en_US">
+			<Text>+2 [ICON_Amenities] Amenities in cities that have a World Wonder.</Text>
+		</Row>
+		<Row Tag="LOC_POK_BELIEF_PLUTOLATRY_NAME" Language="en_US">
+			<Text>Plutolatry</Text>
+		</Row>
+		<Row Tag="LOC_POK_BELIEF_PLUTOLATRY_DESCRIPTION" Language="en_US">
+			<Text>All World Wonders provide +8 [ICON_Gold] Gold.</Text>
+		</Row>
+		<!--Worship Buildings-->
+		<Row Tag="LOC_POK_BELIEF_ATASHKADEH_NAME" Language="en_US">
+			<Text>Atashkadeh</Text>
+		</Row>
+		<Row Tag="LOC_POK_BELIEF_ATASHKADEH_DESCRIPTION" Language="en_US">
+			<Text>Allows construction of Atashkadehan (+3 [ICON_Faith] Faith, +2 [ICON_Culture] Culture).</Text>
+		</Row>
+		<Row Tag="LOC_POK_BELIEF_POSEIDONION_NAME" Language="en_US">
+			<Text>Poseidonion</Text>
+		</Row>
+		<Row Tag="LOC_POK_BELIEF_POSEIDONION_DESCRIPTION" Language="en_US">
+			<Text>Allows construction of the Poseidonion (+3 [ICON_Faith] Faith, in addition to +1 [ICON_Production] Production and +1 [ICON_Gold] Gold from Fishing Boats.)</Text>
+		</Row>
+		<Row Tag="LOC_POK_BELIEF_SATURNIUM_NAME" Language="en_US">
+			<Text>Saturnium</Text>
+		</Row>
+		<Row Tag="LOC_POK_BELIEF_SATURNIUM_DESCRIPTION" Language="en_US">
+			<Text>Allows construction of the Saturnium (+3 [ICON_Faith] Faith, in addition to +1 [ICON_Production] Production and +1 [ICON_Gold] Gold from Plantations, Camps, and Lumber Mills built over Luxury resources.)</Text>
+		</Row>
+		<Row Tag="LOC_POK_BELIEF_MINERVIUM_NAME" Language="en_US">
+			<Text>Minervium</Text>
+		</Row>
+		<Row Tag="LOC_POK_BELIEF_MINERVIUM_DESCRIPTION" Language="en_US">
+			<Text>Allows construction of the Minervium (+3 [ICON_Faith] Faith and [ICON_Gold] Gold equivalent to the Holy Site's adjacency.)</Text>
+		</Row>
+		<Row Tag="LOC_POK_BELIEF_SERAPEUM_NAME" Language="en_US">
+			<Text>Serapeum</Text>
+		</Row>
+		<Row Tag="LOC_POK_BELIEF_SERAPEUM_DESCRIPTION" Language="en_US">
+			<Text>Allows construction of the Serapeum (+3 [ICON_Faith] Faith, +1 Influence Points per turn toward earning City-State [ICON_Envoy] Envoys in cities that have at least 1 other specialty district).</Text>
+		</Row>
+		<Row Tag="LOC_POK_BELIEF_SURAU_NAME" Language="en_US">
+			<Text>Surau</Text>
+		</Row>
+		<Row Tag="LOC_POK_BELIEF_SURAU_DESCRIPTION" Language="en_US">
+			<Text>Allows construction of Suraus (+3 [ICON_Faith] Faith, +1 [ICON_Science] Science, +1 [ICON_Culture] Culture).</Text>
+		</Row>
+		<Row Tag="LOC_POK_BELIEF_PRIORY_NAME" Language="en_US">
+			<Text>Priory</Text>
+		</Row>
+		<Row Tag="LOC_POK_BELIEF_PRIORY_DESCRIPTION" Language="en_US">
+			<Text>Allows construction of Priories (+3 [ICON_Faith] Faith, 2 slots for Relics).</Text>
+		</Row>
+		<Row Tag="LOC_POK_BELIEF_CHAPEL_NAME" Language="en_US">
+			<Text>Chapel</Text>
+		</Row>
+		<Row Tag="LOC_POK_BELIEF_CHAPEL_DESCRIPTION" Language="en_US">
+			<Text>Allows construction of Chapels (+3 [ICON_Faith] Faith, +1 [ICON_Food] Food, +1 [ICON_Production] Production).</Text>
+		</Row>
+		<Row Tag="LOC_POK_BUILDING_ATASHKADEH_NAME" Language="en_US">
+			<Text>Atashkadeh</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_BUILDINGS_PAGE_POK_BUILDING_ATASHKADEH_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Central to Zoroastrianism was the Atashkadeh, or house of fire. While it has been given many names in its time, the sentiment remains the same, and is captured adequately as rendered in the New Persian Atashkadeh.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_BUILDINGS_PAGE_POK_BUILDING_ATASHKADEH_CHAPTER_HISTORY_PARA_2" Language="en_US">
+			<Text>It should be noted that Zoroastrianism outpaced the Atashkadeh by centuries: no mention of it can be found in the Avesta, Zoroastrianism's oldest text, nor is there any term that would describe such a structure in Old Persian. The Atashkadeh would not make an appearance until the late Achaemenid empire. There, it would emerge as a humble abode for votives to be made, and as a shelter for a sacred fire.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_BUILDINGS_PAGE_POK_BUILDING_ATASHKADEH_CHAPTER_HISTORY_PARA_3" Language="en_US">
+			<Text>Characteristic of Atashkadeh was the gombad, a domed sanctuary where the fire would be both vouchsafed and enthroned, to burn eternal—to never be moved besides for its own good. Simple but effective, the gombad was situated in a square flanked by four arches, which a supported a dome. This allowed priests and worshipers alike easy access to the fire, and in its open design framed the surroundings so that visitors could likewise appreciate the natural elements core to Zoroastrianism. A walkway described this central structure, beyond which rooms were dedicated to congregation, rituals that didn't directly involve the fire, and the materials needed for the upkeep of the fire itself.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_BUILDINGS_PAGE_POK_BUILDING_ATASHKADEH_CHAPTER_HISTORY_PARA_4" Language="en_US">
+			<Text>These typically humble Atashkadehs were however treated quite differently if home to one of the great fires of Adur Gushnasp, Adur Burzen-Mihr, or Adur Farnbag (the great fires of warriors, priests, and workers respectively). At Takht-e Soleyman, the only extant ruins confirmed to have held Adur Gushnasp have been excavated. Favoured as the great fire of warriors was by Kings of Kings, its complex was suitably impressive.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_BUILDINGS_PAGE_POK_BUILDING_ATASHKADEH_CHAPTER_HISTORY_PARA_5" Language="en_US">
+			<Text>More than a mere fire temple, Takht-e Soleyman was a citadel. Two walls limned the hilltop it occupied. The inner, a thick mud-brick bulwark; the outer, which hugged the rim of the hill, stone that towered fifty feet, and studded with thirty-eight towers. Further yet, the temple itself was surrounded on three sides by a wall, with the fourth open to a lake in the crater of a volcanic rim. These fortifications were tasked with the protection of the most prized fire in all of Persia.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_BUILDINGS_PAGE_POK_BUILDING_ATASHKADEH_CHAPTER_HISTORY_PARA_6" Language="en_US">
+			<Text>Pilgrims would enter through a vast courtyard, through which they'd be herded toward the lake. There, a domed room terminated in a portico that afforded pilgrims a vista of the lake in all its splendour. From there they could follow a series of pillared halls and antechambers which eventually deposited them at the grand, frieze-embellished sanctuary of the altar of Adur Gushnasp. Within this complex there were an array of rooms dedicated to everything from lesser shrines to a temple treasury. Between the crater, the elaborate plan, and its scenic surroundings, the site must have been a wonder to pilgrims seeking to pay their respects to Adur Gushnasp.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_BUILDINGS_PAGE_POK_BUILDING_ATASHKADEH_CHAPTER_HISTORY_PARA_7" Language="en_US">
+			<Text>With the conquest of Islam, Atashkadeha grew scarce. Most were either destroyed or repurposed as mosques.</Text>
+		</Row>
+		<Row Tag="LOC_POK_BUILDING_POSEIDONION_NAME" Language="en_US">
+			<Text>Poseidonion</Text>
+		</Row>
+		<Row Tag="LOC_POK_BUILDING_POSEIDONION_DESCRIPTION" Language="en_US">
+			<Text>+1 [ICON_Production] Production and +1 [ICON_Gold] Gold from Fishing Boats.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_BUILDINGS_PAGE_POK_BUILDING_POSEIDONION_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Poseidon was one of the twelve Olympians in ancient Greek religion and myth. He was god of the Sea and other waters; of earthquakes; and of horses. In pre-Olympian Bronze Age Greece, he was venerated as a chief deity at Pylos and Thebes. Poseidon was protector of seafarers, and of many Hellenic cities and colonies. In Homer's Iliad, Poseidon supports the Greeks against the Trojans during the Trojan War. In the Odyssey, during the sea-voyage from Troy back home to Ithaca, the Greek hero Odysseus provokes Poseidon's fury by blinding his son the Cyclops Polyphemus, resulting in Poseidon punishing him with storms, the complete loss of his ship and companions, and a ten-year delay. Poseidon is also the subject of a Homeric hymn. His Roman equivalent is Neptune.</Text>
+		</Row>
+		<Row Tag="LOC_POK_BUILDING_SATURNIUM_NAME" Language="en_US">
+			<Text>Saturnium</Text>
+		</Row>
+		<Row Tag="LOC_POK_BUILDING_SATURNIUM_DESCRIPTION" Language="en_US">
+			<Text>+1 [ICON_Production] Production and +1 [ICON_Gold] Gold from Plantations, Camps, and Lumber Mills built over Luxury resources.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_BUILDINGS_PAGE_POK_BUILDING_SATURNIUM_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Saturn was the Roman gold of agriculture, renewal, liberation, wealth, dissolution, and time, among other aspects. In the month of December, he was celebrated at the Saturnalia: a time for feasting, role reversals, free speech, gift-giving, and reveltry. Saturn was identified with the Greek Cronus, especially the role of Cronus in the genealogy of the Greek gods. Indeed, Jupiter was called the son of Saturn. The Temple of Saturn --the Saturnium -- in the Roman Forum contained the state treasury. It was constructed at the base of the Saturnius Mons, better known as the Capitoline Hill. It was consecrated in 497 BCE.</Text>
+		</Row>
+		<Row Tag="LOC_POK_BUILDING_MINERVIUM_NAME" Language="en_US">
+			<Text>Minervium</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_BUILDINGS_PAGE_POK_BUILDING_MINERVIUM_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Minerva was the Roman goddess of wisdom and strategic warfare, and the sponsor of arts, trade, and strategy. From the second century BC onward, the Romans equated her with the Greek goddess Athena. She was the virgin goddess of music, poetry, medicine, wisdom, commerce, weaving, and the crafts. She is often depicted with her sacred creature, an owl usually named as the "owl of Minerva", which symbolised her association with wisdom and knowledge.</Text>
+		</Row>
+		<Row Tag="LOC_POK_BUILDING_SERAPEUM_NAME" Language="en_US">
+			<Text>Serapeum</Text>
+		</Row>
+		<Row Tag="LOC_POK_BUILDING_SERAPEUM_DESCRIPTION" Language="en_US">
+			<Text>+1 Influence Point to earning City-State [ICON_Envoy] Envoys in cities that have at least 2 specialty districts.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_BUILDINGS_PAGE_POK_BUILDING_SERAPEUM_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>The cult of Serapis was introduced during the 3rd century BC on the orders of Ptolemy I Soter of Egypt as a means to unify the Greeks and Egyptians in his realm. The god was depicted as Greek in appearance, but with Egyptian trappings, and combined iconography from a great many cults, signifying both abundance and resurrection. A serapeum was any temple or religious precinct devoted to Serapis. The cultus of Serapis was spread as a matter of deliberate policy by the Ptolemaic kings, who also built an immense serapeum in Alexandria. Serapis continued to increase in popularity during the Roman period, often replacing Osiris as the consort of Isis in temples outside Egypt. In 389, a Christian mob led by the Patriarch Theophilus of Alexandria destroyed the Alexandrian serapeum, but the cult survived until all forms of pagan religion were suppressed under Theodosius I in 391.</Text>
+		</Row>
+		<Row Tag="LOC_POK_BUILDING_SURAU_NAME" Language="en_US">
+			<Text>Surau</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_BUILDINGS_PAGE_POK_BUILDING_SURAU_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>A surau is an Islamic assembly building used for worship and religious instruction. Some of its ritual functions are similar to those of a mosque, but Surau are mostly smaller than mosques, allow men and women, and are used more for religious instruction and festive prayers. They may function as community centers, and depend more on grassroots support and funding.</Text>
+		</Row>
+		<Row Tag="LOC_POK_BUILDING_PRIORY_NAME" Language="en_US">
+			<Text>Priory</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_BUILDINGS_PAGE_POK_BUILDING_PRIORY_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>A priory is a monastery of men or women under religious vows that is headed by a prior or prioress. Priories may be houses of mendicant friars or nuns (such as the Dominicans, Augustinians, Franciscans, and Carmelites, for instance), or monasteries of monks or nuns (as with the Benedictines). Houses of canons regular and canonesses regular also use this term, the alternative being "canonry." In pre-Reformation England, if an abbey church was raised to cathedral status, the abbey became a Cathedral Priory. The bishop, in effect, took the place of the abbot, and the monastery itself was headed by a prior.</Text>
+		</Row>
+		<Row Tag="LOC_POK_BUILDING_CHAPEL_NAME" Language="en_US">
+			<Text>Chapel</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_BUILDINGS_PAGE_POK_BUILDING_CHAPEL_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>We're going to the chapel and we're gonna get married.</Text>
+		</Row>
+		<!--Founder Beliefs-->
+		<Row Tag="LOC_POK_BELIEF_PONTIFICATE_NAME" Language="en_US">
+			<Text>Pontificate</Text>
+		</Row>
+		<Row Tag="LOC_POK_BELIEF_PONTIFICATE_DESCRIPTION" Language="en_US">
+			<Text>5% [ICON_Faith] Faith per city-state you are the Suzerain of.</Text>
+		</Row>
+		<Row Tag="LOC_POK_BELIEF_NEPTUNALIA_NAME" Language="en_US">
+			<Text>Neptunalia</Text>
+		</Row>
+		<Row Tag="LOC_POK_BELIEF_NEPTUNALIA_DESCRIPTION" Language="en_US">
+			<Text>Each Harbor or Encampment district in a city following this Religion provides +1 [ICON_Science] Science or +1 [ICON_Culture] Culture respectively.</Text>
+		</Row>
+		<Row Tag="LOC_POK_BELIEF_MONASTERY_BREWERY_NAME" Language="en_US">
+			<Text>Monastery Brewery</Text>
+		</Row>
+		<Row Tag="LOC_POK_BELIEF_MONASTERY_BREWERY_DESCRIPTION" Language="en_US">
+			<Text>Land tiles adjacent to Holy Sites yield an extra +2 [ICON_Gold] Gold.</Text>
+		</Row>
+		<Row Tag="LOC_POK_BELIEF_HECATOMB_NAME" Language="en_US">
+			<Text>Hecatomb</Text>
+		</Row>
+		<Row Tag="LOC_POK_BELIEF_HECATOMB_DESCRIPTION" Language="en_US">
+			<Text>Land tiles adjacent to Holy Sites yield an extra +1 [ICON_Food] Food.</Text>
+		</Row>
+		<Row Tag="LOC_POK_BELIEF_EUDAIMONIA_NAME" Language="en_US">
+			<Text>Eudaimonia</Text>
+		</Row>
+		<Row Tag="LOC_POK_BELIEF_EUDAIMONIA_DESCRIPTION" Language="en_US">
+			<Text>Land tiles adjacent to Holy Sites yield an extra +1 [ICON_Production] Production.</Text>
+		</Row>
+		<Row Tag="LOC_POK_BELIEF_DIVINE_REVELATION_NAME" Language="en_US">
+			<Text>Divine Revelation</Text>
+		</Row>
+		<Row Tag="LOC_POK_BELIEF_DIVINE_REVELATION_DESCRIPTION" Language="en_US">
+			<Text>Land tiles adjacent to Holy Sites yield an extra +1 [ICON_Faith] Faith.</Text>
+		</Row>
+		<Row Tag="LOC_POK_BELIEF_HEJAZI_CALLIGRAPHY_NAME" Language="en_US">
+			<Text>Hejazi Calligraphy</Text>
+		</Row>
+		<Row Tag="LOC_POK_BELIEF_HEJAZI_CALLIGRAPHY_DESCRIPTION" Language="en_US">
+			<Text>Land tiles adjacent to Holy Sites yield an extra +1 [ICON_Culture] Culture.</Text>
+		</Row>
+		<Row Tag="LOC_POK_BELIEF_SCHOLAE_MONASTICA_NAME" Language="en_US">
+			<Text>Scholae Monastica</Text>
+		</Row>
+		<Row Tag="LOC_POK_BELIEF_SCHOLAE_MONASTICA_DESCRIPTION" Language="en_US">
+			<Text>Land tiles adjacent to Holy Sites yield an extra +1 [ICON_Science] Science.</Text>
+		</Row>
+		<!--Enhancer Beliefs-->
+		<Row Tag="LOC_POK_BELIEF_MESSENGERS_OF_THE_GODS_NAME" Language="en_US">
+			<Text>Priesthood</Text>
+		</Row>
+		<Row Tag="LOC_POK_BELIEF_MESSENGERS_OF_THE_GODS_DESCRIPTION" Language="en_US">
+			<Text>Receive an Apostle every time you finish a Holy Site district.</Text>
+		</Row>
+		<Row Tag="LOC_POK_BELIEF_EPISTLES_NAME" Language="en_US">
+			<Text>Epistles</Text>
+		</Row>
+		<Row Tag="LOC_POK_BELIEF_EPISTLES_DESCRIPTION" Language="en_US">
+			<Text>Missionaries and Apostles get 1 extra Spread Religion charge.</Text>
+		</Row>
+		<Row Tag="LOC_POK_BELIEF_VISIONS_NAME" Language="en_US">
+			<Text>Visions</Text>
+		</Row>
+		<Row Tag="LOC_POK_BELIEF_VISIONS_DESCRIPTION" Language="en_US">
+			<Text>Religious units have +3 Sight.</Text>
+		</Row>
+		<Row Tag="LOC_POK_BELIEF_WITCH_TRIALS_NAME" Language="en_US">
+			<Text>Witch Trials</Text>
+		</Row>
+		<Row Tag="LOC_POK_BELIEF_WITCH_TRIALS_DESCRIPTION" Language="en_US">
+			<Text>Inquisitors and Gurus are 50% cheaper to purchase.</Text>
+		</Row>
+		<Row Tag="LOC_POK_BELIEF_BELLUM_SACRUM_NAME" Language="en_US">
+			<Text>Bellum Sacrum</Text>
+		</Row>
+		<Row Tag="LOC_POK_BELIEF_BELLUM_SACRUM_DESCRIPTION" Language="en_US">
+			<Text>Holy Site districts provide +1 Great General point per turn.</Text>
+		</Row>
+		<Row Tag="LOC_POK_BELIEF_PAEAN_TO_TRITON_NAME" Language="en_US">
+			<Text>Paean to Triton</Text>
+		</Row>
+		<Row Tag="LOC_POK_BELIEF_PAEAN_TO_TRITON_DESCRIPTION" Language="en_US">
+			<Text>Holy Site districts provide +1 Great Admiral point per turn.</Text>
+		</Row>
+		<Row Tag="LOC_POK_BELIEF_BY_THE_SWORD_NAME" Language="en_US">
+			<Text>By the Sword</Text>
+		</Row>
+		<Row Tag="LOC_POK_BELIEF_BY_THE_SWORD_DESCRIPTION" Language="en_US">
+			<Text>Cities you capture automatically adopt your religion.</Text>
+		</Row>
+		<!--Pantheons-->
+		<Row Tag="LOC_POK_BELIEF_CULT_OF_HERMES_NAME" Language="fr_FR">
+			<Text>Dieu du commerce</Text>
+		</Row>
+		<Row Tag="LOC_POK_BELIEF_CULT_OF_HERMES_DESCRIPTION" Language="fr_FR">
+			<Text>[ICON_TradeRoute] Route commerciale + 1 et marchand gratuit dans la capitale. [ICON_Gold] Or + 2 et [ICON_Faith] foi + 1 pour chaque route commerciale. [ICON_Faith] Foi + 1 pour les routes commerciales des autres civilisations.</Text>
+		</Row>
+		<Row Tag="LOC_POK_BELIEF_GOD_OF_ARTISANRY_NAME" Language="fr_FR">
+			<Text>Dieu de l'artisanat</Text>
+		</Row>
+		<Row Tag="LOC_POK_BELIEF_GOD_OF_ARTISANRY_DESCRIPTION" Language="fr_FR">
+			<Text>[ICON_Culture] Culture + 1 pour les mines construites sur des ressources de luxe et bonus.</Text>
+		</Row>
+		<Row Tag="LOC_POK_BELIEF_GOD_OF_METALLURGY_NAME" Language="fr_FR">
+			<Text>Dieu de la métallurgie</Text>
+		</Row>
+		<Row Tag="LOC_POK_BELIEF_GOD_OF_METALLURGY_DESCRIPTION" Language="fr_FR">
+			<Text>[ICON_Science] Science + 1 pour les mines construites sur des ressources de luxe et bonus.</Text>
+		</Row>
+		<Row Tag="LOC_POK_BELIEF_GOD_OF_DIPLOMACY_NAME" Language="fr_FR">
+			<Text>Dieu de la diplomatie</Text>
+		</Row>
+		<Row Tag="LOC_POK_BELIEF_GOD_OF_DIPLOMACY_DESCRIPTION" Language="fr_FR">
+			<Text>Points d'influence par tour + 2 pour l'obtention de nouveaux [ICON_Envoy] émissaires.</Text>
+		</Row>
+		<Row Tag="LOC_POK_BELIEF_GOD_OF_CREATION_NAME" Language="fr_FR">
+			<Text>Dieu de la Création</Text>
+		</Row>
+		<Row Tag="LOC_POK_BELIEF_GOD_OF_CREATION_DESCRIPTION" Language="fr_FR">
+			<Text>Les nouveaux bâtisseurs reçoivent une charge supplémentaire.</Text>
+		</Row>
+		<Row Tag="LOC_POK_BELIEF_SUN_GOD_NAME" Language="fr_FR">
+			<Text>Mythe solaire</Text>
+		</Row>
+		<Row Tag="LOC_POK_BELIEF_SUN_GOD_DESCRIPTION" Language="fr_FR">
+			<Text>[ICON_Food] Nourriture + 1 pour les ressources de [ICON_RESOURCE_WHEAT] blé, de [ICON_RESOURCE_RICE] riz et de [ICON_RESOURCE_BANANAS] bananes.</Text>
+		</Row>
+		<Row Tag="LOC_POK_BELIEF_ANAHITAS_BLESSING_NAME" Language="fr_FR">
+			<Text>Bénédiction d'Anahita</Text>
+		</Row>
+		<Row Tag="LOC_POK_BELIEF_ANAHITAS_BLESSING_DESCRIPTION" Language="fr_FR">
+			<Text>[ICON_Food] Nourriture + 1 sur les eaux côtières et les lacs.</Text>
+		</Row>
+		<Row Tag="LOC_POK_BELIEF_SACRED_BEASTS_NAME" Language="fr_FR">
+			<Text>Animaux sacrés</Text>
+		</Row>
+		<Row Tag="LOC_POK_BELIEF_SACRED_BEASTS_DESCRIPTION" Language="fr_FR">
+			<Text>[ICON_Faith] Foi + 2 pour les ressources [ICON_RESOURCE_IVORY] d'ivoire, de [ICON_RESOURCE_HORSES] chevaux, de [ICON_RESOURCE_FURS] fourrures et de [ICON_RESOURCE_WHALES] baleines. S'applique également aux chameaux et aux bisons (Sukritact's Resources).</Text>
+		</Row>
+		<Row Tag="LOC_POK_BELIEF_SONG_OF_THE_DJINN_NAME" Language="fr_FR">
+			<Text>Chant du djinn</Text>
+		</Row>
+		<Row Tag="LOC_POK_BELIEF_SONG_OF_THE_DJINN_DESCRIPTION" Language="fr_FR">
+			<Text>[ICON_Gold] Or + 2 sur les cases de désert.</Text>
+		</Row>
+		<Row Tag="LOC_POK_BELIEF_SPIRITS_OF_THE_TUNDRA_NAME" Language="fr_FR">
+			<Text>Esprits de la toundra</Text>
+		</Row>
+		<Row Tag="LOC_POK_BELIEF_SPIRITS_OF_THE_TUNDRA_DESCRIPTION" Language="fr_FR">
+			<Text>[ICON_Culture] + 1 sur les cases de toundra.</Text>
+		</Row>
+		<Row Tag="LOC_POK_BELIEF_SUPPLICATION_TO_BARAM_NAME" Language="fr_FR">
+			<Text>Prières à Baram</Text>
+		</Row>
+		<Row Tag="LOC_POK_BELIEF_SUPPLICATION_TO_BARAM_DESCRIPTION" Language="fr_FR">
+			<Text>[ICON_Culture] + 1 sur les cases de forêt tropicale.</Text>
+		</Row>
+		<Row Tag="LOC_POK_BELIEF_GIFTS_OF_THE_DRYADS_NAME" Language="fr_FR">
+			<Text>Cadeaux des Dryades</Text>
+		</Row>
+		<Row Tag="LOC_POK_BELIEF_GIFTS_OF_THE_DRYADS_DESCRIPTION" Language="fr_FR">
+			<Text>[ICON_Gold] Or + 2 sur les cases de forêt.</Text>
+		</Row>
+		<!--Follower Beliefs-->
+		<Row Tag="LOC_POK_BELIEF_THESMOPHORIA_NAME" Language="fr_FR">
+			<Text>Thesmophories</Text>
+		</Row>
+		<Row Tag="LOC_POK_BELIEF_THESMOPHORIA_DESCRIPTION" Language="fr_FR">
+			<Text>[ICON_Gold] Or + 1 sur les cases de ressources de luxe.</Text>
+		</Row>
+		<Row Tag="LOC_POK_BELIEF_SEMINARIES_NAME" Language="fr_FR">
+			<Text>Séminaires</Text>
+		</Row>
+		<Row Tag="LOC_POK_BELIEF_SEMINARIES_DESCRIPTION" Language="fr_FR">
+			<Text>Les autels et les temples fournissent une quantité de [ICON_Science] science égale à leur génération de [ICON_Faith] foi intrinsèque.</Text>
+		</Row>
+		<Row Tag="LOC_POK_BELIEF_PROSPERITY_DOCTRINE_NAME" Language="fr_FR">
+			<Text>Doctrine de la prospérité</Text>
+		</Row>
+		<Row Tag="LOC_POK_BELIEF_PROSPERITY_DOCTRINE_DESCRIPTION" Language="fr_FR">
+			<Text>Permet d'acheter des bâtiments pour la plateforme commerciale et le complexe de loisirs avec de la [ICON_Faith] foi.</Text>
+		</Row>
+		<Row Tag="LOC_POK_BELIEF_SACRED_WATERS_NAME" Language="fr_FR">
+			<Text>Eaux sacrées</Text>
+		</Row>
+		<Row Tag="LOC_POK_BELIEF_SACRED_WATERS_DESCRIPTION" Language="fr_FR">
+			<Text>Permet d'acheter des bâtiments pour le port et le parc aquatique avec de la [ICON_Faith] foi.</Text>
+		</Row>
+		<Row Tag="LOC_POK_BELIEF_ALMSGIVING_NAME" Language="fr_FR">
+			<Text>Aumône</Text>
+		</Row>
+		<Row Tag="LOC_POK_BELIEF_ALMSGIVING_DESCRIPTION" Language="fr_FR">
+			<Text>[ICON_Gold] Or + 2 % pour chaque fidèle.</Text>
+		</Row>
+		<Row Tag="LOC_POK_BELIEF_VOTIVE_OFFERINGS_NAME" Language="fr_FR">
+			<Text>Offrandes votives</Text>
+		</Row>
+		<Row Tag="LOC_POK_BELIEF_VOTIVE_OFFERINGS_DESCRIPTION" Language="fr_FR">
+			<Text>[ICON_Culture] Culture + 1 % pour chaque fidèle.</Text>
+		</Row>
+		<Row Tag="LOC_POK_BELIEF_SYMBOLS_OF_THE_GODS_NAME" Language="fr_FR">
+			<Text>Symboles des dieux</Text>
+		</Row>
+		<Row Tag="LOC_POK_BELIEF_SYMBOLS_OF_THE_GODS_DESCRIPTION" Language="fr_FR">
+			<Text>[ICON_Amenities] Activités + 2 dans les villes abritant une merveille.</Text>
+		</Row>
+		<Row Tag="LOC_POK_BELIEF_PLUTOLATRY_NAME" Language="fr_FR">
+			<Text>Plutolâtrie</Text>
+		</Row>
+		<Row Tag="LOC_POK_BELIEF_PLUTOLATRY_DESCRIPTION" Language="fr_FR">
+			<Text>[ICON_Gold] Or + 8 pour toutes les merveilles mondiales.</Text>
+		</Row>
+		<!--Worship Buildings-->
+		<Row Tag="LOC_POK_BELIEF_ATASHKADEH_NAME" Language="fr_FR">
+			<Text>Temple du feu</Text>
+		</Row>
+		<Row Tag="LOC_POK_BELIEF_ATASHKADEH_DESCRIPTION" Language="fr_FR">
+			<Text>Permet la construction de temples du feu ([ICON_Faith] foi + 3, [ICON_Culture] culture + 2).</Text>
+		</Row>
+		<Row Tag="LOC_POK_BELIEF_POSEIDONION_NAME" Language="fr_FR">
+			<Text>Poséidonium</Text>
+		</Row>
+		<Row Tag="LOC_POK_BELIEF_POSEIDONION_DESCRIPTION" Language="fr_FR">
+			<Text>Permet la construction de poséidoniums ([ICON_Faith] foi + 3, bonus de [ICON_Production] production et [ICON_Gold] d'or + 1 sur les cases côtières).</Text>
+		</Row>
+		<Row Tag="LOC_POK_BELIEF_SATURNIUM_NAME" Language="fr_FR">
+			<Text>Saturnium</Text>
+		</Row>
+		<Row Tag="LOC_POK_BELIEF_SATURNIUM_DESCRIPTION" Language="fr_FR">
+			<Text>Permet la construction de saturniums ([ICON_Faith] foi + 3, bonus de [ICON_Production] production et [ICON_Gold] d'or + 1 pour les plantations, les camps et les scieries construits sur les cases de ressources de luxe).</Text>
+		</Row>
+		<Row Tag="LOC_POK_BELIEF_MINERVIUM_NAME" Language="fr_FR">
+			<Text>Minervium</Text>
+		</Row>
+		<Row Tag="LOC_POK_BELIEF_MINERVIUM_DESCRIPTION" Language="fr_FR">
+			<Text>Permet la construction de minerviums ([ICON_Faith] foi + 3, bonus d'[ICON_Gold] or pour chaque case adjacente à un lieu saint).</Text>
+		</Row>
+		<Row Tag="LOC_POK_BELIEF_SERAPEUM_NAME" Language="fr_FR">
+			<Text>Sérapéum</Text>
+		</Row>
+		<Row Tag="LOC_POK_BELIEF_SERAPEUM_DESCRIPTION" Language="fr_FR">
+			<Text>Permet la construction de sérapéums ([ICON_Faith] foi + 3, points d'influence par tour + 1 pour les [ICON_Envoy] émissaires se trouvant dans une cité-état disposant d'au moins deux quartiers spécialisés).</Text>
+		</Row>
+		<Row Tag="LOC_POK_BELIEF_SURAU_NAME" Language="fr_FR">
+			<Text>Surau</Text>
+		</Row>
+		<Row Tag="LOC_POK_BELIEF_SURAU_DESCRIPTION" Language="fr_FR">
+			<Text>Permet la construction de suraus ([ICON_Faith] foi + 3, [ICON_Science] science + 1, [ICON_Culture] culture + 1).</Text>
+		</Row>
+		<Row Tag="LOC_POK_BELIEF_PRIORY_NAME" Language="fr_FR">
+			<Text>Prieuré</Text>
+		</Row>
+		<Row Tag="LOC_POK_BELIEF_PRIORY_DESCRIPTION" Language="fr_FR">
+			<Text>Permet la construction de prieurés ([ICON_Faith] foi + 3, 2 emplacements pour artefacts).</Text>
+		</Row>
+		<Row Tag="LOC_POK_BELIEF_CHAPEL_NAME" Language="fr_FR">
+			<Text>Chapelle</Text>
+		</Row>
+		<Row Tag="LOC_POK_BELIEF_CHAPEL_DESCRIPTION" Language="fr_FR">
+			<Text>Permet la construction de chapelles ([ICON_Faith] foi + 3, [ICON_Food] nourriture + 1, [ICON_Production] production + 1).</Text>
+		</Row>
+		<Row Tag="LOC_POK_BUILDING_ATASHKADEH_NAME" Language="fr_FR">
+			<Text>Temple du feu|Temples du feu</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1|2</Plurality>
+		</Row>
+		<Row Tag="LOC_PEDIA_BUILDINGS_PAGE_POK_BUILDING_ATASHKADEH_CHAPTER_HISTORY_PARA_1" Language="fr_FR">
+			<Text>Le temple du feu dans le zoroastrisme est le lieu de culte pour les zoroastriens.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_BUILDINGS_PAGE_POK_BUILDING_ATASHKADEH_CHAPTER_HISTORY_PARA_2" Language="fr_FR">
+			<Text>Tout temple, quel que soit le dieu (ou les dieux) auxquels il était consacré, comprenait un autel du feu. Il était placé dans une pièce sombre, afin que le feu sacré ne fût pas touché par les rayons du soleil. Les prêtres l'entretenaient selon un rituel extrêmement strict. Trois temples jouaient un rôle majeur : celui du Feu de Farnbagh, qui se serait trouvé dans la ville de Kāriyān (région du Fars), celui du Feu de Gushnasp, à Gandja dans l'actuel Azerbaïdjan, et celui du Feu de Burzēn-Mihr, au nord-ouest de Nishapur. Ces feux étaient respectivement celui des prêtres, celui des rois et celui des agriculteurs. Ils correspondent aux trois fonctions reconnues par Dumézil chez tous les peuples indo-européens : la fonction cléricale, la fonction guerrière (à laquelle se rattachaient les rois) et la fonction de production. Ainsi, l'Avesta récent reconnaît trois états, celui des prêtres, celui des guerriers et celui des agriculteurs. Quand un empereur montait sur le trône, il effectuait une visite solennelle au Feu de Gushnasp. Il lui demandait également son aide pour vaincre ses ennemis.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_BUILDINGS_PAGE_POK_BUILDING_ATASHKADEH_CHAPTER_HISTORY_PARA_3" Language="fr_FR">
+			<Text>Les premiers temples du feu ont probablement été construits par les Achéménides, mais c'étaient souvent des sanctuaires simples. Les Parthes ont également construit des temples du feu. L'âge d'or des temples fut cependant sous le règne des Sassanides.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_BUILDINGS_PAGE_POK_BUILDING_ATASHKADEH_CHAPTER_HISTORY_PARA_4" Language="fr_FR">
+			<Text>Avec l'émergence de l'empire arabe et de l'islam, la plupart des temples du feu ont disparu, mais certains continuent d'être actifs.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_BUILDINGS_PAGE_POK_BUILDING_ATASHKADEH_CHAPTER_HISTORY_PARA_5" Language="fr_FR">
+			<Text></Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_BUILDINGS_PAGE_POK_BUILDING_ATASHKADEH_CHAPTER_HISTORY_PARA_6" Language="fr_FR">
+			<Text></Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_BUILDINGS_PAGE_POK_BUILDING_ATASHKADEH_CHAPTER_HISTORY_PARA_7" Language="fr_FR">
+			<Text></Text>
+		</Row>
+		<Row Tag="LOC_POK_BUILDING_POSEIDONION_NAME" Language="fr_FR">
+			<Text>Poséidonium|Poséidoniums</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1|2</Plurality>
+		</Row>
+		<Row Tag="LOC_POK_BUILDING_POSEIDONION_DESCRIPTION" Language="fr_FR">
+			<Text>[ICON_Production] Production + 1 et [ICON_Gold] Or + 1 sur les cases côtières.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_BUILDINGS_PAGE_POK_BUILDING_POSEIDONION_CHAPTER_HISTORY_PARA_1" Language="fr_FR">
+			<Text>Dans la mythologie grecque, Poséidon était le dieu de la mer, de la navigation, des tempêtes, mais également des tremblements de terre. Il était le fils de Cronos et de Rhéa. Cette divinité essentiellement marine fait partie des douze Olympiens mais il a toujours été avide de royaumes terrestres. Il fut assimilé à Neptune chez les Romains.</Text>
+		</Row>
+		<Row Tag="LOC_POK_BUILDING_SATURNIUM_NAME" Language="fr_FR">
+			<Text>Saturnium|Saturniums</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1|2</Plurality>
+		</Row>
+		<Row Tag="LOC_POK_BUILDING_SATURNIUM_DESCRIPTION" Language="fr_FR">
+			<Text>[ICON_Production] Production + 1 et [ICON_Gold] Or + 1 pour les plantations, les camps et les scieries construits sur les cases de ressources de luxe.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_BUILDINGS_PAGE_POK_BUILDING_SATURNIUM_CHAPTER_HISTORY_PARA_1" Language="fr_FR">
+			<Text>Saturne est le dieu romain de l'agriculture, du renouveau, de la libération, de la richesse, de la dissolution et du temps, entre autres. Il préside la période qui précède le solstice d'hiver, celle des Saturnales. Pendant le reste de l'année, c'est un deus otiosus, un dieu en sommeil, dont la statue est liée par des bandelettes dont on ne le libère qu'au moment des Saturnales. Il a été assimilé par les anciens au titan grec Cronos. Saturne était communément représenté comme un vieillard courbé sous le poids des années, tenant une faux à la main pour marquer qu'il préside au temps.</Text>
+		</Row>
+		<Row Tag="LOC_POK_BUILDING_MINERVIUM_NAME" Language="fr_FR">
+			<Text>Minervium|Minerviums</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1|2</Plurality>
+		</Row>
+		<Row Tag="LOC_PEDIA_BUILDINGS_PAGE_POK_BUILDING_MINERVIUM_CHAPTER_HISTORY_PARA_1" Language="fr_FR">
+			<Text>Minerve est une très ancienne divinité, dans la mythologie romaine, qui est la déesse de la guerre, de la sagesse, de la stratégie, de l'intelligence, de la pensée élevée, des lettres, des arts, de la musique et de l'industrie. Elle est protectrice de Rome et patronne des artisans. Elle est, avec Jupiter et Junon, une des divinités de la triade capitoline, à laquelle sont dédiés le temple de Jupiter capitolin puis les capitoles des autres villes de l’Empire romain. Lors du lectisterne de 217 avant J.-C., elle a été assimilée à la déesse grecque Athéna, héritant d’une grande partie des mythes liés à celle-ci.</Text>
+		</Row>
+		<Row Tag="LOC_POK_BUILDING_SERAPEUM_NAME" Language="fr_FR">
+			<Text>Sérapéum|Sérapéums</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1|2</Plurality>
+		</Row>
+		<Row Tag="LOC_POK_BUILDING_SERAPEUM_DESCRIPTION" Language="fr_FR">
+			<Text>Points d'influence par tour + 1 pour les [ICON_Envoy] émissaires se trouvant dans une cité-état disposant d'au moins deux quartiers spécialisés.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_BUILDINGS_PAGE_POK_BUILDING_SERAPEUM_CHAPTER_HISTORY_PARA_1" Language="fr_FR">
+			<Text>Sérapis est le dieu immortel de la vie et de la Mort. Il est aussi un dieu guérisseur. Il fut introduit en Égypte par Ptolémée Ier, un grec devenu le nouveau roi du pays après la dislocation de l'empire d'Alexandre le Grand. Ptolémée était soucieux de créer une divinité commune aux Grecs et aux Égyptiens. Le nom provient peut être d'un sanctuaire égyptien de Memphis où l'on célébrait les taureaux Apis morts (qui pour les Égyptiens deviennent des Osiris. Ce sanctuaire était appelé Maison d'Osiris-Apis (ce qui devient en grec, Posérapis ou Sérapéum). Rapidement il devint le dieu suprême Zeus Sérapis. Son culte se répandit dans tout le monde méditerranéen, en Grèce, à Rome et en Asie mineure.</Text>
+		</Row>
+		<Row Tag="LOC_POK_BUILDING_SURAU_NAME" Language="fr_FR">
+			<Text>Surau|Suraus</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1|2</Plurality>
+		</Row>
+		<Row Tag="LOC_PEDIA_BUILDINGS_PAGE_POK_BUILDING_SURAU_CHAPTER_HISTORY_PARA_1" Language="fr_FR">
+			<Text>Un surau est un bâtiment de l'assemblée islamique utilisé pour le culte et l'instruction religieuse. Certaines de ses fonctions rituelles s'apparentent à une mosquée, mais les suraus sont pour la plupart plus petits que les mosquées, admettent les hommes et les femmes, et sont davantage utilisés pour l'instruction religieuse et les prières festives. Ils peuvent fonctionner comme des centres communautaires et dépendent davantage du soutien et du financement de ses fidèles.</Text>
+		</Row>
+		<Row Tag="LOC_POK_BUILDING_PRIORY_NAME" Language="fr_FR">
+			<Text>Prieuré|Prieurés</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1|2</Plurality>
+		</Row>
+		<Row Tag="LOC_PEDIA_BUILDINGS_PAGE_POK_BUILDING_PRIORY_CHAPTER_HISTORY_PARA_1" Language="fr_FR">
+			<Text>Un prieuré est un monastère, le plus souvent subordonné à une abbaye plus importante ; il est placé sous l'autorité d'un prieur, lui-même dépendant d'un abbé plus important. On appelle également prieuré le bénéfice paroissial, c'est-à-dire le revenu d'une paroisse, principalement la dîme. Bon nombre de prieurés sont bien souvent de fondation seigneuriale. Ils attirent de ce fait une nouvelle population et confèrent au château près desquels ils sont implantés une importance supplémentaire.</Text>
+		</Row>
+		<Row Tag="LOC_POK_BUILDING_CHAPEL_NAME" Language="fr_FR">
+			<Text>Chapelle|Chapelles</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1|2</Plurality>
+		</Row>
+		<Row Tag="LOC_PEDIA_BUILDINGS_PAGE_POK_BUILDING_CHAPEL_CHAPTER_HISTORY_PARA_1" Language="fr_FR">
+			<Text>Une chapelle est un édifice religieux et lieu de culte chrétien qui peut, selon le cas, constituer un édifice distinct ou être intégré dans un autre bâtiment. Il s'agit généralement soit d'un édifice religieux secondaire dans une paroisse, soit d'un lieu de culte au sein d'un bâtiment ou ensemble de bâtiments ayant une fonction précise (château, hôpital, école, cimetière, etc.).</Text>
+		</Row>
+		<!--Founder Beliefs-->
+		<Row Tag="LOC_POK_BELIEF_PONTIFICATE_NAME" Language="fr_FR">
+			<Text>Pontificat</Text>
+		</Row>
+		<Row Tag="LOC_POK_BELIEF_PONTIFICATE_DESCRIPTION" Language="fr_FR">
+			<Text>[ICON_Faith] Foi + 5 % par cité-état dont vous êtes le suzerain.</Text>
+		</Row>
+		<Row Tag="LOC_POK_BELIEF_NEPTUNALIA_NAME" Language="fr_FR">
+			<Text>Neptunales</Text>
+		</Row>
+		<Row Tag="LOC_POK_BELIEF_NEPTUNALIA_DESCRIPTION" Language="fr_FR">
+			<Text>Chaque port ou campement d'une ville convertie à cette religion fournit respectivement [ICON_GOLD] or + 1 ou [ICON_Culture] culture + 1.</Text>
+		</Row>
+		<Row Tag="LOC_POK_BELIEF_MONASTERY_BREWERY_NAME" Language="fr_FR">
+			<Text>Bières d'abbaye</Text>
+		</Row>
+		<Row Tag="LOC_POK_BELIEF_MONASTERY_BREWERY_DESCRIPTION" Language="fr_FR">
+			<Text>[ICON_Faith] Foi + 1 et [ICON_Gold] or + 2 pour les cases terrestres adjacentes aux lieux saints.</Text>
+		</Row>
+		<Row Tag="LOC_POK_BELIEF_HECATOMB_NAME" Language="fr_FR">
+			<Text>Hécatombe</Text>
+		</Row>
+		<Row Tag="LOC_POK_BELIEF_HECATOMB_DESCRIPTION" Language="fr_FR">
+			<Text>[ICON_Food] Nourriture + 1 pour les cases terrestres adjacentes aux lieux saints.</Text>
+		</Row>
+		<Row Tag="LOC_POK_BELIEF_EUDAIMONIA_NAME" Language="fr_FR">
+			<Text>Eudémonisme</Text>
+		</Row>
+		<Row Tag="LOC_POK_BELIEF_EUDAIMONIA_DESCRIPTION" Language="fr_FR">
+			<Text>[ICON_Production] Production + 1 pour les cases terrestres adjacentes aux lieux saints.</Text>
+		</Row>
+		<Row Tag="LOC_POK_BELIEF_DIVINE_REVELATION_NAME" Language="fr_FR">
+			<Text>Révélations divines</Text>
+		</Row>
+		<Row Tag="LOC_POK_BELIEF_DIVINE_REVELATION_DESCRIPTION" Language="fr_FR">
+			<Text>[ICON_Faith] Foi + 1 pour les cases terrestres adjacentes aux lieux saints.</Text>
+		</Row>
+		<Row Tag="LOC_POK_BELIEF_HEJAZI_CALLIGRAPHY_NAME" Language="fr_FR">
+			<Text>Calligraphie coufique</Text>
+		</Row>
+		<Row Tag="LOC_POK_BELIEF_HEJAZI_CALLIGRAPHY_DESCRIPTION" Language="fr_FR">
+			<Text>[ICON_Culture] Culture + 1 pour les cases terrestres adjacentes aux lieux saints.</Text>
+		</Row>
+		<Row Tag="LOC_POK_BELIEF_SCHOLAE_MONASTICA_NAME" Language="fr_FR">
+			<Text>École monastique</Text>
+		</Row>
+		<Row Tag="LOC_POK_BELIEF_SCHOLAE_MONASTICA_DESCRIPTION" Language="fr_FR">
+			<Text>[ICON_Science] Science + 1 pour les cases terrestres adjacentes aux lieux saints.</Text>
+		</Row>
+		<!--Enhancer Beliefs-->
+		<Row Tag="LOC_POK_BELIEF_MESSENGERS_OF_THE_GODS_NAME" Language="fr_FR">
+			<Text>Prêtrise</Text>
+		</Row>
+		<Row Tag="LOC_POK_BELIEF_MESSENGERS_OF_THE_GODS_DESCRIPTION" Language="fr_FR">
+			<Text>Obtient un apôtre chaque fois qu'un lieu saint est construit.</Text>
+		</Row>
+		<Row Tag="LOC_POK_BELIEF_EPISTLES_NAME" Language="fr_FR">
+			<Text>Épîtres</Text>
+		</Row>
+		<Row Tag="LOC_POK_BELIEF_EPISTLES_DESCRIPTION" Language="fr_FR">
+			<Text>Les missionnaires et apôtres peuvent propager leur religion une fois supplémentaire.</Text>
+		</Row>
+		<Row Tag="LOC_POK_BELIEF_VISIONS_NAME" Language="fr_FR">
+			<Text>Visions</Text>
+		</Row>
+		<Row Tag="LOC_POK_BELIEF_VISIONS_DESCRIPTION" Language="fr_FR">
+			<Text>Champ de vision + 3 pour les unités religieuses.</Text>
+		</Row>
+		<Row Tag="LOC_POK_BELIEF_WITCH_TRIALS_NAME" Language="fr_FR">
+			<Text>Chasse aux sorcières</Text>
+		</Row>
+		<Row Tag="LOC_POK_BELIEF_WITCH_TRIALS_DESCRIPTION" Language="fr_FR">
+			<Text>Les inquisiteurs et les gourous sont 50 % moins cher à l'achat.</Text>
+		</Row>
+		<Row Tag="LOC_POK_BELIEF_BELLUM_SACRUM_NAME" Language="fr_FR">
+			<Text>Bellum Sacrum</Text>
+		</Row>
+		<Row Tag="LOC_POK_BELIEF_BELLUM_SACRUM_DESCRIPTION" Language="fr_FR">
+			<Text>Point de [ICON_GreatGeneral] général illustre + 1 par tour pour les lieux saints.</Text>
+		</Row>
+		<Row Tag="LOC_POK_BELIEF_PAEAN_TO_TRITON_NAME" Language="fr_FR">
+			<Text>Ode à Triton</Text>
+		</Row>
+		<Row Tag="LOC_POK_BELIEF_PAEAN_TO_TRITON_DESCRIPTION" Language="fr_FR">
+			<Text>Point d'[ICON_GreatAdmiral] amiral illustre + 1 par tour pour les lieux saints.</Text>
+		</Row>
+		<Row Tag="LOC_POK_BELIEF_BY_THE_SWORD_NAME" Language="fr_FR">
+			<Text>Par l'épée</Text>
+		</Row>
+		<Row Tag="LOC_POK_BELIEF_BY_THE_SWORD_DESCRIPTION" Language="fr_FR">
+			<Text>Les villes capturées adoptent automatiquement votre religion.</Text>
+		</Row>
+	</LocalizedText>
+</GameData>

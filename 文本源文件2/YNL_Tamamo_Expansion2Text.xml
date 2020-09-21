@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<LocalizedText>
+		<Row Tag="LOC_BUILDING_YNL_CHEMICAL_PLANT_EXPANSION2_DESCRIPTION" Language="en_US">
+			<Text>A building unique to Yamado Dynasty. Provides +4 [ICON_Science] Science to this city after researching the Electricity technology. Its [ICON_Production] Production bonus is extended to all City Centers within 9 tiles that do not already have a bonus from this building type.</Text>
+		</Row>
+	</LocalizedText>
+</GameData>

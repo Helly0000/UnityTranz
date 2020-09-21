@@ -1,0 +1,285 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by Ed Beach (Firaxis Games) -->
+<GameData>
+	<LocalizedText>
+		<Row Tag="LOC_LEADER_MER_ODAENATHUS_NAME" Language="en_US">
+			<Text>Odaenathus</Text>
+		</Row>
+		<!--Traits-->
+		<Row Tag="LOC_TRAIT_LEADER_MER_KING_OF_KINGS_NAME" Language="en_US">
+			<Text>King of Kings of the East</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_LEADER_MER_KING_OF_KINGS_DESCRIPTION" Language="en_US">
+			<Text>[ICON_Governor] Governors established in a city provide +3% [ICON_Production] Production for each Governor Title they have earned. Completing a Market grants a free Heavy Cavalry unit and a free [ICON_TradingPost] Trading Post in that city.</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_CIVILIZATION_MER_PEARL_OF_THE_DESERT_NAME" Language="en_US">
+			<Text>Pearl of the Desert</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_CIVILIZATION_MER_PEARL_OF_THE_DESERT_DESCRIPTION" Language="en_US">
+			<Text>Your [ICON_TradingPost] Trading Posts provide +1 [ICON_Food] Food and +1 [ICON_Production] Production to your Trade Routes. Commercial Hub, Holy Site, and Theatre Square districts receive a major (+2) adjacency bonus from Oasis tiles. These districts provide +1 of their respective base yield to adjacent tiles.</Text>
+		</Row>
+		<Row Tag="LOC_DISTRICT_OASIS_GOLD" Language="en_US">
+			<Text>+{2_num} [ICON_Gold] Gold from the adjacent Oasis {1_Num : plural 1?tile; other?tiles;}.</Text>
+		</Row>
+		<Row Tag="LOC_DISTRICT_OASIS_CULTURE" Language="en_US">
+			<Text>+{2_num} [ICON_Culture] Culture from the adjacent Oasis {1_Num : plural 1?tile; other?tiles;}.</Text>
+		</Row>
+		<Row Tag="LOC_DISTRICT_OASIS_FAITH" Language="en_US">
+			<Text>+{2_num} [ICON_Faith] Faith from the adjacent Oasis {1_Num : plural 1?tile; other?tiles;}.</Text>
+		</Row>
+		<Row Tag="LOC_DISTRICT_FUNERARY_FAITH" Language="en_US">
+			<Text>+{1_num} [ICON_Faith] Faith from the adjacent Funerary Towers.</Text>
+		</Row>
+		<Row Tag="LOC_DISTRICT_FUNERARY_GOLD" Language="en_US">
+			<Text>+{1_num} [ICON_Gold] Gold from the adjacent {1_Num : plural 1?Funerary Tower; other?Funerary Towers;}.</Text>
+		</Row>
+		<Row Tag="LOC_DISTRICT_FUNERARY_CULTURE" Language="en_US">
+			<Text>+{1_num} [ICON_Culture] Culture from the adjacent {1_Num : plural 1?Funerary Tower; other?Funerary Towers;}.</Text>
+		</Row>
+		<!-- <Update>
+			<Set Text="{Value : number +#;-#}% ({ActualValue : number +#.#;-#.#}) from [ICON_Governor] Governor with {1} {1 : plural 1?Promotion; other?Promotions;}"/>
+			<Where Tag="LOC_CITY_YIELD_MODIFIER_PER_GOVERNOR_TITLE_TOOLTIP" Language="en_US"/>
+		</Update> -->
+		<Row Tag="LOC_TRAIT_CIVILIZATION_UNIT_MER_CLIBANARII_NAME" Language="en_US">
+			<Text>Clibanarii</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_CIVILIZATION_UNIT_MER_CLIBANARII_DESCRIPTION" Language="en_US">
+			<Text>A unique cavalry unit</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_MER_CLIBANARII_NAME" Language="en_US">
+			<Text>Clibanarii</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_MER_CLIBANARII_DESCRIPTION" Language="en_US">
+			<Text>Palmyrene unique heavy cavalry unit. +5 [ICON_Strength] Strength when attacking and and an additional +10 [ICON_Strength] Strength when attacking fortified units. +1 [ICON_Movement] Movement over flat terrain.</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_MER_CLIBANARII_NAME" Language="en_US">
+			<Text>Ironclad</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_MER_CLIBANARII_DESCRIPTION" Language="en_US">
+			<Text>+5 [ICON_Strength] Strength when attacking and +5 [ICON_Strength] Strength when attacking fortified units.</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_CIVILIZATION_IMPROVEMENT_MER_FUNERARY_TOWERS_NAME" Language="en_US">
+			<Text>Funerary Towers</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_CIVILIZATION_IMPROVEMENT_MER_FUNERARY_TOWERS_DESCRIPTION" Language="en_US">
+			<Text>A unique improvement</Text>
+		</Row>
+		<Row Tag="LOC_IMPROVEMENT_MER_FUNERARY_TOWERS_NAME" Language="en_US">
+			<Text>Funerary Towers</Text>
+		</Row>
+		<Row Tag="LOC_IMPROVEMENT_MER_FUNERARY_TOWERS_DESCRIPTION" Language="en_US">
+			<Text>Palmyrene unique improvement. Yields +1 [ICON_Faith] Faith and +1 [ICON_Gold] Gold. +1 bonus [ICON_Faith] Faith per adjacent Funerary Towers. +1 Tourism per bonus [ICON_Faith] Faith on the tile (Conservation). Must be built in a line.</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_MER_PALMYRA_NAME" Language="en_US">
+			<Text>Palmyra</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_MER_PALMYRA_DESCRIPTION" Language="en_US">
+			<Text>Palmyrene Empire</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_MER_PALMYRA_DESCRIPTION_JFD_CIVILIZATION" Language="en_US">
+			<Text>Palmyrene Civilization</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_MER_PALMYRA_ADJECTIVE"	  Language="en_US">
+			<Text>Palmyrene</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_MER_PALMYRA_1" Language="en_US">
+			<Text>Palmyra</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_MER_PALMYRA_2" Language="en_US">
+			<Text>Dura-Europos</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_MER_PALMYRA_3" Language="en_US">
+			<Text>Emesa</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_MER_PALMYRA_4" Language="en_US">
+			<Text>Apamea</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_MER_PALMYRA_5" Language="en_US">
+			<Text>Edessa</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_MER_PALMYRA_6" Language="en_US">
+			<Text>Damascus</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_MER_PALMYRA_7" Language="en_US">
+			<Text>Beroea</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_MER_PALMYRA_8" Language="en_US">
+			<Text>Epiphania</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_MER_PALMYRA_9" Language="en_US">
+			<Text>Bostra</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_MER_PALMYRA_10" Language="en_US">
+			<Text>Tarsus</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_MER_PALMYRA_11" Language="en_US">
+			<Text>Laodicea</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_MER_PALMYRA_12" Language="en_US">
+			<Text>Tyana</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_MER_PALMYRA_13" Language="en_US">
+			<Text>Iconium</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_MER_PALMYRA_14" Language="en_US">
+			<Text>Ancyra</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_MER_PALMYRA_15" Language="en_US">
+			<Text>Caesarea</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_MER_PALMYRA_16" Language="en_US">
+			<Text>Petra</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_MER_PALMYRA_17" Language="en_US">
+			<Text>Jerusalem</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_MER_PALMYRA_18" Language="en_US">
+			<Text>Sidon</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_MER_PALMYRA_19" Language="en_US">
+			<Text>Antioch</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_MER_PALMYRA_20" Language="en_US">
+			<Text>Tripoli</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_MER_PALMYRA_21" Language="en_US">
+			<Text>Berytus</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_MER_PALMYRA_22" Language="en_US">
+			<Text>Gerasa</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_MER_PALMYRA_23" Language="en_US">
+			<Text>Philadelphia</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_MER_PALMYRA_24" Language="en_US">
+			<Text>Callinicum</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_MER_PALMYRA_25" Language="en_US">
+			<Text>Issus</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_MER_PALMYRA_26" Language="en_US">
+			<Text>Carrhae</Text>
+		</Row>
+		<!--Citizens-->
+		<Row Tag="LOC_CITIZEN_MER_PALMYRA_MALE_1" Language="en_US">
+			<Text>Aku</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_MER_PALMYRA_MALE_2" Language="en_US">
+			<Text>Armo</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_MER_PALMYRA_MALE_3" Language="en_US">
+			<Text>Jere</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_MER_PALMYRA_MALE_4" Language="en_US">
+			<Text>Tapio</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_MER_PALMYRA_MALE_5" Language="en_US">
+			<Text>Kauko</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_MER_PALMYRA_MALE_6" Language="en_US">
+			<Text>Aapo</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_MER_PALMYRA_MALE_7" Language="en_US">
+			<Text>Aatami</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_MER_PALMYRA_MALE_8" Language="en_US">
+			<Text>Elias</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_MER_PALMYRA_MALE_9" Language="en_US">
+			<Text>Aimo</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_MER_PALMYRA_MALE_10" Language="en_US">
+			<Text>Twain</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_MER_PALMYRA_MODERN_MALE_1" Language="en_US">
+			<Text>Janne</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_MER_PALMYRA_MODERN_MALE_2" Language="en_US">
+			<Text>Jarkko</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_MER_PALMYRA_MODERN_MALE_3" Language="en_US">
+			<Text>Eino</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_MER_PALMYRA_MODERN_MALE_4" Language="en_US">
+			<Text>Joel</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_MER_PALMYRA_MODERN_MALE_5" Language="en_US">
+			<Text>Eemili</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_MER_PALMYRA_MODERN_MALE_6" Language="en_US">
+			<Text>Edvard</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_MER_PALMYRA_MODERN_MALE_7" Language="en_US">
+			<Text>Kimi</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_MER_PALMYRA_MODERN_MALE_8" Language="en_US">
+			<Text>Kristian</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_MER_PALMYRA_MODERN_MALE_9" Language="en_US">
+			<Text>Lassi</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_MER_PALMYRA_MODERN_MALE_10" Language="en_US">
+			<Text>Luukas</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_MER_PALMYRA_FEMALE_1" Language="en_US">
+			<Text>Leena</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_MER_PALMYRA_FEMALE_2" Language="en_US">
+			<Text>Ansa</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_MER_PALMYRA_FEMALE_3" Language="en_US">
+			<Text>Inari</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_MER_PALMYRA_FEMALE_4" Language="en_US">
+			<Text>Anneli</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_MER_PALMYRA_FEMALE_5" Language="en_US">
+			<Text>Milla</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_MER_PALMYRA_FEMALE_6" Language="en_US">
+			<Text>Inka</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_MER_PALMYRA_FEMALE_7" Language="en_US">
+			<Text>Katja</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_MER_PALMYRA_FEMALE_8" Language="en_US">
+			<Text>Sanna</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_MER_PALMYRA_FEMALE_9" Language="en_US">
+			<Text>Marja</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_MER_PALMYRA_FEMALE_10" Language="en_US">
+			<Text>Aada</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_MER_PALMYRA_MODERN_FEMALE_1" Language="en_US">
+			<Text>Aallotar</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_MER_PALMYRA_MODERN_FEMALE_2" Language="en_US">
+			<Text>Aina</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_MER_PALMYRA_MODERN_FEMALE_3" Language="en_US">
+			<Text>Aino</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_MER_PALMYRA_MODERN_FEMALE_4" Language="en_US">
+			<Text>Aleksandra</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_MER_PALMYRA_MODERN_FEMALE_5" Language="en_US">
+			<Text>Annikki</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_MER_PALMYRA_MODERN_FEMALE_6" Language="en_US">
+			<Text>Eeva</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_MER_PALMYRA_MODERN_FEMALE_7" Language="en_US">
+			<Text>Eevi</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_MER_PALMYRA_MODERN_FEMALE_8" Language="en_US">
+			<Text>Hanna</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_MER_PALMYRA_MODERN_FEMALE_9" Language="en_US">
+			<Text>Jenna</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_MER_PALMYRA_MODERN_FEMALE_10" Language="en_US">
+			<Text>Kaisu</Text>
+		</Row>
+	</LocalizedText>
+</GameData>

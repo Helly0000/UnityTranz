@@ -1,0 +1,954 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by Ed Beach (Firaxis Games) -->
+<GameData>
+	<LocalizedText>
+		<!--CIVILIZATION-->
+		<Row Tag="LOC_CIVILIZATION_GEDEMO_RAPANUI_NAME" Language="en_US">
+			<Text>Rapa Nui</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_GEDEMO_RAPANUI_DESCRIPTION" Language="en_US">
+			<Text>Rapa Nui Empire</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_GEDEMO_RAPANUI_ADJECTIVE" Language="en_US">
+			<Text>Rapa Nui</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_GEDEMO_RAPANUI_DESCRIPTION_GEDEMO_CIVILIZATION" Language="en_US">
+			<Text>Rapa Nui</Text>
+		</Row>
+		<!--Pedia-->
+		<Row Tag="LOC_CIVINFO_GEDEMO_RAPANUI_LOCATION" Language="en_US">
+			<Text>Pacific Ocean</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_GEDEMO_RAPANUI_POPULATION" Language="en_US">
+			<Text>About 5,682</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_GEDEMO_RAPANUI_SIZE" Language="en_US">
+			<Text>Roughly 63.2 square miles (163.6 square kilometers)</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_GEDEMO_RAPANUI_CAPITAL" Language="en_US">
+			<Text>Hanga Roa</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_GEDEMO_RAPANUI_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Also known as Easter Island, Rapa Nui has been home to the most far-flung human population on the planet for centuries. The Rapanui established a complex and dynamic society on their island home that has had to adapted to many tumultuous changes, from the slow desolation of Rapa Nui to a succession of avaricious European robber barons. Through it all, the Rapanui have employed arts and religion to create, express, and promote their cultural identity in the face of considerable hardships. </Text>
+		</Row>
+		
+
+
+		<!--Cities-->
+		<Row Tag="LOC_CITY_NAME_GEDEMO_RAPANUI_1" Language="en_US">
+			<Text>Hanga Roa</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_GEDEMO_RAPANUI_2" Language="en_US">
+			<Text>Orongo</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_GEDEMO_RAPANUI_3" Language="en_US">
+			<Text>Hanga Piko</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_GEDEMO_RAPANUI_4" Language="en_US">
+			<Text>Mataveri</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_GEDEMO_RAPANUI_5" Language="en_US">
+			<Text>Anakena</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_GEDEMO_RAPANUI_6" Language="en_US">
+			<Text>Te Ata Hero</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_GEDEMO_RAPANUI_7" Language="en_US">
+			<Text>Tahai</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_GEDEMO_RAPANUI_8" Language="en_US">
+			<Text>Te Peu</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_GEDEMO_RAPANUI_9" Language="en_US">
+			<Text>Maikati Te Moa</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_GEDEMO_RAPANUI_10" Language="en_US">
+			<Text>Vai Mata</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_GEDEMO_RAPANUI_11" Language="en_US">
+			<Text>A Tanga</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_GEDEMO_RAPANUI_12" Language="en_US">
+			<Text>Papa Tekena</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_GEDEMO_RAPANUI_13" Language="en_US">
+			<Text>Vai Tara Kai Ua</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_GEDEMO_RAPANUI_14" Language="en_US">
+			<Text>Nau Nau</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_GEDEMO_RAPANUI_15" Language="en_US">
+			<Text>Te Pito Kura</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_GEDEMO_RAPANUI_16" Language="en_US">
+			<Text>Hekii</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_GEDEMO_RAPANUI_17" Language="en_US">
+			<Text>Tau A Ure</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_GEDEMO_RAPANUI_18" Language="en_US">
+			<Text>Taharoa</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_GEDEMO_RAPANUI_19" Language="en_US">
+			<Text>Tongariki</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_GEDEMO_RAPANUI_20" Language="en_US">
+			<Text>One Makihi</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_GEDEMO_RAPANUI_21" Language="en_US">
+			<Text>Tu'u Tahi</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_GEDEMO_RAPANUI_22" Language="en_US">
+			<Text>Hanga Tetenga</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_GEDEMO_RAPANUI_23" Language="en_US">
+			<Text>Runga Va'e</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_GEDEMO_RAPANUI_24" Language="en_US">
+			<Text>Oroi</Text>
+		</Row>
+		
+
+
+
+		<!--Citizens-->
+		<Row Tag="LOC_CITIZEN_GEDEMO_RAPANUI_MALE_1" Language="en_US">
+			<Text>Tuꞌu Maheke</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_GEDEMO_RAPANUI_MALE_2" Language="en_US">
+			<Text>Miru</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_GEDEMO_RAPANUI_MALE_3" Language="en_US">
+			<Text>Marama</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_GEDEMO_RAPANUI_MALE_4" Language="en_US">
+			<Text>Raa</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_GEDEMO_RAPANUI_MALE_5" Language="en_US">
+			<Text>Koro Orongo</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_GEDEMO_RAPANUI_MALE_6" Language="en_US">
+			<Text>Hotu Iti</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_GEDEMO_RAPANUI_MALE_7" Language="en_US">
+			<Text>Tupahotu</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_GEDEMO_RAPANUI_MALE_8" Language="en_US">
+			<Text>Ngaure</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_GEDEMO_RAPANUI_MALE_9" Language="en_US">
+			<Text>Nuku</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_GEDEMO_RAPANUI_MALE_10" Language="en_US">
+			<Text>Hiuariru</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_GEDEMO_RAPANUI_FEMALE_1" Language="en_US">
+			<Text>Vakai</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_GEDEMO_RAPANUI_FEMALE_2" Language="en_US">
+			<Text>Aturaugi</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_GEDEMO_RAPANUI_FEMALE_3" Language="en_US">
+			<Text>Hakapuna</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_GEDEMO_RAPANUI_FEMALE_4" Language="en_US">
+			<Text>Ihu an Aturanga</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_GEDEMO_RAPANUI_FEMALE_5" Language="en_US">
+			<Text>Ruhoi</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_GEDEMO_RAPANUI_FEMALE_6" Language="en_US">
+			<Text>Takahita</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_GEDEMO_RAPANUI_FEMALE_7" Language="en_US">
+			<Text>Ouaraa</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_GEDEMO_RAPANUI_FEMALE_8" Language="en_US">
+			<Text>Koroharua</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_GEDEMO_RAPANUI_FEMALE_9" Language="en_US">
+			<Text>Mahuta</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_GEDEMO_RAPANUI_FEMALE_10" Language="en_US">
+			<Text>Atuamata</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_GEDEMO_RAPANUI_MODERN_MALE_1" Language="en_US">
+			<Text>Uremata</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_GEDEMO_RAPANUI_MODERN_MALE_2" Language="en_US">
+			<Text>Te Riri Tuu Kura</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_GEDEMO_RAPANUI_MODERN_MALE_3" Language="en_US">
+			<Text>Tiki Te Hatu</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_GEDEMO_RAPANUI_MODERN_MALE_4" Language="en_US">
+			<Text>Korua Rongo</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_GEDEMO_RAPANUI_MODERN_MALE_5" Language="en_US">
+			<Text>Tiki Tena</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_GEDEMO_RAPANUI_MODERN_MALE_6" Language="en_US">
+			<Text>Uru Kenu</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_GEDEMO_RAPANUI_MODERN_MALE_7" Language="en_US">
+			<Text>Te Rurua Tiki Te Hatu</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_GEDEMO_RAPANUI_MODERN_MALE_8" Language="en_US">
+			<Text>Nau Ta Mahiki</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_GEDEMO_RAPANUI_MODERN_MALE_9" Language="en_US">
+			<Text>Te Rika Tea</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_GEDEMO_RAPANUI_MODERN_MALE_10" Language="en_US">
+			<Text>Te Teratera</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_GEDEMO_RAPANUI_MODERN_FEMALE_1" Language="en_US">
+			<Text>Te Ria Kautahito</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_GEDEMO_RAPANUI_MODERN_FEMALE_2" Language="en_US">
+			<Text>Kuratahogo</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_GEDEMO_RAPANUI_MODERN_FEMALE_3" Language="en_US">
+			<Text>Ko Te Hiti Rua Nea</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_GEDEMO_RAPANUI_MODERN_FEMALE_4" Language="en_US">
+			<Text>Te Uruaki Kena</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_GEDEMO_RAPANUI_MODERN_FEMALE_5" Language="en_US">
+			<Text>Tu Te Rei Manana</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_GEDEMO_RAPANUI_MODERN_FEMALE_6" Language="en_US">
+			<Text>Ko Te Kura Tahonga</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_GEDEMO_RAPANUI_MODERN_FEMALE_7" Language="en_US">
+			<Text>Taoraha Kaihahanga</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_GEDEMO_RAPANUI_MODERN_FEMALE_8" Language="en_US">
+			<Text>Tukuma</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_GEDEMO_RAPANUI_MODERN_FEMALE_9" Language="en_US">
+			<Text>Te Tuhunga Hanui</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_GEDEMO_RAPANUI_MODERN_FEMALE_10" Language="en_US">
+			<Text>Puna Hako</Text>
+		</Row>
+
+		<Row Tag="LOC_CITY_NAME_C15_COLONY_NAMES_AKAHANGA" Language="en_US">
+			<Text>Akahanga</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_C15_COLONY_NAMES_URANGA" Language="en_US">
+			<Text>Ura Uranga Te Mahina</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_C15_COLONY_NAMES_HANGATEE" Language="en_US">
+			<Text>Hanga Te'e</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_C15_COLONY_NAMES_TARAKIU" Language="en_US">
+			<Text>Tarakiu</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_C15_COLONY_NAMES_POUKURA" Language="en_US">
+			<Text>Hanga Poukura</Text>
+		</Row>
+
+
+		<!--MOD SUPPORT-->
+		<!--JFD Rule with Faith-->
+
+		<Row Tag="LOC_CIVILIZATION_GEDEMO_RAPANUI_DESCRIPTION_JFD_CIVILIZATION" Language="en_US">
+			<Text>Rapa Nui Civilization</Text>
+		</Row>
+
+		
+		
+		<!--LEADER-->
+		<Row Tag="LOC_LEADER_GEDEMO_HOTUMATUA" Language="en_US">
+			<Text>Hotu Matu'a</Text>
+		</Row>
+
+
+		<!--DOM-->
+		<Row Tag="LOC_LOADING_INFO_LEADER_GEDEMO_HOTUMATUA" Language="en_US">
+			<Text>O Great Hotu Matu'a, you were the first colonizer and legendary Ariki Mau from Easter Island. Ancestor of the Rapa Nui, the Hotu Matu'a group with its two canoes was made up of Polynesians from the land of Hiva (probably Marquesas Islands). They landed on Anakena Beach and spread over the island, dividing into clans and living for more than 1,000 years isolated at the southeast end of the Polynesian triangle.[NewLine]Can you build a civilization that will stand the test of time? </Text>
+		</Row>
+
+
+		<!--Civilopedia-->
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_GEDEMO_HOTUMATUA_TITLE" Language="en_US">
+			<Text>Ariki Mau</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_GEDEMO_HOTUMATUA_SUBTITLE" Language="en_US">
+			<Text>Ariki Nui</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_GEDEMO_HOTUMATUA_QUOTE" Language="en_US">
+			<Text>This is a bad land, for when we planted yams, grass grew up instead.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_GEDEMO_HOTUMATUA_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>The legendary founder of Rapanui society, Hotu Matu'a was the first 'ariki mau (supreme chief, or literally “the true noble”) of Te Pito Te Henua--the name he gave to Rapa Nui when he and his followers first landed on the island. According to tradition, Hotu Matu'a came from a pair of islands known as Marae Renga and Marae Tohio. After the short reign of his father, a power struggle ensued between Hotu Matu'a and his brother Ko Te Ira Ka Atea. Other versions of the story say that Hotu Matu'a's enemy was a rival of his brother Machaa known as Oroi. Machaa and Oroi had both fallen in love with the same woman. While her heart was with Machaa, she knew Oroi commanded the loyalty of numerous warriors and would not permit them to remain together. Tricking Oroi to undertake a pilgrimage around their home island before they would be wed, she and Machaa eloped and went into hiding while he was away. When Oroi learned that he had been fooled, he swore revenge against Machaa and his entire family, including Hotu Matu'a. </Text>
+		</Row>
+		
+		
+
+
+		<!--Diplomacy-->
+		<!--FIRST MEET-->
+		<!--First AI line-->
+		<Row Tag="LOC_DIPLO_FIRST_MEET_LEADER_GEDEMO_HOTUMATUA_ANY" Language="en_US">
+			<Text>Welcome to the lands of the people of Rapa Nui. I hope you are good omen for us. </Text>
+		</Row>
+		<!--AI invitation to visit nearby City-->
+		<Row Tag="LOC_DIPLO_FIRST_MEET_VISIT_RECIPIENT_LEADER_GEDEMO_HOTUMATUA_ANY" Language="en_US">
+			<Text>Welcome! May the people of Rapa Nui be blessed by your arrival. </Text>
+		</Row>
+		<!--AI accepts Human invitation-->
+		<Row Tag="LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_POSITIVE_LEADER_GEDEMO_HOTUMATUA_ANY" Language="en_US">
+			<Text>Mauru-ur. (Thank you).</Text>
+		</Row>
+		<!--AI invitation to exchange Capital Information-->
+		<Row Tag="LOC_DIPLO_FIRST_MEET_NO_MANS_INFO_EXCHANGE_LEADER_GEDEMO_HOTUMATUA_ANY" Language="en_US">
+			<Text>Do you want to trade the positions of our respective capitals?</Text>
+		</Row>
+		<!--GREETINGS-->
+		<Row Tag="LOC_DIPLO_GREETING_LEADER_GEDEMO_HOTUMATUA_ANY" Language="en_US">
+			<Text>'Iorana koe (Greetings).</Text>
+		</Row>
+		<!--DELEGATION-->
+		<!--AI Accepts-->
+		<Row Tag="LOC_DIPLO_ACCEPT_DELEGATION_FROM_HUMAN_LEADER_GEDEMO_HOTUMATUA_ANY" Language="en_US">
+			<Text>We accept these presents with pleasure.</Text>
+		</Row>
+		<!--AI Rejects-->
+		<Row Tag="LOC_DIPLO_REJECT_DELEGATION_FROM_HUMAN_LEADER_GEDEMO_HOTUMATUA_ANY" Language="en_US">
+			<Text>No thanks, you can keep everything!</Text>
+		</Row>
+		<!--AI Requests -->
+		<Row Tag="LOC_DIPLO_DELEGATION_FROM_AI_LEADER_GEDEMO_HOTUMATUA_ANY" Language="en_US">
+			<Text>My trade delegation brings you presents from home: sweet potato, taro, yam..and wishes you a good appetite!</Text>
+		</Row>
+		<!--OPEN BORDERS-->
+		<!--AI accepts from human-->
+		<Row Tag="LOC_DIPLO_ACCEPT_OPEN_BORDERS_FROM_HUMAN_LEADER_GEDEMO_HOTUMATUA_ANY" Language="en_US">
+			<Text>Yes, you can pass.</Text>
+		</Row>
+		<!--AI rejects from human-->
+		<Row Tag="LOC_DIPLO_REJECT_OPEN_BORDERS_FROM_HUMAN_LEADER_GEDEMO_HOTUMATUA_ANY" Language="en_US">
+			<Text>You may not pass through our lands.</Text>
+		</Row>
+		<!--AI requests from human-->
+		<Row Tag="LOC_DIPLO_OPEN_BORDERS_FROM_AI_LEADER_GEDEMO_HOTUMATUA_ANY" Language="en_US">
+			<Text>Please let us pass through your lands!</Text>
+		</Row>
+		<!--DECLARE FRIENDSHIP-->
+		<!--AI accepts from human-->
+		<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_HUMAN_LEADER_GEDEMO_HOTUMATUA_ANY" Language="en_US">
+			<Text>Yes, let's celebrate our friendship!</Text>
+		</Row>
+		<!--AI Rejects from human -->
+		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_HUMAN_LEADER_GEDEMO_HOTUMATUA_ANY" Language="en_US">
+			<Text>No, it will be fine, thank you.</Text>
+		</Row>
+		<!--AI Requests friendship from human-->
+		<Row Tag="LOC_DIPLO_DECLARE_FRIEND_FROM_AI_LEADER_GEDEMO_HOTUMATUA_ANY" Language="en_US">
+			<Text>Do you want to publicly declare our friendship?</Text>
+		</Row>
+		<!--Human accepts AI requests, AI responds-->
+		<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_GEDEMO_HOTUMATUA_ANY" Language="en_US">
+			<Text>Mauru-ur. (Thank you).</Text>
+		</Row>
+		<!--Human rejects AI requests, AI responds-->
+		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_GEDEMO_HOTUMATUA_ANY" Language="en_US">
+			<Text>Very well. We take note of this decision.</Text>
+		</Row>
+		<!--ALLIANCE-->
+		<!--AI Requests an alliance from human-->
+		<Row Tag="LOC_DIPLO_MAKE_ALLIANCE_FROM_AI_LEADER_GEDEMO_HOTUMATUA_ANY" Language="en_US">
+			<Text>Do you want to form an alliance with us?</Text>
+		</Row>
+		<!--KUDOS & WARNINGS-->
+		<!--AI Kudos-->
+		<Row Tag="LOC_DIPLO_KUDO_EXIT_LEADER_GEDEMO_HOTUMATUA_ANY" Language="en_US">
+			<Text>What a success!</Text>
+		</Row>
+		<!--AI Warnings-->
+		<Row Tag="LOC_DIPLO_WARNING_EXIT_LEADER_GEDEMO_HOTUMATUA_ANY" Language="en_US">
+			<Text>You spin a bad cotton.</Text>
+		</Row>
+		<!--AI warns player for border troops-->
+		<Row Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_LEADER_GEDEMO_HOTUMATUA_ANY" Language="en_US">
+			<Text>Get your troops out of there!</Text>
+		</Row>
+		<!--TRADE-->
+		<!--AI Accepts Deal-->
+		<Row Tag="LOC_DIPLO_ACCEPT_MAKE_DEAL_FROM_AI_LEADER_GEDEMO_HOTUMATUA_ANY" Language="en_US">
+			<Text>{LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_GEDEMO_HOTUMATUA_ANY}</Text>
+		</Row>
+		<!--AI Rejects Deal-->
+		<Row Tag="LOC_DIPLO_REJECT_MAKE_DEAL_FROM_AI_LEADER_GEDEMO_HOTUMATUA_ANY" Language="en_US">
+			<Text>{LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_GEDEMO_HOTUMATUA_ANY}</Text>
+		</Row>
+		<!--DENOUNCE-->
+		<!--From Human-->
+		<Row Tag="LOC_DIPLO_DENOUNCE_FROM_HUMAN_LEADER_GEDEMO_HOTUMATUA_ANY" Language="en_US">
+			<Text>Your behavior is unacceptable.</Text>
+		</Row>
+		<!--From AI-->
+		<Row Tag="LOC_DIPLO_DENOUNCE_FROM_AI_LEADER_GEDEMO_HOTUMATUA_ANY" Language="en_US">
+			<Text>Your ambitions of expansion have final piqued my interest. I must warn against stepping beyond your bounds. (Denounces You).</Text>
+		</Row>
+		<!--DECLARE WAR-->
+		<!--Human Declares War-->
+		<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_HUMAN_LEADER_GEDEMO_HOTUMATUA_ANY" Language="en_US">
+			<Text>These lands once belonged to my ancestors. I will not so readily abandon my claim.</Text>
+		</Row>
+		<!--AI Declares War-->
+		<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_GEDEMO_HOTUMATUA_ANY" Language="en_US">
+			<Text>Your aggressive expansion threatens the stability of my empire. I will not let you claim these lands so easily.</Text>
+		</Row>
+		<!--MAKE PEACE-->
+		<!--AI accepts from human-->
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_AI_ACCEPT_DEAL_LEADER_GEDEMO_HOTUMATUA_ANY" Language="en_US">
+			<Text>Exalt the greatness of the gods for having guided you.</Text>
+		</Row>
+		<!--AI refuses human-->
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_AI_REFUSE_DEAL_LEADER_GEDEMO_HOTUMATUA_ANY" Language="en_US">
+			<Text>There are still some lands of yours that are desirable among the garbage you have of an empire.</Text>
+		</Row>
+		<!--AI requests from human-->
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_FROM_AI_LEADER_GEDEMO_HOTUMATUA_ANY" Language="en_US">
+			<Text>It's time to make peace, right?</Text>
+		</Row>
+		<!--DEFEAT-->
+		<!--AI is Defeated-->
+		<Row Tag="LOC_DIPLO_DEFEAT_FROM_AI_LEADER_GEDEMO_HOTUMATUA_ANY" Language="en_US">
+			<Text>The Rapa Nui are no longer blessed. It is time for us to find another home.</Text>
+		</Row>
+		<!--Human is Defeated (will see this in hotseat)-->
+		<Row Tag="LOC_DIPLO_DEFEAT_FROM_HUMAN_LEADER_GEDEMO_HOTUMATUA_ANY" Language="en_US">
+			<Text>[LOC_DIPLO_DEFEAT_FROM_AI_LEADER_GEDEMO_HOTUMATUA_ANY]</Text>
+		</Row>
+
+
+
+
+
+
+
+
+
+
+
+		<!--Traits-->
+		<Row Tag="LOC_TRAIT_LEADER_GEDEMO_HOTUMATUA_LTRAIT_NAME" Language="en_US">
+			<Text>Mata ki te rangi</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_LEADER_GEDEMO_HOTUMATUA_LTRAIT_DESCRIPTION" Language="en_US">
+			<Text>Hotu Matu'a starts the game in the Ocean with the ability to embark and enter Ocean tiles. +4 [ICON_Faith] Faith and +4 [ICON_Culture] Culture per turn before you settle your first City. This first settled City receives +2 [ICON_Citizen] Population and one free Builder. </Text>
+		</Row>
+
+
+		<Row Tag="LOC_TRAIT_CIVILIZATION_GEDEMO_RAPANUI_CIV_TRAIT_NAME" Language="en_US">
+			<Text>Te Pito O Te Kainga</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_CIVILIZATION_GEDEMO_RAPANUI_CIV_TRAIT_DESCRIPTION" Language="en_US">
+			<Text>Improving Sea Resources constructs Moais on adjacent Land Tiles, regardless of placement constraints. +1 [ICON_Culture] Culture from Stone Quarries. +25% yields from plot harvests and feature removals in the city.</Text>
+		</Row>
+
+		<Row Tag="LOC_BUILDING_GEDEMO_HAREPAENGA_NAME" Language="en_US">
+			<Text>Hare Paenga</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_GEDEMO_HAREPAENGA_DESCRIPTION" Language="en_US">
+			<Text>This building is unique to the Rapa Nui and replaces nothing. Available with Masonry, it grants +3 Loyalty per turn and +2 [ICON_Housing] Housing.</Text>
+		</Row>
+
+		
+
+		<Row Tag="LOC_PEDIA_BUILDINGS_PAGE_BUILDING_GEDEMO_HAREPAENGA_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>The Hare Paenga, also known as boat houses, had volcanic stone foundations pierced with orifices which allowed a plant hull-like structure to be fixed upside down. Many vestiges of these dwellings are scattered all over Easter Island. The appearance of boat houses is known thanks to engravings by the writer Pierre Loti, made in 1872, on which he depicted the hare paenga of a Rapa Nui chief. These dwellings were reserved for dignitaries and their families. The rest of the clan probably lived in more basic huts without a stone foundation or in the many caves on Easter Island.</Text>
+		</Row>
+		
+		
+		
+
+
+
+		<Row Tag="LOC_AGENDA_GEDEMO_HOTUMATUA_NAME" Language="en_US">
+			<Text>Te pito o te henua</Text>
+		</Row>
+		<Row Tag="LOC_AGENDA_GEDEMO_HOTUMATUA_DESCRIPTION" Language="en_US">
+			<Text>Clears all features and improves all possible tiles. Likes civilizations with a high percentage of improved tiles. Dislikes civilizations with low percentage of improved tiles.</Text>
+		</Row>
+
+
+		
+
+		
+
+
+		
+		
+		
+
+
+		<Row Tag="LOC_AGENDA_GEDEMO_HOTUMATUA_NAME" Language="fr_FR">
+			<Text>Te pito o te henua</Text>
+		</Row>
+		<Row Tag="LOC_AGENDA_GEDEMO_HOTUMATUA_DESCRIPTION" Language="fr_FR">
+			<Text>Améliore toutes les Cases possibles de terrain. Aime les civilisations avec un pourcentage élevé de cases améliorées. N'aime pas les civilisations avec un faible pourcentage de Cases améliorées.</Text>
+		</Row>
+
+
+
+		<!--Traits french-->
+		<Row Tag="LOC_TRAIT_LEADER_GEDEMO_HOTUMATUA_LTRAIT_NAME" Language="fr_FR">
+			<Text>Mata ki te rangi</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_LEADER_GEDEMO_HOTUMATUA_LTRAIT_DESCRIPTION" Language="fr_FR">
+			<Text>Hotu Matu'a commence la partie au milieu de l'Océan avec la possibilité d'embarquer et de naviguer sur les cases de mer. Il recevra +4 [ICON_Faith] Foi et +4 [ICON_Culture] Culture par tour jusqu'à ce qu'il fonde sa première Ville. Celle-ci commencera avec +2 [ICON_Citizen] Population et un Bâtisseur gratuit. </Text>
+		</Row>
+
+		<Row Tag="LOC_TRAIT_CIVILIZATION_GEDEMO_RAPANUI_CIV_TRAIT_NAME" Language="fr_FR">
+			<Text>Te Pito O Te Kainga</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_CIVILIZATION_GEDEMO_RAPANUI_CIV_TRAIT_DESCRIPTION" Language="fr_FR">
+			<Text>Ameliorer les ressources marines fait apparaître des Moaïs sur les Cases terrestres adjacentes sans tenir compte des contraintes de placement. +1 [ICON_Culture] Culture pour les Carrières de Pierre. +25% générés par la récolte des ressources et la terraformation dans les Villes.</Text>
+		</Row>
+
+		<Row Tag="LOC_BUILDING_GEDEMO_HAREPAENGA_NAME" Language="fr_FR">
+			<Text>Hare Paenga</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_GEDEMO_HAREPAENGA_DESCRIPTION" Language="fr_FR">
+			<Text>Ce batiment est exclusif à la civilization Rapa Nui. Disponible avec la Maconnerie, il rapporte +3 Loyauté et +2 [ICON_Housing] Habitations.</Text>
+		</Row>
+
+		
+		
+		
+		<!--LEADER french-->
+		<Row Tag="LOC_LEADER_GEDEMO_HOTUMATUA" Language="fr_FR">
+			<Text>Hotu Matu'a</Text>
+		</Row>
+
+
+		<!--DOM french-->
+		<Row Tag="LOC_LOADING_INFO_LEADER_GEDEMO_HOTUMATUA" Language="fr_FR">
+			<Text>O grand Hotu Matu'a, vous avez été le premier colonisateur et légendaire Ariki mau de l'Île de Pâques. Ancêtre des Rapa Nui, le groupe Hotu Matu'a avec ses deux canots était composée de polynesiens la terre de Hiva (probablement Îles Marquises). Ils ont débarqué sur la plage Anakena et se sont répandu sur l'île, se divisant en clans et vivant pour plus de 1000 ans isolés à l'extrémité sud-est du triangle polynésien.[NewLine]Pouvez-vous construire une civilisation qui résistera à l'épreuve du temps?</Text>
+		</Row>
+
+
+		<!--Civilopedia french-->
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_GEDEMO_HOTUMATUA_TITLE" Language="fr_FR">
+			<Text>Ariki Mau</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_GEDEMO_HOTUMATUA_SUBTITLE" Language="fr_FR">
+			<Text>Ariki Nui</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_GEDEMO_HOTUMATUA_QUOTE" Language="fr_FR">
+			<Text>C'est une mauvaise terre, car lorsque nous avons planté des ignames, l'herbe a grandi à la place.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_GEDEMO_HOTUMATUA_CHAPTER_HISTORY_PARA_1" Language="fr_FR">
+			<Text>Le fondateur légendaire de la société Rapanui, Hotu Matu'a fut le premier «ariki mau (chef suprême, ou littéralement« le vrai noble ») de Te Pito Te Henua - le nom qu'il a donné à Rapa Nui lors de son premier débarquement avec ses partisans. sur l'Ile. Selon la tradition, Hotu Matu'a provenait d'une paire d'îles appelées Marae Renga et Marae Tohio. Après le court règne de son père, une lutte de pouvoir s'ensuit entre Hotu Matu'a et son frère Ko Te Ira Ka Atea. D'autres versions de l'histoire disent que l'ennemi de Hotu Matu'a était un rival de son frère Machaa appelé Oroi. Machaa et Oroi étaient tous les deux tombés amoureux de la même femme. Pendant que son cœur était avec Machaa, elle savait qu'Oroi commandait la loyauté de nombreux guerriers et ne leur permettrait pas de rester ensemble. Tromper Oroi pour entreprendre un pèlerinage autour de leur île natale avant qu'ils ne soient mariés, elle et Machaa se sont enfuis et se sont cachés pendant son absence. Quand Oroi a appris qu'il avait été dupe, il a juré de se venger de Machaa et de toute sa famille, y compris Hotu Matu'a.</Text>
+		</Row>
+		
+		
+
+		<!--CIVILIZATION french-->
+		<Row Tag="LOC_CIVILIZATION_GEDEMO_RAPANUI_NAME" Language="fr_FR">
+			<Text>Rapa Nui</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_GEDEMO_RAPANUI_DESCRIPTION" Language="fr_FR">
+			<Text>Le Peuple Rapa Nui</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_GEDEMO_RAPANUI_ADJECTIVE" Language="fr_FR">
+			<Text>Rapa Nui</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_GEDEMO_RAPANUI_DESCRIPTION_GEDEMO_CIVILIZATION" Language="fr_FR">
+			<Text>Rapa Nui</Text>
+		</Row>
+		<!--Pedia french-->
+		<Row Tag="LOC_CIVINFO_GEDEMO_RAPANUI_LOCATION" Language="fr_FR">
+			<Text>Océan Pacifique</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_GEDEMO_RAPANUI_POPULATION" Language="fr_FR">
+			<Text>Environ 5 682 habitants</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_GEDEMO_RAPANUI_SIZE" Language="fr_FR">
+			<Text>Environ 164 kilomètres carrés</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_GEDEMO_RAPANUI_CAPITAL" Language="fr_FR">
+			<Text>Hanga Roa</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_GEDEMO_RAPANUI_CHAPTER_HISTORY_PARA_1" Language="fr_FR">
+			<Text>Également connue sous le nom d'île de Pâques, Rapa Nui abrite depuis des siècles la population humaine la plus éloignée de la planète. Les Rapanui ont établi une société complexe et dynamique sur leur île natale qui a dû s'adapter à de nombreux changements tumultueux, de la lente désolation de Rapa Nui à une succession de barons voleurs européens avares. À travers tout cela, les Rapanui ont utilisé les arts et la religion pour créer, exprimer et promouvoir leur identité culturelle face à des difficultés considérables.</Text>
+		</Row>
+		
+
+
+		<!--Cities-->
+		<Row Tag="LOC_CITY_NAME_GEDEMO_RAPANUI_1" Language="fr_FR">
+			<Text>Hanga Roa</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_GEDEMO_RAPANUI_2" Language="fr_FR">
+			<Text>Orongo</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_GEDEMO_RAPANUI_3" Language="fr_FR">
+			<Text>Hanga Piko</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_GEDEMO_RAPANUI_4" Language="fr_FR">
+			<Text>Mataveri</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_GEDEMO_RAPANUI_5" Language="fr_FR">
+			<Text>Anakena</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_GEDEMO_RAPANUI_6" Language="fr_FR">
+			<Text>Te Ata Hero</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_GEDEMO_RAPANUI_7" Language="fr_FR">
+			<Text>Tahai</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_GEDEMO_RAPANUI_8" Language="fr_FR">
+			<Text>Te Peu</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_GEDEMO_RAPANUI_9" Language="fr_FR">
+			<Text>Maikati Te Moa</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_GEDEMO_RAPANUI_10" Language="fr_FR">
+			<Text>Vai Mata</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_GEDEMO_RAPANUI_11" Language="fr_FR">
+			<Text>A Tanga</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_GEDEMO_RAPANUI_12" Language="fr_FR">
+			<Text>Papa Tekena</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_GEDEMO_RAPANUI_13" Language="fr_FR">
+			<Text>Vai Tara Kai Ua</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_GEDEMO_RAPANUI_14" Language="fr_FR">
+			<Text>Nau Nau</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_GEDEMO_RAPANUI_15" Language="fr_FR">
+			<Text>Te Pito Kura</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_GEDEMO_RAPANUI_16" Language="fr_FR">
+			<Text>Hekii</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_GEDEMO_RAPANUI_17" Language="fr_FR">
+			<Text>Tau A Ure</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_GEDEMO_RAPANUI_18" Language="fr_FR">
+			<Text>Taharoa</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_GEDEMO_RAPANUI_19" Language="fr_FR">
+			<Text>Tongariki</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_GEDEMO_RAPANUI_20" Language="fr_FR">
+			<Text>One Makihi</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_GEDEMO_RAPANUI_21" Language="fr_FR">
+			<Text>Tu'u Tahi</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_GEDEMO_RAPANUI_22" Language="fr_FR">
+			<Text>Hanga Tetenga</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_GEDEMO_RAPANUI_23" Language="fr_FR">
+			<Text>Runga Va'e</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_GEDEMO_RAPANUI_24" Language="fr_FR">
+			<Text>Oroi</Text>
+		</Row>
+		
+
+
+
+		<!--Citizens-->
+		<Row Tag="LOC_CITIZEN_GEDEMO_RAPANUI_MALE_1" Language="fr_FR">
+			<Text>Tuꞌu Maheke</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_GEDEMO_RAPANUI_MALE_2" Language="fr_FR">
+			<Text>Miru</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_GEDEMO_RAPANUI_MALE_3" Language="fr_FR">
+			<Text>Marama</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_GEDEMO_RAPANUI_MALE_4" Language="fr_FR">
+			<Text>Raa</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_GEDEMO_RAPANUI_MALE_5" Language="fr_FR">
+			<Text>Koro Orongo</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_GEDEMO_RAPANUI_MALE_6" Language="fr_FR">
+			<Text>Hotu Iti</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_GEDEMO_RAPANUI_MALE_7" Language="fr_FR">
+			<Text>Tupahotu</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_GEDEMO_RAPANUI_MALE_8" Language="fr_FR">
+			<Text>Ngaure</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_GEDEMO_RAPANUI_MALE_9" Language="fr_FR">
+			<Text>Nuku</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_GEDEMO_RAPANUI_MALE_10" Language="fr_FR">
+			<Text>Hiuariru</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_GEDEMO_RAPANUI_FEMALE_1" Language="fr_FR">
+			<Text>Vakai</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_GEDEMO_RAPANUI_FEMALE_2" Language="fr_FR">
+			<Text>Aturaugi</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_GEDEMO_RAPANUI_FEMALE_3" Language="fr_FR">
+			<Text>Hakapuna</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_GEDEMO_RAPANUI_FEMALE_4" Language="fr_FR">
+			<Text>Ihu an Aturanga</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_GEDEMO_RAPANUI_FEMALE_5" Language="fr_FR">
+			<Text>Ruhoi</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_GEDEMO_RAPANUI_FEMALE_6" Language="fr_FR">
+			<Text>Takahita</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_GEDEMO_RAPANUI_FEMALE_7" Language="fr_FR">
+			<Text>Ouaraa</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_GEDEMO_RAPANUI_FEMALE_8" Language="fr_FR">
+			<Text>Koroharua</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_GEDEMO_RAPANUI_FEMALE_9" Language="fr_FR">
+			<Text>Mahuta</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_GEDEMO_RAPANUI_FEMALE_10" Language="fr_FR">
+			<Text>Atuamata</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_GEDEMO_RAPANUI_MODERN_MALE_1" Language="fr_FR">
+			<Text>Uremata</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_GEDEMO_RAPANUI_MODERN_MALE_2" Language="fr_FR">
+			<Text>Te Riri Tuu Kura</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_GEDEMO_RAPANUI_MODERN_MALE_3" Language="fr_FR">
+			<Text>Tiki Te Hatu</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_GEDEMO_RAPANUI_MODERN_MALE_4" Language="fr_FR">
+			<Text>Korua Rongo</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_GEDEMO_RAPANUI_MODERN_MALE_5" Language="fr_FR">
+			<Text>Tiki Tena</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_GEDEMO_RAPANUI_MODERN_MALE_6" Language="fr_FR">
+			<Text>Uru Kenu</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_GEDEMO_RAPANUI_MODERN_MALE_7" Language="fr_FR">
+			<Text>Te Rurua Tiki Te Hatu</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_GEDEMO_RAPANUI_MODERN_MALE_8" Language="fr_FR">
+			<Text>Nau Ta Mahiki</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_GEDEMO_RAPANUI_MODERN_MALE_9" Language="fr_FR">
+			<Text>Te Rika Tea</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_GEDEMO_RAPANUI_MODERN_MALE_10" Language="fr_FR">
+			<Text>Te Teratera</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_GEDEMO_RAPANUI_MODERN_FEMALE_1" Language="fr_FR">
+			<Text>Te Ria Kautahito</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_GEDEMO_RAPANUI_MODERN_FEMALE_2" Language="fr_FR">
+			<Text>Kuratahogo</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_GEDEMO_RAPANUI_MODERN_FEMALE_3" Language="fr_FR">
+			<Text>Ko Te Hiti Rua Nea</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_GEDEMO_RAPANUI_MODERN_FEMALE_4" Language="fr_FR">
+			<Text>Te Uruaki Kena</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_GEDEMO_RAPANUI_MODERN_FEMALE_5" Language="fr_FR">
+			<Text>Tu Te Rei Manana</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_GEDEMO_RAPANUI_MODERN_FEMALE_6" Language="fr_FR">
+			<Text>Ko Te Kura Tahonga</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_GEDEMO_RAPANUI_MODERN_FEMALE_7" Language="fr_FR">
+			<Text>Taoraha Kaihahanga</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_GEDEMO_RAPANUI_MODERN_FEMALE_8" Language="fr_FR">
+			<Text>Tukuma</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_GEDEMO_RAPANUI_MODERN_FEMALE_9" Language="fr_FR">
+			<Text>Te Tuhunga Hanui</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_GEDEMO_RAPANUI_MODERN_FEMALE_10" Language="fr_FR">
+			<Text>Puna Hako</Text>
+		</Row>
+
+		<Row Tag="LOC_CITY_NAME_C15_COLONY_NAMES_AKAHANGA" Language="fr_FR">
+			<Text>Akahanga</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_C15_COLONY_NAMES_URANGA" Language="fr_FR">
+			<Text>Ura Uranga Te Mahina</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_C15_COLONY_NAMES_HANGATEE" Language="fr_FR">
+			<Text>Hanga Te'e</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_C15_COLONY_NAMES_TARAKIU" Language="fr_FR">
+			<Text>Tarakiu</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_C15_COLONY_NAMES_POUKURA" Language="fr_FR">
+			<Text>Hanga Poukura</Text>
+		</Row>
+
+		<!--Diplomacy french-->
+		<!--FIRST MEET french-->
+		<!--First AI line french-->
+		<Row Tag="LOC_DIPLO_FIRST_MEET_LEADER_GEDEMO_HOTUMATUA_ANY" Language="fr_FR">
+			<Text>Bienvenue sur les terres du peuple de Rapa Nui. J'espère que vous êtes de bon augure.</Text>
+		</Row>
+		<!--AI invitation to visit nearby City french-->
+		<Row Tag="LOC_DIPLO_FIRST_MEET_VISIT_RECIPIENT_LEADER_GEDEMO_HOTUMATUA_ANY" Language="fr_FR">
+			<Text>Bienvenue! Que les habitants de Rapa Nui soient bénis par votre arrivée.</Text>
+		</Row>
+		<!--AI accepts Human invitation french-->
+		<Row Tag="LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_POSITIVE_LEADER_GEDEMO_HOTUMATUA_ANY" Language="fr_FR">
+			<Text>Mauru-ur. (Merci.)</Text>
+		</Row>
+		<!--AI invitation to exchange Capital Information french -->
+		<Row Tag="LOC_DIPLO_FIRST_MEET_NO_MANS_INFO_EXCHANGE_LEADER_GEDEMO_HOTUMATUA_ANY" Language="fr_FR">
+			<Text>Voulez-vous échanger les positions de nos capitales respectives?</Text>
+		</Row>
+		<!--GREETINGS french-->
+		<Row Tag="LOC_DIPLO_GREETING_LEADER_GEDEMO_HOTUMATUA_ANY" Language="fr_FR">
+			<Text>'Iorana koe (Salutations).</Text>
+		</Row>
+		<!--DELEGATION french-->
+		<!--AI Accepts french-->
+		<Row Tag="LOC_DIPLO_ACCEPT_DELEGATION_FROM_HUMAN_LEADER_GEDEMO_HOTUMATUA_ANY" Language="fr_FR">
+			<Text>Nous accueillons tes présents avec joie!</Text>
+		</Row>
+		<!--AI Rejects french-->
+		<Row Tag="LOC_DIPLO_REJECT_DELEGATION_FROM_HUMAN_LEADER_GEDEMO_HOTUMATUA_ANY" Language="fr_FR">
+			<Text>Non merci, gardez tout!</Text>
+		</Row>
+		<!--AI Requests french-->
+		<Row Tag="LOC_DIPLO_DELEGATION_FROM_AI_LEADER_GEDEMO_HOTUMATUA_ANY" Language="fr_FR">
+			<Text>Ma délégation commerciale vous offre des ignames, tarots, et patates douces. Nous vous souhaitons un bon appétit!</Text>
+		</Row>
+		<!--OPEN BORDERS french-->
+		<!--AI accepts from human french-->
+		<Row Tag="LOC_DIPLO_ACCEPT_OPEN_BORDERS_FROM_HUMAN_LEADER_GEDEMO_HOTUMATUA_ANY" Language="fr_FR">
+			<Text>Oui, vous pouvez passer. et merci de respecter nos jeunes filles!</Text>
+		</Row>
+		<!--AI rejects from human french-->
+		<Row Tag="LOC_DIPLO_REJECT_OPEN_BORDERS_FROM_HUMAN_LEADER_GEDEMO_HOTUMATUA_ANY" Language="fr_FR">
+			<Text>Nous ne sommes pas intéressés pour l'instant.</Text>
+		</Row>
+		<!--AI requests from human french-->
+		<Row Tag="LOC_DIPLO_OPEN_BORDERS_FROM_AI_LEADER_GEDEMO_HOTUMATUA_ANY" Language="fr_FR">
+			<Text>Permettrez-vous à nos unités de traverser votre territoire?</Text>
+		</Row>
+		<!--DECLARE FRIENDSHIP french-->
+		<!--AI accepts from human french-->
+		<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_HUMAN_LEADER_GEDEMO_HOTUMATUA_ANY" Language="fr_FR">
+			<Text>Voici, mes amis, le temps béni de notre amitié enfin célébrée!</Text>
+		</Row>
+		<!--AI Rejects from human french-->
+		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_HUMAN_LEADER_GEDEMO_HOTUMATUA_ANY" Language="fr_FR">
+			<Text>Nous ne sommes pas interessés pour le moment.</Text>
+		</Row>
+		<!--AI Requests friendship from human french-->
+		<Row Tag="LOC_DIPLO_DECLARE_FRIEND_FROM_AI_LEADER_GEDEMO_HOTUMATUA_ANY" Language="fr_FR">
+			<Text>Voulez-vous déclarer publiquement notre amitié?</Text>
+		</Row>
+		<!--Human accepts AI requests, AI responds french-->
+		<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_GEDEMO_HOTUMATUA_ANY" Language="fr_FR">
+			<Text>Mauru-ur. (Merci).</Text>
+		</Row>
+		<!--Human rejects AI requests, AI responds french-->
+		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_GEDEMO_HOTUMATUA_ANY" Language="fr_FR">
+			<Text>Soit, nous prenons bonne note de cette décision.</Text>
+		</Row>
+		<!--ALLIANCE-->
+		<!--AI Requests an alliance from human french-->
+		<Row Tag="LOC_DIPLO_MAKE_ALLIANCE_FROM_AI_LEADER_GEDEMO_HOTUMATUA_ANY" Language="fr_FR">
+			<Text>Voulez-vous composer une alliance avec nous?</Text>
+		</Row>
+		<!--KUDOS & WARNINGS french-->
+		<!--AI Kudos-->
+		<Row Tag="LOC_DIPLO_KUDO_EXIT_LEADER_GEDEMO_HOTUMATUA_ANY" Language="fr_FR">
+			<Text>Belle réussite!</Text>
+		</Row>
+		<!--AI Warnings french-->
+		<Row Tag="LOC_DIPLO_WARNING_EXIT_LEADER_GEDEMO_HOTUMATUA_ANY" Language="fr_FR">
+			<Text>Vous filez un mauvais coton!</Text>
+		</Row>
+		<!--AI warns player for border troops french-->
+		<Row Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_LEADER_GEDEMO_HOTUMATUA_ANY" Language="fr_FR">
+			<Text>Veuillez dégager vos troupes de nos chemins, elles nous gènent et nous rendent nerveux.</Text>
+		</Row>
+		<!--TRADE french-->
+		<!--AI Accepts Deal french-->
+		<Row Tag="LOC_DIPLO_ACCEPT_MAKE_DEAL_FROM_AI_LEADER_GEDEMO_HOTUMATUA_ANY" Language="fr_FR">
+			<Text>{LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_GEDEMO_HOTUMATUA_ANY}</Text>
+		</Row>
+		<!--AI Rejects Deal french-->
+		<Row Tag="LOC_DIPLO_REJECT_MAKE_DEAL_FROM_AI_LEADER_GEDEMO_HOTUMATUA_ANY" Language="fr_FR">
+			<Text>{LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_GEDEMO_HOTUMATUA_ANY}</Text>
+		</Row>
+		<!--DENOUNCE french-->
+		<!--From Human french-->
+		<Row Tag="LOC_DIPLO_DENOUNCE_FROM_HUMAN_LEADER_GEDEMO_HOTUMATUA_ANY" Language="fr_FR">
+			<Text>Je ne vais pas rester sans réagir, soyez-en sûr.</Text>
+		</Row>
+		<!--From AI french-->
+		<Row Tag="LOC_DIPLO_DENOUNCE_FROM_AI_LEADER_GEDEMO_HOTUMATUA_ANY" Language="fr_FR">
+			<Text>Votre comportement est inacceptable. (Dénonciation)</Text>
+		</Row>
+		<!--DECLARE WAR french-->
+		<!--Human Declares War french-->
+		<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_HUMAN_LEADER_GEDEMO_HOTUMATUA_ANY" Language="fr_FR">
+			<Text>Si c'est la guerre que vous voulez...</Text>
+		</Row>
+		<!--AI Declares War french-->
+		<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_GEDEMO_HOTUMATUA_ANY" Language="fr_FR">
+			<Text>Puisque c'est la guerre que vous voulez...</Text>
+		</Row>
+		<!--MAKE PEACE french-->
+		<!--AI accepts from human french-->
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_AI_ACCEPT_DEAL_LEADER_GEDEMO_HOTUMATUA_ANY" Language="fr_FR">
+			<Text>Nous acceptons votre proposition de paix.</Text>
+		</Row>
+		<!--AI refuses human french-->
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_AI_REFUSE_DEAL_LEADER_GEDEMO_HOTUMATUA_ANY" Language="fr_FR">
+			<Text>non, il est trop tôt pour la paix.</Text>
+		</Row>
+		<!--AI requests from human french-->
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_FROM_AI_LEADER_GEDEMO_HOTUMATUA_ANY" Language="fr_FR">
+			<Text>Allons, ne croyez-vous pas qu'il est temps de faire la paix?</Text>
+		</Row>
+		<!--DEFEAT french-->
+		<!--AI is Defeated french-->
+		<Row Tag="LOC_DIPLO_DEFEAT_FROM_AI_LEADER_GEDEMO_HOTUMATUA_ANY" Language="fr_FR">
+			<Text>Les Rapa Nui ne sont plus bénis. Il est temps de trouver une autre maison.</Text>
+		</Row>
+		<!--Human is Defeated (will see this in hotseat) french-->
+		<Row Tag="LOC_DIPLO_DEFEAT_FROM_HUMAN_LEADER_GEDEMO_HOTUMATUA_ANY" Language="fr_FR">
+			<Text>[LOC_DIPLO_DEFEAT_FROM_AI_LEADER_GEDEMO_HOTUMATUA_ANY]</Text>
+		</Row>
+
+
+
+		<Row Tag="LOC_PEDIA_BUILDINGS_PAGE_BUILDING_GEDEMO_HAREPAENGA_CHAPTER_HISTORY_PARA_1" Language="fr_FR">
+			<Text>Les hare paenga, encore appelés maisons-bateaux, avaient des fondations en pierres volcaniques percées d’orifices qui permettaient de fixer une structure végétale en forme de coque de bateau à l’envers. De nombreux vestiges de ces habitations sont disséminés sur l’ensemble de l’île de Pâques. L’aspect des maisons-bateaux est connu grâce à des gravures de l’écrivain Pierre Loti, réalisées en 1872, sur lesquelles il a représenté le hare paenga d’un chef Rapa Nui. Ces habitations étaient réservées aux dignitaires et à leur famille. Les autres membres du clan vivaient probablement dans des huttes plus sommaires sans fondation en pierre ou dans les nombreuses grottes de l’île de Pâques.</Text>
+		</Row>
+		
+
+
+		<!--MOD SUPPORT-->
+		<!--JFD Rule with Faith-->
+
+		<Row Tag="LOC_CIVILIZATION_GEDEMO_RAPANUI_DESCRIPTION_JFD_CIVILIZATION" Language="fr_FR">
+			<Text>Civilization Rapa Nui</Text>
+		</Row>
+
+		
+
+	</LocalizedText>
+</GameData>

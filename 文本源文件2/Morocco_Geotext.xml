@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- GameData1 -->
+<!-- Author: Gedemo -->
+<!-- DateCreated: 2/14/2019 7:44:24 PM -->
+<GameData>
+
+
+	<LocalizedText>
+
+		<Row Tag="LOC_NAMED_RIVER_LOUKKOS_NAME"  Language="en_US">
+			<Text>Loukkos</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_RIVER_SEBU_NAME"  Language="en_US">
+			<Text>Sebu</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_RIVER_DRAA_NAME"  Language="en_US">
+			<Text>Draa</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_RIVER_SOUS_NAME"  Language="en_US">
+			<Text>Sous</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_RIVER_TENSIFT_NAME"  Language="en_US">
+			<Text>Tensift</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_MOUNTAIN_JBEL_SAGHRO_NAME"  Language="en_US">
+			<Text>Jbel Saghro</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_MOUNTAIN_TOUBKAL_NAME"  Language="en_US">
+			<Text>Toubkal</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_MOUNTAIN_JBEL_BOU_NAME"  Language="en_US">
+			<Text>Jbel Bou Naceur</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_MOUNTAIN_IGHIL_NAME"  Language="en_US">
+			<Text>Ighil m'Goun</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_MOUNTAIN_RIF_NAME"  Language="en_US">
+			<Text>Rif</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_VOLCANO_HEBRI_NAME"  Language="en_US">
+			<Text>Jbel Hebri</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_VOLCANO_KOUDIATE_NAME"  Language="en_US">
+			<Text>Jbel El Koudiate</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_VOLCANO_OUTGUI_NAME"  Language="en_US">
+			<Text>Jbel Outgui</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_VOLCANO_TAMARRAKOIT_NAME"  Language="en_US">
+			<Text>Jbel Tamarrakoit</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_VOLCANO_SIRWA_NAME"  Language="en_US">
+			<Text>Jbel Sirwa</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_DESERT_CHEBBI_NAME"  Language="en_US">
+			<Text>Chebbi</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_DESERT_CHEGAGA_NAME"  Language="en_US">
+			<Text>Chegaga</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_DESERT_TINFOU_NAME"  Language="en_US">
+			<Text>Tinfou</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_DESERT_YOUDI_NAME"  Language="en_US">
+			<Text>El Youdi</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_DESERT_SMAR_NAME"  Language="en_US">
+			<Text>Smar</Text>
+		</Row>
+
+
+
+		<Row Tag="LOC_NAMED_RIVER_LOUKKOS_NAME"  Language="fr_FR">
+			<Text>Loukkos</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_RIVER_SEBU_NAME"  Language="fr_FR">
+			<Text>Sebu</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_RIVER_DRAA_NAME"  Language="fr_FR">
+			<Text>Draa</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_RIVER_SOUS_NAME"  Language="fr_FR">
+			<Text>Sous</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_RIVER_TENSIFT_NAME"  Language="fr_FR">
+			<Text>Tensift</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_MOUNTAIN_JBEL_SAGHRO_NAME"  Language="fr_FR">
+			<Text>Jbel Saghro</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_MOUNTAIN_TOUBKAL_NAME"  Language="fr_FR">
+			<Text>Toubkal</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_MOUNTAIN_JBEL_BOU_NAME"  Language="fr_FR">
+			<Text>Jbel Bou Naceur</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_MOUNTAIN_IGHIL_NAME"  Language="fr_FR">
+			<Text>Ighil m'Goun</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_MOUNTAIN_RIF_NAME"  Language="fr_FR">
+			<Text>Rif</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_VOLCANO_HEBRI_NAME"  Language="fr_FR">
+			<Text>Jbel Hebri</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_VOLCANO_KOUDIATE_NAME"  Language="fr_FR">
+			<Text>Jbel El Koudiate</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_VOLCANO_OUTGUI_NAME"  Language="fr_FR">
+			<Text>Jbel Outgui</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_VOLCANO_TAMARRAKOIT_NAME"  Language="fr_FR">
+			<Text>Jbel Tamarrakoit</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_VOLCANO_SIRWA_NAME"  Language="fr_FR">
+			<Text>Jbel Sirwa</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_DESERT_CHEBBI_NAME"  Language="fr_FR">
+			<Text>Chebbi</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_DESERT_CHEGAGA_NAME"  Language="fr_FR">
+			<Text>Chegaga</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_DESERT_TINFOU_NAME"  Language="fr_FR">
+			<Text>Tinfou</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_DESERT_YOUDI_NAME"  Language="fr_FR">
+			<Text>El Youdi</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_DESERT_SMAR_NAME"  Language="fr_FR">
+			<Text>Smar</Text>
+		</Row>
+	</LocalizedText>
+
+</GameData>

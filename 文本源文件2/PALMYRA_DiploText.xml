@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- DiploText -->
+<!-- Author: Richard -->
+<!-- DateCreated: 12/3/2017 6:10:28 PM -->
+<GameData>
+	<LocalizedText>
+	<!--Pedia-->
+		<Row Tag="LOC_CIVINFO_MER_PALMYRA_LOCATION" Language="en_US">
+			<Text>Syria</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_MER_PALMYRA_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Palmyra is an ancient Semitic city in present-day Homs Governorate, Syria. Archaeological finds date back to the Neolithic period, and documents first mention the city in the early second millennium BC. Palmyra changed hands on a number of occasions between different empires before becoming a subject of the Roman Empire in the first century AD.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_MER_PALMYRA_CHAPTER_HISTORY_PARA_2" Language="en_US">
+			<Text>The city grew wealthy from trade caravans; the Palmyrenes became renowned as merchants who established colonies along the Silk Road and operated throughout the Roman Empire. Palmyra's wealth enabled the construction of monumental projects, such as the Great Colonnade, the Temple of Bel, and the distinctive tower tombs.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_MER_PALMYRA_CHAPTER_HISTORY_PARA_3" Language="en_US">
+			<Text>By the third century AD Palmyra had become a prosperous regional center. It reached the apex of its power in the 260s, when the Palmyrene King Odaenathus defeated Persian Emperor Shapur I. The king was succeeded by regent Queen Zenobia, who rebelled against Rome and established the Palmyrene Empire. In 273, Roman emperor Aurelian destroyed the city, which was later restored by Diocletian at a reduced size. The Palmyrenes converted to Christianity during the fourth century and to Islam in the centuries following the conquest by the 7th-century Rashidun Caliphate, after which the Palmyrene and Greek languages were replaced by Arabic.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_MER_PALMYRA_CHAPTER_HISTORY_PARA_4" Language="en_US">
+			<Text>Before AD 273, Palmyra enjoyed autonomy and was attached to the Roman province of Syria, having its political organization influenced by the Greek city-state model during the first two centuries AD. The city became a Roman colonia during the third century, leading to the incorporation of Roman governing institutions, before becoming a monarchy in 260. Following its destruction in 273, Palmyra became a minor center under the Byzantines and later empires. Its destruction by the Timurids in 1400 reduced it to a small village. Under French Mandatory rule in 1932, the inhabitants were moved into the new village of Tadmur, and the ancient site became available for excavations.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_MER_PALMYRA_CHAPTER_HISTORY_PARA_5" Language="en_US">
+			<Text>During the Syrian Civil War in 2015, Palmyra came under the control of the Islamic State of Iraq and the Levant (ISIL), and subsequently changed hands several times between the militant group and the Syrian Army who retook the city on 2 March 2017. ISIL sabotaged many artifacts and destroyed a number of buildings, considerably damaging the ancient site.</Text>
+		</Row>
+	<!--DOM-->
+	<Row Tag="LOC_LOADING_INFO_LEADER_MER_ODAENATHUS" Language="en_US">
+		<Text>Blessings upon you Odaenathus, Founder King of Palmyra, King of Kings of the East. Under your rule Palmyra held dominion over much of the middle east, and took on mighty empires. Once more, Palmyra is in need of your wise counsel to bring them from small beginnings to the forefront of the world stage. Mercenaries and Clibanarii stand ready to defend your merchants and outposts; You must be the one to lead them.</Text>
+	</Row>
+	<!--Agenda-->
+	<Row Tag="LOC_AGENDA_MER_ORIENTIS_NAME" Language="en_US">
+		<Text>Corrector Totius Orientis</Text>
+	</Row>
+	<Row Tag="LOC_AGENDA_MER_ORIENTIS_DESCRIPTION" Language="en_US">
+		<Text>Favors civilizations of the same type of government who don't wage war with their neighbours. Dislikes civilizations with different governments who are at war with their neighbours.</Text>
+	</Row>
+	<Row Tag="LOC_DIPLO_KUDOS_LEADER_MER_ODAENATHUS_SAME_GOVERNMENT" Language="en_US">
+		<Text>(You share a government type and don't fight neighbours)</Text>
+	</Row>
+	<Row Tag="LOC_DIPLO_MODIFIER_MER_ODAENATHUS_ORIENTIS_SAME_GOVERNMENT" Language="en_US">
+		<Text>Odaenathus is happy you share his government type and aren't waging war with your neighbours.</Text>
+	</Row>
+	<Row Tag="LOC_DIPLO_WARNING_LEADER_MER_ODAENATHUS_REASON_DIFF_GOVERNMENT" Language="en_US">
+		<Text>(You have a different government type and are at war with neighbours)</Text>
+	</Row>
+	<Row Tag="LOC_DIPLO_MODIFIER_MER_ODAENATHUS_ORIENTIS_DIFF_GOVERNMENT" Language="en_US">
+		<Text>Odaenathus is concerned by your government and warmongering.</Text>
+	</Row>
+	<!--Civilopedia-->
+	<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_MER_ODAENATHUS_TITLE" Language="en_US">
+		<Text>Odaenathus</Text>
+	</Row>
+	<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_MER_ODAENATHUS_SUBTITLE" Language="en_US">
+		<Text>King of Palmyra</Text>
+	</Row>
+	<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_MER_ODAENATHUS_QUOTE" Language="en_US">
+		<Text>Then shall come one who was sent by the sun, a mighty and fearful lion, breathing much flame. Then he with much shameless daring will destroy ... the greatest beast — venomous, fearful and emitting a great deal of hisses.</Text>
+	</Row>
+	<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_MER_ODAENATHUS_CHAPTER_HISTORY_PARA_1" Language="en_US">
+		<Text>Odaenathus was the founder king of the Palmyrene Kingdom centered at Palmyra, Syria. He lifted his city from the position of a regional center subordinate to Rome into the supreme power in the East. Odaenathus was born into an aristocratic Palmyrene family that received Roman citizenship in the 190s under the Severan dynasty. He was the son of Hairan the descendant of Nasor. The circumstances surrounding his rise are ambiguous; he became the lord (Ras) of the city, a position created for him, as early as the 240s and by 258, he was styled a consularis, indicating a high status in the Roman Empire.</Text>
+	</Row>
+	<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_MER_ODAENATHUS_CHAPTER_HISTORY_PARA_2" Language="en_US">
+		<Text>The defeat and captivity of emperor Valerian at the hands of the Persian Sassanian monarch Shapur I in 260 left the eastern Roman provinces largely at the mercy of the Persians. Odaenathus stayed on the side of Rome; assuming the title of king, he led the Palmyrene army and fell upon the Persians before they could cross the Euphrates to the eastern bank, and inflicted upon them a considerable defeat. Then, Odaenathus took the side of emperor Gallienus, the son and successor of Valerian, who was facing the usurpation of Fulvius Macrianus. The rebel declared his sons emperors, leaving one in Syria and taking the other with him to Europe. Odaenathus attacked the remaining usurper and quelled the rebellion. He was rewarded many exceptional titles by the emperor who formalized his self-established position in the East. In reality, the emperor could have done little but to accept the declared nominal loyalty of Odaenathus. </Text>
+	</Row>
+	<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_MER_ODAENATHUS_CHAPTER_CAPSULE_BODY" Language="en_US">
+		<Text>In a series of rapid and successful campaigns starting in 262, he crossed the Euphrates and recovered Carrhae and Nisibis. He then took the offensive to the heartland of Persia, and arrived at the walls of its capital Ctesiphon. The city withstood the short siege but Odaenathus reclaimed the entirety of Roman lands occupied by the Persians since the beginning of their invasions in 252. Odaenathus celebrated his victories and declared himself King of Kings, crowning his son Hairan I as co-king. By 263, Odaenathus was in effective control of the Levant, Mesopotamia and Anatolia's eastern region.</Text>
+	</Row>
+	<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_MER_ODAENATHUS_CHAPTER_DETAILED_BODY" Language="en_US">
+		<Text>Odaenathus observed all due formalities towards the emperor, but in practice ruled as an independent monarch. In 266, the king launched a second invasion of Persia but had to abandon the campaign and head north to Bithynia to repel the attacks of Germanic riders besieging the city of Heraclea Pontica. He was assassinated in 267 during or immediately after the Anatolian campaign, together with Hairan. The identities of the perpetrator or the instigator are unknown and many stories, accusations and speculations exist in ancient sources. He was succeeded by his son Vaballathus under the regency of his widow Zenobia, who used the power established by Odaenathus to forge the Palmyrene Empire in 270.</Text>
+	</Row>
+	<!--Diplomacy-->
+	<!--FIRST MEET-->
+	<!--First AI line-->
+	<Row Tag="LOC_DIPLO_FIRST_MEET_LEADER_MER_ODAENATHUS_ANY" Language="en_US">
+		<Text>Hail, Friend. I am Odaenathus, King of Palmyra. Perhaps we can share our wealth through trade in the future?</Text>
+	</Row>
+	<!--AI invitation to visit nearby City-->
+	<Row Tag="LOC_DIPLO_FIRST_MEET_VISIT_RECIPIENT_LEADER_MER_ODAENATHUS_ANY" Language="en_US">
+		<Text>Palmyra is a city of trade and culture, we will always welcome those with coin to spare.</Text>
+	</Row>
+	<!--AI accepts Human invitation-->
+	<Row Tag="LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_POSITIVE_LEADER_MER_ODAENATHUS_ANY" Language="en_US">
+		<Text>I am happy to accept.</Text>
+	</Row>
+	<!--AI invitation to exchange Capital Information-->
+	<Row Tag="LOC_DIPLO_FIRST_MEET_NO_MANS_INFO_EXCHANGE_LEADER_MER_ODAENATHUS_ANY" Language="en_US">
+		<Text>We should share our wisdom.</Text>
+	</Row>
+	<!--GREETINGS-->
+	<Row Tag="LOC_DIPLO_GREETING_LEADER_MER_ODAENATHUS_ANY" Language="en_US">
+		<Text>Greetings</Text>
+	</Row>
+	<!--DELEGATION-->
+	<!--AI Accepts-->
+	<Row Tag="LOC_DIPLO_ACCEPT_DELEGATION_FROM_HUMAN_LEADER_MER_ODAENATHUS_ANY" Language="en_US">
+		<Text>Your gifts are most welcome here, they have been sent to my palace.</Text>
+	</Row>
+	<!--AI Rejects-->
+	<Row Tag="LOC_DIPLO_REJECT_DELEGATION_FROM_HUMAN_LEADER_MER_ODAENATHUS_ANY" Language="en_US">
+		<Text>I must say no.</Text>
+	</Row>
+	<!--AI Requests-->
+	<Row Tag="LOC_DIPLO_DELEGATION_FROM_AI_LEADER_MER_ODAENATHUS_ANY" Language="en_US">
+		<Text>I have sent a delegation carrying some small sculptures and a gift of gold from my own funds. We hope you accept this as a sign of future cooperation.</Text>
+	</Row>
+	<!--OPEN BORDERS-->
+	<!--AI accepts from human-->
+	<Row Tag="LOC_DIPLO_ACCEPT_OPEN_BORDERS_FROM_HUMAN_LEADER_MER_ODAENATHUS_ANY" Language="en_US">
+		<Text>Open borders will give our people free roam, and share the wealth. I accept.</Text>
+	</Row>
+	<!--AI rejects from human-->
+	<Row Tag="LOC_DIPLO_REJECT_OPEN_BORDERS_FROM_HUMAN_LEADER_MER_ODAENATHUS_ANY" Language="en_US">
+		<Text>I can not benefit from this.</Text>
+	</Row>
+	<!--AI requests from human-->
+	<Row Tag="LOC_DIPLO_OPEN_BORDERS_FROM_AI_LEADER_MER_ODAENATHUS_ANY" Language="en_US">
+		<Text>If we open our borders then money will flow freely between our lands, and our armies can protect our merchants. Please, consider this offer.</Text>
+	</Row>
+	<!--DECLARE FRIENDSHIP-->
+	<!--AI accepts from human-->
+	<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_HUMAN_LEADER_MER_ODAENATHUS_ANY" Language="en_US">
+		<Text>I hope this will be a long lasting friendship, and perhaps a future alliance.</Text>
+	</Row>
+	<!--AI Rejects from human-->
+	<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_HUMAN_LEADER_MER_ODAENATHUS_ANY" Language="en_US">
+		<Text>I will not share my wealth and wisdom with one who would squander it.</Text>
+	</Row>
+	<!--AI Requests friendship from human-->
+	<Row Tag="LOC_DIPLO_DECLARE_FRIEND_FROM_AI_LEADER_MER_ODAENATHUS_ANY" Language="en_US">
+		<Text>A formal declaration of our friendship will strengthen the flow of trade and allow us to protect the economy from those who would damage it.</Text>
+	</Row>
+	<!--Human accepts AI requests, AI responds-->
+	<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_MER_ODAENATHUS_ANY" Language="en_US">
+		<Text>This will lead to great things.</Text>
+	</Row>
+	<!--Human rejects AI requests, AI responds-->
+	<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_MER_ODAENATHUS_ANY" Language="en_US">
+		<Text>You have made a poor decision.</Text>
+	</Row>
+	<!--ALLIANCE-->
+	<!--AI Requests an alliance from human-->
+	<Row Tag="LOC_DIPLO_MAKE_ALLIANCE_FROM_AI_LEADER_MER_ODAENATHUS_ANY" Language="en_US">
+		<Text>We both understand the importance of a strong governance. If we combine our wealth and strength then we will hold more power over our lands.</Text>
+	</Row>
+	<!--KUDOS & WARNINGS-->
+	<!--AI Kudos-->
+	<Row Tag="LOC_DIPLO_KUDO_EXIT_LEADER_MER_ODAENATHUS_ANY" Language="en_US">
+		<Text>You protect your people with a strong army and a strong government. You truly are wise.</Text>
+	</Row>
+	<!--AI Warnings-->
+	<Row Tag="LOC_DIPLO_WARNING_EXIT_LEADER_MER_ODAENATHUS_ANY" Language="en_US">
+		<Text>You're nothing more then a fool for making your people follow you into fake ideals and war.</Text>
+	</Row>
+	<!--AI warns player for border troops-->
+	<Row Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_LEADER_MER_ODAENATHUS_ANY" Language="en_US">
+		<Text>Our merchants are protected, as are our borders. You'd be wise to back off.</Text>
+	</Row>
+	<!--TRADE-->
+	<!--AI Accepts Deal-->
+	<Row Tag="LOC_DIPLO_ACCEPT_MAKE_DEAL_FROM_AI_LEADER_MER_ODAENATHUS_ANY" Language="en_US">
+		<Text>{LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_MER_ODAENATHUS_ANY}</Text>
+	</Row>
+	<!-- AI Rejects Deal -->
+	<Row Tag="LOC_DIPLO_REJECT_MAKE_DEAL_FROM_AI_LEADER_MER_ODAENATHUS_ANY" Language="en_US">
+		<Text>{LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_MER_ODAENATHUS_ANY}</Text>
+	</Row>
+	<!--DENOUNCE-->
+	<!--From Human-->
+	<Row Tag="LOC_DIPLO_DENOUNCE_FROM_HUMAN_LEADER_MER_ODAENATHUS_ANY" Language="en_US">
+		<Text>I have no reason to listen to your ramblings. Just know you will come regret this.</Text>
+	</Row>
+	<!--From AI-->
+	<Row Tag="LOC_DIPLO_DENOUNCE_FROM_AI_LEADER_MER_ODAENATHUS_ANY" Language="en_US">
+		<Text>You lack the wealth and wisdom required to be a strong leader. If anyone else in the world somehow didn't notice this, they will now. (Denounces You).</Text>
+	</Row>
+	<!--DECLARE WAR-->
+	<!--Human Declares War-->
+	<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_HUMAN_LEADER_MER_ODAENATHUS_ANY" Language="en_US">
+		<Text>I will not stand idly by as you claim Palmyrene lands as your own. I will answer this call to war.</Text>
+	</Row>
+	<!--AI Declares War-->
+	<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_MER_ODAENATHUS_ANY" Language="en_US">
+		<Text>Your transgressions have not gone unnoticed. We will not stand idle any longer.</Text>
+	</Row>
+	<!--MAKE PEACE-->
+	<!--AI accepts from human-->
+	<Row Tag="LOC_DIPLO_MAKE_PEACE_AI_ACCEPT_DEAL_LEADER_MER_ODAENATHUS_ANY" Language="en_US">
+		<Text>Enough damage has been done.</Text>
+	</Row>
+	<!--AI refuses human-->
+	<Row Tag="LOC_DIPLO_MAKE_PEACE_AI_REFUSE_DEAL_LEADER_MER_ODAENATHUS_ANY" Language="en_US">
+		<Text>I will not surrender to the likes of you.</Text>
+	</Row>
+	<!--AI requests from human-->
+	<Row Tag="LOC_DIPLO_MAKE_PEACE_FROM_AI_LEADER_MER_ODAENATHUS_ANY" Language="en_US">
+		<Text>Surely it must be time for this to end?</Text>
+	</Row>
+	<!--DEFEAT-->
+	<!--AI is Defeated-->
+	<Row Tag="LOC_DIPLO_DEFEAT_FROM_AI_LEADER_MER_ODAENATHUS_ANY" Language="en_US">
+		<Text>I ruled my kingdom at the strongest it had ever been, but now it seems i ruled it to the end. I can only hope history won't forget Palmyra.</Text>
+	</Row>
+	<!--Human is Defeated (will see this in hotseat)-->
+	<Row Tag="LOC_DIPLO_DEFEAT_FROM_HUMAN_LEADER_MER_ODAENATHUS_ANY" Language="en_US">
+		<Text>Your Empire will be forgotten, while Palmyra will stand forever.</Text>
+	</Row>
+	</LocalizedText>
+</GameData>

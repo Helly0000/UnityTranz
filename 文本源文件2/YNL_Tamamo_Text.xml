@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<LocalizedText>
+		<!-- Leader specific pedia text. -->
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_YNL_TAMAMO_CHAPTER_CAPSULE_BODY" Language="en_US">
+			<Text>One of the Three Great Monsters.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_YNL_TAMAMO_CHAPTER_DETAILED_BODY" Language="en_US">
+			<Text>A good-wife-aspirant, extravagant miko shaman.[NEWLINE][NEWLINE]In the deathbed of the Heian Period, this peerless beauty served the retired emperor Toba.[NEWLINE]It has been said that she is the disguised appearance of the nine-tailed fox Hakumen Kinmou.[NEWLINE]For a number of reasons, in the end she was chased away from the imperial court and, after having a major decisive battle with humans in the fields of Nasu, obediently let herself be exterminated, or something.</Text>
+		</Row>
+
+		<!-- Leader specific historical text. -->
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_YNL_TAMAMO_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text></Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_YNL_TAMAMO_CHAPTER_HISTORY_PARA_2" Language="en_US">
+			<Text></Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_YNL_TAMAMO_CHAPTER_HISTORY_PARA_3" Language="en_US">
+			<Text></Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_YNL_TAMAMO_CHAPTER_HISTORY_PARA_4" Language="en_US">
+			<Text></Text>
+		</Row>
+
+		<!-- Civilization specific historical text. -->
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_YNL_YAMATO_DYNASTY_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text></Text>
+		</Row>
+
+		<!-- Civlization Citizen Names -->
+		<Row Tag="LOC_CITIZEN_YAMATO_DYNASTY_MALE_1" Language="en_US">
+			<Text>Minamoto no Takakuni</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_YAMATO_DYNASTY_MALE_2" Language="en_US">
+			<Text>Yoshida Kenko</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_YAMATO_DYNASTY_MALE_3" Language="en_US">
+			<Text>Kamo no Chomei</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_YAMATO_DYNASTY_MALE_4" Language="en_US">
+			<Text>Jien</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_YAMATO_DYNASTY_FEMALE_1" Language="en_US">
+			<Text>Abutsu-ni</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_YAMATO_DYNASTY_FEMALE_2" Language="en_US">
+			<Text>Fujiwara no Nariko</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_YAMATO_DYNASTY_FEMALE_3" Language="en_US">
+			<Text>Hojo Tokiko</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_YAMATO_DYNASTY_FEMALE_4" Language="en_US">
+			<Text>Gishumonin no Tango</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_YAMATO_DYNASTY_FEMALE_5" Language="en_US">
+			<Text>Ben no Naishi</Text>
+		</Row>
+
+		<!-- Civilization City Names-->
+		<Row Tag="LOC_CIVLIZATION_YAMATO_DYNASTY_CITY_0" Language="en_US">
+			<Text>Kyoto</Text>
+		</Row>
+		<Row Tag="LOC_CIVLIZATION_YAMATO_DYNASTY_CITY_1" Language="en_US">
+			<Text>Mukou</Text>
+		</Row>
+		<Row Tag="LOC_CIVLIZATION_YAMATO_DYNASTY_CITY_2" Language="en_US">
+			<Text>Nagaokakyo</Text>
+		</Row>
+		<Row Tag="LOC_CIVLIZATION_YAMATO_DYNASTY_CITY_3" Language="en_US">
+			<Text>Uji</Text>
+		</Row>
+		<Row Tag="LOC_CIVLIZATION_YAMATO_DYNASTY_CITY_4" Language="en_US">
+			<Text>Jyoyo</Text>
+		</Row>
+		<Row Tag="LOC_CIVLIZATION_YAMATO_DYNASTY_CITY_5" Language="en_US">
+			<Text>Yawata</Text>
+		</Row>
+		<Row Tag="LOC_CIVLIZATION_YAMATO_DYNASTY_CITY_6" Language="en_US">
+			<Text>Kyotanabe</Text>
+		</Row>
+		<Row Tag="LOC_CIVLIZATION_YAMATO_DYNASTY_CITY_7" Language="en_US">
+			<Text>Kizugawa</Text>
+		</Row>
+		<Row Tag="LOC_CIVLIZATION_YAMATO_DYNASTY_CITY_8" Language="en_US">
+			<Text>Kameoka</Text>
+		</Row>
+		<Row Tag="LOC_CIVLIZATION_YAMATO_DYNASTY_CITY_9" Language="en_US">
+			<Text>Nantan</Text>
+		</Row>
+		<Row Tag="LOC_CIVLIZATION_YAMATO_DYNASTY_CITY_10" Language="en_US">
+			<Text>Fukuchiyama</Text>
+		</Row>
+		<Row Tag="LOC_CIVLIZATION_YAMATO_DYNASTY_CITY_11" Language="en_US">
+			<Text>Maizuru</Text>
+		</Row>
+		<Row Tag="LOC_CIVLIZATION_YAMATO_DYNASTY_CITY_12" Language="en_US">
+			<Text>Ayabe</Text>
+		</Row>
+		<Row Tag="LOC_CIVLIZATION_YAMATO_DYNASTY_CITY_13" Language="en_US">
+			<Text>Miyazu</Text>
+		</Row>
+		<Row Tag="LOC_CIVLIZATION_YAMATO_DYNASTY_CITY_14" Language="en_US">
+			<Text>Kyotango</Text>
+		</Row>
+		<Row Tag="LOC_CIVLIZATION_YAMATO_DYNASTY_CITY_15" Language="en_US">
+			<Text>Kamakura</Text>
+		</Row>
+		<Row Tag="LOC_CIVLIZATION_YAMATO_DYNASTY_CITY_16" Language="en_US">
+			<Text>Nara</Text>
+		</Row>
+		<Row Tag="LOC_CIVLIZATION_YAMATO_DYNASTY_CITY_17" Language="en_US">
+			<Text>Nasushiobara</Text>
+		</Row>
+		
+		<!-- Leader Quotes -->
+		<Row Tag="LOC_LEADER_YNL_TAMAMO_QUOTE" Language="en_US">
+			<Text>Mikon~!</Text>
+		</Row>
+    	</LocalizedText>
+</GameData>

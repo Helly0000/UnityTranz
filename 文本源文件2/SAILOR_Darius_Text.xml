@@ -1,0 +1,240 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<LocalizedText>
+		<Replace Language="en_US" Tag="LOC_LEADER_CVS_DARIUS_NAME">
+			<Text>Darius I</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_TRAIT_LEADER_CVS_DARIUS_UA_NAME">
+			<Text>Royal Roads</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_TRAIT_LEADER_CVS_DARIUS_UA_DESCRIPTION">
+			<Text>Improvements build roads on surrounding tiles. Cities with [ICON_Governor] Governors generate +5% [ICON_Gold] Gold and have +1 [ICON_Amenities] Amenity per Governor title, and activating a [ICON_GreatMerchant] Great Merchant grants a free [ICON_Governor] Governor title.</Text>
+		</Replace>
+
+		<!--DOM-->
+		<Row Tag="LOC_LOADING_INFO_LEADER_CVS_DARIUS" Language="en_US">
+			<Text>
+				Darius, your people look to you to once again bring back the days of power and glory for Persia! The empire of your ancestors must emerge again, to triumph over its foes and to bring peace and order to the world! O King of Kings, will you answer the call? Can you build a civilization that will stand the test of time?
+			</Text>
+		</Row>
+
+		<!--Civilopedia-->
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_CVS_DARIUS_TITLE" Language="en_US">
+			<Text>Darius I</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_CVS_DARIUS_SUBTITLE" Language="en_US">
+			<Text>Darius the Great</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_CVS_DARIUS_QUOTE" Language="en_US">
+			<Text>
+				By the grace of Ahuramazda am I king; Ahuramazda has granted me the kingdom.
+			</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_CVS_DARIUS_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>
+			</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_CVS_DARIUS_CHAPTER_HISTORY_PARA_2" Language="en_US">
+			<Text>
+			</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_CVS_DARIUS_CHAPTER_HISTORY_PARA_3" Language="en_US">
+			<Text>
+			</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_CVS_DARIUS_CHAPTER_HISTORY_PARA_4" Language="en_US">
+			<Text>
+			</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_CVS_DARIUS_CHAPTER_HISTORY_PARA_5" Language="en_US">
+			<Text>
+			</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_CVS_DARIUS_CHAPTER_HISTORY_PARA_6" Language="en_US">
+			<Text>
+			</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_CVS_DARIUS_CHAPTER_HISTORY_PARA_7" Language="en_US">
+			<Text>
+			</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_CVS_DARIUS_CHAPTER_HISTORY_PARA_8" Language="en_US">
+			<Text>
+			</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_CVS_DARIUS_CHAPTER_HISTORY_PARA_9" Language="en_US">
+			<Text>
+			</Text>
+		</Row>
+
+		<!--Diplomacy-->
+		<!--FIRST MEET-->
+		<!--First AI line-->
+		<Row Tag="LOC_DIPLO_FIRST_MEET_LEADER_CVS_DARIUS_ANY" Language="en_US">
+			<Text>Peace be upon you! I am Darius, the great and outstanding King of Kings of great Persia. But, of course, you must have known that already...</Text>
+		</Row>
+		<!--AI invitation to visit nearby City-->
+		<Row Tag="LOC_DIPLO_FIRST_MEET_VISIT_RECIPIENT_LEADER_CVS_DARIUS_ANY" Language="en_US">
+			<Text>Come and marvel at the grandeur of the cities of Persia! I assure you: you've never seen anything like them before.</Text>
+		</Row>
+		<!--AI accepts Human invitation-->
+		<Row Tag="LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_POSITIVE_LEADER_CVS_DARIUS_ANY" Language="en_US">
+			<Text>Agreed.</Text>
+		</Row>
+		<!--AI invitation to exchange Capital Information-->
+		<Row Tag="LOC_DIPLO_FIRST_MEET_NO_MANS_INFO_EXCHANGE_LEADER_CVS_DARIUS_ANY" Language="en_US">
+			<Text>Persia has had many capitals in its time, so let me make sure your maps are up to date. I suppose I should figure out wherever it is you come from too...</Text>
+		</Row>
+
+		<!--GREETINGS-->
+		<Row Tag="LOC_DIPLO_GREETING_LEADER_CVS_DARIUS_ANY" Language="en_US">
+			<Text>Good day to you.</Text>
+		</Row>
+
+		<!--DELEGATION-->
+		<!--AI Accepts-->
+		<Row Tag="LOC_DIPLO_ACCEPT_DELEGATION_FROM_HUMAN_LEADER_CVS_DARIUS_ANY" Language="en_US">
+			<Text>I accept the offerings of your envoys.</Text>
+		</Row>
+		<!--AI Rejects-->
+		<Row Tag="LOC_DIPLO_REJECT_DELEGATION_FROM_HUMAN_LEADER_CVS_DARIUS_ANY" Language="en_US">
+			<Text>Your offerings would only pollute these sacred halls. I will not have it!</Text>
+		</Row>
+		<!--AI Requests -->
+		<Row Tag="LOC_DIPLO_DELEGATION_FROM_AI_LEADER_CVS_DARIUS_ANY" Language="en_US">
+			<Text>My diplomats bring you a sample of the fine textiles and carpets of Persia, as well as some of the new coins I had minted. They're called darics. Guess who they're named after. Go ahead, guess.</Text>
+		</Row>
+
+		<!--OPEN BORDERS-->
+		<!--AI accepts from human-->
+		<Row Tag="LOC_DIPLO_ACCEPT_OPEN_BORDERS_FROM_HUMAN_LEADER_CVS_DARIUS_ANY" Language="en_US">
+			<Text>I shall permit your people entry into the land of Seven Climes. They shall be watched closely, however.</Text>
+		</Row>
+		<!--AI rejects from human-->
+		<Row Tag="LOC_DIPLO_REJECT_OPEN_BORDERS_FROM_HUMAN_LEADER_CVS_DARIUS_ANY" Language="en_US">
+			<Text>The lands of Persia are not open to those who are not worthy.</Text>
+		</Row>
+		<!--AI requests from human-->
+		<Row Tag="LOC_DIPLO_OPEN_BORDERS_FROM_AI_LEADER_CVS_DARIUS_ANY" Language="en_US">
+			<Text>Persia is brimming with greatness. Allow us entry to your lands and perhaps some of it will rub off on you and your people.</Text>
+		</Row>
+
+		<!--DECLARE FRIENDSHIP-->
+		<!--AI accepts from human-->
+		<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_HUMAN_LEADER_CVS_DARIUS_ANY" Language="en_US">
+			<Text>I, Darius, King of Kings, accept this offer of friendship.</Text>
+		</Row>
+		<!--AI Rejects from human -->
+		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_HUMAN_LEADER_CVS_DARIUS_ANY" Language="en_US">
+			<Text>Tell me, do you imagine the lion to be friends with the mouse as well? Ha!</Text>
+		</Row>
+		<!--AI Requests friendship from human-->
+		<Row Tag="LOC_DIPLO_DECLARE_FRIEND_FROM_AI_LEADER_CVS_DARIUS_ANY" Language="en_US">
+			<Text>I, Darius, King of Kings, offer you my hand in friendship. Accept and you shall be known as Friend of Friends!</Text>
+		</Row>
+		<!--Human accepts AI requests, AI responds-->
+		<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_CVS_DARIUS_ANY" Language="en_US">
+			<Text>You will not regret this decision.</Text>
+		</Row>
+		<!--Human rejects AI requests, AI responds-->
+		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_CVS_DARIUS_ANY" Language="en_US">
+			<Text>You will rue the day you turned you back on Darius!</Text>
+		</Row>
+
+		<!--ALLIANCE-->
+		<!--AI Requests an alliance from human-->
+		<Row Tag="LOC_DIPLO_MAKE_ALLIANCE_FROM_AI_LEADER_CVS_DARIUS_ANY" Language="en_US">
+			<Text>I declare you fit to stand by my side. What say you? Shall we be allies?</Text>
+		</Row>
+		<!--AI warns player for border troops-->
+		<Row Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_LEADER_CVS_DARIUS_ANY" Language="en_US">
+			<Text>I heard reports of a great swarm of fleas gathering near Persian lands. Turns out they were your troops. Remove them at once or I shall do it myself.</Text>
+		</Row>
+
+		<!--TRADE-->
+		<!--AI Accepts Deal-->
+		<Row Tag="LOC_DIPLO_ACCEPT_MAKE_DEAL_FROM_AI_LEADER_CVS_DARIUS_ANY" Language="en_US">
+			<Text>Agreeable.</Text>
+		</Row>
+		<!--AI Rejects Deal-->
+		<Row Tag="LOC_DIPLO_REJECT_MAKE_DEAL_FROM_AI_LEADER_CVS_DARIUS_ANY" Language="en_US">
+			<Text>I say... no!</Text>
+		</Row>
+
+		<!--DENOUNCE-->
+		<!--From Human-->
+		<Row Tag="LOC_DIPLO_DENOUNCE_FROM_HUMAN_LEADER_CVS_DARIUS_ANY" Language="en_US">
+			<Text>Oh, I'm sorry did you say something? I tend to tune out the whines of sniveling cowards...</Text>
+		</Row>
+		<!--From AI-->
+		<Row Tag="LOC_DIPLO_DENOUNCE_FROM_AI_LEADER_CVS_DARIUS_ANY" Language="en_US">
+			<Text>You stain the earth with your wretched incompetence! The world would rejoice were your civilization to vanish like a snowflake in the desert heat! (Denounces You.)</Text>
+		</Row>
+
+		<!--DECLARE WAR-->
+		<!--Human Declares War-->
+		<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_HUMAN_LEADER_CVS_DARIUS_ANY" Language="en_US">
+			<Text>You are beneath me, son of a donkey driver! I shall crush you!</Text>
+		</Row>
+		<!--AI Declares War-->
+		<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_CVS_DARIUS_ANY" Language="en_US">
+			<Text>Your greed and ineptness leaves me little choice: prepare for war!</Text>
+		</Row>
+
+		<!--MAKE PEACE-->
+		<!--AI accepts from human-->
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_AI_ACCEPT_DEAL_LEADER_CVS_DARIUS_ANY" Language="en_US">
+			<Text>We'll call it a tie, shall we? </Text>
+		</Row>
+		<!--AI refuses human-->
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_AI_REFUSE_DEAL_LEADER_CVS_DARIUS_ANY" Language="en_US">
+			<Text>Such cowardice only serves to motivate me more! Soon, all that will remain of your civilization is ash!</Text>
+		</Row>
+		<!--AI requests from human-->
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_FROM_AI_LEADER_CVS_DARIUS_ANY" Language="en_US">
+			<Text>I think our little spat has achieved its goals don't you think? Perhaps it's time for a brief respite before our inevitable rematch.</Text>
+		</Row>
+
+		<!--DEFEAT-->
+		<!--AI is Defeated-->
+		<Row Tag="LOC_DIPLO_DEFEAT_FROM_AI_LEADER_CVS_DARIUS_ANY" Language="en_US">
+			<Text>Curse you! The blood of the greatest leader in world history is on your hands!</Text>
+		</Row>
+		<!--Human is Defeated (will see this in hotseat)-->
+		<Row Tag="LOC_DIPLO_DEFEAT_FROM_HUMAN_LEADER_CVS_DARIUS_ANY" Language="en_US">
+			<Text>Curse you! The blood of the greatest leader in world history is on your hands!</Text>
+		</Row>
+
+
+		<!--LEADER AGENDA-->
+		<Row Tag="LOC_AGENDA_CVS_DARIUS_NAME" Language="en_US">
+			<Text>King of Kings</Text>
+		</Row>
+		<Row Tag="LOC_AGENDA_CVS_DARIUS_DESCRIPTION" Language="en_US">
+			<Text>Respects those experiencing Golden Ages. Looks down upon those in Dark Ages.</Text>
+		</Row>
+
+		<Row Tag="LOC_DIPLO_KUDO_LEADER_CVS_DARIUS_REASON_GOLDEN_SHOWERS" Language="en_US">
+			<Text>(You are in a Dark Age.)</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MODIFIER_CVS_DARIUS_GOLDEN_SHOWERS" Language="en_US">
+			<Text>Darius is disgusted that your Civilization is in a Dark Age.</Text>
+		</Row>
+
+		<Row Tag="LOC_DIPLO_KUDO_LEADER_CVS_DARIUS_REASON_GOLDEN_AGE" Language="en_US">
+			<Text>(You are in a Golden Age.)</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MODIFIER_CVS_DARIUS_GOLDEN_AGE" Language="en_US">
+			<Text>Darius is impressed that your Civilization is in a Golden Age.</Text>
+		</Row>
+
+		<!--AI Kudos-->
+		<Row Tag="LOC_DIPLO_KUDO_EXIT_LEADER_CVS_DARIUS_ANY" Language="en_US">
+			<Text>Your civilization is an astounding sight to see! Truly, your rule has brought an age of prosperity unto your people.</Text>
+		</Row>
+		<!--AI Warnings-->
+		<Row Tag="LOC_DIPLO_WARNING_EXIT_LEADER_CVS_DARIUS_ANY" Language="en_US">
+			<Text>See how your people wallow in the filth of your incompetence! Your civilization lives in the shadow of your failures!</Text>
+		</Row>
+	</LocalizedText>
+</GameData>

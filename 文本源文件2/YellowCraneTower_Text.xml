@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<GameData>
+	<LocalizedText>
+		<!-- The name of the building. -->
+		<Replace Tag="LOC_BUILDING_YELLOW_CRANE_NAME" Language="en_US">
+			<Text>Yellow Crane Tower</Text>
+		</Replace>
+
+		<!-- The description of the building, used in various places. -->
+		<Replace Tag="LOC_BUILDING_YELLOW_CRANE_DESCRIPTION" Language="en_US">
+			<Text>Provides +2 [ICON_Faith] Faith and +2 [ICON_Culture] Culture to all your cities that are within 6 tiles.[NEWLINE][NEWLINE]Must be built on Woods.</Text>
+		</Replace>
+		<Replace Tag="LOC_BUILDING_YELLOW_CRANE_QUOTE" Language="en_US">
+			<Text>故人西辞黄鹤楼，烟花三月下扬州；孤帆远影碧空尽，唯见长江天际流。[NEWLINE]——Li Bai</Text>
+			<!--故人西辞黄鹤楼，烟花三月下扬州；孤帆远影碧空尽，唯见长江天际流。[NEWLINE]——李白-->
+			<!--My old friends said goodbye to the west,[NEWLINE]here at Yellow Crane Tower,In the third month's cloud of willow blossoms, he's going down to Yangzhou.[NEWLINE]——Li Bai-->
+		</Replace>
+
+		<Replace Tag="LOC_PEDIA_WONDERS_PAGE_BUILDING_YELLOW_CRANE_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Yellow Crane Tower (traditional Chinese: 黃鶴樓; simplified Chinese: 黄鹤楼; pinyin: Huánghè Lóu) is a traditional Chinese tower located in Wuhan, in central China. The current structure was built in 1981, but the tower has existed in various forms since at least AD 223. The current Yellow Crane Tower is situated on Snake Hill (舍山), one kilometer away from the original site. It is on the bank of the Yangtze River in Wuchang District, Wuhan, in the Hubei province of central China.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_WONDERS_PAGE_BUILDING_YELLOW_CRANE_CHAPTER_HISTORY_PARA_2" Language="en_US">
+			<Text>The original site of the tower was on the Yellow Crane Jetty, a location situated west of Xiakou. The Yuanhe Maps and Records of Prefectures and Counties notes that after Sun Quan, founder of the kingdom of Eastern Wu, built the fort of Xiakou, a tower was constructed at this location and named after the Yellow Crane Jetty. </Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_WONDERS_PAGE_BUILDING_YELLOW_CRANE_CHAPTER_HISTORY_PARA_3" Language="en_US">
+			<Text>The tower has been destroyed twelve times, both by warfare and by fire. In the Ming and Qing dynasties alone, the tower was destroyed and rebuilt twelve times and was repaired on ten separate occasions. The last tower at the original site was built in 1868 and destroyed in 1884. In 1957, the Wuhan Yangtze River Bridge was built with one trestle of the bridge on the Yellow Crane Tower's site. In 1981, the Wuhan City Government rebuilt the tower at a new location, about 1 km (0.62 mi) from the original site. The current tower was completed in 1985.</Text>
+		</Replace>
+
+		<!--以下为中文-->
+
+		<Replace Tag="LOC_BUILDING_YELLOW_CRANE_NAME" Language="zh_Hans_CN">
+			<Text>黄鹤楼</Text>
+		</Replace>
+		<!-- The description of the building, used in various places. -->
+		<Replace Tag="LOC_BUILDING_YELLOW_CRANE_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>给6格范围的城市提供 +2 [ICON_Faith] 信仰 和 +2 [ICON_Culture] 文化[NEWLINE][NEWLINE]必须在森林上建造.</Text>
+		</Replace>
+		<Replace Tag="LOC_BUILDING_YELLOW_CRANE_QUOTE" Language="zh_Hans_CN">
+			<Text>故人西辞黄鹤楼，烟花三月下扬州；孤帆远影碧空尽，唯见长江天际流。[NEWLINE]——李白</Text>
+			<!--故人西辞黄鹤楼，烟花三月下扬州；孤帆远影碧空尽，唯见长江天际流。[NEWLINE]——李白-->
+			<!--My old friends said goodbye to the west,[NEWLINE]here at Yellow Crane Tower,In the third month's cloud of willow blossoms, he's going down to Yangzhou.[NEWLINE]——Li Bai-->
+		</Replace>
+
+		<Replace Tag="LOC_PEDIA_WONDERS_PAGE_BUILDING_YELLOW_CRANE_CHAPTER_HISTORY_PARA_1" Language="zh_Hans_CN">
+			<Text>黄鹤楼原址在湖北省武昌蛇山黄鹤矶头，始建于三国时代东吴黄武二年（223年）。《元和郡县图志》记载：孙权始筑夏口故城，“城西临大江，江南角因矶为楼，名黄鹤楼。”是为了军事目的而建。而据《极恩录》记载说原为辛氏开设的酒店。</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_WONDERS_PAGE_BUILDING_YELLOW_CRANE_CHAPTER_HISTORY_PARA_2" Language="zh_Hans_CN">
+			<Text>唐永泰元年（765年）黄鹤楼已具规模，然而兵火频繁，黄鹤楼屡建屡废，仅在明清两代，就被毁7次，重建和维修了10次。有“国运昌则楼运盛”之说。最后一座建于同治七年（1868年），毁于光绪十年（1884年）。现在遗址上只剩下清代黄鹤楼毁灭后唯一遗留下来的一个黄鹤楼铜铸楼顶。</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_WONDERS_PAGE_BUILDING_YELLOW_CRANE_CHAPTER_HISTORY_PARA_3" Language="zh_Hans_CN">
+			<Text>黄鹤楼从北宋至20世纪50年代，还曾作为道教的名山圣地，是吕洞宾传道、修行、教化的道场。《道藏·历世真仙体道通鉴》言 ：“吕祖以五月二十日登黄鹤楼，午刻升天而去。故留成仙圣迹。”《全真晚坛课功经》中称其为“黄鹤楼头留圣迹”。</Text>
+		</Replace>
+	</LocalizedText>
+</GameData>

@@ -1,0 +1,622 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by Ed Beach (Firaxis Games) -->
+<GameData>
+	<LocalizedText>
+		<!--CIVILIZATION-->
+		<Row Tag="LOC_CIVILIZATION_ENIGMA_NAVAJO_NAME" Language="en_US">
+			<Text>Navajo</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_ENIGMA_NAVAJO_DESCRIPTION" Language="en_US">
+			<Text>Navajo Empire</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_ENIGMA_NAVAJO_ADJECTIVE" Language="en_US">
+			<Text>Navajo</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_CIVILIZATION_ENIGMA_NAVAJO_DESCRIPTION_JFD_CIVILIZATION">
+			<Text>Navajo Civilization</Text>
+		</Row>
+		<!--Pedia-->
+		<Row Tag="LOC_CIVINFO_ENIGMA_NAVAJO_LOCATION" Language="en_US">
+			<Text>North America, specifically the Southwest of the United States</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_ENIGMA_NAVAJO_POPULATION" Language="en_US">
+			<Text>341,128</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_ENIGMA_NAVAJO_SIZE" Language="en_US">
+			<Text>27,413 square miles (71,000 square km)</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_ENIGMA_NAVAJO_CAPITAL" Language="en_US">
+			<Text>Tseyi (Canyon de Chelley today) prior to the Navajo Reservation's creation, Tseghahoodzani (Window Rock) today</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_ENIGMA_NAVAJO_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>The Navajo Nation constitutes an independent governmental body that manages the Navajo reservation in the Four Corners area, including over 27,000 square miles of land in Arizona, Utah, and New Mexico.  The Navajo language is spoken throughout the region, with most Navajos speaking English, as well.  The states with the largest Navajo populations are Arizona and New Mexico.  Over three-quarters of the Navajo population reside in these two states.  The Navajos are speakers of a Na-Dené Southern Athabaskan language known within the language as Diné bizaad. The language comprises two geographic, mutually intelligible dialects.  Some Navajos speak Navajo Sign Language, which is either a dialect or daughter of Plains Sign Talk, as well as some being speakers of Plains Sign Talk itself.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_ENIGMA_NAVAJO_CHAPTER_HISTORY_PARA_2" Language="en_US">
+			<Text>On November 21, 1846, following an invitation from a small party of American soldiers under the command of Captain John Reid, who journeyed deep into Navajo country and contacted him, Narbona and other Navajos negotiated a treaty of peace with Colonel Alexander Doniphan at Bear Springs, Ojo del Oso.  Navajos stole New Mexican livestock and New Mexicans took women, children and livestock from the Navajo.  In 1849, the military governor of New Mexico, Colonel John MacRae Washington-accompanied by John S. Calhoun, an Indian agent-led a force of 400 soldiers into Navajo country, penetrating Canyon de Chelly, and signed a treaty with two Navajo leaders Mariano Martinez as Head Chief and Chapitone as Second Chief.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_ENIGMA_NAVAJO_CHAPTER_HISTORY_PARA_3" Language="en_US">
+			<Text>In 1868, a treaty was negotiated between Navajo leaders and the federal government allowing the surviving Navajos to return to a reservation on a portion of their former homeland.  The Navajos were not provided with much protection; other enemies of the Navajos would swoop in and take Navajo women and children back to their camps and force them to work as slaves.  While at Bosque Redondo, the government did not provide the Navajos with food or shelter, and some Navajos froze during the winter because of poor shelters that they had to make on their own.  The United States military continued to maintain forts on the Navajo reservation in the years following the Long Walk.  Eventually, the arrangement led to a gradual end in Navajo raids as the tribe was able to increase the size of livestock and crops.  The Navajos believed Lt. Scott was there to drive off the whites who had settled on the reservation and had fenced off the river from the Navajos.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_ENIGMA_NAVAJO_CHAPTER_HISTORY_PARA_4" Language="en_US">
+			<Text>In 1937, Mary Cabot Wheelright and Hastiin Klah, an esteemed and influential Navajo singer, or medicine man, founded the Wheelwright Museum of the American Indian in Santa Fe. It is a repository for sound recordings, manuscripts, paintings, and sandpainting tapestries of the Navajos.  The Navajo Livestock Reduction was imposed upon the Navajo Nation by the federal government starting in the 1933.  Under various forms it continued into the 1950s, The government decided that the land of the Navajo Nation could only support a fixed number of sheep, goats, cattle, and horses.  Many Navajo young people moved to work in urban factories in World War II. Many Navajo men volunteered for military service in keeping with their warrior culture, where they served in integrated units.</Text>
+		</Row>
+		<!--Trait-->
+		<Row Tag="LOC_TRAIT_CIVILIZATION_ENIGMA_DINETAH_NAME" Language="en_US">
+			<Text>Dinétah</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_CIVILIZATION_ENIGMA_DINETAH_DESCRIPTION" Language="en_US">
+			<Text>Theater Squares gain a minor [ICON_CULTURE] Culture and [ICON_FOOD] Food adjacency bonus from Desert and Desert Hills.  Desert tiles adjacent to a City Center yield +2 [ICON_FAITH] Faith, and Worship buildings grant +15% [ICON_FOOD] Growth in their cities.</Text>
+		</Row>
+		<!--Cities-->
+		-<Row Language="en_US" Tag="LOC_CITY_NAME_NAVAJO_TSEYI">
+			<Text>Tséyi’</Text>
+		</Row>
+		-<Row Language="en_US" Tag="LOC_CITY_NAME_NAVAJO_TSEGHAHOODZANI">
+			<Text>Tseghahoodzani</Text>
+		</Row>
+		-<Row Language="en_US" Tag="LOC_CITY_NAME_NAVAJO_CHINIL">
+			<Text>Ch’ínílí</Text>
+		</Row>
+		-<Row Language="en_US" Tag="LOC_CITY_NAME_NAVAJO_TO_NANEESDIZI">
+			<Text>Tó Naneesdizí</Text>
+		</Row>
+		-<Row Language="en_US" Tag="LOC_CITY_NAME_NAVAJO_NAATAANII_NEEZ">
+			<Text>Naat’áanii Nééz</Text>
+		</Row>
+		-<Row Language="en_US" Tag="LOC_CITY_NAME_NAVAJO_TSEHOOTSOOI">
+			<Text>Tséhootsooí</Text>
+		</Row>
+		-<Row Language="en_US" Tag="LOC_CITY_NAME_NAVAJO_TIISTSOOZ_DEESHGIZH">
+			<Text>T’iists’óóz Ndeeshgizh</Text>
+		</Row>
+		-<Row Language="en_US" Tag="LOC_CITY_NAME_NAVAJO_DICHIITO">
+			<Text>Dích’íító</Text>
+		</Row>
+		-<Row Language="en_US" Tag="LOC_CITY_NAME_NAVAJO_LOKAACHEGAI">
+			<Text>Lók’aa’ch’égai</Text>
+		</Row>
+		-<Row Language="en_US" Tag="LOC_CITY_NAME_NAVAJO_MAII_TEEH_YITIZHI">
+			<Text>Ma’ii Tééh Yitłizhí</Text>
+		</Row>
+		-<Row Language="en_US" Tag="LOC_CITY_NAME_NAVAJO_TAA_BIICHDII">
+			<Text>Táá Bíích’íidii</Text>
+		</Row>
+		-<Row Language="en_US" Tag="LOC_CITY_NAME_NAVAJO_TIISTOH">
+			<Text>T’iistoh</Text>
+		</Row>
+		-<Row Language="en_US" Tag="LOC_CITY_NAME_NAVAJO_NANIA_HASANI">
+			<Text>Na’ní’á Hasání’</Text>
+		</Row>
+		-<Row Language="en_US" Tag="LOC_CITY_NAME_NAVAJO_DAAKEH_HALANI">
+			<Text>Dá’ák’eh Halání</Text>
+		</Row>
+		-<Row Language="en_US" Tag="LOC_CITY_NAME_NAVAJO_NAASHOIITOI">
+			<Text>Na’ashó’iito’í</Text>
+		</Row>
+		-<Row Language="en_US" Tag="LOC_CITY_NAME_NAVAJO_BITAAH_BITO">
+			<Text>Bitł’ááh Bito’</Text>
+		</Row>
+		-<Row Language="en_US" Tag="LOC_CITY_NAME_NAVAJO_KINITSOSINIL">
+			<Text>Kinłitsosinil</Text>
+		</Row>
+		-<Row Language="en_US" Tag="LOC_CITY_NAME_NAVAJO_TSIICHIN_BII_TO">
+			<Text>Tsiiłchin Bii’ Tó</Text>
+		</Row>
+		-<Row Language="en_US" Tag="LOC_CITY_NAME_NAVAJO_NAZLINI">
+			<Text>Názlíní</Text>
+		</Row>
+		-<Row Language="en_US" Tag="LOC_CITY_NAME_NAVAJO_KIITSOIITAH">
+			<Text>K’iiłtsoiitah</Text>
+		</Row>
+		-<Row Language="en_US" Tag="LOC_CITY_NAME_NAVAJO_DIWOZHII_BIKOOH">
+			<Text>Díwózhii Bikooh</Text>
+		</Row>
+		-<Row Language="en_US" Tag="LOC_CITY_NAME_NAVAJO_NAHODEESHGIIZH_CHINILINI">
+			<Text>Náhodeeshgiizh Ch’ínílíní</Text>
+		</Row>
+		-<Row Language="en_US" Tag="LOC_CITY_NAME_NAVAJO_DEINIHOOTSO">
+			<Text>Deinihootso</Text>
+		</Row>
+		-<Row Language="en_US" Tag="LOC_CITY_NAME_NAVAJO_BEEKENIGMA_BAA_AHOODZANI">
+			<Text>Be’ek’id Baa Ahoodzání</Text>
+		</Row>
+		-<Row Language="en_US" Tag="LOC_CITY_NAME_NAVAJO_TONITSILI">
+			<Text>Tóniłts’ílí</Text>
+		</Row>
+		-<Row Language="en_US" Tag="LOC_CITY_NAME_NAVAJO_GLOBE">
+			<Text>Globe</Text>
+		</Row>
+		<!--Citizens-->
+		<Row Tag="LOC_CITIZEN_ENIGMA_NAVAJO_MALE_1" Language="en_US">
+			<Text>Ahiga</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_ENIGMA_NAVAJO_MALE_2" Language="en_US">
+			<Text>Ahote</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_ENIGMA_NAVAJO_MALE_3" Language="en_US">
+			<Text>Bidziil</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_ENIGMA_NAVAJO_MALE_4" Language="en_US">
+			<Text>Gaagii</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_ENIGMA_NAVAJO_MALE_5" Language="en_US">
+			<Text>Gad</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_ENIGMA_NAVAJO_MALE_6" Language="en_US">
+			<Text>Hok'ee</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_ENIGMA_NAVAJO_MALE_7" Language="en_US">
+			<Text>Istaqa</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_ENIGMA_NAVAJO_MALE_8" Language="en_US">
+			<Text>Kele</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_ENIGMA_NAVAJO_MALE_9" Language="en_US">
+			<Text>Lapu</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_ENIGMA_NAVAJO_MODERN_MALE_1" Language="en_US">
+			<Text>Machakw</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_ENIGMA_NAVAJO_MODERN_MALE_2" Language="en_US">
+			<Text>Mansi</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_ENIGMA_NAVAJO_MODERN_MALE_3" Language="en_US">
+			<Text>Omawnakw</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_ENIGMA_NAVAJO_MODERN_MALE_4" Language="en_US">
+			<Text>Pahana</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_ENIGMA_NAVAJO_MODERN_MALE_5" Language="en_US">
+			<Text>Qaletaqa</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_ENIGMA_NAVAJO_MODERN_MALE_6" Language="en_US">
+			<Text>Sani</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_ENIGMA_NAVAJO_MODERN_MALE_7" Language="en_US">
+			<Text>Shiye</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_ENIGMA_NAVAJO_MODERN_MALE_8" Language="en_US">
+			<Text>T'iis</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_ENIGMA_NAVAJO_MODERN_MALE_9" Language="en_US">
+			<Text>Sani</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_ENIGMA_NAVAJO_MODERN_MALE_10" Language="en_US">
+			<Text>Pahana</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_ENIGMA_NAVAJO_FEMALE_1" Language="en_US">
+			<Text>Catori</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_ENIGMA_NAVAJO_FEMALE_2" Language="en_US">
+			<Text>Honovi</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_ENIGMA_NAVAJO_FEMALE_3" Language="en_US">
+			<Text>Kay</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_ENIGMA_NAVAJO_FEMALE_4" Language="en_US">
+			<Text>Lenmana</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_ENIGMA_NAVAJO_FEMALE_5" Language="en_US">
+			<Text>Nukpana</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_ENIGMA_NAVAJO_FEMALE_6" Language="en_US">
+			<Text>Muna</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_ENIGMA_NAVAJO_FEMALE_7" Language="en_US">
+			<Text>Powaga</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_ENIGMA_NAVAJO_FEMALE_8" Language="en_US">
+			<Text>Pakwa</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_ENIGMA_NAVAJO_FEMALE_9" Language="en_US">
+			<Text>Sihu</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_ENIGMA_NAVAJO_FEMALE_10" Language="en_US">
+			<Text>Soyala</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_ENIGMA_NAVAJO_MODERN_FEMALE_1" Language="en_US">
+			<Text>Tsiishch'ili</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_ENIGMA_NAVAJO_MODERN_FEMALE_2" Language="en_US">
+			<Text>Una</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_ENIGMA_NAVAJO_MODERN_FEMALE_3" Language="en_US">
+			<Text>Waki</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_ENIGMA_NAVAJO_MODERN_FEMALE_4" Language="en_US">
+			<Text>Wuti</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_ENIGMA_NAVAJO_MODERN_FEMALE_5" Language="en_US">
+			<Text>Yamka</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_ENIGMA_NAVAJO_MODERN_FEMALE_6" Language="en_US">
+			<Text>Yoki</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_ENIGMA_NAVAJO_MODERN_FEMALE_7" Language="en_US">
+			<Text>Zihna</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_ENIGMA_NAVAJO_MODERN_FEMALE_8" Language="en_US">
+			<Text>Pavati</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_ENIGMA_NAVAJO_MODERN_FEMALE_9" Language="en_US">
+			<Text>Tiponi</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_ENIGMA_NAVAJO_MODERN_FEMALE_10" Language="en_US">
+			<Text>Totsi</Text>
+		</Row>
+		<!--LEADER (MUSA I)-->
+		<Row Tag="LOC_LEADER_ENIGMA_BARBONCITO_NAME" Language="en_US">
+			<Text>Barboncito</Text>
+		</Row>
+		<!--Agenda-->
+		<Row Tag="LOC_AGENDA_ENIGMA_WAR_CEASE_NAME" Language="en_US">
+			<Text>War Shall Forever Cease</Text>
+		</Row>
+		<Row Tag="LOC_AGENDA_ENIGMA_WAR_CEASE_DESCRIPTION" Language="en_US">
+			<Text>Is pleased by those who focus on cultural enterprises and complete Theater Square projects.  Despises those who declare Surprise Wars.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_LEADER_ENIGMA_WAR_CEASE_REASON_LEADS_FAITH" Language="en_US">
+			<Text>(You declare Surprise Wars.)</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MODIFIER_AGENDA_ENIGMA_WAR_CEASE_LEADS_FAITH" Language="en_US">
+			<Text>Barboncito is angered by your bloodthirst.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_LEADER_ENIGMA_WAR_CEASE_REASON_LEADS_CULTURE" Language="en_US">
+			<Text>(You have high culture.)</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MODIFIER_AGENDA_ENIGMA_WAR_CEASE_LEADS_CULTURE" Language="en_US">
+			<Text>Barboncito is inspired by your culture.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_LEADER_ENIGMA_WAR_CEASE_REASON_THEATER" Language="en_US">
+			<Text>(You complete Theater Square projects.)</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MODIFIER_AGENDA_ENIGMA_WAR_CEASE_THEATER" Language="en_US">
+			<Text>Barboncito is pleased by your interest in cultural enterprises.</Text>
+		</Row>
+		<!--DOM-->
+		<Row Tag="LOC_LOADING_INFO_LEADER_ENIGMA_BARBONCITO" Language="en_US">
+			<Text>Well met, Barboncito, Blessings Speaker of the Navajo people. You are both a renowned orator and a gifted negotiator, but above all else you are loyal defender of the rights of your people, even in the most dire of times. Go now, Great Peace Chief: guide your people across the arid lands of the Dinétah and protect them from those that would wish them harm, and may they thrive under your wise direction.</Text>
+		</Row>
+		<!--Traits-->
+		<Row Tag="LOC_TRAIT_LEADER_ENIGMA_BLESSING_SPEAKER_NAME" Language="en_US">
+			<Text>The Blessing Speaker</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_LEADER_ENIGMA_BLESSING_SPEAKER_DESCRIPTION" Language="en_US">
+			<Text>Completing a Holy Site causes a culture bomb.  Buildings may be purchased with [ICON_FAITH] Faith in Theater Squares, and Theater Square buildings increase city [ICON_FOOD] growth.</Text>
+		</Row>
+		<!--Civilopedia-->
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_ENIGMA_BARBONCITO_TITLE" Language="en_US">
+			<Text>Barboncito</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_ENIGMA_BARBONCITO_SUBTITLE" Language="en_US">
+			<Text>Chief of the Navajo</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_ENIGMA_BARBONCITO_QUOTE" Language="en_US">
+			<Text>When the Navajo were first made, First Woman pointed out four mountains and four rivers that was to be our land.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_ENIGMA_BARBONCITO_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Barboncito was a famous Navajo political and spiritual leader.  Barboncito was born into the Ma'íí deeshgíízhiníí clan at Cañon de Chelly in 1820 and was a brother to Delgadito.  He was a signatory of several treaties between the United States and Navajos, including the Doniphan Treaty of 1846, which was an attempt to establish peace between the Navajo and whites during the Mexican War.  This treaty proved to be unsuccessful, as not all of the Navajo Chiefs were willing to become signatory to it.  This would later lead to armed rebellion against the United States where Barboncito worked together with another Navajo, Manuelito, in order to try and stop the forced relocation of Navajo tribe members to Bosque Redando.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_ENIGMA_BARBONCITO_CHAPTER_HISTORY_PARA_2" Language="en_US">
+			<Text>Barboncito made peaceful overtures to General James H. Carleton, Carson's commanding officer, in 1862, but the assault against the Navajo people dragged on.  Carson destroyed fields, orchards, and hogans-an earth-covered Navajo dwelling-and he confiscated cattle from the Continental Divide to the Colorado River.  Though only 78 of the 12,000 Navajo people were killed, Carson's efforts crushed the Navajo spirit.  Eventually, a shortage of food and supplies forced the Navajos to surrender their sacred stronghold.  In 1864 Barboncito was captured in his hometown of Canon de Chelly by troops under the command of Colonel Christopher "Kit" Carson.  After experiencing the terrible conditions under Colonel Christopher "Kit" Carson, Barboncito escaped with about 500 followers in June 1865.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_ENIGMA_BARBONCITO_CHAPTER_HISTORY_PARA_3" Language="en_US">
+			<Text>Barboncito was the Head Chief of the Navajo when the Bosque Redando Treaty of 1868 was signed.  This treaty contained articles which would end hostilities between the United States and the Navajo people, as well as allowing them to return to their ancestral land at Cañon de Chelly in Arizona and having a reservation established there.  The impact of this aspect of the treaty was the end of the Long Walk of the Navajo which had claimed the lives of thousands of Navajo people.  Of all the Navajos of his time, Barboncito is probably most responsible for the long-term success of the Navajo culture and relations with non-Navajos.  As well as being established as a skillful negotiator and leader of the Navajo people.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_ENIGMA_BARBONCITO_CHAPTER_HISTORY_PARA_4" Language="en_US">
+			<Text>He played a leading role in negotiations with General William T. Sherman and Colonel Samuel F. Tappan, telling them that the creator of the Navajo people had warned the tribe never to go east of the Rio Grande River.  The U.S. government was not inclined to return all their land to the Navajos.  Sherman provided Barboncito and the other chiefs with three choices: go east to Oklahoma, relocate in New Mexico and be governed by the laws of that territory, or return to a diminished portion of their original lands.  On June 1, 1868, the Navajo leaders, including BARBONCITO, signed a treaty with the U.S. government.  Barboncito was a gifted negotiator, as well as talented ceremonial singer.  Despite some setbacks, he ultimately saw more success than anyone when it came to Navajo affairs with other non-Navajos.  Shortly after the Bosque Redondo treaty was enacted, Barboncito died in 1871, at the age of 50 in his home village of Canon de Chelly.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_ENIGMA_BARBONCITO_CHAPTER_CAPSULE_BODY" Language="en_US">
+			<Text>The Navajo are a Civilization who thrives in the deserts where others fail by building up their religion, and convert this into a religious and cultural strength.  Barboncito enables this expansion, and converts cultural prowess into even more growth.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_ENIGMA_BARBONCITO_CHAPTER_DETAILED_BODY" Language="en_US">
+			<Text>The Navajo are well suited for a religious or cultural victory.  By constructing cities in deserts, you can gain additional faith on those desert tiles near your city, which are worked after your city has grown.  Founding a religion is essential to the Navajo, who gain additional growth from Worship buildings to fuel growth in their desert cities.  Hataaliis may also be purchased once you have a religion, allowing for your religious units to sustain themselves and improve the yields of your land.  Barboncito allows you to convert this intensive religious playstyle into cultural outputs and yet more growth, which leads to an easy cultural or religious victory for the Navajo.</Text>
+		</Row>
+		<!--Diplomacy-->
+		<!--FIRST MEET-->
+		<!--First AI line-->
+		<Row Tag="LOC_DIPLO_FIRST_MEET_LEADER_ENIGMA_BARBONCITO_ANY" Language="en_US">
+			<Text>Welcome.  I am Hástiin Dághá, but you can call me Barboncito: leader of the Navajo and peace chief.</Text>
+		</Row>
+		<!--AI invitation to visit nearby City-->
+		<Row Tag="LOC_DIPLO_FIRST_MEET_VISIT_RECIPIENT_LEADER_ENIGMA_BARBONCITO_ANY" Language="en_US">
+			<Text>I invite you to attend the blessingway in my hogan.</Text>
+		</Row>
+		<!--AI accepts Human invitation-->
+		<Row Tag="LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_POSITIVE_LEADER_ENIGMA_BARBONCITO_ANY" Language="en_US">
+			<Text>I will accept your generous invitation.</Text>
+		</Row>
+		<!--AI invitation to exchange Capital Information-->
+		<Row Tag="LOC_DIPLO_FIRST_MEET_NO_MANS_INFO_EXCHANGE_LEADER_ENIGMA_BARBONCITO_ANY" Language="en_US">
+			<Text>I propose to exchange information about our Capitals. I'm sure your land is just as bountiful.</Text>
+		</Row>
+		<!--GREETINGS-->
+		<Row Tag="LOC_DIPLO_GREETING_LEADER_ENIGMA_BARBONCITO_ANY" Language="en_US">
+			<Text>Welcome, traveller.</Text>
+		</Row>
+		<!--DELEGATION-->
+		<!--AI Accepts-->
+		<Row Tag="LOC_DIPLO_ACCEPT_DELEGATION_FROM_HUMAN_LEADER_ENIGMA_BARBONCITO_ANY" Language="en_US">
+			<Text>I have accepted your delegation.  May a great peace come from this.</Text>
+		</Row>
+		<!--AI Rejects-->
+		<Row Tag="LOC_DIPLO_REJECT_DELEGATION_FROM_HUMAN_LEADER_ENIGMA_BARBONCITO_ANY" Language="en_US">
+			<Text>Though generous, I cannot accept your delegation.</Text>
+		</Row>
+		<!--AI Requests -->
+		<Row Tag="LOC_DIPLO_DELEGATION_FROM_AI_LEADER_ENIGMA_BARBONCITO_ANY" Language="en_US">
+			<Text>I have sent a delegation to your Capital accompanied with a medicine man to lead the necessary rituals.</Text>
+		</Row>
+		<!--OPEN BORDERS-->
+		<!--AI accepts from human-->
+		<Row Tag="LOC_DIPLO_ACCEPT_OPEN_BORDERS_FROM_HUMAN_LEADER_ENIGMA_BARBONCITO_ANY" Language="en_US">
+			<Text>A fine arrangement.</Text>
+		</Row>
+		<!--AI rejects from human-->
+		<Row Tag="LOC_DIPLO_REJECT_OPEN_BORDERS_FROM_HUMAN_LEADER_ENIGMA_BARBONCITO_ANY" Language="en_US">
+			<Text>I do not agree to this deal.</Text>
+		</Row>
+		<!--AI requests from human-->
+		<Row Tag="LOC_DIPLO_OPEN_BORDERS_FROM_AI_LEADER_ENIGMA_BARBONCITO_ANY" Language="en_US">
+			<Text>I would like you to allow my people into the land you possess.</Text>
+		</Row>
+		<!--DECLARE FRIENDSHIP-->
+		<!--AI accepts from human-->
+		<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_HUMAN_LEADER_ENIGMA_BARBONCITO_ANY" Language="en_US">
+			<Text>I am pleased that we've come to an agreement.</Text>
+		</Row>
+		<!--AI Rejects from human -->
+		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_HUMAN_LEADER_ENIGMA_BARBONCITO_ANY" Language="en_US">
+			<Text>I cannot accept your hand in friendship.</Text>
+		</Row>
+		<!--AI Requests friendship from human-->
+		<Row Tag="LOC_DIPLO_DECLARE_FRIEND_FROM_AI_LEADER_ENIGMA_BARBONCITO_ANY" Language="en_US">
+			<Text>I would like to ask for a public declaration of friendship with you so we may walk this fourth world as friends.</Text>
+		</Row>
+		<!--Human accepts AI requests, AI responds-->
+		<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_ENIGMA_BARBONCITO_ANY" Language="en_US">
+			<Text>May you be blessed by the holy People as we have been.</Text>
+		</Row>
+		<!--Human rejects AI requests, AI responds-->
+		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_ENIGMA_BARBONCITO_ANY" Language="en_US">
+			<Text>This is disappointing.</Text>
+		</Row>
+		<!--ALLIANCE-->
+		<!--AI Requests an alliance from human-->
+		<Row Tag="LOC_DIPLO_MAKE_ALLIANCE_FROM_AI_LEADER_ENIGMA_BARBONCITO_ANY" Language="en_US">
+			<Text>I would like to gain your hand in alliance to further the Navajo down the path of peace.</Text>
+		</Row>
+		<!--KUDOS & WARNINGS-->
+		<!--AI Kudos-->
+		<Row Tag="LOC_DIPLO_KUDO_EXIT_LEADER_ENIGMA_BARBONCITO_ANY" Language="en_US">
+			<Text>Your great devotion puts me to shame.</Text>
+		</Row>
+		<!--AI Warnings-->
+		<Row Tag="LOC_DIPLO_WARNING_EXIT_LEADER_ENIGMA_BARBONCITO_ANY" Language="en_US">
+			<Text>Your ambitions to own everything you see send you down a dark path that none can save you from.</Text>
+		</Row>
+		<!--AI warns player for border troops-->
+		<Row Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_LEADER_ENIGMA_BARBONCITO_ANY" Language="en_US">
+			<Text>The troops you have lain at my borders have led to dark omens amongst our people. I must ask you to remove them.</Text>
+		</Row>
+		<!--TRADE-->
+		<!--AI Accepts Deal-->
+		<Row Tag="LOC_DIPLO_ACCEPT_MAKE_DEAL_FROM_AI_LEADER_ENIGMA_BARBONCITO_ANY" Language="en_US">
+			<Text>{LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_ENIGMA_BARBONCITO_ANY}</Text>
+		</Row>
+		<!--AI Rejects Deal-->
+		<Row Tag="LOC_DIPLO_REJECT_MAKE_DEAL_FROM_AI_LEADER_ENIGMA_BARBONCITO_ANY" Language="en_US">
+			<Text>{LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_ENIGMA_BARBONCITO_ANY}</Text>
+		</Row>
+		<!--DENOUNCE-->
+		<!--From Human-->
+		<Row Tag="LOC_DIPLO_DENOUNCE_FROM_HUMAN_LEADER_ENIGMA_BARBONCITO_ANY" Language="en_US">
+			<Text>You reveal your foolishness.</Text>
+		</Row>
+		<!--From AI-->
+		<Row Tag="LOC_DIPLO_DENOUNCE_FROM_AI_LEADER_ENIGMA_BARBONCITO_ANY" Language="en_US">
+			<Text>You are a threat to the peacable people of this world. (Denounces You)</Text>
+		</Row>
+		<!--Rationale-->
+		<Row Tag="LOC_DIPLO_DENOUNCE_REASON_FROM_AI_LEADER_ANY_REASON_ENIGMA_WAR_CEASE_LEADS_CULTURE" Language="en_US">
+			<Text>(You declare Surprise Wars.)</Text>
+		</Row>
+		<!--DECLARE WAR-->
+		<!--Human Declares War-->
+		<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_HUMAN_LEADER_ENIGMA_BARBONCITO_ANY" Language="en_US">
+			<Text>When the Dine first entered this world, we did not wish for war.  But now you come to us with this declaration.  So be it.</Text>
+		</Row>
+		<!--AI Declares War-->
+		<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_ENIGMA_BARBONCITO_ANY" Language="en_US">
+			<Text>You infringe upon my people and their rightful land.  I did not wish for war, but so be it, and I shall fight you to the end.</Text>
+		</Row>
+		<!--MAKE PEACE-->
+		<!--AI accepts from human-->
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_AI_ACCEPT_DEAL_LEADER_ENIGMA_BARBONCITO_ANY" Language="en_US">
+			<Text>It is agreed. The time has come for peace.</Text>
+		</Row>
+		<!--AI refuses human-->
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_AI_REFUSE_DEAL_LEADER_ENIGMA_BARBONCITO_ANY" Language="en_US">
+			<Text>It is not time for peace. Not today.</Text>
+		</Row>
+		<!--AI requests from human-->
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_FROM_AI_LEADER_ENIGMA_BARBONCITO_ANY" Language="en_US">
+			<Text>We come asking for peace, as the heavens will it.</Text>
+		</Row>
+		<!--DEFEAT-->
+		<!--AI is Defeated-->
+		<Row Tag="LOC_DIPLO_DEFEAT_FROM_AI_LEADER_ENIGMA_BARBONCITO_ANY" Language="en_US">
+			<Text>My people will venture on to find the fifth world, this one was clearly not suited for us.</Text>
+		</Row>
+		<!--Human is Defeated (will see this in hotseat)-->
+		<Row Tag="LOC_DIPLO_DEFEAT_FROM_HUMAN_LEADER_ENIGMA_BARBONCITO_ANY" Language="en_US">
+			<Text>[LOC_DIPLO_DEFEAT_FROM_AI_LEADER_ENIGMA_BARBONCITO_ANY]</Text>
+		</Row>
+		<!--HOGAN-->
+		<Row Tag="LOC_BUILDING_ENIGMA_HOGAN_NAME" Language="en_US">
+			<Text>Hogan</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_ENIGMA_HOGAN_DESCRIPTION" Language="en_US">
+			<Text>A building unique to the Navajo. Replaces the Shrine.[NEWLINE][NEWLINE]Yields +2 [ICON_FOOD] food, as well as an additional +2 [ICON_HOUSING] Housing if not placed adjacent to the City Center.  Yields +1 [ICON_FAITH] on all Desert or Desert Hill tiles adjacent to its Holy Site.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_BUILDINGS_PAGE_BUILDING_ENIGMA_HOGAN_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>A hogan is the primary, traditional dwelling of the Navajo people.  A hogan can be round, cone-shaped, multi-sided, or square; with or without internal posts; timber or stone walls and packed with earth in varying amounts or a bark roof for a summer house, with the door facing east to welcome the rising sun for good wealth and fortune.  Today, while some older hogans are now still used as dwellings and others are maintained for ceremonial purposes, new hogans are rarely intended as family dwellings.  Traditional structured hogans are also considered pioneers of energy efficient homes.</Text>
+		</Row>
+		<!--HATAALII-->
+		<Row Tag="LOC_UNIT_ENIGMA_MEDMAN_NAME" Language="en_US">
+			<Text>Hataałii</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_ENIGMA_MEDMAN_DESCRIPTION" Language="en_US">
+			<Text>Navajo unique unit replacing the Guru.  Heals adjacent friendly military units.  Yields +2 [ICON_FOOD] food and [ICON_PRODUCTION] production on any Desert or Desert Hills it's stationed on.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_ENIGMA_MEDMAN_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Navajo Hataałii are traditional medicine men who are called upon to perform healing ceremonies.  Unlike other American Indian medical practitioners that rely on visions and personal powers, a healer acts as a facilitator that transfers power from the Holy People to the patient to restore balance and harmony.  Healing practice is performed within a ceremonial hogan.  During a diagnosis a hand trembler traces symbols in the dirt while holding a "Trembling arm" over the patient.  Once a solution has been found, the patient can be referred to a herbalist or singer needed to perform a healing ceremony.  A number of healing ceremonies are performed according to a given patient situation.  The Night Way is a healing ceremony that takes course over nine days.  Each day the patient is cleansed through a varying number of exercises done to attract holiness or repel evil in the form of exorcisms, sweat baths, and sand painting ceremonies.  Herbs for healing ceremonies are collected by a medicine man accompanied by an apprentice.  Once all necessary wild plants are collected, an herbal tea is made for the patient, accompanied by a short prayer.  In some ceremonies, the herbal mixture causes patient vomiting to ensure bodily cleanliness.  Any distribution of medicinal herbs to a patient is accompanied by spiritual chanting.</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_ENIGMA_MEDMAN_NAME" Language="en_US">
+			<Text>Blessingway</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_ENIGMA_MEDMAN_DESCRIPTION" Language="en_US">
+			<Text>Yields additional food and production on adjacent desert tiles.</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_ABILITY_ENIGMA_MEDMAN_HEALING_MODIFIER_DESC">
+			<Text>+{1_Amount} HP healing for units within 1 tile</Text>
+		</Row>
+		<Row Tag="LOC_THEATER_ENIGMA_DESERT_CULTURE"	Language="en_US">
+			<Text>+{1_num} [ICON_CULTURE] Culture from the adjacent Desert tiles.</Text>
+		</Row>
+		<Row Tag="LOC_THEATER_ENIGMA_HILL_CULTURE"	Language="en_US">
+			<Text>+{1_num} [ICON_CULTURE] Culture from the adjacent Desert Hill tiles.</Text>
+		</Row>
+		<Row Tag="LOC_THEATER_ENIGMA_DESERT_FOOD"	Language="en_US">
+			<Text>+{1_num} [ICON_FOOD] Food from the adjacent Desert tiles.</Text>
+		</Row>
+		<Row Tag="LOC_THEATER_ENIGMA_HILL_FOOD"	Language="en_US">
+			<Text>+{1_num} [ICON_FOOD] Food from the adjacent Desert Hill tiles.</Text>
+		</Row>
+		<!--MOD SUPPORT-->
+		<!--JFD Rule with Faith-->
+		<Row Language="en_US" Tag="LOC_GOVERNMENT_JFD_CHIEFDOM_LEADER_TITLE_ENIGMA_NAVAJO">
+			<Text>Naatááh</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_GOVERNMENT_JFD_CHIEFDOM_LEADER_TITLE_ENIGMA_NAVAJO_FEMININE">
+			<Text>Naatááh</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_GOVERNMENT_JFD_HORDE_LEADER_TITLE_ENIGMA_NAVAJO">
+			<Text>Nabááh</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_GOVERNMENT_JFD_HORDE_LEADER_TITLE_ENIGMA_NAVAJO_FEMININE">
+			<Text>Nabááh</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_GOVERNMENT_JFD_POLIS_LEADER_TITLE_ENIGMA_NAVAJO">
+			<Text>Orator</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_GOVERNMENT_JFD_POLIS_LEADER_TITLE_ENIGMA_NAVAJO_FEMININE">
+			<Text>Orator</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_GOVERNMENT_JFD_AUTOCRACY_LEADER_TITLE_ENIGMA_NAVAJO">
+			<Text>Hashkeejí Naatááh</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_GOVERNMENT_JFD_AUTOCRACY_LEADER_TITLE_ENIGMA_NAVAJO_FEMININE">
+			<Text>Hashkeejí Naatááh</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_GOVERNMENT_JFD_CLASSICAL_DEMOCRACY_LEADER_TITLE_ENIGMA_NAVAJO">
+			<Text>Hózhoojí Naatááh</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_GOVERNMENT_JFD_CLASSICAL_DEMOCRACY_LEADER_TITLE_ENIGMA_NAVAJO_FEMININE">
+			<Text>Hózhoojí Naatááh</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_GOVERNMENT_JFD_OLIGARCHY_LEADER_TITLE_ENIGMA_NAVAJO">
+			<Text>Speaker of the Council</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_GOVERNMENT_JFD_OLIGARCHY_LEADER_TITLE_ENIGMA_NAVAJO_FEMININE">
+			<Text>Speaker of the Council</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_GOVERNMENT_JFD_MERCHANT_REPUBLIC_LEADER_TITLE_ENIGMA_NAVAJO">
+			<Text>Naalchid</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_GOVERNMENT_JFD_MERCHANT_REPUBLIC_LEADER_TITLE_ENIGMA_NAVAJO_FEMININE">
+			<Text>Naalchid</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_GOVERNMENT_JFD_MONARCHY_LEADER_TITLE_ENIGMA_NAVAJO">
+			<Text>Naatááh</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_GOVERNMENT_JFD_MONARCHY_LEADER_TITLE_ENIGMA_NAVAJO_FEMININE">
+			<Text>Naatááh</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_GOVERNMENT_JFD_NOBLE_REPUBLIC_LEADER_TITLE_ENIGMA_NAVAJO">
+			<Text>Naalchid</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_GOVERNMENT_JFD_NOBLE_REPUBLIC_LEADER_TITLE_ENIGMA_NAVAJO_FEMININE">
+			<Text>Naalchid</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_GOVERNMENT_JFD_PEOPLES_REPUBLIC_LEADER_TITLE_ENIGMA_NAVAJO">
+			<Text>Speaker of the People</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_GOVERNMENT_JFD_PEOPLES_REPUBLIC_LEADER_TITLE_ENIGMA_NAVAJO_FEMININE">
+			<Text>Speaker of the People</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_GOVERNMENT_JFD_LIBERAL_DEMOCRACY_LEADER_TITLE_ENIGMA_NAVAJO">
+			<Text>Naalchid</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_GOVERNMENT_JFD_LIBERAL_DEMOCRACY_LEADER_TITLE_ENIGMA_NAVAJO_FEMININE">
+			<Text>Naalchid</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_GOVERNMENT_JFD_MILITARY_GUARDIANSHIP_LEADER_TITLE_ENIGMA_NAVAJO">
+			<Text>Hashkeejí Naatááh</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_GOVERNMENT_JFD_MILITARY_GUARDIANSHIP_LEADER_TITLE_ENIGMA_NAVAJO_FEMININE">
+			<Text>Hashkeejí Naatááh</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_GOVERNMENT_JFD_EMPIRE_LEADER_TITLE_ENIGMA_NAVAJO">
+			<Text>Hózhoojí dóó Hashkeejí Naatááh</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_GOVERNMENT_JFD_EMPIRE_LEADER_TITLE_ENIGMA_NAVAJO_FEMININE">
+			<Text>Hózhoojí dóó Hashkeejí Naatááh</Text>
+		</Row>
+		<Row Tag="LOC_POLITICIAN_ENIGMA_NAVAJO_MALE_1" Language="en_US">
+			<Text>Narbona</Text>
+		</Row>
+		<Row Tag="LOC_POLITICIAN_ENIGMA_NAVAJO_MALE_2" Language="en_US">
+			<Text>Atsidi</Text>
+		</Row>
+		<Row Tag="LOC_POLITICIAN_ENIGMA_NAVAJO_MALE_3" Language="en_US">
+			<Text>Hastobiga</Text>
+		</Row>
+		<Row Tag="LOC_POLITICIAN_ENIGMA_NAVAJO_MALE_4" Language="en_US">
+			<Text>Hastiin Dagha</Text>
+		</Row>
+		<Row Tag="LOC_POLITICIAN_ENIGMA_NAVAJO_MALE_5" Language="en_US">
+			<Text>Manuelito</Text>
+		</Row>
+		<Row Tag="LOC_POLITICIAN_ENIGMA_NAVAJO_MALE_6" Language="en_US">
+			<Text>Kiiłchíí'</Text>
+		</Row>
+		<Row Tag="LOC_POLITICIAN_ENIGMA_NAVAJO_MALE_7" Language="en_US">
+			<Text>Delgadito</Text>
+		</Row>
+		<Row Tag="LOC_POLITICIAN_ENIGMA_NAVAJO_MALE_8" Language="en_US">
+			<Text>Chester</Text>
+		</Row>
+		<Row Tag="LOC_POLITICIAN_ENIGMA_NAVAJO_MALE_9" Language="en_US">
+			<Text>Chee</Text>
+		</Row>
+		<Row Tag="LOC_POLITICIAN_ENIGMA_NAVAJO_MALE_10" Language="en_US">
+			<Text>Hastiin</Text>
+		</Row>
+		<Row Tag="LOC_POLITICIAN_ENIGMA_NAVAJO_MALE_11" Language="en_US">
+			<Text>Largo</Text>
+		</Row>
+		<Row Tag="LOC_POLITICIAN_ENIGMA_NAVAJO_MALE_12" Language="en_US">
+			<Text>Herrero</Text>
+		</Row>
+		<Row Tag="LOC_POLITICIAN_ENIGMA_NAVAJO_MALE_13" Language="en_US">
+			<Text>Armijo</Text>
+		</Row>
+		<Row Tag="LOC_POLITICIAN_ENIGMA_NAVAJO_FEMALE_1" Language="en_US">
+			<Text>Asdzáá Tl'ógí</Text>
+		</Row>
+		<Row Tag="LOC_POLITICIAN_ENIGMA_NAVAJO_FEMALE_2" Language="en_US">
+			<Text>Juanita</Text>
+		</Row>
+	</LocalizedText>
+</GameData>

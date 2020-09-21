@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<LocalizedText>
+		<!-- Leader specific pedia text. -->
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_YNL_KING_HASSAN_CHAPTER_CAPSULE_BODY" Language="en_US">
+			<Text>An assassin that wears a skull mask.[NEWLINE]Regarded as the first Hassan Sabbah, who was born when the name “Old Man of the Mountain” changed into a title, after the assassination cult became established as assassins.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_YNL_KING_HASSAN_CHAPTER_DETAILED_BODY" Language="en_US">
+			<Text>Supposedly there was not a single eye-witness within the assassination cult who saw him, which is not surprising - one’s life would be forfeit from the moment he lay eyes on this individual.[NEWLINE][NEWLINE]At the same time that he was the origin of the “Old Man of the Mountain”, he also chose the life of an inspector that convicts the corruption of the cult.[NEWLINE]Even if the cult is righteous according to the teachings of God, that does not change the fact that its actions are evil as human beings. Therefore, this individual could not forgive that the cult could become degenerate.[NEWLINE]For those who protect the teachings of God to wallow in human cravings.[NEWLINE]That in itself is the greatest blasphemy against God.</Text>
+		</Row>
+
+		<!-- Leader specific historical text. -->
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_YNL_KING_HASSAN_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text></Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_YNL_KING_HASSAN_CHAPTER_HISTORY_PARA_2" Language="en_US">
+			<Text></Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_YNL_KING_HASSAN_CHAPTER_HISTORY_PARA_3" Language="en_US">
+			<Text></Text>
+		</Row>
+		
+		<!-- Civilization specific historical text. -->
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_YNL_NIZARI_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text></Text>
+		</Row>
+
+		<!-- Civlization Citizen Names -->
+		<Row Tag="LOC_CITIZEN_NIZARI_MALE_1" Language="en_US">
+			<Text>Ahmed Chalabi</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_NIZARI_MALE_2" Language="en_US">
+			<Text>Abdul Aziz al-Hakim</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_NIZARI_MALE_3" Language="en_US">
+			<Text>Gamal Abdel Nasser</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_NIZARI_MALE_4" Language="en_US">
+			<Text>Ali ibn Abi Talib</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_NIZARI_MALE_5" Language="en_US">
+			<Text>Nusret Gokce</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_NIZARI_FEMALE_1" Language="en_US">
+			<Text>Khadija bint Khuwaylid</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_NIZARI_FEMALE_2" Language="en_US">
+			<Text>Aisha bint Abi Bark</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_NIZARI_FEMALE_3" Language="en_US">
+			<Text>Shajar al-Durr</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_NIZARI_FEMALE_4" Language="en_US">
+			<Text>Razia Sultana</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_NIZARI_FEMALE_5" Language="en_US">
+			<Text>Zaynab bint Jahsh</Text>
+		</Row>
+
+		<!-- Civilization City Names-->
+		<Row Tag="LOC_CIVLIZATION_NIZARI_CITY_1" Language="en_US">
+			<Text>Alamut</Text>
+		</Row>
+		<Row Tag="LOC_CIVLIZATION_NIZARI_CITY_2" Language="en_US">
+			<Text>Baniyas</Text>
+		</Row>
+		<Row Tag="LOC_CIVLIZATION_NIZARI_CITY_3" Language="en_US">
+			<Text>Masyaf</Text>
+		</Row>
+		<Row Tag="LOC_CIVLIZATION_NIZARI_CITY_4" Language="en_US">
+			<Text>Hama</Text>
+		</Row>
+		<Row Tag="LOC_CIVLIZATION_NIZARI_CITY_5" Language="en_US">
+			<Text>Badakhshan</Text>
+		</Row>
+		<Row Tag="LOC_CIVLIZATION_NIZARI_CITY_6" Language="en_US">
+			<Text>Sultaniya</Text>
+		</Row>
+		<Row Tag="LOC_CIVLIZATION_NIZARI_CITY_7" Language="en_US">
+			<Text>Ahmadnagar</Text>
+		</Row>
+		<Row Tag="LOC_CIVLIZATION_NIZARI_CITY_8" Language="en_US">
+			<Text>Khadki</Text>
+		</Row>
+		<Row Tag="LOC_CIVLIZATION_NIZARI_CITY_9" Language="en_US">
+			<Text>Yazd</Text>
+		</Row>
+		<Row Tag="LOC_CIVLIZATION_NIZARI_CITY_10" Language="en_US">
+			<Text>Kerman</Text>
+		</Row>
+		<Row Tag="LOC_CIVLIZATION_NIZARI_CITY_11" Language="en_US">
+			<Text>Qom</Text>
+		</Row>
+		<Row Tag="LOC_CIVLIZATION_NIZARI_CITY_12" Language="en_US">
+			<Text>Mahallat</Text>
+		</Row>
+		<Row Tag="LOC_CIVLIZATION_NIZARI_CITY_13" Language="en_US">
+			<Text>Tabriz</Text>
+		</Row>
+		<Row Tag="LOC_CIVLIZATION_NIZARI_CITY_14" Language="en_US">
+			<Text>Lambsar</Text>
+		</Row>
+		<Row Tag="LOC_CIVLIZATION_NIZARI_CITY_15" Language="en_US">
+			<Text>Gerdkuh</Text>
+		</Row>
+		<Row Tag="LOC_CIVLIZATION_NIZARI_CITY_16" Language="en_US">
+			<Text>Quhestan</Text>
+		</Row>
+		<Row Tag="LOC_CIVLIZATION_NIZARI_CITY_17" Language="en_US">
+			<Text>Qazvin</Text>
+		</Row>
+
+		<!-- Leader Quotes -->
+		<Row Tag="LOC_LEADER_YNL_KING_HASSAN_QUOTE" Language="en_US">
+			<Text>Things I like? Heads.</Text>
+		</Row>
+		
+		<!-- Unique Project -->
+		<Row Tag="LOC_PROJECT_DAWA_JADIDA_NAME" Language="en_US">
+			<Text>da'wa jadida</Text>
+		</Row>
+		<Row Tag="LOC_PROJECT_DAWA_JADIDA_SHORT_NAME" Language="en_US">
+			<Text>da'wa jadida</Text>
+		</Row>
+		<Row Tag="LOC_PROJECT_DAWA_JADIDA_DESCRIPTION" Language="en_US">
+			<Text>Nizari unique project which provides [ICON_Culture] Culture, [ICON_Science] Science, [ICON_Faith] Faith and [ICON_Gold] Gold every turn when active and [ICON_GreatPerson] Great Person Points for [ICON_GreatAdmiral] Great Admirals, [ICON_GreatGeneral] Great Generals once finished.</Text>
+		</Row>
+	</LocalizedText>
+</GameData>

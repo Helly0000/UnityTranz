@@ -1,0 +1,974 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by Ed Beach (Firaxis Games) -->
+<GameData>
+	<LocalizedText>
+		<!--CIVILIZATION-->
+
+		<Replace Tag="LOC_GOODYHUT_LARGE_CULTURE_DESCRIPTION" Language="en_US">
+			<Text>[COLOR_FLOAT_CULTURE]+[ICON_Culture]50[ENDCOLOR]</Text>
+		</Replace>
+
+
+		<Row Tag="LOC_BUILDING_GEDEMO_MEDINA_NAME" Language="en_US">
+			<Text>Medina</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_GEDEMO_MEDINA_DESCRIPTION" Language="en_US">
+			<Text>A Building unique to Morocco. Available with Masonry. Provides +2 [ICON_HOUSING] Housing, +3 [ICON_GOLD] Gold for each adjacent Commercial Hub, and +2 [ICON_CULTURE] Culture for every era starting at the Classical Era.</Text>
+		</Row>
+		<Row Tag="LOC_IMPROVEMENT_GEDEMO_KASBAH_NAME" Language="en_US">
+			<Text>Kasbah</Text>
+		</Row>
+		<Row Tag="LOC_IMPROVEMENT_GEDEMO_KASBAH_DESCRIPTION" Language="en_US">
+			<Text>Feudalism unlocks the Builder ability to construct Kasbahs, unique improvement to Morocco. [NEWLINE][NEWLINE]+2 [ICON_FOOD] Food. +2 [ICON_GOLD] Gold. +1 [ICON_HOUSING] Housing. Tiles receive +1 [ICON_CULTURE] Culture if adjacent to a Kasbah. Cannot be constructed adjacent to one another.[NEWLINE][NEWLINE]+4 [ICON_STRENGTH] Defense Strength for occupying units.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_BUILDINGS_PAGE_BUILDING_GEDEMO_MEDINA_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>The word "medina" means city or town in Arabic. Medina quarters are distinct areas in parts of Northern Africa, characterized by narrow streets, lack of car traffic, and bustling trade activity.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_IMPROVEMENTS_PAGE_IMPROVEMENT_GEDEMO_KASBAH_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>A kasbah is a walled fort or citadel. It was a place for the local leader to live, and a point of defense in case of city attack.</Text>
+		</Row>
+		
+		<Row Tag="LOC_CIVILIZATION_GEDEMO_MOROCCO_NAME" Language="en_US">
+			<Text>Morocco</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_GEDEMO_MOROCCO_DESCRIPTION" Language="en_US">
+			<Text>The Moroccan Empire</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_GEDEMO_MOROCCO_ADJECTIVE" Language="en_US">
+			<Text>Moroccan</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_GEDEMO_MOROCCO_DESCRIPTION_GEDEMO_CIVILIZATION" Language="en_US">
+			<Text>Morocco</Text>
+		</Row>
+		<!--Pedia-->
+		<Row Tag="LOC_CIVINFO_GEDEMO_MOROCCO_LOCATION" Language="en_US">
+			<Text>North Africa</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_GEDEMO_MOROCCO_POPULATION" Language="en_US">
+			<Text>About 34,314,130</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_GEDEMO_MOROCCO_SIZE" Language="en_US">
+			<Text>Roughly 274,460 square miles (446,550 square kilometers)</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_GEDEMO_MOROCCO_CAPITAL" Language="en_US">
+			<Text>Marrakesh</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_GEDEMO_MOROCCO_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>The land that comprises Morocco has been home to humans for hundreds of millennia; the bones of early Homo sapiens uncovered at Jebel Irhoud date to 160 thousand years ago. A Neolithic culture - which would give rise to the Berbers - arose between 6000 BC and 3000 BC in the Maghreb, which was less arid than currently. The Berber language, along with agricultural settlements, came into being in the foothills of the Atlas Mountains and along the Atlantic coast around 2000 BC.</Text>
+		</Row>
+		
+
+
+		<!--Cities-->
+		<Row Tag="LOC_CITY_NAME_GEDEMO_MOROCCO_1" Language="en_US">
+			<Text>Marrakesh</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_GEDEMO_MOROCCO_2" Language="en_US">
+			<Text>Fez</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_GEDEMO_MOROCCO_3" Language="en_US">
+			<Text>Tangier</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_GEDEMO_MOROCCO_4" Language="en_US">
+			<Text>Casablanca</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_GEDEMO_MOROCCO_5" Language="en_US">
+			<Text>Rabat</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_GEDEMO_MOROCCO_6" Language="en_US">
+			<Text>Sale</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_GEDEMO_MOROCCO_7" Language="en_US">
+			<Text>Meknes</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_GEDEMO_MOROCCO_8" Language="en_US">
+			<Text>Oujda</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_GEDEMO_MOROCCO_9" Language="en_US">
+			<Text>Kenitra</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_GEDEMO_MOROCCO_10" Language="en_US">
+			<Text>Agadir</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_GEDEMO_MOROCCO_11" Language="en_US">
+			<Text>Tetouan</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_GEDEMO_MOROCCO_12" Language="en_US">
+			<Text>Temara</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_GEDEMO_MOROCCO_13" Language="en_US">
+			<Text>Safi</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_GEDEMO_MOROCCO_14" Language="en_US">
+			<Text>Mohammedia</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_GEDEMO_MOROCCO_15" Language="en_US">
+			<Text>Khouribga</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_GEDEMO_MOROCCO_16" Language="en_US">
+			<Text>El Jadida</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_GEDEMO_MOROCCO_17" Language="en_US">
+			<Text>Beni Mellal</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_GEDEMO_MOROCCO_18" Language="en_US">
+			<Text>Ait Melloul</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_GEDEMO_MOROCCO_19" Language="en_US">
+			<Text>Nador</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_GEDEMO_MOROCCO_20" Language="en_US">
+			<Text>Dar Mouazza</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_GEDEMO_MOROCCO_21" Language="en_US">
+			<Text>Taza</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_GEDEMO_MOROCCO_22" Language="en_US">
+			<Text>Settat</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_GEDEMO_MOROCCO_23" Language="en_US">
+			<Text>Berrechid</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_GEDEMO_MOROCCO_24" Language="en_US">
+			<Text>Khemisset</Text>
+		</Row>
+		
+		
+		
+
+		<!--Citizens-->
+		<Row Tag="LOC_CITIZEN_GEDEMO_MOROCCO_MALE_1" Language="en_US">
+			<Text>Mohamed</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_GEDEMO_MOROCCO_MALE_2" Language="en_US">
+			<Text>Reda</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_GEDEMO_MOROCCO_MALE_3" Language="en_US">
+			<Text>Abdo</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_GEDEMO_MOROCCO_MALE_4" Language="en_US">
+			<Text>Rachid</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_GEDEMO_MOROCCO_MALE_5" Language="en_US">
+			<Text>Salah</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_GEDEMO_MOROCCO_MALE_6" Language="en_US">
+			<Text>Badr</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_GEDEMO_MOROCCO_MALE_7" Language="en_US">
+			<Text>Choukri</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_GEDEMO_MOROCCO_MALE_8" Language="en_US">
+			<Text>Driss</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_GEDEMO_MOROCCO_MALE_9" Language="en_US">
+			<Text>Fares</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_GEDEMO_MOROCCO_MALE_10" Language="en_US">
+			<Text>Houari</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_GEDEMO_MOROCCO_FEMALE_1" Language="en_US">
+			<Text>Asmae</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_GEDEMO_MOROCCO_FEMALE_2" Language="en_US">
+			<Text>Fatima</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_GEDEMO_MOROCCO_FEMALE_3" Language="en_US">
+			<Text>Nouha</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_GEDEMO_MOROCCO_FEMALE_4" Language="en_US">
+			<Text>Ghita</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_GEDEMO_MOROCCO_FEMALE_5" Language="en_US">
+			<Text>Ines</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_GEDEMO_MOROCCO_FEMALE_6" Language="en_US">
+			<Text>Aouicha</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_GEDEMO_MOROCCO_FEMALE_7" Language="en_US">
+			<Text>Dalila</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_GEDEMO_MOROCCO_FEMALE_8" Language="en_US">
+			<Text>Eldaouia</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_GEDEMO_MOROCCO_FEMALE_9" Language="en_US">
+			<Text>Fathia</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_GEDEMO_MOROCCO_FEMALE_10" Language="en_US">
+			<Text>Halima</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_GEDEMO_MOROCCO_MODERN_MALE_1" Language="en_US">
+			<Text>Hamza</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_GEDEMO_MOROCCO_MODERN_MALE_2" Language="en_US">
+			<Text>Omar</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_GEDEMO_MOROCCO_MODERN_MALE_3" Language="en_US">
+			<Text>Mehdi</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_GEDEMO_MOROCCO_MODERN_MALE_4" Language="en_US">
+			<Text>Ayoub</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_GEDEMO_MOROCCO_MODERN_MALE_5" Language="en_US">
+			<Text>Karim</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_GEDEMO_MOROCCO_MODERN_MALE_6" Language="en_US">
+			<Text>Jalil</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_GEDEMO_MOROCCO_MODERN_MALE_7" Language="en_US">
+			<Text>Massoud</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_GEDEMO_MOROCCO_MODERN_MALE_8" Language="en_US">
+			<Text>Najib</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_GEDEMO_MOROCCO_MODERN_MALE_9" Language="en_US">
+			<Text>Naim</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_GEDEMO_MOROCCO_MODERN_MALE_10" Language="en_US">
+			<Text>Nabil</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_GEDEMO_MOROCCO_MODERN_FEMALE_1" Language="en_US">
+			<Text>Aya</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_GEDEMO_MOROCCO_MODERN_FEMALE_2" Language="en_US">
+			<Text>Yasmine</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_GEDEMO_MOROCCO_MODERN_FEMALE_3" Language="en_US">
+			<Text>Nadia</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_GEDEMO_MOROCCO_MODERN_FEMALE_4" Language="en_US">
+			<Text>Fati</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_GEDEMO_MOROCCO_MODERN_FEMALE_5" Language="en_US">
+			<Text>Farah</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_GEDEMO_MOROCCO_MODERN_FEMALE_6" Language="en_US">
+			<Text>Khadija</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_GEDEMO_MOROCCO_MODERN_FEMALE_7" Language="en_US">
+			<Text>Marjane</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_GEDEMO_MOROCCO_MODERN_FEMALE_8" Language="en_US">
+			<Text>Nasira</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_GEDEMO_MOROCCO_MODERN_FEMALE_9" Language="en_US">
+			<Text>Rachida</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_GEDEMO_MOROCCO_MODERN_FEMALE_10" Language="en_US">
+			<Text>Taoufika</Text>
+		</Row>
+
+		<Row Tag="LOC_CITY_NAME_C15_COLONY_NAMES_INEZGANE" Language="en_US">
+			<Text>Inezgane</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_C15_COLONY_NAMES_LARACHE" Language="en_US">
+			<Text>Larache</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_C15_COLONY_NAMES_KSAREL" Language="en_US">
+			<Text>Ksar El Kebir</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_C15_COLONY_NAMES_YOUSSOUFIA" Language="en_US">
+			<Text>Youssoufia</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_C15_COLONY_NAMES_MHAMID" Language="en_US">
+			<Text>Mhamid</Text>
+		</Row>
+
+
+		<!--MOD SUPPORT-->
+		<!--JFD Rule with Faith-->
+
+		<Row Tag="LOC_CIVILIZATION_GEDEMO_MOROCCO_DESCRIPTION_JFD_CIVILIZATION" Language="en_US">
+			<Text>Moroccan Civilization</Text>
+		</Row>
+		
+		
+		
+		<!--LEADER-->
+		<Row Tag="LOC_LEADER_GEDEMO_ALMANSUR" Language="en_US">
+			<Text>Ahmad al-Mansur</Text>
+		</Row>
+
+
+		<!--DOM-->
+		<Row Tag="LOC_LOADING_INFO_LEADER_GEDEMO_ALMANSUR" Language="en_US">
+			<Text>The people of Morocco await your guidance, great Sultan Ahmad al-Mansur of the Saadi Dynasty. Well known for your skill as both a negotiator and a diplomat, your careful words allowed the forging of new alliances, securing the sovereignty of your nation and its people for decades. And still, when words failed, you found equal success in conquest, leading the Moroccan armies to victory on the battlefield while greatly expanding the grasp of your empire. Wise and respected Sultan, the people look to you for leadership. Can your diplomacy match that of your rivals, or will you meet them sword in hand? Your once great kingdom yearns for that former glory - can you build a civilization that stands the test of time? </Text>
+		</Row>
+
+
+		<!--Civilopedia-->
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_GEDEMO_ALMANSUR_TITLE" Language="en_US">
+			<Text>Sultan</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_GEDEMO_ALMANSUR_SUBTITLE" Language="en_US">
+			<Text>Saadi</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_GEDEMO_ALMANSUR_QUOTE" Language="en_US">
+			<Text>I'm a man of profound Islamic learning, a lover of books, calligraphy and mathematics, as well as a connoisseur of mystical texts and a lover of scholarly discussions.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_GEDEMO_ALMANSUR_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>As one of the most influential leaders in the history of North Africa, Ahmad al-Mansur had a pivotal impact on the future of Morocco. Serving as the sixth Sultan of the Saadi Dynasty during the 16th century AD, Ahmad al-Mansur was known as a cunning diplomat who leveraged Morocco's strategic location to position his kingdom as a major player on the world's stage during the Renaissance.</Text>
+		</Row>
+		
+		
+
+
+		<!--Diplomacy-->
+		<!--FIRST MEET-->
+		<!--First AI line-->
+		<Row Tag="LOC_DIPLO_FIRST_MEET_LEADER_GEDEMO_ALMANSUR_ANY" Language="en_US">
+			<Text>I am Ahmad al-Mansur, and it is my sincere pleasure to meet you.</Text>
+		</Row>
+		<!--AI invitation to visit nearby City-->
+		<Row Tag="LOC_DIPLO_FIRST_MEET_VISIT_RECIPIENT_LEADER_GEDEMO_ALMANSUR_ANY" Language="en_US">
+			<Text>How would you like to visit one of our beautiful cities?</Text>
+		</Row>
+		<!--AI accepts Human invitation-->
+		<Row Tag="LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_POSITIVE_LEADER_GEDEMO_ALMANSUR_ANY" Language="en_US">
+			<Text>I thank you.</Text>
+		</Row>
+		<!--AI invitation to exchange Capital Information-->
+		<Row Tag="LOC_DIPLO_FIRST_MEET_NO_MANS_INFO_EXCHANGE_LEADER_GEDEMO_ALMANSUR_ANY" Language="en_US">
+			<Text>Let us share information on our capital cities.</Text>
+		</Row>
+		<!--GREETINGS-->
+		<Row Tag="LOC_DIPLO_GREETING_LEADER_GEDEMO_ALMANSUR_ANY" Language="en_US">
+			<Text>Salam 'leykum! What brings you here today, friend?</Text>
+		</Row>
+		<!--DELEGATION-->
+		<!--AI Accepts-->
+		<Row Tag="LOC_DIPLO_ACCEPT_DELEGATION_FROM_HUMAN_LEADER_GEDEMO_ALMANSUR_ANY" Language="en_US">
+			<Text>Thank you, friend.</Text>
+		</Row>
+		<!--AI Rejects-->
+		<Row Tag="LOC_DIPLO_REJECT_DELEGATION_FROM_HUMAN_LEADER_GEDEMO_ALMANSUR_ANY" Language="en_US">
+			<Text>Perhaps another time?</Text>
+		</Row>
+		<!--AI Requests -->
+		<Row Tag="LOC_DIPLO_DELEGATION_FROM_AI_LEADER_GEDEMO_ALMANSUR_ANY" Language="en_US">
+			<Text>I have sent a delgation to your capital, I would be honored if you would receive them.</Text>
+		</Row>
+		<!--OPEN BORDERS-->
+		<!--AI accepts from human-->
+		<Row Tag="LOC_DIPLO_ACCEPT_OPEN_BORDERS_FROM_HUMAN_LEADER_GEDEMO_ALMANSUR_ANY" Language="en_US">
+			<Text>Let it be so.</Text>
+		</Row>
+		<!--AI rejects from human-->
+		<Row Tag="LOC_DIPLO_REJECT_OPEN_BORDERS_FROM_HUMAN_LEADER_GEDEMO_ALMANSUR_ANY" Language="en_US">
+			<Text>I cannot agree to this right now.</Text>
+		</Row>
+		<!--AI requests from human-->
+		<Row Tag="LOC_DIPLO_OPEN_BORDERS_FROM_AI_LEADER_GEDEMO_ALMANSUR_ANY" Language="en_US">
+			<Text>May we have passage through your land?</Text>
+		</Row>
+		<!--DECLARE FRIENDSHIP-->
+		<!--AI accepts from human-->
+		<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_HUMAN_LEADER_GEDEMO_ALMANSUR_ANY" Language="en_US">
+			<Text>Excellent!</Text>
+		</Row>
+		<!--AI Rejects from human -->
+		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_HUMAN_LEADER_GEDEMO_ALMANSUR_ANY" Language="en_US">
+			<Text>Apologies, but I cannot agree to this right now.</Text>
+		</Row>
+		<!--AI Requests friendship from human-->
+		<Row Tag="LOC_DIPLO_DECLARE_FRIEND_FROM_AI_LEADER_GEDEMO_ALMANSUR_ANY" Language="en_US">
+			<Text>Let us tell the world of our friendship.</Text>
+		</Row>
+		<!--Human accepts AI requests, AI responds-->
+		<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_GEDEMO_ALMANSUR_ANY" Language="en_US">
+			<Text>I thank you.</Text>
+		</Row>
+		<!--Human rejects AI requests, AI responds-->
+		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_GEDEMO_ALMANSUR_ANY" Language="en_US">
+			<Text>Oh. Perhaps some other time.</Text>
+		</Row>
+		<!--ALLIANCE-->
+		<!--AI Requests an alliance from human-->
+		<Row Tag="LOC_DIPLO_MAKE_ALLIANCE_FROM_AI_LEADER_GEDEMO_ALMANSUR_ANY" Language="en_US">
+			<Text>Come, let us forge our friendhsip into something even greater.</Text>
+		</Row>
+		<!--KUDOS & WARNINGS-->
+		<!--AI Kudos-->
+		<Row Tag="LOC_DIPLO_KUDO_EXIT_LEADER_GEDEMO_ALMANSUR_ANY" Language="en_US">
+			<Text>Good, good...</Text>
+		</Row>
+		<!--AI Warnings-->
+		<Row Tag="LOC_DIPLO_WARNING_EXIT_LEADER_GEDEMO_ALMANSUR_ANY" Language="en_US">
+			<Text>You are wrong to think your actions go unobserved.</Text>
+		</Row>
+		<!--AI warns player for border troops-->
+		<Row Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_LEADER_GEDEMO_ALMANSUR_ANY" Language="en_US">
+			<Text>I hope your armies are on my border for purposes beyond intimidating me.</Text>
+		</Row>
+		<!--TRADE-->
+		<!--AI Accepts Deal-->
+		<Row Tag="LOC_DIPLO_ACCEPT_MAKE_DEAL_FROM_AI_LEADER_GEDEMO_ALMANSUR_ANY" Language="en_US">
+			<Text>Very well.</Text>
+		</Row>
+		<!--AI Rejects Deal-->
+		<Row Tag="LOC_DIPLO_REJECT_MAKE_DEAL_FROM_AI_LEADER_GEDEMO_ALMANSUR_ANY" Language="en_US">
+			<Text>...</Text>
+		</Row>
+		<!--DENOUNCE-->
+		<!--From Human-->
+		<Row Tag="LOC_DIPLO_DENOUNCE_FROM_HUMAN_LEADER_GEDEMO_ALMANSUR_ANY" Language="en_US">
+			<Text>Friend... is this what it has come to?</Text>
+		</Row>
+		<!--From AI-->
+		<Row Tag="LOC_DIPLO_DENOUNCE_FROM_AI_LEADER_GEDEMO_ALMANSUR_ANY" Language="en_US">
+			<Text>To see you fallen so far from grace... it punishes my heart. (Denounces You)</Text>
+		</Row>
+		<!--DECLARE WAR-->
+		<!--Human Declares War-->
+		<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_HUMAN_LEADER_GEDEMO_ALMANSUR_ANY" Language="en_US">
+			<Text>We will not back away from a fight, if that's what you were hoping.</Text>
+		</Row>
+		<!--AI Declares War-->
+		<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_GEDEMO_ALMANSUR_ANY" Language="en_US">
+			<Text>Enough is enough. The time has come for you to answer for your sins.</Text>
+		</Row>
+		<!--MAKE PEACE-->
+		<!--AI accepts from human-->
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_AI_ACCEPT_DEAL_LEADER_GEDEMO_ALMANSUR_ANY" Language="en_US">
+			<Text>Peace, at last.</Text>
+		</Row>
+		<!--AI refuses human-->
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_AI_REFUSE_DEAL_LEADER_GEDEMO_ALMANSUR_ANY" Language="en_US">
+			<Text>The time for peace has not yet arrived.</Text>
+		</Row>
+		<!--AI requests from human-->
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_FROM_AI_LEADER_GEDEMO_ALMANSUR_ANY" Language="en_US">
+			<Text>Please, let us put an end to this terrible conflict.</Text>
+		</Row>
+		<!--DEFEAT-->
+		<!--AI is Defeated-->
+		<Row Tag="LOC_DIPLO_DEFEAT_FROM_AI_LEADER_GEDEMO_ALMANSUR_ANY" Language="en_US">
+			<Text>The gain is having a clean system from corruption.</Text>
+		</Row>
+		<!--Human is Defeated (will see this in hotseat)-->
+		<Row Tag="LOC_DIPLO_DEFEAT_FROM_HUMAN_LEADER_GEDEMO_ALMANSUR_ANY" Language="en_US">
+			<Text>[LOC_DIPLO_DEFEAT_FROM_AI_LEADER_GEDEMO_ALMANSUR_ANY]</Text>
+		</Row>
+
+
+
+
+
+
+
+
+
+
+
+		<!--Traits-->
+		<Row Tag="LOC_TRAIT_LEADER_GEDEMO_ALMANSUR_LTRAIT_NAME" Language="en_US">
+			<Text>Ad-Dahabi</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_LEADER_GEDEMO_ALMANSUR_LTRAIT_DESCRIPTION" Language="en_US">
+			<Text>Receive 50 [ICON_CULTURE] Culture when placing a [ICON_DISTRICT_COMMERCIAL_HUB] Commercial Hub District, and a free Trader Unit when completing one.</Text>
+		</Row>
+
+
+		<Row Tag="LOC_TRAIT_CIVILIZATION_GEDEMO_MOROCCO_CIV_TRAIT_NAME" Language="en_US">
+			<Text>Gateway to Africa</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_CIVILIZATION_GEDEMO_MOROCCO_CIV_TRAIT_DESCRIPTION" Language="en_US">
+			<Text>+1 [ICON_PRODUCTION] Production for international Trade Routes, rising to +2 [ICON_PRODUCTION] in the Medieval Era, and +3 [ICON_PRODUCTION] in the Modern Era.</Text>
+		</Row>
+
+		
+		
+		
+
+
+
+		<Row Tag="LOC_AGENDA_GEDEMO_ALMANSUR_NAME" Language="en_US">
+			<Text>Imaginary Caliphate</Text>
+		</Row>
+		<Row Tag="LOC_AGENDA_GEDEMO_ALMANSUR_DESCRIPTION" Language="en_US">
+			<Text>Tries to have the highest possible per turn income. Respects other high income civilizations.</Text>
+		</Row>
+
+		
+
+		
+
+
+		<Row Tag="LOC_AGENDA_GEDEMO_ALMANSUR_NAME" Language="fr_FR">
+			<Text>Caliphat Imaginaire</Text>
+		</Row>
+		<Row Tag="LOC_AGENDA_GEDEMO_ALMANSUR_DESCRIPTION" Language="fr_FR">
+			<Text>Essaie d'avoir le plus haut revenu possible par tour. Respecte les autres civilisations à revenu élevé.</Text>
+		</Row>
+
+
+
+		<!--Traits french-->
+		<Row Tag="LOC_TRAIT_LEADER_GEDEMO_ALMANSUR_LTRAIT_NAME" Language="fr_FR">
+			<Text>Ad-Dahabi</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_LEADER_GEDEMO_ALMANSUR_LTRAIT_DESCRIPTION" Language="fr_FR">
+			<Text>Ahmad Al-Mansur reçoit 50 [ICON_CULTURE] Culture lorsqu'un [ICON_DISTRICT_COMMERCIAL_HUB] Centre Commercial est placé sur la carte, et un Marchand gratuit lorsque sa construction est terminée.</Text>
+		</Row>
+
+		<Row Tag="LOC_TRAIT_CIVILIZATION_GEDEMO_MOROCCO_CIV_TRAIT_NAME" Language="fr_FR">
+			<Text>Porte de l'Afrique</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_CIVILIZATION_GEDEMO_MOROCCO_CIV_TRAIT_DESCRIPTION" Language="fr_FR">
+			<Text>+1 [ICON_PRODUCTION] Production en provenance des [ICON_TradeRoute] Routes Commerciales internationales, avec +2 additionnels à l'Ere Médievale, et +3 à l'Ere Moderne.</Text>
+		</Row>
+
+		
+		
+		
+		
+		<!--LEADER french-->
+		<Row Tag="LOC_LEADER_GEDEMO_ALMANSUR" Language="fr_FR">
+			<Text>Ahmad Al-Mansur</Text>
+		</Row>
+
+
+		<!--DOM french-->
+		<Row Tag="LOC_LOADING_INFO_LEADER_GEDEMO_ALMANSUR" Language="fr_FR">
+			<Text>Le peuple marocain attend vos conseils, grand sultan Ahmad al-Mansur de la dynastie Saadi. Bien connu pour votre compétence à la fois de négociateur et de diplomate, vos paroles prudentes ont permis de forger de nouvelles alliances, garantissant la souveraineté de votre nation et de son peuple pendant des décennies. Et pourtant, lorsque les mots ont échoué, vous avez trouvé un succès égal dans la conquête, conduisant les armées marocaines à la victoire sur le champ de bataille tout en élargissant considérablement la portée de votre empire. Sultan sage et respecté, le peuple compte sur vous pour le leadership. Votre diplomatie peut-elle correspondre à celle de vos rivaux, ou les rencontrerez-vous l'épée à la main? Votre royaume autrefois grand aspire à cette ancienne gloire - pouvez-vous construire une civilisation qui résiste à l'épreuve du temps?</Text>
+		</Row>
+
+
+		<!--Civilopedia french-->
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_GEDEMO_ALMANSUR_TITLE" Language="fr_FR">
+			<Text>Sultan</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_GEDEMO_ALMANSUR_SUBTITLE" Language="fr_FR">
+			<Text>Saadi</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_GEDEMO_ALMANSUR_QUOTE" Language="fr_FR">
+			<Text>Je suis un homme de profonde connaissance islamique, un amoureux des livres, de la calligraphie et des mathématiques, ainsi qu'un connaisseur des textes mystiques et un amoureux des discussions savantes.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_GEDEMO_ALMANSUR_CHAPTER_HISTORY_PARA_1" Language="fr_FR">
+			<Text>En tant que l'un des dirigeants les plus influents de l'histoire de l'Afrique du Nord, Ahmad al-Mansur a eu un impact crucial sur l'avenir du Maroc. Agissant en tant que sixième sultan de la dynastie Saadi au XVIe siècle après JC, Ahmad al-Mansur était connu comme un diplomate rusé qui a tiré parti de l'emplacement stratégique du Maroc pour positionner son royaume comme un acteur majeur sur la scène mondiale à la Renaissance.</Text>
+		</Row>
+		
+		
+
+		<!--CIVILIZATION french-->
+		<Row Tag="LOC_CIVILIZATION_GEDEMO_MOROCCO_NAME" Language="fr_FR">
+			<Text>Maroc</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_GEDEMO_MOROCCO_DESCRIPTION" Language="fr_FR">
+			<Text>L'empire Marocain</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_GEDEMO_MOROCCO_ADJECTIVE" Language="fr_FR">
+			<Text>Marocain</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_GEDEMO_MOROCCO_DESCRIPTION_GEDEMO_CIVILIZATION" Language="fr_FR">
+			<Text>Maroc</Text>
+		</Row>
+		<!--Pedia french-->
+		<Row Tag="LOC_CIVINFO_GEDEMO_MOROCCO_LOCATION" Language="fr_FR">
+			<Text>Afrique du Nord</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_GEDEMO_MOROCCO_POPULATION" Language="fr_FR">
+			<Text>34 314 130 habitants</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_GEDEMO_MOROCCO_SIZE" Language="fr_FR">
+			<Text>446 550 kilomètres carrés</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_GEDEMO_MOROCCO_CAPITAL" Language="fr_FR">
+			<Text>Marrakesh</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_GEDEMO_MOROCCO_CHAPTER_HISTORY_PARA_1" Language="fr_FR">
+			<Text>La terre qui comprend le Maroc abrite des humains depuis des centaines de millénaires; les ossements des premiers Homo sapiens découverts à Jebel Irhoud datent d'il y a 160 mille ans. Une culture néolithique - qui donnerait naissance aux Berbères - a vu le jour entre 6000 avant JC et 3000 avant JC au Maghreb, qui était moins aride qu'actuellement. La langue berbère, avec les établissements agricoles, a vu le jour dans les contreforts des montagnes de l'Atlas et le long de la côte atlantique vers 2000 avant JC.</Text>
+		</Row>
+		
+
+
+		<!--Cities-->
+		<Row Tag="LOC_CITY_NAME_GEDEMO_MOROCCO_1" Language="fr_FR">
+			<Text>Marrakesh</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_GEDEMO_MOROCCO_2" Language="fr_FR">
+			<Text>Fez</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_GEDEMO_MOROCCO_3" Language="fr_FR">
+			<Text>Tangier</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_GEDEMO_MOROCCO_4" Language="fr_FR">
+			<Text>Casablanca</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_GEDEMO_MOROCCO_5" Language="fr_FR">
+			<Text>Rabat</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_GEDEMO_MOROCCO_6" Language="fr_FR">
+			<Text>Sale</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_GEDEMO_MOROCCO_7" Language="fr_FR">
+			<Text>Meknes</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_GEDEMO_MOROCCO_8" Language="fr_FR">
+			<Text>Oujda</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_GEDEMO_MOROCCO_9" Language="fr_FR">
+			<Text>Kenitra</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_GEDEMO_MOROCCO_10" Language="fr_FR">
+			<Text>Agadir</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_GEDEMO_MOROCCO_11" Language="fr_FR">
+			<Text>Tetouan</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_GEDEMO_MOROCCO_12" Language="fr_FR">
+			<Text>Temara</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_GEDEMO_MOROCCO_13" Language="fr_FR">
+			<Text>Safi</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_GEDEMO_MOROCCO_14" Language="fr_FR">
+			<Text>Mohammedia</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_GEDEMO_MOROCCO_15" Language="fr_FR">
+			<Text>Khouribga</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_GEDEMO_MOROCCO_16" Language="fr_FR">
+			<Text>El Jadida</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_GEDEMO_MOROCCO_17" Language="fr_FR">
+			<Text>Beni Mellal</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_GEDEMO_MOROCCO_18" Language="fr_FR">
+			<Text>Ait Melloul</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_GEDEMO_MOROCCO_19" Language="fr_FR">
+			<Text>Nador</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_GEDEMO_MOROCCO_20" Language="fr_FR">
+			<Text>Dar Mouazza</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_GEDEMO_MOROCCO_21" Language="fr_FR">
+			<Text>Taza</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_GEDEMO_MOROCCO_22" Language="fr_FR">
+			<Text>Settat</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_GEDEMO_MOROCCO_23" Language="fr_FR">
+			<Text>Berrechid</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_GEDEMO_MOROCCO_24" Language="fr_FR">
+			<Text>Khemisset</Text>
+		</Row>
+		
+		
+		
+
+		<!--Citizens-->
+		<Row Tag="LOC_CITIZEN_GEDEMO_MOROCCO_MALE_1" Language="fr_FR">
+			<Text>Mohamed</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_GEDEMO_MOROCCO_MALE_2" Language="fr_FR">
+			<Text>Reda</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_GEDEMO_MOROCCO_MALE_3" Language="fr_FR">
+			<Text>Abdo</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_GEDEMO_MOROCCO_MALE_4" Language="fr_FR">
+			<Text>Rachid</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_GEDEMO_MOROCCO_MALE_5" Language="fr_FR">
+			<Text>Salah</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_GEDEMO_MOROCCO_MALE_6" Language="fr_FR">
+			<Text>Badr</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_GEDEMO_MOROCCO_MALE_7" Language="fr_FR">
+			<Text>Choukri</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_GEDEMO_MOROCCO_MALE_8" Language="fr_FR">
+			<Text>Driss</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_GEDEMO_MOROCCO_MALE_9" Language="fr_FR">
+			<Text>Fares</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_GEDEMO_MOROCCO_MALE_10" Language="fr_FR">
+			<Text>Houari</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_GEDEMO_MOROCCO_FEMALE_1" Language="fr_FR">
+			<Text>Asmae</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_GEDEMO_MOROCCO_FEMALE_2" Language="fr_FR">
+			<Text>Fatima</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_GEDEMO_MOROCCO_FEMALE_3" Language="fr_FR">
+			<Text>Nouha</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_GEDEMO_MOROCCO_FEMALE_4" Language="fr_FR">
+			<Text>Ghita</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_GEDEMO_MOROCCO_FEMALE_5" Language="fr_FR">
+			<Text>Ines</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_GEDEMO_MOROCCO_FEMALE_6" Language="fr_FR">
+			<Text>Aouicha</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_GEDEMO_MOROCCO_FEMALE_7" Language="fr_FR">
+			<Text>Dalila</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_GEDEMO_MOROCCO_FEMALE_8" Language="fr_FR">
+			<Text>Eldaouia</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_GEDEMO_MOROCCO_FEMALE_9" Language="fr_FR">
+			<Text>Fathia</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_GEDEMO_MOROCCO_FEMALE_10" Language="fr_FR">
+			<Text>Halima</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_GEDEMO_MOROCCO_MODERN_MALE_1" Language="fr_FR">
+			<Text>Hamza</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_GEDEMO_MOROCCO_MODERN_MALE_2" Language="fr_FR">
+			<Text>Omar</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_GEDEMO_MOROCCO_MODERN_MALE_3" Language="fr_FR">
+			<Text>Mehdi</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_GEDEMO_MOROCCO_MODERN_MALE_4" Language="fr_FR">
+			<Text>Ayoub</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_GEDEMO_MOROCCO_MODERN_MALE_5" Language="fr_FR">
+			<Text>Karim</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_GEDEMO_MOROCCO_MODERN_MALE_6" Language="fr_FR">
+			<Text>Jalil</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_GEDEMO_MOROCCO_MODERN_MALE_7" Language="fr_FR">
+			<Text>Massoud</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_GEDEMO_MOROCCO_MODERN_MALE_8" Language="fr_FR">
+			<Text>Najib</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_GEDEMO_MOROCCO_MODERN_MALE_9" Language="fr_FR">
+			<Text>Naim</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_GEDEMO_MOROCCO_MODERN_MALE_10" Language="fr_FR">
+			<Text>Nabil</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_GEDEMO_MOROCCO_MODERN_FEMALE_1" Language="fr_FR">
+			<Text>Aya</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_GEDEMO_MOROCCO_MODERN_FEMALE_2" Language="fr_FR">
+			<Text>Yasmine</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_GEDEMO_MOROCCO_MODERN_FEMALE_3" Language="fr_FR">
+			<Text>Nadia</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_GEDEMO_MOROCCO_MODERN_FEMALE_4" Language="fr_FR">
+			<Text>Fati</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_GEDEMO_MOROCCO_MODERN_FEMALE_5" Language="fr_FR">
+			<Text>Farah</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_GEDEMO_MOROCCO_MODERN_FEMALE_6" Language="fr_FR">
+			<Text>Khadija</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_GEDEMO_MOROCCO_MODERN_FEMALE_7" Language="fr_FR">
+			<Text>Marjane</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_GEDEMO_MOROCCO_MODERN_FEMALE_8" Language="fr_FR">
+			<Text>Nasira</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_GEDEMO_MOROCCO_MODERN_FEMALE_9" Language="fr_FR">
+			<Text>Rachida</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_GEDEMO_MOROCCO_MODERN_FEMALE_10" Language="fr_FR">
+			<Text>Taoufika</Text>
+		</Row>
+
+		<Row Tag="LOC_CITY_NAME_C15_COLONY_NAMES_INEZGANE" Language="fr_FR">
+			<Text>Inezgane</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_C15_COLONY_NAMES_LARACHE" Language="fr_FR">
+			<Text>Larache</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_C15_COLONY_NAMES_KSAREL" Language="fr_FR">
+			<Text>Ksar El Kebir</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_C15_COLONY_NAMES_YOUSSOUFIA" Language="fr_FR">
+			<Text>Youssoufia</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_C15_COLONY_NAMES_MHAMID" Language="fr_FR">
+			<Text>Mhamid</Text>
+		</Row>
+
+		<!--Diplomacy french-->
+		<!--FIRST MEET french-->
+		<!--First AI line french-->
+		<Row Tag="LOC_DIPLO_FIRST_MEET_LEADER_GEDEMO_ALMANSUR_ANY" Language="fr_FR">
+			<Text>Je suis Ahmad al-Mansur et c'est un grand plaisir pour moi que de te rencontrer!</Text>
+		</Row>
+		<!--AI invitation to visit nearby City french-->
+		<Row Tag="LOC_DIPLO_FIRST_MEET_VISIT_RECIPIENT_LEADER_GEDEMO_ALMANSUR_ANY" Language="fr_FR">
+			<Text>Voudrais-tu visiter une de nos merveilleuses villes?</Text>
+		</Row>
+		<!--AI accepts Human invitation french-->
+		<Row Tag="LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_POSITIVE_LEADER_GEDEMO_ALMANSUR_ANY" Language="fr_FR">
+			<Text>je te remercie.</Text>
+		</Row>
+		<!--AI invitation to exchange Capital Information french -->
+		<Row Tag="LOC_DIPLO_FIRST_MEET_NO_MANS_INFO_EXCHANGE_LEADER_GEDEMO_ALMANSUR_ANY" Language="fr_FR">
+			<Text>Veux-tu échanger les positions de nos capitales respectives?</Text>
+		</Row>
+		<!--GREETINGS french-->
+		<Row Tag="LOC_DIPLO_GREETING_LEADER_GEDEMO_ALMANSUR_ANY" Language="fr_FR">
+			<Text>Salam 'leykum!(Salutations).</Text>
+		</Row>
+		<!--DELEGATION french-->
+		<!--AI Accepts french-->
+		<Row Tag="LOC_DIPLO_ACCEPT_DELEGATION_FROM_HUMAN_LEADER_GEDEMO_ALMANSUR_ANY" Language="fr_FR">
+			<Text>Merci, mon ami.</Text>
+		</Row>
+		<!--AI Rejects french-->
+		<Row Tag="LOC_DIPLO_REJECT_DELEGATION_FROM_HUMAN_LEADER_GEDEMO_ALMANSUR_ANY" Language="fr_FR">
+			<Text>Peut-être un autre jour?</Text>
+		</Row>
+		<!--AI Requests french-->
+		<Row Tag="LOC_DIPLO_DELEGATION_FROM_AI_LEADER_GEDEMO_ALMANSUR_ANY" Language="fr_FR">
+			<Text>J'ai fait parvenir des cadeaux dans ta capitale, je serais heureux si tu leur faisais bon accueil.</Text>
+		</Row>
+		<!--OPEN BORDERS french-->
+		<!--AI accepts from human french-->
+		<Row Tag="LOC_DIPLO_ACCEPT_OPEN_BORDERS_FROM_HUMAN_LEADER_GEDEMO_ALMANSUR_ANY" Language="fr_FR">
+			<Text>Qu'il en soit ainsi.</Text>
+		</Row>
+		<!--AI rejects from human french-->
+		<Row Tag="LOC_DIPLO_REJECT_OPEN_BORDERS_FROM_HUMAN_LEADER_GEDEMO_ALMANSUR_ANY" Language="fr_FR">
+			<Text>Nous ne sommes pas intéressés pour l'instant.</Text>
+		</Row>
+		<!--AI requests from human french-->
+		<Row Tag="LOC_DIPLO_OPEN_BORDERS_FROM_AI_LEADER_GEDEMO_ALMANSUR_ANY" Language="fr_FR">
+			<Text>Permetrais-tu à nos unités de traverser ton territoire?</Text>
+		</Row>
+		<!--DECLARE FRIENDSHIP french-->
+		<!--AI accepts from human french-->
+		<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_HUMAN_LEADER_GEDEMO_ALMANSUR_ANY" Language="fr_FR">
+			<Text>Excellent!</Text>
+		</Row>
+		<!--AI Rejects from human french-->
+		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_HUMAN_LEADER_GEDEMO_ALMANSUR_ANY" Language="fr_FR">
+			<Text>Désolé mais je ne peux accepter.</Text>
+		</Row>
+		<!--AI Requests friendship from human french-->
+		<Row Tag="LOC_DIPLO_DECLARE_FRIEND_FROM_AI_LEADER_GEDEMO_ALMANSUR_ANY" Language="fr_FR">
+			<Text>Proclamons aux yeux du monde notre belle amitié!</Text>
+		</Row>
+		<!--Human accepts AI requests, AI responds french-->
+		<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_GEDEMO_ALMANSUR_ANY" Language="fr_FR">
+			<Text>Je te remercie.</Text>
+		</Row>
+		<!--Human rejects AI requests, AI responds french-->
+		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_GEDEMO_ALMANSUR_ANY" Language="fr_FR">
+			<Text>Peut-être une autre fois?</Text>
+		</Row>
+		<!--ALLIANCE-->
+		<!--AI Requests an alliance from human french-->
+		<Row Tag="LOC_DIPLO_MAKE_ALLIANCE_FROM_AI_LEADER_GEDEMO_ALMANSUR_ANY" Language="fr_FR">
+			<Text>Renforçons nos liens d'amitié par quelque chose d'encore plus puissant!</Text>
+		</Row>
+		<!--KUDOS & WARNINGS french-->
+		<!--AI Kudos-->
+		<Row Tag="LOC_DIPLO_KUDO_EXIT_LEADER_GEDEMO_ALMANSUR_ANY" Language="fr_FR">
+			<Text>Bien...bien!</Text>
+		</Row>
+		<!--AI Warnings french-->
+		<Row Tag="LOC_DIPLO_WARNING_EXIT_LEADER_GEDEMO_ALMANSUR_ANY" Language="fr_FR">
+			<Text>Tu fais erreur si tu crois que tes actions passent inaperçues...</Text>
+		</Row>
+		<!--AI warns player for border troops french-->
+		<Row Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_LEADER_GEDEMO_ALMANSUR_ANY" Language="fr_FR">
+			<Text>Je suppose que ces armées ne sont là uniquement pour nous intimider?</Text>
+		</Row>
+		<!--TRADE french-->
+		<!--AI Accepts Deal french-->
+		<Row Tag="LOC_DIPLO_ACCEPT_MAKE_DEAL_FROM_AI_LEADER_GEDEMO_ALMANSUR_ANY" Language="fr_FR">
+			<Text>{LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_GEDEMO_ALMANSUR_ANY}</Text>
+		</Row>
+		<!--AI Rejects Deal french-->
+		<Row Tag="LOC_DIPLO_REJECT_MAKE_DEAL_FROM_AI_LEADER_GEDEMO_ALMANSUR_ANY" Language="fr_FR">
+			<Text>{LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_GEDEMO_ALMANSUR_ANY}</Text>
+		</Row>
+		<!--DENOUNCE french-->
+		<!--From Human french-->
+		<Row Tag="LOC_DIPLO_DENOUNCE_FROM_HUMAN_LEADER_GEDEMO_ALMANSUR_ANY" Language="fr_FR">
+			<Text>Voila où nous en sommes aujourd'hui... (Dénonciation)</Text>
+		</Row>
+		<!--From AI french-->
+		<Row Tag="LOC_DIPLO_DENOUNCE_FROM_AI_LEADER_GEDEMO_ALMANSUR_ANY" Language="fr_FR">
+			<Text>Mon coeur est meurtri de te voir si loin de la grâce. (Dénonciation)</Text>
+		</Row>
+		<!--DECLARE WAR french-->
+		<!--Human Declares War french-->
+		<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_HUMAN_LEADER_GEDEMO_ALMANSUR_ANY" Language="fr_FR">
+			<Text>Si tu crois que nous allons esquiver une bataille, tu te fais des illusions!</Text>
+		</Row>
+		<!--AI Declares War french-->
+		<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_GEDEMO_ALMANSUR_ANY" Language="fr_FR">
+			<Text>Il est temps de répondre de tes péchés!</Text>
+		</Row>
+		<!--MAKE PEACE french-->
+		<!--AI accepts from human french-->
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_AI_ACCEPT_DEAL_LEADER_GEDEMO_ALMANSUR_ANY" Language="fr_FR">
+			<Text>La paix, enfin.</Text>
+		</Row>
+		<!--AI refuses human french-->
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_AI_REFUSE_DEAL_LEADER_GEDEMO_ALMANSUR_ANY" Language="fr_FR">
+			<Text>Le temps de la paix n'est pas encore venu.</Text>
+		</Row>
+		<!--AI requests from human french-->
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_FROM_AI_LEADER_GEDEMO_ALMANSUR_ANY" Language="fr_FR">
+			<Text>S'il te plait, mettons fin à ce conflit ridicule.</Text>
+		</Row>
+		<!--DEFEAT french-->
+		<!--AI is Defeated french-->
+		<Row Tag="LOC_DIPLO_DEFEAT_FROM_AI_LEADER_GEDEMO_ALMANSUR_ANY" Language="fr_FR">
+			<Text>Le gain est d'avoir un système propre contre la corruption.</Text>
+		</Row>
+		<!--Human is Defeated (will see this in hotseat) french-->
+		<Row Tag="LOC_DIPLO_DEFEAT_FROM_HUMAN_LEADER_GEDEMO_ALMANSUR_ANY" Language="fr_FR">
+			<Text>[LOC_DIPLO_DEFEAT_FROM_AI_LEADER_GEDEMO_ALMANSUR_ANY]</Text>
+		</Row>
+
+
+
+
+
+		<!--MOD SUPPORT-->
+		<!--JFD Rule with Faith-->
+
+		<Row Tag="LOC_CIVILIZATION_GEDEMO_MOROCCO_DESCRIPTION_JFD_CIVILIZATION" Language="fr_FR">
+			<Text>Civilization Marocaine</Text>
+		</Row>
+
+		<Replace Tag="LOC_GOODYHUT_LARGE_CULTURE_DESCRIPTION" Language="fr_FR">
+			<Text>[COLOR_FLOAT_CULTURE]+[ICON_Culture]50[ENDCOLOR]</Text>
+		</Replace>
+		<Row Tag="LOC_BUILDING_GEDEMO_MEDINA_NAME" Language="fr_FR">
+			<Text>Medina</Text>
+		</Row>
+
+		<Row Tag="LOC_BUILDING_GEDEMO_MEDINA_DESCRIPTION" Language="fr_FR">
+			<Text>Un bâtiment unique du Maroc, disponible avec la Maçonnerie. Fournit +2 [ICON_HOUSING] Habitations, +3 [ICON_GOLD] Or pour chaque Centre Commercial adjacent, et +2 [ICON_CULTURE] Culture. +2 [ICON_CULTURE] Culture supplémentaire lorsque vous atteignez l'Ere Médiévale et l'Ere Moderne.</Text>
+		</Row>
+
+
+		<Row Tag="LOC_IMPROVEMENT_GEDEMO_KASBAH_NAME" Language="fr_FR">
+			<Text>Kasbah</Text>
+		</Row>
+
+		<Row Tag="LOC_IMPROVEMENT_GEDEMO_KASBAH_DESCRIPTION" Language="fr_FR">
+			<Text>Avec la découverte du Féodalisme, les Batisseurs peuvent construire des Kasbahs, amélioration unique, sur les cases de Désert. [NEWLINE][NEWLINE]+2 [ICON_FOOD] Nourriture. +2 [ICON_GOLD] Or. +1 [ICON_HOUSING] Habitation. Les Cases recoivent +1 [ICON_CULTURE] Culture si adjacentes à une Kasbah. Ne peut pas être adjacente à une autre Kasbah.[NEWLINE]+4 [ICON_STRENGTH] Puissance Défensive pour les Unités occupant la Case.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_BUILDINGS_PAGE_BUILDING_GEDEMO_MEDINA_CHAPTER_HISTORY_PARA_1" Language="fr_FR">
+			<Text>Le mot "médina" signifie ville ou village en arabe. Les quartiers de la médina sont des zones distinctes dans certaines parties de l'Afrique du Nord, caractérisées par des rues étroites, un manque de circulation automobile et une activité commerciale animée.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_IMPROVEMENTS_PAGE_IMPROVEMENT_GEDEMO_KASBAH_CHAPTER_HISTORY_PARA_1" Language="fr_FR">
+			<Text>Une kasbah est un fort fortifié ou une citadelle. C'était un lieu de vie pour le leader local et un point de défense en cas d'attaque de la ville.</Text>
+		</Row>
+	</LocalizedText>
+</GameData>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<LocalizedText>
+		<!-- RaF専用アジェンダ（専用のファイルに書くこと） -->
+		<!-- 堅物 -->
+		<Row Tag="LOC_DIPLO_KUDO_LEADER_YNL_KING_HASSAN_REASON_AGENDA_CURMUDGEON_POSITIVE" Language="en_US">
+			<Text>A great ruler cannot be distracted by the machinations of the opposite sex, wouldn’t you agree?</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_LEADER_YNL_KING_HASSAN_REASON_AGENDA_CURMUDGEON_NEGATIVE" Language="en_US">
+			<Text>Don't you have better things to do than to natter at me? It's distracting and counterproductive.</Text>
+		</Row>
+		<!-- 色好み -->
+		<Row Tag="LOC_DIPLO_KUDO_LEADER_YNL_KING_HASSAN_REASON_AGENDA_FLIRTATIOUS_POSITIVE" Language="en_US">
+			<Text>I admire you. There are many of us who do, of course, but I’m your biggest and most important fan.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_LEADER_YNL_KING_HASSAN_REASON_AGENDA_FLIRTATIOUS_NEGATIVE" Language="en_US">
+			<Text>You say you're just negotiating in your people's best interest, but I think you're just jealous of my relationships.</Text>
+		</Row>
+		<!-- ゴシップ -->
+		<Row Tag="LOC_DIPLO_KUDO_LEADER_YNL_KING_HASSAN_REASON_AGENDA_GOSSIP_POSITIVE" Language="en_US">
+			<Text>It is good that our relationship is built on the strength of knowing other people’s secrets.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_LEADER_YNL_KING_HASSAN_REASON_AGENDA_GOSSIP_NEGATIVE" Language="en_US">
+			<Text>I often wonder why you say so little. I believe you’ve nothing interesting to say.</Text>
+		</Row>
+		<!-- 追従 -->
+		<Row Tag="LOC_DIPLO_KUDO_LEADER_YNL_KING_HASSAN_REASON_AGENDA_SYCOPHANT_GOLDEN_AGE" Language="en_US">
+			<Text>Our poets and philosophers hold up your civilization as the light of the world, and I must agree with them.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_LEADER_YNL_KING_HASSAN_REASON_AGENDA_SYCOPHANT_DARK_AGE" Language="en_US">
+			<Text>Aspire to be a worthier example to the rest of the world! Your people will love you if you lead them to glory.</Text>
+		</Row>
+		<!-- 人情家 -->
+		<Row Tag="LOC_DIPLO_KUDO_LEADER_YNL_KING_HASSAN_REASON_AGENDA_SYMPATHIZER_DARK_AGE" Language="en_US">
+			<Text>Our civilization admires the way you’re bearing your current trouble with hardiness and resolve.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_LEADER_YNL_KING_HASSAN_REASON_AGENDA_SYMPATHIZER_GOLDEN_AGE" Language="en_US">
+			<Text>Your people's "glorious age" looks a lot like gloating to me. I look forward to the day of your fall.</Text>
+		</Row>
+		
+		<!-- 戦闘ボーナスの効果説明文 -->
+		<Row Tag="LOC_TRAIT_COMBAT_BONUS_VS_DARK_AGE_CIV_YNL_DESCRIPTION" Language="en_US">
+			<Text>+8 versus civilizations in a Dark Age</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_COMBAT_BONUS_VS_DARK_AGE_YNL_DESCRIPTION" Language="en_US">
+			<Text>+8 [ICON_Strength] Combat Strength versus civilizations in a Dark Age.</Text>
+		</Row>
+	</LocalizedText>
+</GameData>

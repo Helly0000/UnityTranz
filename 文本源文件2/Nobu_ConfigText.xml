@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<LocalizedText>
+
+		<!-- **************************************************************************   ENGLISH   ****************************************************************************************************** -->
+		<Row Tag="LOC_LEADER_VV_NOBU_NAME" Language="en_US">
+			<Text>Oda Nobunaga</Text>
+		</Row>
+		
+		<Row Tag="LOC_TRAIT_LEADER_VV_TENKA_FUBU_NAME" Language="en_US">
+			<Text>Tenka Fubu</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_LEADER_VV_TENKA_FUBU_DESCRIPTION" Language="en_US">
+			<Text>
+				+5 [ICON_Strength] Combat Strength within 1 tile of Holy Sites in enemy territory on your home Continent, and pillaging a Holy Site on your home Continent grants [ICON_Culture] Culture based on your current Era. +5 [ICON_Strength] Combat Strength vs. Warrior Monks. Upgrading a Samurai to a Musketman forms it into a [ICON_Corps] Corps. Your [ICON_Traderoute] Trade routes to Civilizations on different Continents gain +2 [ICON_Culture] Culture and +2 [ICON_Science] Science.
+			</Text>
+		</Row>
+
+		<!-- **************************************************************************   JAPANESE/日本語　　************************************************************************************************** -->
+		<Row Tag="LOC_LEADER_VV_NOBU_NAME" Language="ja_JP">
+			<Text>織田信長</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_LEADER_VV_TENKA_FUBU_NAME" Language="ja_JP">
+			<Text>天下布武</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_LEADER_VV_TENKA_FUBU_DESCRIPTION" Language="ja_JP">
+			<Text>
+				自文明の首都が存在する大陸に敵の聖地区域から1タイル以内で [ICON_Strength] 戦闘力+5。自文明の首都が存在する大陸に聖地を略奪すると現時点の時代に基づいて[ICON_Culture]文化力を産出量する。武僧に対して [ICON_Strength] 戦闘力+5。侍ユニットをマスケット銃兵にアップグレードすると そのユニットが[ICON_Corps] 軍団になる。大陸間の [ICON_TradeRoute] 交易路が存在する場合、他文明と結ばれた交易路には　[ICON_Culture] +2文化ボーナスと　[ICON_Science] +2科学ボーナス発生する。
+			</Text>
+		</Row>
+
+	</LocalizedText>
+</GameData>

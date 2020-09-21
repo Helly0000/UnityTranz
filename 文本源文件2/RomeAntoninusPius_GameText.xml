@@ -1,0 +1,231 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by Ed Beach (Firaxis Games) -->
+<GameData>
+	<LocalizedText>
+		<!--MOD-->
+		<Row Tag="LOC_MOD_JFD_ROME_ANTONINUS_PIUS_DESCRIPTION" Language="en_US">
+			<Text>------------------------------------[NEWLINE]LEADER -- ANTONINUS PIUS[NEWLINE][NEWLINE]TRAIT - DUTIFUL IN AFFECTION[NEWLINE]One Military policy slot in the current government is converted to an Economic slot. Whilst at peace, construct Campus, Holy Site, and Theatre Square buildings 20% faster. Gain the Temple of Hadrian unique building.[NEWLINE][NEWLINE]BUILDING - TEMPLE OF HADRIAN[NEWLINE]Roman unique building that replaces the Monument when Antoninus Pius is their leader. Yields [ICON_FAITH] Faith and [ICON_GREATGENERAL] Great General Points. Also provides +1 [ICON_AMENITIES] Amenity when there is a Campus, Encampment, or Theatre Square in the city.[NEWLINE][NEWLINE]AGENDA - AEQUANIMITAS[NEWLINE]Will try to maintain peace and to dedicate as many Campuses, Theatre Squares, and Holy Sites as possible. Likes civilizations that do not pose a military threat. Dislikes warmongers and civilizations that ignore their peoples' happiness.</Text>
+		</Row>
+		<!--LEADER-->
+		<Row Tag="LOC_LEADER_JFD_ANTONINUS_PIUS_NAME" Language="en_US">
+			<Text>Antoninus Pius</Text>
+		</Row>
+		<!--Agenda-->
+		<Row Tag="LOC_AGENDA_JFD_EQUANIMITY_NAME" Language="en_US">
+			<Text>Aequanimitas</Text>
+		</Row>
+		<Row Tag="LOC_AGENDA_JFD_EQUANIMITY_DESCRIPTION" Language="en_US">
+			<Text>Will try to maintain peace and to dedicate as many Campuses, Theatre Squares, and Holy Sites as possible. Likes civilizations that do not pose a military threat. Dislikes warmongers and civilizations that ignore their peoples' happiness.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_LEADER_JFD_ANTONINUS_PIUS_REASON_LAGS_HAPPINESS" Language="en_US">
+			<Text>(You are weak in Happiness.)</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MODIFIER_AGENDA_JFD_EQUANIMITY_LAGS_HAPPINESS" Language="en_US">
+			<Text>Antoninus Pius is dismayed by your neglect of your peoples' happiness</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_KUDO_LEADER_JFD_ANTONINUS_PIUS_REASON_LAGS_STANDING_ARMY" Language="en_US">
+			<Text>(You have a small standing army.)</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MODIFIER_AGENDA_JFD_EQUANIMITY_LAGS_STANDING_ARMY" Language="en_US">
+			<Text>Antoninus Pius is pleased that you pose no threat to Rome</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_LEADER_JFD_ANTONINUS_PIUS_REASON_WARMONGER" Language="en_US">
+			<Text>(You are a warmonger.)</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MODIFIER_AGENDA_JFD_EQUANIMITY_WARMONGER" Language="en_US">
+			<Text>Antoninus Pius feels threatened by your warmongering</Text>
+		</Row>
+		<!--DOM-->
+		<Row Tag="LOC_LOADING_INFO_LEADER_JFD_ANTONINUS_PIUS" Language="en_US">
+			<Text>Hail Antoninus Pius, Emperor of Rome. The great accomplishments of your predecessors are many, but they are now under threat. War and violence threatens to uproot the Roman's way of life. You must defy the battles of your forebears and take up the banner of peace and piety if you are to preserve Rome's legacy.</Text>
+		</Row>
+		<!--Traits-->
+		<Row Tag="LOC_TRAIT_LEADER_JFD_DUTIFUL_AFFECTION_NAME" Language="en_US">
+			<Text>Dutiful in Affection</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_LEADER_JFD_DUTIFUL_AFFECTION_DESCRIPTION" Language="en_US">
+			<Text>One Military policy slot in the current government is converted to an Economic slot. Whilst at peace, construct Campus, Holy Site, and Theatre Square buildings 20% faster. Gain the Temple of Hadrian unique building.</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_LEADER_JFD_DUTIFUL_AFFECTION_DESCRIPTION_RWF" Language="en_US">
+			<Text>One Military policy slot in the current government is converted to a Religious slot. Whilst at peace, construct Campus, Holy Site, and Theatre Square buildings 20% faster. Gain the Temple of Hadrian unique building.</Text>
+		</Row>
+		<!--Civilopedia-->
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_JFD_ANTONINUS_PIUS_TITLE" Language="en_US">
+			<Text>Antoninus Pius</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_JFD_ANTONINUS_PIUS_SUBTITLE" Language="en_US">
+			<Text>Emperor of Rome</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_JFD_ANTONINUS_PIUS_QUOTE" Language="en_US">
+			<Text>Live as you want tomorrow to be like today, and today to be like yesterday.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_JFD_ANTONINUS_PIUS_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Antoninus Pius was Roman emperor from 138 to 161 CE. When Roman Emperor Hadrian died on July 10, 138 CE, he left, as did his predecessors, an adopted son as his successor, Antoninus Pius. Antoninus - whose last name means dutiful - was a just and compassionate man, well-liked and respected by the common people as well as those in government. For the next 23 years his reign (second only in length to Augustus) would be one of relative peace, assuring him a place among the Five Good Emperors.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_JFD_ANTONINUS_PIUS_CHAPTER_HISTORY_PARA_2" Language="en_US">
+			<Text>In actuality Antoninus Pius was not Hadrian’s initial choice; he wasn’t even his second. In 136 CE, with Hadrian in failing health and on the verge of suicide, he realized that without sons of his own his only option was to adopt. He chose a consul, Lucius Ceionius Commodus, as his heir. The newly adopted Lucius was immediately dispatched to Pannonia to serve as governor but unfortunately for both men, Lucius died of tuberculosis in January of 138 CE. Hadrian was at a crossroad. While he wanted the much younger Marcus Aurelius (he was only 16) to succeed him, the dying emperor realized Marcus was far too young and chose instead the highly valued and elderly Antoninus who was thought to be “safe” until the young Marcus matured.[NEWLINE][NEWLINE]To everyone’s surprise not only did Antoninus live a lot longer than anyone expected, but he also proved to be a capable, if not dedicated, emperor. In the words of the historian Cassius Dio, “Antoninus is said to have been of an enquiring mind and not to have held aloof from careful investigation of even small and commonplace matters.” He added, “Antoninus is admitted by all to have been noble and good, neither oppressive to the Christians nor severe to any of his other subjects...”[NEWLINE][NEWLINE]Although his family originally came from southern Gaul, Antoninus Pius was born in Lanuvium, 20 miles south of Rome, on September 19, 86 CE as Titus Aurelius Fulvus Boinus Arrius Antoninus, a name he shared with his father. His mother was Arria Fadilla, daughter of two-time consul Arrius Antoninus. Both his father and paternal grandfather had served as consuls. The young Antoninus was raised on a large estate at Lorium, first by his paternal grandfather and later by his maternal grandfather. The property he inherited - where he would later build a palace - made him extremely rich and even though he had no military experience, he ably served as consul, praetor, and quaestor, as well as governor in Asia Minor from 135 to 136 CE.[NEWLINE][NEWLINE]Little information about Antoninus and his time in power has survived. Most of what is known comes from his biographer Julius Capitolinus who wrote,[NEWLINE][NEWLINE]“In personal appearance he was strikingly handsome, in natural talents brilliant, in temperament kindly; he was aristocratic in countenance and calm in nature, a singularly gifted speaker and an elegant scholar, conspicuously thrifty, a conscientious landholder, gentle, generous, and mindful of other’s rights. He possessed all these qualities, moreover, in the proper mean and without ostentation, and, in fine, was praiseworthy in every way and, in the minds of all good men."[NEWLINE][NEWLINE]On January 24, 138 CE Emperor Hadrian announced that he intended to adopt the 51 year old Antoninus as his son and heir, and on February 28, 138 CE the adoption took place. The adoption, however, came with a “condition.”. Capitolinus wrote,[NEWLINE][NEWLINE]"The manner of his adoption, they say, was somewhat thus: At any rate, when Hadrian announced a desire to adopt him, he was given time for deciding whether he wanted to be adopted. This condition was attached to his adoption, that as Hadrian took Antoninus as his son, so he in turn should take Marcus Antoninus, his wife’s nephew, and Lucius Verus."[NEWLINE][NEWLINE]This dual ceremony allowed Marcus to be groomed as Antoninus’s successor. Later, Marcus’s claim to the throne became even more secure when he married Antoninus’s daughter and only surviving child, Faustina the Younger.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_JFD_ANTONINUS_PIUS_CHAPTER_HISTORY_PARA_3" Language="en_US">
+			<Text>On July 10, 138 CE the even-tempered Antoninus Pius assumed the reins of the Roman Empire with the assumption that he would simply carry on the policies of Hadrian. Although the reason behind his last name varies, “Pius” was a name given to him by the Senate supposedly because of his loyalty to the memory of Hadrian. One of his first priorities was to have his “father” Hadrian deified, something the Senate reluctantly approved. While there were minor disturbances in Mauretania, Germany, and Egypt, he trusted his commanders to handle the situation and he never left the safety of Rome (some believe it was too expensive to leave), ruling instead from the city or his estate.[NEWLINE][NEWLINE]As expected he carried on many of Hadrian’s policies; however, Antoninus still left his imprint on the city and empire. He insisted that the administration of the law be fair and impartial, even freeing many of the men the former emperor had imprisoned (he convinced the Senate that this had been Hadrian’s wish). Trade and commerce flourished and his strict control of finances allowed for a state surplus by the time of his death. His one extravagance was the celebration of the 900th anniversary of Rome. He completed many of Hadrian’s construction projects and he built monuments which included the Temple of the Deified Hadrian and, in memory of his wife, the Temple of the Deified Faustina. He also repaired many public buildings, including the decaying Colosseum. In Scotland, Hadrian’s Wall was abandoned and a new one, the Antonine Wall, was built 40 miles to the north from the Firth of Clyde to the Firth of Forth - this wall would later be abandoned and the Roman’s would retreat to Hadrian’s Wall. His biographer wrote, “He gave largess to the people, and, in addition, a donation to the soldiers….Besides all this, he helped many communities to erect new buildings and to restore the old." On March 9, 161 CE Antonius died of a fever, supposedly after a meal of Alpine cheese. His reign would be remembered as one of relative peace. He was laid to rest in Hadrian’s Mausoleum next to his wife and sons. The reins of power were handed over to his adopted sons Marcus Aurelius and Lucius Verus.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_JFD_ANTONINUS_PIUS_CHAPTER_CAPSULE_BODY" Language="en_US">
+			<Text>Rome is the one civilization you can trust to continue to push to be the largest empire in the game. Antoninus Pius honours his forebears with a dedicated faith.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_JFD_ANTONINUS_PIUS_CHAPTER_DETAILED_BODY" Language="en_US">
+			<Text>Rome wants to get cities down quickly and then speed along the path to Engineering. With Engineering in place, Baths can be added to their cities and they will grow rapidly (and expand rapidly with Antoninus Pius' extra Amenities). Their "All Roads Lead to Rome" ability gives them a steady income from their network of cities ([ICON_TradeRoute] Trade Routes from the interior cities in their empires to foreign lands should work well; not all their [ICON_TradeRoute] Trade Routes needs to be internal). Though all this expansion will lead to conflict, it will likely be just the time that the Legion comes online. The Legion's ability to build Forts comes in two eras earlier for Rome than for other civilizations. Using these effectively is the key in being able to hold onto his expansive and powerful empire.</Text>
+		</Row>
+		<!--Diplomacy-->
+		<!--FIRST MEET-->
+		<!--First AI line-->		
+		<Row Tag="LOC_DIPLO_FIRST_MEET_LEADER_JFD_ANTONINUS_PIUS_ANY" Language="en_US">
+			<Text>Hail. I am Antoninus Pius. Welcome to Rome.</Text>
+		</Row>
+		<!--AI invitation to visit nearby City-->
+		<Row Tag="LOC_DIPLO_FIRST_MEET_VISIT_RECIPIENT_LEADER_JFD_ANTONINUS_PIUS_ANY" Language="en_US">
+			<Text>I welcome you and beckon you to join me in Rome.</Text>
+		</Row>
+		<!--AI accepts Human invitation-->
+		<Row Tag="LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_POSITIVE_LEADER_JFD_ANTONINUS_PIUS_ANY" Language="en_US">
+			<Text>Very well.</Text>
+		</Row>
+		<!--AI invitation to exchange Capital Information-->
+		<Row Tag="LOC_DIPLO_FIRST_MEET_NO_MANS_INFO_EXCHANGE_LEADER_JFD_ANTONINUS_PIUS_ANY" Language="en_US">
+			<Text>I propose that we exchange information on our capitals, for the betterment of our two peoples.</Text>
+		</Row>
+		<!--GREETINGS-->
+		<Row Tag="LOC_DIPLO_GREETING_LEADER_JFD_ANTONINUS_PIUS_ANY" Language="en_US">
+			<Text>Yes?</Text>
+		</Row>
+		<!--DELEGATION-->
+		<!--AI Accepts-->
+		<Row Tag="LOC_DIPLO_ACCEPT_DELEGATION_FROM_HUMAN_LEADER_JFD_ANTONINUS_PIUS_ANY" Language="en_US">
+			<Text>I have accepted your delegation. I hope that this will ensure peace between us.</Text>
+		</Row>
+		<!--AI Rejects-->
+		<Row Tag="LOC_DIPLO_REJECT_DELEGATION_FROM_HUMAN_LEADER_JFD_ANTONINUS_PIUS_ANY" Language="en_US">
+			<Text>I cannot accept your delegation this time.</Text>
+		</Row>
+		<!--AI Requests-->
+		<Row Tag="LOC_DIPLO_DELEGATION_FROM_AI_LEADER_JFD_ANTONINUS_PIUS_ANY" Language="en_US">
+			<Text>I have sent a delegation to your Capital along with the hope for peace between our two empires.</Text>
+		</Row>
+		<!--OPEN BORDERS-->
+		<!--AI accepts from human-->
+		<Row Tag="LOC_DIPLO_ACCEPT_OPEN_BORDERS_FROM_HUMAN_LEADER_JFD_ANTONINUS_PIUS_ANY" Language="en_US">
+			<Text>I will agree.</Text>
+		</Row>
+		<!--AI rejects from human-->
+		<Row Tag="LOC_DIPLO_REJECT_OPEN_BORDERS_FROM_HUMAN_LEADER_JFD_ANTONINUS_PIUS_ANY" Language="en_US">
+			<Text>I cannot agree. It would be a detriment to Rome.</Text>
+		</Row>
+		<!--AI requests from human-->
+		<Row Tag="LOC_DIPLO_OPEN_BORDERS_FROM_AI_LEADER_JFD_ANTONINUS_PIUS_ANY" Language="en_US">
+			<Text>I propose that we exchange open borders agreements, to allow the free moving of our people between our two empires.</Text>
+		</Row>
+		<!--DECLARE FRIENDSHIP-->
+		<!--AI accepts from human-->
+		<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_HUMAN_LEADER_JFD_ANTONINUS_PIUS_ANY" Language="en_US">
+			<Text>Then it is so.</Text>
+		</Row>
+		<!--AI Rejects from human-->
+		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_HUMAN_LEADER_JFD_ANTONINUS_PIUS_ANY" Language="en_US">
+			<Text>No. This I cannot accept.</Text>
+		</Row>
+		<!--AI Requests friendship from human-->
+		<Row Tag="LOC_DIPLO_DECLARE_FRIEND_FROM_AI_LEADER_JFD_ANTONINUS_PIUS_ANY" Language="en_US">
+			<Text>I ask you to join me in declaring our friendship to the world.</Text>
+		</Row>
+		<!--Human accepts AI requests, AI responds-->
+		<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_JFD_ANTONINUS_PIUS_ANY" Language="en_US">
+			<Text>Very good.</Text>
+		</Row>
+		<!--Human rejects AI requests, AI responds-->
+		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_JFD_ANTONINUS_PIUS_ANY" Language="en_US">
+			<Text>I cannot tolerate this.</Text>
+		</Row>
+		<!--ALLIANCE-->
+		<!--AI Requests an alliance from human-->
+		<Row Tag="LOC_DIPLO_MAKE_ALLIANCE_FROM_AI_LEADER_JFD_ANTONINUS_PIUS_ANY" Language="en_US">
+			<Text>The peace I have secured is tentative. I seek allies to build this temple on sturdier ground.</Text>
+		</Row>
+		<!--KUDOS & WARNINGS-->	
+		<!--AI Kudos-->
+		<Row Tag="LOC_DIPLO_KUDO_EXIT_LEADER_JFD_ANTONINUS_PIUS_ANY" Language="en_US">
+			<Text>May the peace between our two empires be upheld for another day.</Text>
+		</Row>
+		<!--AI Warnings-->
+		<Row Tag="LOC_DIPLO_WARNING_EXIT_LEADER_JFD_ANTONINUS_PIUS_ANY" Language="en_US">
+			<Text>I grow weary of the bloodshed that you seek to shed.</Text>
+		</Row>
+		<!--AI warns player for border troops-->
+		<Row Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_LEADER_JFD_ANTONINUS_PIUS_ANY" Language="en_US">
+			<Text>I do not wish to fight. Please remove you troops from my borders.</Text>
+		</Row>
+		<!--TRADE-->
+		<!--AI Accepts Deal-->
+		<Row Tag="LOC_DIPLO_ACCEPT_MAKE_DEAL_FROM_AI_LEADER_JFD_ANTONINUS_PIUS_ANY" Language="en_US">
+			<Text>{LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_JFD_ANTONINUS_PIUS_ANY}</Text>
+		</Row>
+		<!-- AI Rejects Deal -->
+		<Row Tag="LOC_DIPLO_REJECT_MAKE_DEAL_FROM_AI_LEADER_JFD_ANTONINUS_PIUS_ANY" Language="en_US">
+			<Text>{LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_JFD_ANTONINUS_PIUS_ANY}</Text>
+		</Row>
+		<!--DENOUNCE-->
+		<!--From Human-->
+		<Row Tag="LOC_DIPLO_DENOUNCE_FROM_HUMAN_LEADER_JFD_ANTONINUS_PIUS_ANY" Language="en_US">
+			<Text>I do not understand what you will gain from this action.</Text>
+		</Row>
+		<!--From AI-->
+		<Row Tag="LOC_DIPLO_DENOUNCE_FROM_AI_LEADER_JFD_ANTONINUS_PIUS_ANY" Language="en_US">
+			<Text>You are of great upset to me and my people (Denounces You).</Text>
+		</Row>
+		<!--Rationale-->
+		<Row Tag="LOC_DIPLO_DENOUNCE_REASON_FROM_AI_LEADER_ANY_REASON_JFD_EQUANIMITY_LAGS_HAPPINESS" Language="en_US">
+			<Text>(You are low in Happiness.)</Text>
+		</Row>	
+		<Row Tag="LOC_DIPLO_DENOUNCE_REASON_FROM_AI_LEADER_ANY_REASON_JFD_EQUANIMITY_WARMONGER" Language="en_US">
+			<Text>(You are a warmonger.)</Text>
+		</Row>	
+		<!--DECLARE WAR-->
+		<!--Human Declares War-->
+		<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_HUMAN_LEADER_JFD_ANTONINUS_PIUS_ANY" Language="en_US">
+			<Text>Dismayed, I will no less triumph against you and return this world to peace.</Text>
+		</Row>
+		<!--AI Declares War-->
+		<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_JFD_ANTONINUS_PIUS_ANY" Language="en_US">
+			<Text>I have no love of war, but I do what must be done to ensure peace.</Text>
+		</Row>
+		<!--MAKE PEACE-->
+		<!--AI accepts from human-->
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_AI_ACCEPT_DEAL_LEADER_JFD_ANTONINUS_PIUS_ANY" Language="en_US">
+			<Text>I agree. It is time to end our fighting.</Text>
+		</Row>
+		<!--AI refuses human-->
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_AI_REFUSE_DEAL_LEADER_JFD_ANTONINUS_PIUS_ANY" Language="en_US">
+			<Text>I cannot deny my duties to Rome. There can be no peace this time.</Text>
+		</Row>
+		<!--AI requests from human-->
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_FROM_AI_LEADER_JFD_ANTONINUS_PIUS_ANY" Language="en_US">
+			<Text>Having no love of war, I beg for peace.</Text>
+		</Row>
+		<!--DEFEAT-->
+		<!--AI is Defeated-->
+		<Row Tag="LOC_DIPLO_DEFEAT_FROM_AI_LEADER_JFD_ANTONINUS_PIUS_ANY" Language="en_US">
+			<Text>Rome is now extinguished. The light of the civilized world, I fear, is gone forever.</Text>
+		</Row>
+		<!--Human is Defeated (will see this in hotseat)-->
+		<Row Tag="LOC_DIPLO_DEFEAT_FROM_HUMAN_LEADER_JFD_ANTONINUS_PIUS_ANY" Language="en_US">
+			<Text>[LOC_DIPLO_DEFEAT_FROM_AI_LEADER_JFD_ANTONINUS_PIUS_ANY]</Text>
+		</Row>
+		<!--TEMPLE OF HADRIAN-->
+		<Row Tag="LOC_BUILDING_JFD_TEMPLE_HADRIAN_NAME" Language="en_US">
+			<Text>Temple of Hadrian</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_JFD_TEMPLE_HADRIAN_DESCRIPTION" Language="en_US">
+			<Text>Roman unique building that replaces the Monument when Antoninus Pius is their leader. Yields [ICON_FAITH] Faith and [ICON_GREATGENERAL] Great General Points. Also provides +1 [ICON_AMENITIES] Amenity when there is a Campus, Encampment, or Theatre Square in the city.[NEWLINE][NEWLINE]Provides +1 Loyalty per turn in this city. If the city already has maximum Loyalty, also prodives an additional +1 [ICON_CULTURE] Culture.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_BUILDINGS_PAGE_BUILDING_JFD_TEMPLE_HADRIAN_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>The Temple of Hadrian is a temple to the deified Hadrian on the Campus Martius in Rome, Italy, built by his adoptive son and successor Antoninus Pius in 145 and now incorporated into a later building in the Piazza di Pietra. It was once erroneously known as the Temple of Neptune.</Text>
+		</Row>
+	</LocalizedText>
+</GameData>

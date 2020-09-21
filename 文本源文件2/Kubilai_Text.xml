@@ -1,0 +1,475 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<LocalizedText>
+
+		<Row Tag="LOC_CITY_NAME_MONGOLIA_KHANBALYK" Language="pt_BR">
+			<Text>Cambalique</Text>
+		</Row>
+		<Replace Tag="LOC_CITY_NAME_XANADU" Language="pt_BR">
+			<Text>Shangdu</Text>
+		</Replace>
+		<Row Tag="LOC_CITY_NAME_MONGOLIA_KHANBALYK" Language="de_DE">
+			<Text>Khanbaliq</Text>
+		</Row>
+		<Replace Tag="LOC_CITY_NAME_XANADU" Language="de_DE">
+			<Text>Shangdu</Text>
+		</Replace>
+		<Row Tag="LOC_CITY_NAME_MONGOLIA_KHANBALYK" Language="it_IT">
+			<Text>Khanbaliq</Text>
+		</Row>
+		<Replace Tag="LOC_CITY_NAME_XANADU" Language="it_IT">
+			<Text>Shangdu</Text>
+		</Replace>
+		<Row Tag="LOC_CITY_NAME_MONGOLIA_KHANBALYK" Language="pl_PL">
+			<Text>Chanbałyk</Text>
+		</Row>
+		<Replace Tag="LOC_CITY_NAME_XANADU" Language="pl_PL">
+			<Text>Shangdu</Text>
+		</Replace>
+		<Row Tag="LOC_CITY_NAME_MONGOLIA_KHANBALYK" Language="ru_RU">
+			<Text>Ханбалык</Text>
+		</Row>
+		<Replace Tag="LOC_CITY_NAME_XANADU" Language="ru_RU">
+			<Text>Шанду</Text>
+		</Replace>
+		<Row Tag="LOC_CITY_NAME_MONGOLIA_KHANBALYK" Language="es_ES">
+			<Text>Janbalic</Text>
+		</Row>
+		<Replace Tag="LOC_CITY_NAME_XANADU" Language="es_ES">
+			<Text>Shangdu</Text>
+		</Replace>
+		<Row Tag="LOC_CITY_NAME_MONGOLIA_KHANBALYK" Language="zh_Hans_CN">
+			<Text>元大都</Text>
+		</Row>
+		<Replace Tag="LOC_CITY_NAME_XANADU" Language="zh_Hans_CN">
+			<Text>元上都</Text>
+		</Replace>
+		<Row Tag="LOC_CITY_NAME_MONGOLIA_KHANBALYK" Language="zh_Hant_HK">
+			<Text>大都</Text>
+		</Row>
+		<Replace Tag="LOC_CITY_NAME_XANADU" Language="zh_Hant_HK">
+			<Text>上都</Text>
+		</Replace>
+		<Row Tag="LOC_CITY_NAME_MONGOLIA_KHANBALYK" Language="ja_JP">
+			<Text>大都</Text>
+		</Row>
+		<Replace Tag="LOC_CITY_NAME_XANADU" Language="ja_JP">
+			<Text>上都</Text>
+		</Replace>
+		<Row Tag="LOC_CITY_NAME_MONGOLIA_KHANBALYK" Language="ko_KR">
+			<Text>대도</Text>
+		</Row>
+		<Replace Tag="LOC_CITY_NAME_XANADU" Language="ko_KR">
+			<Text>상도</Text>
+		</Replace>
+		<Row Tag="LOC_GEDEMO_CITY_CENTER_GET_SCIENCE" Language="en_US">
+			<Text>+{1_num} [ICON_Science] Science from the adjacent {1_Num : plural 1?district; other?districts;}.</Text>
+		</Row>
+		
+	
+		<Row Tag="LOC_TRAIT_LEADER_GEDEMO_KUBILAI_NAME" Language="en_US">
+			<Text>Pax Mongolica</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_LEADER_GEDEMO_KUBILAI_DESCRIPTION" Language="en_US">
+			<Text>[ICON_District] Districts adjacent to the City Center provide +1 Great General Point per turn. After the Engineering technology has been researched, [ICON_DISTRICT_CITY_CENTER] City Centers receive a standard [ICON_SCIENCE] Science adjacency bonus. Founded cities get additional tiles.</Text>
+		</Row>
+
+
+		
+
+
+		<Row Tag="LOC_LEADER_GEDEMO_KUBILAI" Language="en_US">
+			<Text>Kublai Khan</Text>
+		</Row>
+		
+		<Row Tag="LOC_LOADING_INFO_LEADER_GEDEMO_KUBILAI" Language="en_US">
+			<Text>Praise to you, Emperor Kublai Khan of the Yuan Dynasty. Grandson of Genghis Khan, you became a great khan of the Mongols in 1260 and established your capital in Beijing. After the conquest of southern China and the submission of Canton, you have become master of the whole Chinese empire. Tolerant sovereign, you favored the coexistence of Buddhism and Christianity, in the form of Nestorianism. China then enjoys an extraordinary commercial and cultural prosperity, as evidenced by Marco Polo, whom you have entrusted with various missions.[NewLine]Will you build a civilization to stand the test of time?</Text>
+		</Row>
+		<!--Civilopedia-->
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_GEDEMO_KUBILAI_TITLE" Language="en_US">
+			<Text>5th Khan of the Mongol Empire</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_GEDEMO_KUBILAI_SUBTITLE" Language="en_US">
+			<Text>1st Emperor of the Yuan dynasty</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_GEDEMO_KUBILAI_QUOTE" Language="en_US">
+			<Text>Peace is a good thing; for in the land of peace those who go on four feet eat the grass peacefully; and those who go in pairs plow the land peacefully.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_GEDEMO_KUBILAI_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>The grandson of the great Mongol leader Genghis Khan, Kublai oversaw the transformation of the Mongol people from nomadic warriors to sedentary farmers and townsfolk. He also captured the southern half of China, reunifying the country under one rule and taking for himself the title of "Emperor." </Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_GEDEMO_KUBILAI_CHAPTER_HISTORY_PARA_2" Language="en_US">
+			<Text>Ascending to the throne in 1260 at around the age of 45, Kublai was revealed to be a shrewd and skilled political leader. As Emperor of China, he followed his father's precepts of being gentle with the subject peoples in order to keep them happy; he restored many of the Chinese traditions and institutions that his predecessors had banned. Further, Kublai returned much political control back to the native people, and he reinstated numerous Confucian rituals and ceremonies at court. He also commissioned many public works, including the repair of the Grand Canal and extending China's highway system. Through these actions he secured his throne, allowing him to turn his attention to conquering the southern half of China, which was under the control of the Song dynasty.</Text>
+		</Row>
+
+
+
+ 
+		
+		
+		
+		
+		<!--Diplomacy-->
+		<!--FIRST MEET-->
+		<!--First AI line-->
+		<Row Tag="LOC_DIPLO_FIRST_MEET_LEADER_GEDEMO_KUBILAI_ANY" Language="en_US">
+			<Text>Tremble in fear, visitor, for you stand before the Son of Heaven himself. What business could you have with a conqueror as great as myself?</Text>
+		</Row>
+		<!--AI invitation to visit nearby City-->
+		<Row Tag="LOC_DIPLO_FIRST_MEET_VISIT_RECIPIENT_LEADER_GEDEMO_KUBILAI_ANY" Language="en_US">
+			<Text>Ave, I am Kubilai Khan, the Great Khan! Would you like to visit our nearest city?</Text>
+		</Row>
+		<!--AI accepts Human invitation-->
+		<Row Tag="LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_POSITIVE_LEADER_GEDEMO_KUBILAI_ANY" Language="en_US">
+			<Text>Thank you.</Text>
+		</Row>
+		<!--AI invitation to exchange Capital Information-->
+		<Row Tag="LOC_DIPLO_FIRST_MEET_NO_MANS_INFO_EXCHANGE_LEADER_GEDEMO_KUBILAI_ANY" Language="en_US">
+			<Text>I invite you to exchange informations on our respective capitals.</Text>
+		</Row>
+		<!--GREETINGS-->
+		<Row Tag="LOC_DIPLO_GREETING_LEADER_GEDEMO_KUBILAI_ANY" Language="en_US">
+			<Text>Tavtai moril!</Text>
+		</Row>
+		<!--DELEGATION-->
+		<!--AI Accepts-->
+		<Row Tag="LOC_DIPLO_ACCEPT_DELEGATION_FROM_HUMAN_LEADER_GEDEMO_KUBILAI_ANY" Language="en_US">
+			<Text>I accept your delegation with joy.</Text>
+		</Row>
+		<!--AI Rejects-->
+		<Row Tag="LOC_DIPLO_REJECT_DELEGATION_FROM_HUMAN_LEADER_GEDEMO_KUBILAI_ANY" Language="en_US">
+			<Text>Unfortunately, no.</Text>
+		</Row>
+		<!--AI Requests -->
+		<Row Tag="LOC_DIPLO_DELEGATION_FROM_AI_LEADER_GEDEMO_KUBILAI_ANY" Language="en_US">
+			<Text>I send you a business delegation with gifts from my country: Süütei tsai, Khuushuur and Aïrag.</Text>
+		</Row>
+		<!--OPEN BORDERS-->
+		<!--AI accepts from human-->
+		<Row Tag="LOC_DIPLO_ACCEPT_OPEN_BORDERS_FROM_HUMAN_LEADER_GEDEMO_KUBILAI_ANY" Language="en_US">
+			<Text>Yes I agree to open my borders to your little soldiers.</Text>
+		</Row>
+		<!--AI rejects from human-->
+		<Row Tag="LOC_DIPLO_REJECT_OPEN_BORDERS_FROM_HUMAN_LEADER_GEDEMO_KUBILAI_ANY" Language="en_US">
+			<Text>I am not interested at the moment.</Text>
+		</Row>
+		<!--AI requests from human-->
+		<Row Tag="LOC_DIPLO_OPEN_BORDERS_FROM_AI_LEADER_GEDEMO_KUBILAI_ANY" Language="en_US">
+			<Text>Will you allow my units to cross through your territory?</Text>
+		</Row>
+		<!--DECLARE FRIENDSHIP-->
+		<!--AI accepts from human-->
+		<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_HUMAN_LEADER_GEDEMO_KUBILAI_ANY" Language="en_US">
+			<Text>I accept your offer of friendship.</Text>
+		</Row>
+		<!--AI Rejects from human -->
+		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_HUMAN_LEADER_GEDEMO_KUBILAI_ANY" Language="en_US">
+			<Text>I refuse such a ridiculous offer.</Text>
+		</Row>
+		<!--AI Requests friendship from human-->
+		<Row Tag="LOC_DIPLO_DECLARE_FRIEND_FROM_AI_LEADER_GEDEMO_KUBILAI_ANY" Language="en_US">
+			<Text>It would be in your best interest, to carefully consider this proposal of friendship.</Text>
+		</Row>
+		<!--Human accepts AI requests, AI responds-->
+		<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_GEDEMO_KUBILAI_ANY" Language="en_US">
+			<Text>Thank you, friend.</Text>
+		</Row>
+		<!--Human rejects AI requests, AI responds-->
+		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_GEDEMO_KUBILAI_ANY" Language="en_US">
+			<Text>How disappointing.</Text>
+		</Row>
+		<!--ALLIANCE-->
+		<!--AI Requests an alliance from human-->
+		<Row Tag="LOC_DIPLO_MAKE_ALLIANCE_FROM_AI_LEADER_GEDEMO_KUBILAI_ANY" Language="en_US">
+			<Text>Would you like to form an alliance with the Great Khan?</Text>
+		</Row>
+		<!--KUDOS & WARNINGS-->
+		<!--AI Kudos-->
+		<Row Tag="LOC_DIPLO_KUDO_EXIT_LEADER_GEDEMO_KUBILAI_ANY" Language="en_US">
+			<Text>hey! you look well!</Text>
+		</Row>
+		<!--AI Warnings-->
+		<Row Tag="LOC_DIPLO_WARNING_EXIT_LEADER_GEDEMO_KUBILAI_ANY" Language="en_US">
+			<Text>You are on a slippery slope!</Text>
+		</Row>
+		<!--AI warns player for border troops-->
+		<Row Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_LEADER_GEDEMO_KUBILAI_ANY" Language="en_US">
+			<Text>A nauseabond pile of soldiers formed near our borders ... do you want to remove them before an unfortunate incident occurs?</Text>
+		</Row>
+		<!--TRADE-->
+		<!--AI Accepts Deal-->
+		<Row Tag="LOC_DIPLO_ACCEPT_MAKE_DEAL_FROM_AI_LEADER_GEDEMO_KUBILAI_ANY" Language="en_US">
+			<Text>{LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_GEDEMO_KUBILAI_ANY}</Text>
+		</Row>
+		<!--AI Rejects Deal-->
+		<Row Tag="LOC_DIPLO_REJECT_MAKE_DEAL_FROM_AI_LEADER_GEDEMO_KUBILAI_ANY" Language="en_US">
+			<Text>{LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_GEDEMO_KUBILAI_ANY}</Text>
+		</Row>
+		<!--DENOUNCE-->
+		<!--From Human-->
+		<Row Tag="LOC_DIPLO_DENOUNCE_FROM_HUMAN_LEADER_GEDEMO_KUBILAI_ANY" Language="en_US">
+			<Text>I'm tired of seeing you. (Denounces you).</Text>
+		</Row>
+		<!--From AI-->
+		<Row Tag="LOC_DIPLO_DENOUNCE_FROM_AI_LEADER_GEDEMO_KUBILAI_ANY" Language="en_US">
+			<Text>You are plotting in our backs. Rest assured that I will warn others! (Denounces You).</Text>
+		</Row>
+		<!--DECLARE WAR-->
+		<!--Human Declares War-->
+		<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_HUMAN_LEADER_GEDEMO_KUBILAI_ANY" Language="en_US">
+			<Text>I will annex this territory!</Text>
+		</Row>
+		<!--AI Declares War-->
+		<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_GEDEMO_KUBILAI_ANY" Language="en_US">
+			<Text>It's war now!</Text>
+		</Row>
+		<!--MAKE PEACE-->
+		<!--AI accepts from human-->
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_AI_ACCEPT_DEAL_LEADER_GEDEMO_KUBILAI_ANY" Language="en_US">
+			<Text>Let's make peace!</Text>
+		</Row>
+		<!--AI refuses human-->
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_AI_REFUSE_DEAL_LEADER_GEDEMO_KUBILAI_ANY" Language="en_US">
+			<Text>Naturally no.</Text>
+		</Row>
+		<!--AI requests from human-->
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_FROM_AI_LEADER_GEDEMO_KUBILAI_ANY" Language="en_US">
+			<Text>I propose a truce, when do you think?</Text>
+		</Row>
+		<!--DEFEAT-->
+		<!--AI is Defeated-->
+		<Row Tag="LOC_DIPLO_DEFEAT_FROM_AI_LEADER_GEDEMO_KUBILAI_ANY" Language="en_US">
+			<Text>My empire has fallen; my mandate is yours.</Text>
+		</Row>
+		<!--Human is Defeated (will see this in hotseat)-->
+		<Row Tag="LOC_DIPLO_DEFEAT_FROM_HUMAN_LEADER_GEDEMO_KUBILAI_ANY" Language="en_US">
+			<Text>[LOC_DIPLO_DEFEAT_FROM_AI_LEADER_GEDEMO_KUBILAI_ANY]</Text>
+		</Row>
+
+		
+
+
+		<Row Tag="LOC_AGENDA_GEDEMO_KUBILAI_NAME" Language="en_US">
+			<Text>Great Yuan</Text>
+		</Row>
+		<Row Tag="LOC_AGENDA_GEDEMO_KUBILAI_DESCRIPTION" Language="en_US">
+			<Text>Tries to include as much territory as possible in their empire. Does not like civilizations who control little territory.</Text>
+		</Row>
+		
+		<Row Tag="LOC_CITY_NAME_MONGOLIA_KHANBALYK" Language="en_US">
+			<Text>Khanbalyk</Text>
+		</Row>
+		<Replace Tag="LOC_CITY_NAME_XANADU" Language="en_US">
+			<Text>Shangdu</Text>
+		</Replace>
+		
+		<Row Tag="LOC_CITY_NAME_MONGOLIA_KHANBALYK" Language="fr_FR">
+			<Text>Khanbalyk</Text>
+		</Row>
+
+		<Replace Tag="LOC_CITY_NAME_XANADU" Language="fr_FR">
+			<Text>Shangdu</Text>
+		</Replace>
+		
+		
+		
+		<Row Tag="LOC_AGENDA_GEDEMO_KUBILAI_NAME" Language="fr_FR">
+			<Text>Grand Yuan</Text>
+		</Row>
+		<Row Tag="LOC_AGENDA_GEDEMO_KUBILAI_DESCRIPTION" Language="fr_FR">
+			<Text>Tente d'inclure autant de territoire que possible dans leur empire. N'aime pas les civilisations qui contrôlent peu de territoire.</Text>
+		</Row>
+		
+
+
+		<Row Tag="LOC_TRAIT_LEADER_GEDEMO_KUBILAI_NAME"  Language="fr_FR" >
+			<Text>Pax Mongolica</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_LEADER_GEDEMO_KUBILAI_DESCRIPTION"  Language="fr_FR" >
+			<Text>Les [ICON_District] Quartiers adjacents au Centre Ville fournissent +1 point de Général Illustre par tour. Aprés la découverte de l'Ingenierie, les [ICON_DISTRICT_CITY_CENTER] Centres Ville reçoivent un bonus adjacent standard de [ICON_SCIENCE] Science. Les villes fondées obtiennent des cases supplémentaires de terrain.</Text>
+		</Row>
+
+
+		<Row Tag="LOC_GEDEMO_CITY_CENTER_GET_SCIENCE" Language="fr_FR">
+			<Text>+{1_num} [ICON_Science] Science du {1_Num : plural 1?district; other?districts;}.</Text>
+		</Row>
+		
+		
+		
+		
+		<Row Tag="LOC_LEADER_GEDEMO_KUBILAI" Language="fr_FR">
+			<Text>Kubilai Khan</Text>
+		</Row>
+		
+		<Row Tag="LOC_LOADING_INFO_LEADER_GEDEMO_KUBILAI" Language="fr_FR">
+			<Text>Louanges à vous, empereur Kubilai Khan de la dynastie Yuan. Petit-fils de Gengis Khan, vous êtes devenu grand khan des Mongols en 1260 et avez établi votre capitale à Pékin. Après la conquête de la Chine méridionale et la soumission de Canton, vous êtes devenu maître de tout l'empire chinois. Souverain tolérant, vous avez favorisé la coexistence du bouddhisme et du christianisme, sous la forme du nestorianisme. La Chine jouit alors d'une extraordinaire prospérité commerciale et culturelle, dont témoigne Marco Polo, que vous avez chargé de diverses missions.[NewLine]Construirez-vous une civilisation pour résister à l'épreuve du temps?</Text>
+		</Row>
+
+		<!--Civilopedia french-->
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_GEDEMO_KUBILAI_TITLE" Language="fr_FR">
+			<Text>5ème Khan de l'Empire Mongol</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_GEDEMO_KUBILAI_SUBTITLE" Language="fr_FR">
+			<Text>1er Empereur de la Dynastie Yuan</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_GEDEMO_KUBILAI_QUOTE" Language="fr_FR">
+			<Text>C'est une bonne chose que la paix ; car en terre de paix ceux qui vont à quatre pieds mangent l'herbe paisiblement ; et ceux qui vont à deux, labourent la terre paisiblement.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_GEDEMO_KUBILAI_CHAPTER_HISTORY_PARA_1" Language="fr_FR">
+			<Text>Petit-fils du grand chef mongol Gengis Khan, Kublai a supervisé la transformation du peuple mongol de guerriers nomades en agriculteurs sédentaires et citadins. Il a également capturé la moitié sud de la Chine, réunifiant le pays sous une seule règle et prenant pour lui-même le titre d '"empereur".</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_GEDEMO_KUBILAI_CHAPTER_HISTORY_PARA_2" Language="fr_FR">
+			<Text>Monté sur le trône en 1260 vers l'âge de 45 ans, Kublai s'est révélé être un chef politique habile et habile. En tant qu'empereur de Chine, il a suivi les préceptes de son père d'être doux avec les peuples sujets afin de les garder heureux; il a restauré de nombreuses traditions et institutions chinoises que ses prédécesseurs avaient interdites. En outre, Kublai a rendu beaucoup de contrôle politique aux autochtones, et il a rétabli de nombreux rituels et cérémonies confucéens à la cour. Il a également commandé de nombreux travaux publics, notamment la réparation du Grand Canal et l'extension du réseau routier chinois. Grâce à ces actions, il a obtenu son trône, lui permettant de tourner son attention vers la conquête de la moitié sud de la Chine, qui était sous le contrôle de la dynastie Song.</Text>
+		</Row>
+
+
+
+		
+		
+		
+		<!--Diplomacy french-->
+		<!--FIRST MEET french-->
+		<!--First AI line french-->
+		<Row Tag="LOC_DIPLO_FIRST_MEET_LEADER_GEDEMO_KUBILAI_ANY" Language="fr_FR">
+			<Text>Tremblez de peur, visiteur, car vous vous tenez devant le Fils du Ciel lui-même. Quelle affaire pourriez-vous avoir avec un conquérant aussi grand que moi?</Text>
+		</Row>
+		<!--AI invitation to visit nearby City french-->
+		<Row Tag="LOC_DIPLO_FIRST_MEET_VISIT_RECIPIENT_LEADER_GEDEMO_KUBILAI_ANY" Language="fr_FR">
+			<Text>Bienvenue étranger! As-tu déjà visité notre grand pays?</Text>
+		</Row>
+		<!--AI accepts Human invitation french-->
+		<Row Tag="LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_POSITIVE_LEADER_GEDEMO_KUBILAI_ANY" Language="fr_FR">
+			<Text>je te remercie.</Text>
+		</Row>
+		<!--AI invitation to exchange Capital Information french -->
+		<Row Tag="LOC_DIPLO_FIRST_MEET_NO_MANS_INFO_EXCHANGE_LEADER_GEDEMO_KUBILAI_ANY" Language="fr_FR">
+			<Text>Mon ministre des Affaires Etrangères vous invite à échanger des informations sur nos capitales respectives.</Text>
+		</Row>
+		<!--GREETINGS french-->
+		<Row Tag="LOC_DIPLO_GREETING_LEADER_GEDEMO_KUBILAI_ANY" Language="fr_FR">
+			<Text>Tavtai moril!</Text>
+		</Row>
+		<!--DELEGATION french-->
+		<!--AI Accepts french-->
+		<Row Tag="LOC_DIPLO_ACCEPT_DELEGATION_FROM_HUMAN_LEADER_GEDEMO_KUBILAI_ANY" Language="fr_FR">
+			<Text>J'accepte ta délégation avec joie.</Text>
+		</Row>
+		<!--AI Rejects french-->
+		<Row Tag="LOC_DIPLO_REJECT_DELEGATION_FROM_HUMAN_LEADER_GEDEMO_KUBILAI_ANY" Language="fr_FR">
+			<Text>Non, malheureusement.</Text>
+		</Row>
+		<!--AI Requests french-->
+		<Row Tag="LOC_DIPLO_DELEGATION_FROM_AI_LEADER_GEDEMO_KUBILAI_ANY" Language="fr_FR">
+			<Text>Je t'envoie une délégation commerciale avec des cadeaux de mon pays : du Süütei tsai, du Khuushuur et de l'aïrag.</Text>
+		</Row>
+		<!--OPEN BORDERS french-->
+		<!--AI accepts from human french-->
+		<Row Tag="LOC_DIPLO_ACCEPT_OPEN_BORDERS_FROM_HUMAN_LEADER_GEDEMO_KUBILAI_ANY" Language="fr_FR">
+			<Text>C'est avec plaisir que j'ouvre mes frontières à tes petits soldats.</Text>
+		</Row>
+		<!--AI rejects from human french-->
+		<Row Tag="LOC_DIPLO_REJECT_OPEN_BORDERS_FROM_HUMAN_LEADER_GEDEMO_KUBILAI_ANY" Language="fr_FR">
+			<Text>Je ne suis pas intéressés pour l'instant.</Text>
+		</Row>
+		<!--AI requests from human french-->
+		<Row Tag="LOC_DIPLO_OPEN_BORDERS_FROM_AI_LEADER_GEDEMO_KUBILAI_ANY" Language="fr_FR">
+			<Text>Permettras-tu à nos unités de traverser votre territoire?</Text>
+		</Row>
+		<!--DECLARE FRIENDSHIP french-->
+		<!--AI accepts from human french-->
+		<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_HUMAN_LEADER_GEDEMO_KUBILAI_ANY" Language="fr_FR">
+			<Text>J'accepte de declarer publiquement notre amitié.</Text>
+		</Row>
+		<!--AI Rejects from human french-->
+		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_HUMAN_LEADER_GEDEMO_KUBILAI_ANY" Language="fr_FR">
+			<Text>Je n'ai pas envie d'afficher mon amitié pour toi pour le moment.</Text>
+		</Row>
+		<!--AI Requests friendship from human french-->
+		<Row Tag="LOC_DIPLO_DECLARE_FRIEND_FROM_AI_LEADER_GEDEMO_KUBILAI_ANY" Language="fr_FR">
+			<Text>Cela serait dans ton interet que d'accepter cette proposition d'amitié.</Text>
+		</Row>
+		<!--Human accepts AI requests, AI responds french-->
+		<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_GEDEMO_KUBILAI_ANY" Language="fr_FR">
+			<Text>Je te remercie.</Text>
+		</Row>
+		<!--Human rejects AI requests, AI responds french-->
+		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_GEDEMO_KUBILAI_ANY" Language="fr_FR">
+			<Text>C'est fâcheux.</Text>
+		</Row>
+		<!--ALLIANCE-->
+		<!--AI Requests an alliance from human french-->
+		<Row Tag="LOC_DIPLO_MAKE_ALLIANCE_FROM_AI_LEADER_GEDEMO_KUBILAI_ANY" Language="fr_FR">
+			<Text>Aimerais-tu former une alliance avec le Grand Khan?</Text>
+		</Row>
+		<!--KUDOS & WARNINGS french-->
+		<!--AI Kudos-->
+		<Row Tag="LOC_DIPLO_KUDO_EXIT_LEADER_GEDEMO_KUBILAI_ANY" Language="fr_FR">
+			<Text>Quelle prouesse!.</Text>
+		</Row>
+		<!--AI Warnings french-->
+		<Row Tag="LOC_DIPLO_WARNING_EXIT_LEADER_GEDEMO_KUBILAI_ANY" Language="fr_FR">
+			<Text>Tu es sur une pente glissante.</Text>
+		</Row>
+		<!--AI warns player for border troops french-->
+		<Row Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_LEADER_GEDEMO_KUBILAI_ANY" Language="fr_FR">
+			<Text>Un amas nauseabond de soldats s'est formé prés de mes frontières...retire-les avant qu'un incident facheux se produise?</Text>
+		</Row>
+		<!--TRADE french-->
+		<!--AI Accepts Deal french-->
+		<Row Tag="LOC_DIPLO_ACCEPT_MAKE_DEAL_FROM_AI_LEADER_GEDEMO_KUBILAI_ANY" Language="fr_FR">
+			<Text>{LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_GEDEMO_KUBILAI_ANY}</Text>
+		</Row>
+		<!--AI Rejects Deal french-->
+		<Row Tag="LOC_DIPLO_REJECT_MAKE_DEAL_FROM_AI_LEADER_GEDEMO_KUBILAI_ANY" Language="fr_FR">
+			<Text>{LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_GEDEMO_KUBILAI_ANY}</Text>
+		</Row>
+		<!--DENOUNCE french-->
+		<!--From Human french-->
+		<Row Tag="LOC_DIPLO_DENOUNCE_FROM_HUMAN_LEADER_GEDEMO_KUBILAI_ANY" Language="fr_FR">
+			<Text>Votre présence est une insulte à tous les vrais conquérants! (Dénonciation).</Text>
+		</Row>
+		<!--From AI french-->
+		<Row Tag="LOC_DIPLO_DENOUNCE_FROM_AI_LEADER_GEDEMO_KUBILAI_ANY" Language="fr_FR">
+			<Text>Tu complotes dans mon dos. Sois assuré que je vais prevenir les autres! (Dénonciation).</Text>
+		</Row>
+		<!--DECLARE WAR french-->
+		<!--Human Declares War french-->
+		<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_HUMAN_LEADER_GEDEMO_KUBILAI_ANY" Language="fr_FR">
+			<Text>Je vais annexer ton territoire.</Text>
+		</Row>
+		<!--AI Declares War french-->
+		<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_GEDEMO_KUBILAI_ANY" Language="fr_FR">
+			<Text>C'est la guerre!</Text>
+		</Row>
+		<!--MAKE PEACE french-->
+		<!--AI accepts from human french-->
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_AI_ACCEPT_DEAL_LEADER_GEDEMO_KUBILAI_ANY" Language="fr_FR">
+			<Text>Faisons la paix!</Text>
+		</Row>
+		<!--AI refuses human french-->
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_AI_REFUSE_DEAL_LEADER_GEDEMO_KUBILAI_ANY" Language="fr_FR">
+			<Text>Naturellement non.</Text>
+		</Row>
+		<!--AI requests from human french-->
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_FROM_AI_LEADER_GEDEMO_KUBILAI_ANY" Language="fr_FR">
+			<Text>Je te propose une trève, quand penses-tu?</Text>
+		</Row>
+		<!--DEFEAT french-->
+		<!--AI is Defeated french-->
+		<Row Tag="LOC_DIPLO_DEFEAT_FROM_AI_LEADER_GEDEMO_KUBILAI_ANY" Language="fr_FR">
+			<Text>Mon empire est tombé; mon mandat est le vôtre.</Text>
+		</Row>
+		<!--Human is Defeated (will see this in hotseat) french-->
+		<Row Tag="LOC_DIPLO_DEFEAT_FROM_HUMAN_LEADER_GEDEMO_KUBILAI_ANY" Language="fr_FR">
+			<Text>[LOC_DIPLO_DEFEAT_FROM_AI_LEADER_GEDEMO_KUBILAI_ANY]</Text>
+		</Row>
+
+		
+
+	
+
+		
+
+		
+	</LocalizedText>
+</GameData>

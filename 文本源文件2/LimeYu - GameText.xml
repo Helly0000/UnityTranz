@@ -1,0 +1,259 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- LimeYu - GameText -->
+<!-- Author: Lime -->
+<!-- DateCreated: 1/9/2018 20:24:22 -->
+<GameData>
+	<LocalizedText>
+		<!--LEADER-->
+		<Row Tag="LOC_LEADER_LIME_CHINA_YU_NAME" Language="en_US">
+			<Text>Yu</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_LIME_CHINA_YU_ANYI" Language="en_US">
+			<Text>Anyi</Text>
+		</Row>
+		<!--Agenda-->
+		<Row Tag="LOC_AGENDA_LIME_CHINA_YU_SON_OF_HEAVEN_NAME" Language="en_US">
+			<Text>Sage King</Text>
+		</Row>
+		<Row Tag="LOC_AGENDA_LIME_CHINA_YU_SON_OF_HEAVEN_DESCRIPTION" Language="en_US">
+			<Text>Likes those with high science and high amenities. Dislikes those with low science and low amenities.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_KUDOS_LEADER_LIME_CHINA_YU_SON_OF_HEAVEN_POSITIVE_GOOD_KING" Language="en_US">
+			<Text>(You are a good ruler)</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MODIFIER_LEADER_LIME_CHINA_YU_SON_OF_HEAVEN_POSITIVE_GOOD_KING" Language="en_US">
+			<Text>Yu considers you a good king</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_KUDOS_LEADER_LIME_CHINA_YU_SON_OF_HEAVEN_POSITIVE_SCIENCE" Language="en_US">
+			<Text>(You are technologically advanced)</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MODIFIER_LEADER_LIME_CHINA_YU_SON_OF_HEAVEN_POSITIVE_SCIENCE" Language="en_US">
+			<Text>Yu admires your learning</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_KUDOS_LEADER_LIME_CHINA_YU_SON_OF_HEAVEN_POSITIVE_AMENITIES" Language="en_US">
+			<Text>(You have high amenities)</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MODIFIER_LEADER_LIME_CHINA_YU_SON_OF_HEAVEN_POSITIVE_AMENITIES" Language="en_US">
+			<Text>Yu sees that your people are happy</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_LEADER_LIME_CHINA_YU_SON_OF_HEAVEN_NEGATIVE_WORST_KING" Language="en_US">
+			<Text>(You are a terrible ruler - sorry)</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MODIFIER_LEADER_LIME_CHINA_YU_SON_OF_HEAVEN_NEGATIVE_WORST_KING" Language="en_US">
+			<Text>Yu believes you are the worst type of king</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_LEADER_LIME_CHINA_YU_SON_OF_HEAVEN_NEGATIVE_SCIENCE" Language="en_US">
+			<Text>(Your science is low)</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MODIFIER_LEADER_LIME_CHINA_YU_SON_OF_HEAVEN_NEGATIVE_SCIENCE" Language="en_US">
+			<Text>Yu thinks you are backward and uncultured</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_LEADER_LIME_CHINA_YU_SON_OF_HEAVEN_NEGATIVE_AMENITIES" Language="en_US">
+			<Text>(Your people are unhappy)</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MODIFIER_LEADER_LIME_CHINA_YU_SON_OF_HEAVEN_NEGATIVE_AMENITIES" Language="en_US">
+			<Text>Yu thinks you should focus on pleasing your people</Text>
+		</Row>
+		<!--DOM-->
+		<Row Tag="LOC_LOADING_INFO_LEADER_LIME_CHINA_YU" Language="en_US">
+			<Text>Blessings of Heaven be upon you and your people, Lord Yu, as you are destined to rule. Control the mighty rivers and mountains, so that your people may eat. Build wondrous structures out of wood, stone, and bronze, so that your people may prosper. Protect your people and be the finest ruler you can be, so that your people may flourish. Go forth, Great Yu, and be the best of all kings.</Text>
+		</Row>
+		<!--Traits-->
+		<Row Tag="LOC_TRAIT_LEADER_LIME_CHINA_YU_GATEWAY_NAME" Language="en_US">
+			<Text>Taming the Yellow River</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_LEADER_LIME_CHINA_YU_GATEWAY_DESCRIPTION" Language="en_US">
+			<Text>Gain a builder when founding a city adjacent to a river. Consuming the final builder charge provides [ICON_CULTURE] culture and [ICON_SCIENCE] science. Immune to moderate and major river flooding.</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_LEADER_LIME_CHINA_YU_GATEWAY_BUILDER_SPAWN_NAME" Language="en_US">
+			<Text>Taming the Yellow River</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_LEADER_LIME_CHINA_YU_GATEWAY_BUILDER_SPAWN_DESCRIPTION" Language="en_US">
+			<Text>Gain a builder when founding a city adjacent to a river.</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_LEADER_LIME_CHINA_YU_GATEWAY_BUILDER_USED_NAME" Language="en_US">
+			<Text>Taming the Yellow River</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_LEADER_LIME_CHINA_YU_GATEWAY_BUILDER_USED_DESCRIPTION" Language="en_US">
+			<Text>Consuming the final builder charge provides production, culture, and science.</Text>
+		</Row>
+		<Row Tag="LOC_LIME_CHINA_YU_SCIENCE_DROPTEXT" Language="en_US">
+			<Text>[COLOR_FLOAT_SCIENCE]+10% Technology Progress[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="LOC_LIME_CHINA_YU_CULTURE_DROPTEXT" Language="en_US">
+			<Text>[COLOR_FLOAT_CULTURE]+10% Civic Progress[ENDCOLOR]</Text>
+		</Row>
+		<!--Civilopedia-->
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_LIME_CHINA_YU_TITLE" Language="en_US">
+			<Text>Yu</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_LIME_CHINA_YU_SUBTITLE" Language="en_US">
+			<Text>The First Emperor</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_LIME_CHINA_YU_QUOTE" Language="en_US">
+			<Text>Yu was a great sage, and he wearied his physical form on behalf of all under heaven like this.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_LIME_CHINA_YU_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Yu, known as Yu the Great, Great Yu, and occasionally Yu the Engineer, was a prehistoric Chinese monarch who was later deified and achieved legendary and mythical status. He is reputed to have founded the first Chinese Imperial Dynasty, the Xia Dynasty (though the existence of this era is disputed by some historians) and to have tamed the yellow river in order to allow his people to farm more reliably.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_LIME_CHINA_YU_CHAPTER_HISTORY_PARA_2" Language="en_US">
+			<Text>It is said that the chinese heartland constantly flooded under King Yao, and that these floods were hindering development and endangering the people. Yao tasked Yu’s father, Gun, with creating a flood control system, but he failed despite nine years of work. Yu continued his father’s work and carefully studied Gun’s efforts with the innovation of dikes, dams, and self-expanding soil.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_LIME_CHINA_YU_CHAPTER_HISTORY_PARA_3" Language="en_US">
+			<Text>After collaborating with a master of agriculture, Yu created a system to control the floods through a series of irrigation canals. It is said that during the construction of this project, he ate and slept with the workers, and did not visit his own wife and son. He personally assisted construction for thirteen years, and by the end he had become paralyzed. However, his efforts were successful and Chinese culture flourished as a result.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_LIME_CHINA_YU_CHAPTER_HISTORY_PARA_4" Language="en_US">
+			<Text>King Shun (who reigned after Yao) was so impressed by Yu’s engineering and devotion that he passed the throne to Yu. Though Yu initially declined, his efforts had made him so popular with the lords and chiefs that he agreed to become the new emperor. His flood control work made him very familiar with all the Han territories, and he divided his realm into nine provinces. It is written in the Bamboo Annals that Yu ruled for forty-five years and eventually died of illness.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_LIME_CHINA_YU_CHAPTER_HISTORY_PARA_5" Language="en_US">
+			<Text>Though the veracity of the legend of Yu is disputed, he was highly regarded by all who came after him. He is one of the few Chinese Emperors ever afforded the title “the Great”, and was regarded as an ideal ruler in confucianism. He also became a water deity in Taoism and some Chinese folk religions. He continues to be revered to this day as one of the best emperors China ever had.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_LIME_CHINA_YU_CHAPTER_CAPSULE_BODY" Language="en_US">
+			<Text>Yu thrives with builders, giving a way to create many of them and giving rewards for using them all up. This allows Yu and you to very quickly become an agriculturally, scientifically, infrastructurally, and culturally advanced civilization.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_LIME_CHINA_YU_CHAPTER_DETAILED_BODY" Language="en_US">
+			<Text>China’s dynastic cycle provides a good way to get ahead in technology, and Yu’s ability complements this by giving a new way to create builders and a way to boost science and culture when using them. This early game production bonus also allows China’s first cities to become quite advanced, possibly even capable of snatching the first few wonders. Use this to your advantage to give yurself a strong early lead in the game.</Text>
+		</Row>
+		<!--Diplomacy-->
+		<!--FIRST MEET-->
+		<!--First AI line-->
+		<Row Tag="LOC_DIPLO_FIRST_MEET_LEADER_LIME_CHINA_YU_ANY" Language="en_US">
+			<Text>Welcome, traveller, I am Yu, the son of Gun. I am the Sovereign of the Chinese people, but I can only strive to be worthy of that great title.</Text>
+		</Row>
+		<!--AI invitation to visit nearby City-->
+		<Row Tag="LOC_DIPLO_FIRST_MEET_VISIT_RECIPIENT_LEADER_LIME_CHINA_YU_ANY" Language="en_US">
+			<Text>Please, come to a village nearby. I have a construction project underway there that I must attend to, but you are welcome to join me.</Text>
+		</Row>
+		<!--AI accepts Human invitation-->
+		<Row Tag="LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_POSITIVE_LEADER_LIME_CHINA_YU_ANY" Language="en_US">
+			<Text>I would be more than happy to visit.</Text>
+		</Row>
+		<!--AI invitation to exchange Capital Information-->
+		<Row Tag="LOC_DIPLO_FIRST_MEET_NO_MANS_INFO_EXCHANGE_LEADER_LIME_CHINA_YU_ANY" Language="en_US">
+			<Text>Come to my capital, we can tour the constructions and have some tea. It may not be the most luxurious tea, but it is my favorite blend.</Text>
+		</Row>
+		<!--GREETINGS-->
+		<Row Tag="LOC_DIPLO_GREETING_LEADER_LIME_CHINA_YU_ANY" Language="en_US">
+			<Text>Heaven guide you.</Text>
+		</Row>
+		<!--DELEGATION-->
+		<!--AI Accepts-->
+		<Row Tag="LOC_DIPLO_ACCEPT_DELEGATION_FROM_HUMAN_LEADER_LIME_CHINA_YU_ANY" Language="en_US">
+			<Text>Of course you may come! I'll arrange a showing of our finest constructions.</Text>
+		</Row>
+		<!--AI Rejects-->
+		<Row Tag="LOC_DIPLO_REJECT_DELEGATION_FROM_HUMAN_LEADER_LIME_CHINA_YU_ANY" Language="en_US">
+			<Text>I am afraid I'm busy on project - a dam needs building, but perhaps you can visit when it is finished.</Text>
+		</Row>
+		<!--AI Requests -->
+		<Row Tag="LOC_DIPLO_DELEGATION_FROM_AI_LEADER_LIME_CHINA_YU_ANY" Language="en_US">
+			<Text>Some builders from my lands wish to learn how to build things, and I myself am curious. Would you permit them to see?</Text>
+		</Row>
+		<!--OPEN BORDERS-->
+		<!--AI accepts from human-->
+		<Row Tag="LOC_DIPLO_ACCEPT_OPEN_BORDERS_FROM_HUMAN_LEADER_LIME_CHINA_YU_ANY" Language="en_US">
+			<Text>Your people may enter my lands freely.</Text>
+		</Row>
+		<!--AI rejects from human-->
+		<Row Tag="LOC_DIPLO_REJECT_OPEN_BORDERS_FROM_HUMAN_LEADER_LIME_CHINA_YU_ANY" Language="en_US">
+			<Text>I cannot in good sense permit this. I apologise.</Text>
+		</Row>
+		<!--AI requests from human-->
+		<Row Tag="LOC_DIPLO_OPEN_BORDERS_FROM_AI_LEADER_LIME_CHINA_YU_ANY" Language="en_US">
+			<Text>My people wish to enter your lands, and I hope we have built rapport enough to permit this! I would hate to disappoint them.</Text>
+		</Row>
+		<!--DECLARE FRIENDSHIP-->
+		<!--AI accepts from human-->
+		<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_HUMAN_LEADER_LIME_CHINA_YU_ANY" Language="en_US">
+			<Text>I am honored.</Text>
+		</Row>
+		<!--AI Rejects from human -->
+		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_HUMAN_LEADER_LIME_CHINA_YU_ANY" Language="en_US">
+			<Text>I am afraid I cannot.</Text>
+		</Row>
+		<!--AI Requests friendship from human-->
+		<Row Tag="LOC_DIPLO_DECLARE_FRIEND_FROM_AI_LEADER_LIME_CHINA_YU_ANY" Language="en_US">
+			<Text>You have proven to be a good king. I hope you'll prove to be a good friend as well.</Text>
+		</Row>
+		<!--Human accepts AI requests, AI responds-->
+		<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_LIME_CHINA_YU_ANY" Language="en_US">
+			<Text>Excellent, thank you.</Text>
+		</Row>
+		<!--Human rejects AI requests, AI responds-->
+		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_LIME_CHINA_YU_ANY" Language="en_US">
+			<Text>Then... No matter. You are still a great leader, though I wish we could also be friends.</Text>
+		</Row>
+		<!--ALLIANCE-->
+		<!--AI Requests an alliance from human-->
+		<Row Tag="LOC_DIPLO_MAKE_ALLIANCE_FROM_AI_LEADER_LIME_CHINA_YU_ANY" Language="en_US">
+			<Text>I wish only to surround myself with the finest individuals - and I consider you to be one of them.</Text>
+		</Row>
+		<!--KUDOS & WARNINGS-->
+		<!--AI Kudos-->
+		<Row Tag="LOC_DIPLO_KUDO_EXIT_LEADER_LIME_CHINA_YU_ANY" Language="en_US">
+			<Text>You are wise and learned, and a just ruler. There is honor within you, I see it.</Text>
+		</Row>
+		<!--AI Warnings-->
+		<Row Tag="LOC_DIPLO_WARNING_EXIT_LEADER_LIME_CHINA_YU_ANY" Language="en_US">
+			<Text>You have much to learn, perhaps only experience can teach you. But only if you are willing to listen.</Text>
+		</Row>
+		<!--AI warns player for border troops-->
+		<Row Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_LEADER_LIME_CHINA_YU_ANY" Language="en_US">
+			<Text>Massing troops along my borders for a surprise attack? This is not honorable behavior. I hope I am right in expecting better from you.</Text>
+		</Row>
+		<!--TRADE-->
+		<!--AI Accepts Deal-->
+		<Row Tag="LOC_DIPLO_ACCEPT_MAKE_DEAL_FROM_AI_LEADER_LIME_CHINA_YU_ANY" Language="en_US">
+			<Text>{LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_LIME_CHINA_YU_ANY}</Text>
+		</Row>
+		<!--AI Rejects Deal-->
+		<Row Tag="LOC_DIPLO_REJECT_MAKE_DEAL_FROM_AI_LEADER_LIME_CHINA_YU_ANY" Language="en_US">
+			<Text>{LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_LIME_CHINA_YU_ANY}</Text>
+		</Row>
+		<!--DENOUNCE-->
+		<!--From Human-->
+		<Row Tag="LOC_DIPLO_DENOUNCE_FROM_HUMAN_LEADER_LIME_CHINA_YU_ANY" Language="en_US">
+			<Text>What have I done to deserve such condemnation? Answer me.</Text>
+		</Row>
+		<!--From AI-->
+		<Row Tag="LOC_DIPLO_DENOUNCE_FROM_AI_LEADER_LIME_CHINA_YU_ANY" Language="en_US">
+			<Text>You have failed your people, can you not see that?! You have no honor! You are no king!</Text>
+		</Row>
+		<!--Rationale-->
+		<Row Tag="LOC_DIPLO_DENOUNCE_REASON_FROM_AI_LEADER_ANY_REASON_LEADER_LIME_CHINA_YU_SON_OF_HEAVEN_NEGATIVE_WORST_KING" Language="en_US">
+			<Text>(You are a bad king)</Text>
+		</Row>
+		<!--DECLARE WAR-->
+		<!--Human Declares War-->
+		<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_HUMAN_LEADER_LIME_CHINA_YU_ANY" Language="en_US">
+			<Text>So we could not be friends? We could not even have peace? I am ashamed, but that does not mean I will not defend myself.</Text>
+		</Row>
+		<!--AI Declares War-->
+		<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_LIME_CHINA_YU_ANY" Language="en_US">
+			<Text>I wish we could coexist, but it appears that is not our destiny. For what it is worth, I am sorry, but now we must do battle.</Text>
+		</Row>
+		<!--MAKE PEACE-->
+		<!--AI accepts from human-->
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_AI_ACCEPT_DEAL_LEADER_LIME_CHINA_YU_ANY" Language="en_US">
+			<Text>Agreed, and thank you.</Text>
+		</Row>
+		<!--AI refuses human-->
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_AI_REFUSE_DEAL_LEADER_LIME_CHINA_YU_ANY" Language="en_US">
+			<Text>I am honor-bound to do what is right for my people. I will not accept.
+			</Text>
+		</Row>
+		<!--AI requests from human-->
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_FROM_AI_LEADER_LIME_CHINA_YU_ANY" Language="en_US">
+			<Text>It is time that we both lay down our spears and swords, and make peace between our peoples.</Text>
+		</Row>
+		<!--DEFEAT-->
+		<!--AI is Defeated-->
+		<Row Tag="LOC_DIPLO_DEFEAT_FROM_AI_LEADER_LIME_CHINA_YU_ANY" Language="en_US">
+			<Text>You have fought with honor, and so have I. What more could a man ask for? Congratulations on your victory, and thank you for letting me rest. I dare say we both earned it.</Text>
+		</Row>
+		<!--Human is Defeated (will see this in hotseat)-->
+		<Row Tag="LOC_DIPLO_DEFEAT_FROM_HUMAN_LEADER_LIME_CHINA_YU_ANY" Language="en_US">
+			<Text>Even an enemy deserves his last rights. I hope that you will find peace in the next life. Heaven bless you, and fare well.</Text>
+		</Row>
+	</LocalizedText>
+</GameData>

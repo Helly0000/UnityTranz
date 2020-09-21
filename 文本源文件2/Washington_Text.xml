@@ -1,0 +1,416 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<LocalizedText>
+		
+		
+	
+		
+	
+		<Row Tag="LOC_TRAIT_LEADER_GEDEMO_WASHINGTON_NAME" Language="en_US">
+			<Text>Manifest Destiny</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_LEADER_GEDEMO_WASHINGTON_DESCRIPTION" Language="en_US">
+			<Text>Units receive +1 Sight. Gold costs of Tiles are reduced by 45%.</Text>
+		</Row>
+
+
+		
+
+
+		<Row Tag="LOC_LEADER_GEDEMO_WASHINGTON" Language="en_US">
+			<Text>George Washington</Text>
+		</Row>
+		
+		<Row Tag="LOC_LOADING_INFO_LEADER_GEDEMO_WASHINGTON" Language="en_US">
+			<Text>Welcome President Washington! You lead the industrious American civilization! Formed in the conflagration of revolution in the 18th century, within a hundred years, the young nation became embroiled in a terrible civil war that nearly tore the country apart, but it was just a few short years later in the 20th century that the United States reached the height of its power, emerging triumphant and mighty from the two terrible wars that destroyed so many other great nations. The United States is a nation of immigrants, filled with optimism and determination. They lack only a leader to help them fulfill their promise. President Washington, can you lead the American people to greatness? Can you build a civilization that will stand the test of time?</Text>
+		</Row>
+		<!--Civilopedia-->
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_GEDEMO_WASHINGTON_TITLE" Language="en_US">
+			<Text>President of the United States of America</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_GEDEMO_WASHINGTON_SUBTITLE" Language="en_US">
+			<Text>Commander-in-Chief of Colonial Armies</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_GEDEMO_WASHINGTON_QUOTE" Language="en_US">
+			<Text>Be polite to all, but intimate with little; and choose them well before trusting them.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_GEDEMO_WASHINGTON_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>George Washington was the first President of the United States, and was among the nation's Founding Fathers. As commander-in-chief of the Continental Army during the American Revolutionary War, he was the principal force in victory, effected with the surrender of the British at Yorktown. In 1787 he presided over the Constitutional Convention which formed the new federal government. Since the late 1780s, Washington has been known as the "Father of His Country" by compatriots. Scholarly and public polling ranks him among the top three Presidents in history. Washington was born to a moderately prosperous family of planters, who owned slaves in colonial Virginia. He had early opportunities in education, learned mathematics and quickly launched a successful career as a surveyor, which in turn enabled him to make considerable land investments. He then joined the Virginia militia and fought in the French and Indian War. During the war with the British he also fought against one of their allies, the Iroquois nation. His devotion to American Republicanism impelled him to decline further power after victory, and he resigned as commander-in-chief in 1783.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_GEDEMO_WASHINGTON_CHAPTER_HISTORY_PARA_2" Language="en_US">
+			<Text>Washington was among the country’s premier statesmen and was unanimously chosen as President by the Electoral College in the first two national elections. He promoted and oversaw the implementation of a strong, well-financed national government. He remained impartial in the fierce rivalry between two cabinet secretaries, Thomas Jefferson and Alexander Hamilton, though he adopted Hamilton's economic plans. When the French Revolution plunged Europe into war, Washington assumed a policy of neutrality to protect American ships—although the controversial Jay Treaty of 1795 created an alliance with Great Britain. He set precedents still in use today, such as the Cabinet advisory system, the inaugural address, the title "Mr. President", and a two-term limit. In his Farewell Address he gave a primer on civic virtue, warning of partisanship, sectionalism, and involvement in foreign wars. Washington inherited slaves at age eleven, prospered from slavery most of his life, and as late as 1793 officially supported other slaveholders. Eventually he became troubled with slavery and in his 1799 will he freed all his slaves. He is renowned for his religious toleration; his personal religion and devotion to Freemasonry have been debated. Upon his death, Washington was famously eulogized as "first in war, first in peace, and first in the hearts of his countrymen". He has been greatly memorialized by monuments, public works, places, stamps, and currency. The nation's capital, Washington D.C., and the state of Washington bear his name; and since 1932 the quarter dollar has carried his effigy.</Text>
+		</Row>
+
+
+
+ 
+		
+		
+		
+		
+		<!--Diplomacy-->
+		<!--FIRST MEET-->
+		<!--First AI line-->
+		<Row Tag="LOC_DIPLO_FIRST_MEET_LEADER_GEDEMO_WASHINGTON_ANY" Language="en_US">
+			<Text>We welcome peace with your great nation. I pray that no future misunderstanding will come between our two peoples.</Text>
+		</Row>
+		<!--AI invitation to visit nearby City-->
+		<Row Tag="LOC_DIPLO_FIRST_MEET_VISIT_RECIPIENT_LEADER_GEDEMO_WASHINGTON_ANY" Language="en_US">
+			<Text>The people of the United States of America welcome you</Text>
+		</Row>
+		<!--AI accepts Human invitation-->
+		<Row Tag="LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_POSITIVE_LEADER_GEDEMO_WASHINGTON_ANY" Language="en_US">
+			<Text>Thank you.</Text>
+		</Row>
+		<!--AI invitation to exchange Capital Information-->
+		<Row Tag="LOC_DIPLO_FIRST_MEET_NO_MANS_INFO_EXCHANGE_LEADER_GEDEMO_WASHINGTON_ANY" Language="en_US">
+			<Text>I trust you are a friend to liberty. would you like to exchange some informations?</Text>
+		</Row>
+		<!--GREETINGS-->
+		<Row Tag="LOC_DIPLO_GREETING_LEADER_GEDEMO_WASHINGTON_ANY" Language="en_US">
+			<Text>Good day</Text>
+		</Row>
+		<!--DELEGATION-->
+		<!--AI Accepts-->
+		<Row Tag="LOC_DIPLO_ACCEPT_DELEGATION_FROM_HUMAN_LEADER_GEDEMO_WASHINGTON_ANY" Language="en_US">
+			<Text>I accept your delegation with pleasure.</Text>
+		</Row>
+		<!--AI Rejects-->
+		<Row Tag="LOC_DIPLO_REJECT_DELEGATION_FROM_HUMAN_LEADER_GEDEMO_WASHINGTON_ANY" Language="en_US">
+			<Text>Unfortunately, no.</Text>
+		</Row>
+		<!--AI Requests -->
+		<Row Tag="LOC_DIPLO_DELEGATION_FROM_AI_LEADER_GEDEMO_WASHINGTON_ANY" Language="en_US">
+			<Text>I sent you a commercial delegation with some gifts: stuffed turkey, tobacco and indigo. It's a sample of what we can sell to you.</Text>
+		</Row>
+		<!--OPEN BORDERS-->
+		<!--AI accepts from human-->
+		<Row Tag="LOC_DIPLO_ACCEPT_OPEN_BORDERS_FROM_HUMAN_LEADER_GEDEMO_WASHINGTON_ANY" Language="en_US">
+			<Text>Proceed!</Text>
+		</Row>
+		<!--AI rejects from human-->
+		<Row Tag="LOC_DIPLO_REJECT_OPEN_BORDERS_FROM_HUMAN_LEADER_GEDEMO_WASHINGTON_ANY" Language="en_US">
+			<Text>Of course not!</Text>
+		</Row>
+		<!--AI requests from human-->
+		<Row Tag="LOC_DIPLO_OPEN_BORDERS_FROM_AI_LEADER_GEDEMO_WASHINGTON_ANY" Language="en_US">
+			<Text>I believe it's in our mutual interest to allow free passage between our two great empires.</Text>
+		</Row>
+		<!--DECLARE FRIENDSHIP-->
+		<!--AI accepts from human-->
+		<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_HUMAN_LEADER_GEDEMO_WASHINGTON_ANY" Language="en_US">
+			<Text>Very well!</Text>
+		</Row>
+		<!--AI Rejects from human -->
+		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_HUMAN_LEADER_GEDEMO_WASHINGTON_ANY" Language="en_US">
+			<Text>You cannot be serious.</Text>
+		</Row>
+		<!--AI Requests friendship from human-->
+		<Row Tag="LOC_DIPLO_DECLARE_FRIEND_FROM_AI_LEADER_GEDEMO_WASHINGTON_ANY" Language="en_US">
+			<Text>I trust you are a friend to liberty. Would you make with me a Declaration of Friendship?</Text>
+		</Row>
+		<!--Human accepts AI requests, AI responds-->
+		<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_GEDEMO_WASHINGTON_ANY" Language="en_US">
+			<Text>Thank you, friend.</Text>
+		</Row>
+		<!--Human rejects AI requests, AI responds-->
+		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_GEDEMO_WASHINGTON_ANY" Language="en_US">
+			<Text>How disappointing.</Text>
+		</Row>
+		<!--ALLIANCE-->
+		<!--AI Requests an alliance from human-->
+		<Row Tag="LOC_DIPLO_MAKE_ALLIANCE_FROM_AI_LEADER_GEDEMO_WASHINGTON_ANY" Language="en_US">
+			<Text>Would you like to form an alliance?</Text>
+		</Row>
+		<!--KUDOS & WARNINGS-->
+		<!--AI Kudos-->
+		<Row Tag="LOC_DIPLO_KUDO_EXIT_LEADER_GEDEMO_WASHINGTON_ANY" Language="en_US">
+			<Text>The best neighbors are distant ones. Right now, you are America's best neighbor.</Text>
+		</Row>
+		<!--AI Warnings-->
+		<Row Tag="LOC_DIPLO_WARNING_EXIT_LEADER_GEDEMO_WASHINGTON_ANY" Language="en_US">
+			<Text>There is no distance between our lands. My people are forced to endure the stench of your own.</Text>
+		</Row>
+		<!--AI warns player for border troops-->
+		<Row Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_LEADER_GEDEMO_WASHINGTON_ANY" Language="en_US">
+			<Text>It has not escaped us that your troops are on our doorstep. Remove them before it's too late!</Text>
+		</Row>
+		<!--TRADE-->
+		<!--AI Accepts Deal-->
+		<Row Tag="LOC_DIPLO_ACCEPT_MAKE_DEAL_FROM_AI_LEADER_GEDEMO_WASHINGTON_ANY" Language="en_US">
+			<Text>{LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_GEDEMO_WASHINGTON_ANY}</Text>
+		</Row>
+		<!--AI Rejects Deal-->
+		<Row Tag="LOC_DIPLO_REJECT_MAKE_DEAL_FROM_AI_LEADER_GEDEMO_WASHINGTON_ANY" Language="en_US">
+			<Text>{LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_GEDEMO_WASHINGTON_ANY}</Text>
+		</Row>
+		<!--DENOUNCE-->
+		<!--From Human-->
+		<Row Tag="LOC_DIPLO_DENOUNCE_FROM_HUMAN_LEADER_GEDEMO_WASHINGTON_ANY" Language="en_US">
+			<Text>Alright.</Text>
+		</Row>
+		<!--From AI-->
+		<Row Tag="LOC_DIPLO_DENOUNCE_FROM_AI_LEADER_GEDEMO_WASHINGTON_ANY" Language="en_US">
+			<Text>Now all leaders know that you can not be trusted.(Denounces You).</Text>
+		</Row>
+		<!--DECLARE WAR-->
+		<!--Human Declares War-->
+		<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_HUMAN_LEADER_GEDEMO_WASHINGTON_ANY" Language="en_US">
+			<Text>You have mistaken our love of peace for weakness. You shall regret this! </Text>
+		</Row>
+		<!--AI Declares War-->
+		<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_GEDEMO_WASHINGTON_ANY" Language="en_US">
+			<Text>Your wanton aggression leaves us no choice. Prepare for war!</Text>
+		</Row>
+		<!--MAKE PEACE-->
+		<!--AI accepts from human-->
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_AI_ACCEPT_DEAL_LEADER_GEDEMO_WASHINGTON_ANY" Language="en_US">
+			<Text>I agree: Let's make peace!</Text>
+		</Row>
+		<!--AI refuses human-->
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_AI_REFUSE_DEAL_LEADER_GEDEMO_WASHINGTON_ANY" Language="en_US">
+			<Text>There can be no peace. Perhaps another day.</Text>
+		</Row>
+		<!--AI requests from human-->
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_FROM_AI_LEADER_GEDEMO_WASHINGTON_ANY" Language="en_US">
+			<Text>I propose to make peace.</Text>
+		</Row>
+		<!--DEFEAT-->
+		<!--AI is Defeated-->
+		<Row Tag="LOC_DIPLO_DEFEAT_FROM_AI_LEADER_GEDEMO_WASHINGTON_ANY" Language="en_US">
+			<Text>The day...is yours. I hope you will be merciful in your triumph.</Text>
+		</Row>
+		<!--Human is Defeated (will see this in hotseat)-->
+		<Row Tag="LOC_DIPLO_DEFEAT_FROM_HUMAN_LEADER_GEDEMO_WASHINGTON_ANY" Language="en_US">
+			<Text>[LOC_DIPLO_DEFEAT_FROM_AI_LEADER_GEDEMO_WASHINGTON_ANY]</Text>
+		</Row>
+
+		
+
+
+		<Row Tag="LOC_AGENDA_GEDEMO_WASHINGTON_NAME" Language="en_US">
+			<Text>Conotocaurius</Text>
+		</Row>
+		<Row Tag="LOC_AGENDA_GEDEMO_WASHINGTON_DESCRIPTION" Language="en_US">
+			<Text>Tries to conquer neighboring civilizations, and likes civilizations that are not his neighbors (yet). Does not like his neighbors.</Text>
+		</Row>
+
+
+		<Row Tag="LOC_DIPLO_MODIFIER_CONOTOCAURIUS_NEIGHBOR" Language="en_US">
+			<Text>The Leader is displeased that your Empire is near his.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MODIFIER_CONOTOCAURIUS_NOT_NEIGHBOR" Language="en_US">
+			<Text>The Leader is pleased that your Empire is far from his.</Text>
+		</Row>
+
+
+		
+		<Row Tag="LOC_DIPLO_MODIFIER_CONOTOCAURIUS_NEIGHBOR" Language="fr_FR">
+			<Text>Le Dirigeant n'apprécie pas que votre empire soit près du sien.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MODIFIER_CONOTOCAURIUS_NOT_NEIGHBOR" Language="fr_FR">
+			<Text>Le Dirigeant apprécie que votre empire soit loin du sien.</Text>
+		</Row>
+		
+		
+		
+		
+		
+
+		<Row Tag="LOC_AGENDA_GEDEMO_WASHINGTON_NAME" Language="fr_FR">
+			<Text>Conotocaurius</Text>
+		</Row>
+		<Row Tag="LOC_AGENDA_GEDEMO_WASHINGTON_DESCRIPTION" Language="fr_FR">
+			<Text>Essaie de conquérir les civilisations voisines et apprécie celles qui ne sont pas (encore) ses voisines. Se méfie des empires voisins.</Text>
+		</Row>
+		
+
+
+		<Row Tag="LOC_TRAIT_LEADER_GEDEMO_WASHINGTON_NAME"  Language="fr_FR" >
+			<Text>Destinée Manifeste</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_LEADER_GEDEMO_WASHINGTON_DESCRIPTION"  Language="fr_FR" >
+			<Text>Les Unités ont un champ de vison amélioré +1. Le coût en or des achats de terrain est réduit de 45%.</Text>
+		</Row>
+		
+		
+
+		
+		
+		
+		
+		<Row Tag="LOC_LEADER_GEDEMO_WASHINGTON" Language="fr_FR">
+			<Text>George Washington</Text>
+		</Row>
+		
+		<Row Tag="LOC_LOADING_INFO_LEADER_GEDEMO_WASHINGTON" Language="fr_FR">
+			<Text>Bienvenue Président Washington! Vous dirigez la civilisation américaine, fière et industrieuse! Formée dans l'incendie de la révolution au XVIIIe siècle, en cent ans, la jeune nation s'est trouvée mêlée à une terrible guerre civile qui a presque déchiré le pays, mais quelques années plus tard au XXe siècle, les États-Unis atteignent leur apogée, émergeant triomphallement et puissament des deux terribles guerres qui ont détruit tant d'autres grandes nations. Les États-Unis sont une nation d’immigrants, optimistes et déterminés. Il leur manque seulement un chef pour les aider à tenir leurs promesses. Président Washington, pouvez-vous conduire le peuple américain à la grandeur? Pouvez-vous construire une civilisation qui résistera à l'épreuve du temps?</Text>
+		</Row>
+
+		<!--Civilopedia french-->
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_GEDEMO_WASHINGTON_TITLE" Language="fr_FR">
+			<Text>Président des Etats-Unis d'Amérique</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_GEDEMO_WASHINGTON_SUBTITLE" Language="fr_FR">
+			<Text>Commandant en chef des armées coloniales</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_GEDEMO_WASHINGTON_QUOTE" Language="fr_FR">
+			<Text>Soyez polis envers tous, mais intimes avec peu ; et choisissez-les bien avant de leur faire confiance.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_GEDEMO_WASHINGTON_CHAPTER_HISTORY_PARA_1" Language="fr_FR">
+			<Text>George Washington était le premier président des États-Unis et faisait partie des pères fondateurs de la nation. En tant que commandant en chef de l'armée continentale pendant la guerre d'indépendance des États-Unis, il fut la principale force à remporter la victoire des Britanniques à Yorktown. En 1787, il présida la Convention constitutionnelle qui forma le nouveau gouvernement fédéral. Depuis la fin des années 1780, Washington est connu comme le "père de son pays" par ses compatriotes. Les sondages savants et publics le classent parmi les trois premiers présidents de l’histoire. Washington est née dans une famille modérément prospère de planteurs, qui possédaient des esclaves dans la Virginie coloniale. Il a eu des débuts dans le domaine de l'éducation, a appris les mathématiques et a rapidement entamé une carrière réussie en tant qu'arpenteur, ce qui lui a permis de réaliser d'importants investissements fonciers. Il a ensuite rejoint la milice de Virginie et a combattu dans la guerre française et indienne. Pendant la guerre avec les Britanniques, il s'est également battu contre l'un de leurs alliés, la nation iroquoise. Son dévouement au républicanisme américain l’a poussé à renoncer à son pouvoir après la victoire et il a démissionné de son poste de commandant en chef en 1783.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_GEDEMO_WASHINGTON_CHAPTER_HISTORY_PARA_2" Language="fr_FR">
+			<Text>Washington était parmi les premiers hommes d’État du pays et a été élu à l’unanimité Président par le Collège électoral lors des deux premières élections nationales. Il a promu et supervisé la mise en place d'un gouvernement national fort et bien financé. Il est resté impartial dans la rivalité féroce entre deux secrétaires de cabinet, Thomas Jefferson et Alexander Hamilton, bien qu'il ait adopté les plans économiques de Hamilton. Lorsque la Révolution française a plongé l'Europe dans la guerre, Washington a adopté une politique de neutralité pour protéger les navires américains, bien que le controversé traité Jay de 1795 ait créé une alliance avec la Grande-Bretagne. Il a établi des précédents encore utilisés aujourd'hui, tels que le système consultatif du Cabinet, le discours inaugural, le titre «M. le président» et une limite de deux mandats. Dans son discours d'adieu, il a donné un aperçu de la vertu civique, de l'avertissement de la partisanerie, du sectionnalisme et de la participation à des guerres à l'étranger. Washington, à l'âge de onze ans, hérita d'esclaves, prospéra de l'esclavage presque toute sa vie et, en 1793, soutint officiellement d'autres propriétaires d'esclaves. Il finit par être troublé par l'esclavage et, en 1799, il libérera tous ses esclaves. Il est réputé pour sa tolérance religieuse; sa religion personnelle et sa dévotion à la franc-maçonnerie ont été débattues. À sa mort, Washington a été célébré comme «le premier en guerre, le premier en paix et le premier dans le cœur de ses compatriotes». Il a été grandement commémoré par des monuments, des travaux publics, des lieux, des timbres et des devises. La capitale de la nation, Washington DC, et l'État de Washington portent son nom; et depuis 1932 le quart de dollar a porté son effigie.</Text>
+		</Row>
+
+
+
+		
+		
+		
+		<!--Diplomacy french-->
+		<!--FIRST MEET french-->
+		<!--First AI line french-->
+		<Row Tag="LOC_DIPLO_FIRST_MEET_LEADER_GEDEMO_WASHINGTON_ANY" Language="fr_FR">
+			<Text>Bienvenue étranger! je suis George Washington, Président des Etats-Unis d'Amérique!</Text>
+		</Row>
+		<!--AI invitation to visit nearby City french-->
+		<Row Tag="LOC_DIPLO_FIRST_MEET_VISIT_RECIPIENT_LEADER_GEDEMO_WASHINGTON_ANY" Language="fr_FR">
+			<Text>Salutations étranger, je suis George Washington! Souhaitez-vous visiter notre ville la plus proche?</Text>
+		</Row>
+		<!--AI accepts Human invitation french-->
+		<Row Tag="LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_POSITIVE_LEADER_GEDEMO_WASHINGTON_ANY" Language="fr_FR">
+			<Text>Merci beaucoup.</Text>
+		</Row>
+		<!--AI invitation to exchange Capital Information french -->
+		<Row Tag="LOC_DIPLO_FIRST_MEET_NO_MANS_INFO_EXCHANGE_LEADER_GEDEMO_WASHINGTON_ANY" Language="fr_FR">
+			<Text>Je vous invite à échanger des informations sur la localisation de nos capitales respectives. cela pourra aider le commerce entre nos cités.</Text>
+		</Row>
+		<!--GREETINGS french-->
+		<Row Tag="LOC_DIPLO_GREETING_LEADER_GEDEMO_WASHINGTON_ANY" Language="fr_FR">
+			<Text>Salutations!</Text>
+		</Row>
+		<!--DELEGATION french-->
+		<!--AI Accepts french-->
+		<Row Tag="LOC_DIPLO_ACCEPT_DELEGATION_FROM_HUMAN_LEADER_GEDEMO_WASHINGTON_ANY" Language="fr_FR">
+			<Text>J'accepte votre délégtion avec plaisir!</Text>
+		</Row>
+		<!--AI Rejects french-->
+		<Row Tag="LOC_DIPLO_REJECT_DELEGATION_FROM_HUMAN_LEADER_GEDEMO_WASHINGTON_ANY" Language="fr_FR">
+			<Text>Non, malheureusement je dois refuser.</Text>
+		</Row>
+		<!--AI Requests french-->
+		<Row Tag="LOC_DIPLO_DELEGATION_FROM_AI_LEADER_GEDEMO_WASHINGTON_ANY" Language="fr_FR">
+			<Text>je vous envoie une délégation commerciale avec quelques spécialités locales: dinde farcie, tabac et indigo.</Text>
+		</Row>
+		<!--OPEN BORDERS french-->
+		<!--AI accepts from human french-->
+		<Row Tag="LOC_DIPLO_ACCEPT_OPEN_BORDERS_FROM_HUMAN_LEADER_GEDEMO_WASHINGTON_ANY" Language="fr_FR">
+			<Text>C'est avec plaisir que nous ouvrons nos frontières à vos armées.</Text>
+		</Row>
+		<!--AI rejects from human french-->
+		<Row Tag="LOC_DIPLO_REJECT_OPEN_BORDERS_FROM_HUMAN_LEADER_GEDEMO_WASHINGTON_ANY" Language="fr_FR">
+			<Text>Nous ne sommes pas intéressés pour l'instant.</Text>
+		</Row>
+		<!--AI requests from human french-->
+		<Row Tag="LOC_DIPLO_OPEN_BORDERS_FROM_AI_LEADER_GEDEMO_WASHINGTON_ANY" Language="fr_FR">
+			<Text>Permettrez-vous à nos unités de traverser votre territoire?</Text>
+		</Row>
+		<!--DECLARE FRIENDSHIP french-->
+		<!--AI accepts from human french-->
+		<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_HUMAN_LEADER_GEDEMO_WASHINGTON_ANY" Language="fr_FR">
+			<Text>J'accepte de declarer publiquement notre amitié.</Text>
+		</Row>
+		<!--AI Rejects from human french-->
+		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_HUMAN_LEADER_GEDEMO_WASHINGTON_ANY" Language="fr_FR">
+			<Text>Je n'ai pas envie de proclamer notre entente avec vous pour le moment.</Text>
+		</Row>
+		<!--AI Requests friendship from human french-->
+		<Row Tag="LOC_DIPLO_DECLARE_FRIEND_FROM_AI_LEADER_GEDEMO_WASHINGTON_ANY" Language="fr_FR">
+			<Text>Cela serait dans votre interet d'accepter cette proposition d'amitié de ma part.</Text>
+		</Row>
+		<!--Human accepts AI requests, AI responds french-->
+		<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_GEDEMO_WASHINGTON_ANY" Language="fr_FR">
+			<Text>Je vous remercie.</Text>
+		</Row>
+		<!--Human rejects AI requests, AI responds french-->
+		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_GEDEMO_WASHINGTON_ANY" Language="fr_FR">
+			<Text>Comme c'est dommage!</Text>
+		</Row>
+		<!--ALLIANCE-->
+		<!--AI Requests an alliance from human french-->
+		<Row Tag="LOC_DIPLO_MAKE_ALLIANCE_FROM_AI_LEADER_GEDEMO_WASHINGTON_ANY" Language="fr_FR">
+			<Text>Aimeriez-vous former une alliance?</Text>
+		</Row>
+		<!--KUDOS & WARNINGS french-->
+		<!--AI Kudos-->
+		<Row Tag="LOC_DIPLO_KUDO_EXIT_LEADER_GEDEMO_WASHINGTON_ANY" Language="fr_FR">
+			<Text>Les meilleurs voisins sont les plus éloignés. À l'heure actuelle, vous êtes le meilleur voisin de l'Amerique.</Text>
+		</Row>
+		<!--AI Warnings french-->
+		<Row Tag="LOC_DIPLO_WARNING_EXIT_LEADER_GEDEMO_WASHINGTON_ANY" Language="fr_FR">
+			<Text>Plus rien ne sépare nos terres. Mon peuple est forcé d'endurer la puanteur du vôtre.</Text>
+		</Row>
+		<!--AI warns player for border troops french-->
+		<Row Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_LEADER_GEDEMO_WASHINGTON_ANY" Language="fr_FR">
+			<Text>Nous avons détecter des mouvements de troupes prés de nos frontières...Veuillez les retirer rapidement ou vous en paierez le prix!</Text>
+		</Row>
+		<!--TRADE french-->
+		<!--AI Accepts Deal french-->
+		<Row Tag="LOC_DIPLO_ACCEPT_MAKE_DEAL_FROM_AI_LEADER_GEDEMO_WASHINGTON_ANY" Language="fr_FR">
+			<Text>{LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_GEDEMO_WASHINGTON_ANY}</Text>
+		</Row>
+		<!--AI Rejects Deal french-->
+		<Row Tag="LOC_DIPLO_REJECT_MAKE_DEAL_FROM_AI_LEADER_GEDEMO_WASHINGTON_ANY" Language="fr_FR">
+			<Text>{LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_GEDEMO_WASHINGTON_ANY}</Text>
+		</Row>
+		<!--DENOUNCE french-->
+		<!--From Human french-->
+		<Row Tag="LOC_DIPLO_DENOUNCE_FROM_HUMAN_LEADER_GEDEMO_WASHINGTON_ANY" Language="fr_FR">
+			<Text>Je vous denonce publiquement aux autres dirigeants, voilà!</Text>
+		</Row>
+		<!--From AI french-->
+		<Row Tag="LOC_DIPLO_DENOUNCE_FROM_AI_LEADER_GEDEMO_WASHINGTON_ANY" Language="fr_FR">
+			<Text>Vous êtes malveillant! (Dénonciation)</Text>
+		</Row>
+		<!--DECLARE WAR french-->
+		<!--Human Declares War french-->
+		<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_HUMAN_LEADER_GEDEMO_WASHINGTON_ANY" Language="fr_FR">
+			<Text>Trés bien, vous allez le regretter!</Text>
+		</Row>
+		<!--AI Declares War french-->
+		<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_GEDEMO_WASHINGTON_ANY" Language="fr_FR">
+			<Text>Par votre comportement depuis le début de la partie, vous ne nous avez pas laissé d'autres choix possibles: c'est la guerre!</Text>
+		</Row>
+		<!--MAKE PEACE french-->
+		<!--AI accepts from human french-->
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_AI_ACCEPT_DEAL_LEADER_GEDEMO_WASHINGTON_ANY" Language="fr_FR">
+			<Text>Il est temps de faire la paix.</Text>
+		</Row>
+		<!--AI refuses human french-->
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_AI_REFUSE_DEAL_LEADER_GEDEMO_WASHINGTON_ANY" Language="fr_FR">
+			<Text>Non, c'est impossible.</Text>
+		</Row>
+		<!--AI requests from human french-->
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_FROM_AI_LEADER_GEDEMO_WASHINGTON_ANY" Language="fr_FR">
+			<Text>Je vous propose de faire la paix, qu'en pensez-vous?</Text>
+		</Row>
+		<!--DEFEAT french-->
+		<!--AI is Defeated french-->
+		<Row Tag="LOC_DIPLO_DEFEAT_FROM_AI_LEADER_GEDEMO_WASHINGTON_ANY" Language="fr_FR">
+			<Text>Ce jour est le vôtre. Faites preuve de compassion dans votre triomphe.</Text>
+		</Row>
+		<!--Human is Defeated (will see this in hotseat) french-->
+		<Row Tag="LOC_DIPLO_DEFEAT_FROM_HUMAN_LEADER_GEDEMO_WASHINGTON_ANY" Language="fr_FR">
+			<Text>[LOC_DIPLO_DEFEAT_FROM_AI_LEADER_GEDEMO_WASHINGTON_ANY]</Text>
+		</Row>
+
+		
+
+	
+
+
+		
+	</LocalizedText>
+</GameData>
