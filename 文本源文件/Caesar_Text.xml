@@ -1,0 +1,402 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<LocalizedText>
+		
+		
+	
+		
+	
+		<Row Tag="LOC_TRAIT_LEADER_GEDEMO_CAESAR_NAME" Language="en_US">
+			<Text>Veni, vidi, vici</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_LEADER_GEDEMO_CAESAR_DESCRIPTION" Language="en_US">
+			<Text>All current land [ICON_Unit] Units gain a [ICON_Promotion] Promotion level when Julius Caesar captures a city with 2 or more specialty [ICON_District] Districts. It also grants a burst of [ICON_CULTURE] Culture.</Text>
+		</Row>
+
+
+		
+
+
+		<Row Tag="LOC_LEADER_GEDEMO_CAESAR" Language="en_US">
+			<Text>Julius Caesar</Text>
+		</Row>
+		
+		<Row Tag="LOC_LOADING_INFO_LEADER_GEDEMO_CAESAR" Language="en_US">
+			<Text>O Gaius Julius Caesar! Man of political strategy as well as military, you have climbed all the levels, going so far as to be proclaimed dictator for life and conquer a gigantic empire until the confines of the known world of the time.[NEWLINE]Can you build a civilization that will stand the test of time?</Text>
+		</Row>
+		<!--Civilopedia-->
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_GEDEMO_CAESAR_TITLE" Language="en_US">
+			<Text>Consul</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_GEDEMO_CAESAR_SUBTITLE" Language="en_US">
+			<Text>Dictator</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_GEDEMO_CAESAR_QUOTE" Language="en_US">
+			<Text>Alea jacta est.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_GEDEMO_CAESAR_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Julius Caesar was born in Rome on 12 or 13 July 100 BC into the prestigious Julian clan. His family were closely connected with the Marian faction in Roman politics. Caesar himself progressed within the Roman political system, becoming more and more powerful. In 61-60 BC he served as governor of the Roman province of Spain. Back in Rome in 60, Caesar made a pact with Pompey and Crassus, who helped him to get elected as consul for 59 BC. The following year he was appointed governor of Roman Gaul where he stayed for eight years, adding the whole of modern France and Belgium to the Roman empire, and making Rome safe from the possibility of Gallic invasions. He made two expeditions to Britain, in 55 BC and 54 BC. Caesar then returned to Italy, disregarding the authority of the senate and famously crossing the Rubicon river without disbanding his army. In the ensuing civil war Caesar defeated the republican forces. Pompey, their leader, fled to Egypt where he was assassinated. Caesar followed him and became romantically involved with the Egyptian queen, Cleopatra.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_GEDEMO_CAESAR_CHAPTER_HISTORY_PARA_2" Language="en_US">
+			<Text>Caesar was now master of Rome and made himself consul and dictator. He used his power to carry out much-needed reform, relieving debt, enlarging the senate, building the Forum Iulium and revising the calendar. Dictatorship was always regarded a temporary position but in 44 BC, Caesar took it for life. His success and ambition alienated strongly republican senators. A group of these, led by Cassius and Brutus, assassinated Caesar on the Ides of March 44 BC. This sparked the final round of civil wars that ended the Republic and brought about the elevation of Caesar's great nephew and designated heir, Octavian, as Augustus, the first emperor.</Text>
+		</Row>
+
+
+
+ 
+		
+		
+		
+		
+		<!--Diplomacy-->
+		<!--FIRST MEET-->
+		<!--First AI line-->
+		<Row Tag="LOC_DIPLO_FIRST_MEET_LEADER_GEDEMO_CAESAR_ANY" Language="en_US">
+			<Text>Hail. I am Gaius Julius Caesar, dictator of Rome and commander of her legions. What business do you have with me?</Text>
+		</Row>
+		<!--AI invitation to visit nearby City-->
+		<Row Tag="LOC_DIPLO_FIRST_MEET_VISIT_RECIPIENT_LEADER_GEDEMO_CAESAR_ANY" Language="en_US">
+			<Text>Ave, I am Gaius Julius Caesar, the Emperor of Rome! Would you like to visit our nearest city?</Text>
+		</Row>
+		<!--AI accepts Human invitation-->
+		<Row Tag="LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_POSITIVE_LEADER_GEDEMO_CAESAR_ANY" Language="en_US">
+			<Text>Thank you.</Text>
+		</Row>
+		<!--AI invitation to exchange Capital Information-->
+		<Row Tag="LOC_DIPLO_FIRST_MEET_NO_MANS_INFO_EXCHANGE_LEADER_GEDEMO_CAESAR_ANY" Language="en_US">
+			<Text>Rome invites you to exchange information on our respective capitals.</Text>
+		</Row>
+		<!--GREETINGS-->
+		<Row Tag="LOC_DIPLO_GREETING_LEADER_GEDEMO_CAESAR_ANY" Language="en_US">
+			<Text>Ave!</Text>
+		</Row>
+		<!--DELEGATION-->
+		<!--AI Accepts-->
+		<Row Tag="LOC_DIPLO_ACCEPT_DELEGATION_FROM_HUMAN_LEADER_GEDEMO_CAESAR_ANY" Language="en_US">
+			<Text>Rome accepts your delegation with joy.</Text>
+		</Row>
+		<!--AI Rejects-->
+		<Row Tag="LOC_DIPLO_REJECT_DELEGATION_FROM_HUMAN_LEADER_GEDEMO_CAESAR_ANY" Language="en_US">
+			<Text>Unfortunately, no.</Text>
+		</Row>
+		<!--AI Requests -->
+		<Row Tag="LOC_DIPLO_DELEGATION_FROM_AI_LEADER_GEDEMO_CAESAR_ANY" Language="en_US">
+			<Text>Rome send you a business delegation with gifts from my country: Olive Oil, Garum and Wine.</Text>
+		</Row>
+		<!--OPEN BORDERS-->
+		<!--AI accepts from human-->
+		<Row Tag="LOC_DIPLO_ACCEPT_OPEN_BORDERS_FROM_HUMAN_LEADER_GEDEMO_CAESAR_ANY" Language="en_US">
+			<Text>Yes Rome agrees to open my borders to your little soldiers.</Text>
+		</Row>
+		<!--AI rejects from human-->
+		<Row Tag="LOC_DIPLO_REJECT_OPEN_BORDERS_FROM_HUMAN_LEADER_GEDEMO_CAESAR_ANY" Language="en_US">
+			<Text>We are not interested at the moment.</Text>
+		</Row>
+		<!--AI requests from human-->
+		<Row Tag="LOC_DIPLO_OPEN_BORDERS_FROM_AI_LEADER_GEDEMO_CAESAR_ANY" Language="en_US">
+			<Text>Will you allow our units to cross through your territory?</Text>
+		</Row>
+		<!--DECLARE FRIENDSHIP-->
+		<!--AI accepts from human-->
+		<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_HUMAN_LEADER_GEDEMO_CAESAR_ANY" Language="en_US">
+			<Text>Rome accepts your offer of friendship.</Text>
+		</Row>
+		<!--AI Rejects from human -->
+		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_HUMAN_LEADER_GEDEMO_CAESAR_ANY" Language="en_US">
+			<Text>Rome refuses such a ridiculous offer.</Text>
+		</Row>
+		<!--AI Requests friendship from human-->
+		<Row Tag="LOC_DIPLO_DECLARE_FRIEND_FROM_AI_LEADER_GEDEMO_CAESAR_ANY" Language="en_US">
+			<Text>It would be in your best interest, to carefully consider this proposal of friendship.</Text>
+		</Row>
+		<!--Human accepts AI requests, AI responds-->
+		<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_GEDEMO_CAESAR_ANY" Language="en_US">
+			<Text>Thank you, friend.</Text>
+		</Row>
+		<!--Human rejects AI requests, AI responds-->
+		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_GEDEMO_CAESAR_ANY" Language="en_US">
+			<Text>How disappointing.</Text>
+		</Row>
+		<!--ALLIANCE-->
+		<!--AI Requests an alliance from human-->
+		<Row Tag="LOC_DIPLO_MAKE_ALLIANCE_FROM_AI_LEADER_GEDEMO_CAESAR_ANY" Language="en_US">
+			<Text>Would you like to form an alliance with the Great Rome?</Text>
+		</Row>
+		<!--KUDOS & WARNINGS-->
+		<!--AI Kudos-->
+		<Row Tag="LOC_DIPLO_KUDO_EXIT_LEADER_GEDEMO_CAESAR_ANY" Language="en_US">
+			<Text>Men believe what they want.</Text>
+		</Row>
+		<!--AI Warnings-->
+		<Row Tag="LOC_DIPLO_WARNING_EXIT_LEADER_GEDEMO_CAESAR_ANY" Language="en_US">
+			<Text>Tu quoque mi fili?</Text>
+		</Row>
+		<!--AI warns player for border troops-->
+		<Row Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_LEADER_GEDEMO_CAESAR_ANY" Language="en_US">
+			<Text>A nauseabond pile of soldiers formed near our borders ... do you want to remove them before an unfortunate incident occurs?</Text>
+		</Row>
+		<!--TRADE-->
+		<!--AI Accepts Deal-->
+		<Row Tag="LOC_DIPLO_ACCEPT_MAKE_DEAL_FROM_AI_LEADER_GEDEMO_CAESAR_ANY" Language="en_US">
+			<Text>{LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_GEDEMO_CAESAR_ANY}</Text>
+		</Row>
+		<!--AI Rejects Deal-->
+		<Row Tag="LOC_DIPLO_REJECT_MAKE_DEAL_FROM_AI_LEADER_GEDEMO_CAESAR_ANY" Language="en_US">
+			<Text>{LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_GEDEMO_CAESAR_ANY}</Text>
+		</Row>
+		<!--DENOUNCE-->
+		<!--From Human-->
+		<Row Tag="LOC_DIPLO_DENOUNCE_FROM_HUMAN_LEADER_GEDEMO_CAESAR_ANY" Language="en_US">
+			<Text>The danger that we sense, but that we do not see, is the one that disturbs the most. (Denounces you).</Text>
+		</Row>
+		<!--From AI-->
+		<Row Tag="LOC_DIPLO_DENOUNCE_FROM_AI_LEADER_GEDEMO_CAESAR_ANY" Language="en_US">
+			<Text>You are plotting in our backs. Rest assured that I will warn others! (Denounces You).</Text>
+		</Row>
+		<!--DECLARE WAR-->
+		<!--Human Declares War-->
+		<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_HUMAN_LEADER_GEDEMO_CAESAR_ANY" Language="en_US">
+			<Text>I will continue my luck to the bottom of the water!</Text>
+		</Row>
+		<!--AI Declares War-->
+		<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_GEDEMO_CAESAR_ANY" Language="en_US">
+			<Text>I will continue my luck to the bottom of the water, this is war!</Text>
+		</Row>
+		<!--MAKE PEACE-->
+		<!--AI accepts from human-->
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_AI_ACCEPT_DEAL_LEADER_GEDEMO_CAESAR_ANY" Language="en_US">
+			<Text>Let's make peace!</Text>
+		</Row>
+		<!--AI refuses human-->
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_AI_REFUSE_DEAL_LEADER_GEDEMO_CAESAR_ANY" Language="en_US">
+			<Text>Naturally no.</Text>
+		</Row>
+		<!--AI requests from human-->
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_FROM_AI_LEADER_GEDEMO_CAESAR_ANY" Language="en_US">
+			<Text>I propose a truce, when do you think?</Text>
+		</Row>
+		<!--DEFEAT-->
+		<!--AI is Defeated-->
+		<Row Tag="LOC_DIPLO_DEFEAT_FROM_AI_LEADER_GEDEMO_CAESAR_ANY" Language="en_US">
+			<Text>The die is cast, and I am facing defeat. I am willing to listen to your terms for surrender, if you have them.</Text>
+		</Row>
+		<!--Human is Defeated (will see this in hotseat)-->
+		<Row Tag="LOC_DIPLO_DEFEAT_FROM_HUMAN_LEADER_GEDEMO_CAESAR_ANY" Language="en_US">
+			<Text>[LOC_DIPLO_DEFEAT_FROM_AI_LEADER_GEDEMO_CAESAR_ANY]</Text>
+		</Row>
+
+		
+
+
+		<Row Tag="LOC_AGENDA_GEDEMO_CAESAR_NAME" Language="en_US">
+			<Text>Pater patriae</Text>
+		</Row>
+		<Row Tag="LOC_AGENDA_GEDEMO_CAESAR_DESCRIPTION" Language="en_US">
+			<Text>Hates barbarians. Likes civilizations that clear out barbarian outposts. Does not like civilizations that ignore barbarian outposts.</Text>
+		</Row>
+		
+
+
+		
+		
+		
+		
+		
+		<Row Tag="LOC_AGENDA_GEDEMO_CAESAR_NAME" Language="fr_FR">
+			<Text>Pater patriae</Text>
+		</Row>
+		<Row Tag="LOC_AGENDA_GEDEMO_CAESAR_DESCRIPTION" Language="fr_FR">
+			<Text>Déteste les barbares. Aime les civilisations qui dégagent les avant-postes barbares. N'aime pas les civilisations qui ignorent les avant-postes barbares.</Text>
+		</Row>
+		
+
+
+		<Row Tag="LOC_TRAIT_LEADER_GEDEMO_CAESAR_NAME"  Language="fr_FR" >
+			<Text>Veni, vidi, vici</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_LEADER_GEDEMO_CAESAR_DESCRIPTION"  Language="fr_FR" >
+			<Text>Toutes les [ICON_Unit] Unités terrestres actuelles gagnent un niveau de [ICON_Promotion] Promotion lorsque Julius Caesar capture une ville avec 2 [ICON_District] Districts spécialisés ou plus. Cela génère aussi un gain ponctuel de [ICON_CULTURE] Culture.</Text>
+		</Row>
+		
+		
+
+		
+		
+		
+		
+		<Row Tag="LOC_LEADER_GEDEMO_CAESAR" Language="fr_FR">
+			<Text>Jules César</Text>
+		</Row>
+		
+		<Row Tag="LOC_LOADING_INFO_LEADER_GEDEMO_CAESAR" Language="fr_FR">
+			<Text>O Gaius Julius Caesar! Homme de stratégie politique comme militaire, vous avez gravi tous les échelons, allant jusqu’à se faire proclamer dictateur à vie et conquérir un empire gigantesque jusqu’aux confins du monde connu de l’époque.[NEWLINE]Pouvez-vous construire une civilisation qui résistera à l'épreuve du temps?</Text>
+		</Row>
+
+		<!--Civilopedia french-->
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_GEDEMO_CAESAR_TITLE" Language="fr_FR">
+			<Text>Consul</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_GEDEMO_CAESAR_SUBTITLE" Language="fr_FR">
+			<Text>Dictateur</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_GEDEMO_CAESAR_QUOTE" Language="fr_FR">
+			<Text>Alea jacta est.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_GEDEMO_CAESAR_CHAPTER_HISTORY_PARA_1" Language="fr_FR">
+			<Text>Julius Caesar est né à Rome le 12 ou 13 juillet 100 avant JC dans le prestigieux clan Julian. Sa famille était étroitement liée à la faction mariale dans la politique romaine. César lui-même a progressé dans le système politique romain, devenant de plus en plus puissant. En 61-60 avant JC, il a été gouverneur de la province romaine d'Espagne. De retour à Rome en 60, César conclut un pacte avec Pompée et Crassus, qui l'aida à se faire élire consul pour 59 avant JC. L'année suivante, il a été nommé gouverneur de la Gaule romaine où il est resté pendant huit ans, ajoutant la France et la Belgique modernes à l'empire romain, et mettant Rome à l'abri de la possibilité d'invasions gauloises. Il a fait deux expéditions en Grande-Bretagne, en 55 avant JC et 54 avant JC. César est ensuite retourné en Italie, méprisant l'autorité du Sénat et traversant le Rubicon sans dissoudre son armée. Dans la guerre civile qui a suivi, César a vaincu les forces républicaines. Pompey, leur chef, s'est enfui en Égypte où il a été assassiné. César le suivit et devint romantique avec la reine égyptienne Cléopâtre.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_GEDEMO_CAESAR_CHAPTER_HISTORY_PARA_2" Language="fr_FR">
+			<Text>César est maintenant maître de Rome et se fait consul et dictateur. Il a utilisé son pouvoir pour mener à bien une réforme indispensable, alléger la dette, élargir le Sénat, construire le Forum Iulium et réviser le calendrier. La dictature a toujours été considérée comme un poste temporaire, mais en 44 avant JC, César l'a pris à vie. Son succès et son ambition ont aliéné les sénateurs fortement républicains. Un groupe de ceux-ci, dirigé par Cassius et Brutus, assassina César aux Ides du 44 mars avant JC. Cela a déclenché la dernière série de guerres civiles qui ont mis fin à la République et provoqué l'élévation du grand neveu de César et désigné héritier, Octavian, comme Auguste, le premier empereur.</Text>
+		</Row>
+
+
+
+		
+		
+		
+		<!--Diplomacy french-->
+		<!--FIRST MEET french-->
+		<!--First AI line french-->
+		<Row Tag="LOC_DIPLO_FIRST_MEET_LEADER_GEDEMO_CAESAR_ANY" Language="fr_FR">
+			<Text>Salutations. Je suis Gaius Julius Caesar, dictateur de Rome et commandant de ses légions. Quelles affaires avons-nous ensemble?</Text>
+		</Row>
+		<!--AI invitation to visit nearby City french-->
+		<Row Tag="LOC_DIPLO_FIRST_MEET_VISIT_RECIPIENT_LEADER_GEDEMO_CAESAR_ANY" Language="fr_FR">
+			<Text>Bienvenue à Rome, étranger! Avez-vous déjà visité notre grand pays?</Text>
+		</Row>
+		<!--AI accepts Human invitation french-->
+		<Row Tag="LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_POSITIVE_LEADER_GEDEMO_CAESAR_ANY" Language="fr_FR">
+			<Text>je vous remercie.</Text>
+		</Row>
+		<!--AI invitation to exchange Capital Information french -->
+		<Row Tag="LOC_DIPLO_FIRST_MEET_NO_MANS_INFO_EXCHANGE_LEADER_GEDEMO_CAESAR_ANY" Language="fr_FR">
+			<Text>Rome vous invite à échanger des informations sur nos capitales respectives.</Text>
+		</Row>
+		<!--GREETINGS french-->
+		<Row Tag="LOC_DIPLO_GREETING_LEADER_GEDEMO_CAESAR_ANY" Language="fr_FR">
+			<Text>Ave!</Text>
+		</Row>
+		<!--DELEGATION french-->
+		<!--AI Accepts french-->
+		<Row Tag="LOC_DIPLO_ACCEPT_DELEGATION_FROM_HUMAN_LEADER_GEDEMO_CAESAR_ANY" Language="fr_FR">
+			<Text>Rome accepte votre délégation avec joie.</Text>
+		</Row>
+		<!--AI Rejects french-->
+		<Row Tag="LOC_DIPLO_REJECT_DELEGATION_FROM_HUMAN_LEADER_GEDEMO_CAESAR_ANY" Language="fr_FR">
+			<Text>Non, malheureusement.</Text>
+		</Row>
+		<!--AI Requests french-->
+		<Row Tag="LOC_DIPLO_DELEGATION_FROM_AI_LEADER_GEDEMO_CAESAR_ANY" Language="fr_FR">
+			<Text>Rome vous envoie une délégation commerciale avec des cadeaux de mon pays : de l'Huile d'olives, du Garum et du Vin.</Text>
+		</Row>
+		<!--OPEN BORDERS french-->
+		<!--AI accepts from human french-->
+		<Row Tag="LOC_DIPLO_ACCEPT_OPEN_BORDERS_FROM_HUMAN_LEADER_GEDEMO_CAESAR_ANY" Language="fr_FR">
+			<Text>C'est avec plaisir que nous ouvrons nos frontières à vos petits soldats.</Text>
+		</Row>
+		<!--AI rejects from human french-->
+		<Row Tag="LOC_DIPLO_REJECT_OPEN_BORDERS_FROM_HUMAN_LEADER_GEDEMO_CAESAR_ANY" Language="fr_FR">
+			<Text>Nous ne sommes pas intéressés pour l'instant.</Text>
+		</Row>
+		<!--AI requests from human french-->
+		<Row Tag="LOC_DIPLO_OPEN_BORDERS_FROM_AI_LEADER_GEDEMO_CAESAR_ANY" Language="fr_FR">
+			<Text>Permettrez-vous à nos unités de traverser votre territoire?</Text>
+		</Row>
+		<!--DECLARE FRIENDSHIP french-->
+		<!--AI accepts from human french-->
+		<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_HUMAN_LEADER_GEDEMO_CAESAR_ANY" Language="fr_FR">
+			<Text>J'accepte de declarer publiquement notre amitié.</Text>
+		</Row>
+		<!--AI Rejects from human french-->
+		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_HUMAN_LEADER_GEDEMO_CAESAR_ANY" Language="fr_FR">
+			<Text>Je n'ai pas envie d'afficher mon amitié pour vous pour le moment.</Text>
+		</Row>
+		<!--AI Requests friendship from human french-->
+		<Row Tag="LOC_DIPLO_DECLARE_FRIEND_FROM_AI_LEADER_GEDEMO_CAESAR_ANY" Language="fr_FR">
+			<Text>Cela serait dans votre meilleur interet que d'accepter cette proposition d'amitié.</Text>
+		</Row>
+		<!--Human accepts AI requests, AI responds french-->
+		<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_GEDEMO_CAESAR_ANY" Language="fr_FR">
+			<Text>Je vous remercie.</Text>
+		</Row>
+		<!--Human rejects AI requests, AI responds french-->
+		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_GEDEMO_CAESAR_ANY" Language="fr_FR">
+			<Text>C'est fâcheux.</Text>
+		</Row>
+		<!--ALLIANCE-->
+		<!--AI Requests an alliance from human french-->
+		<Row Tag="LOC_DIPLO_MAKE_ALLIANCE_FROM_AI_LEADER_GEDEMO_CAESAR_ANY" Language="fr_FR">
+			<Text>Aimeriez-vous former une alliance avec la Grande Rome?</Text>
+		</Row>
+		<!--KUDOS & WARNINGS french-->
+		<!--AI Kudos-->
+		<Row Tag="LOC_DIPLO_KUDO_EXIT_LEADER_GEDEMO_CAESAR_ANY" Language="fr_FR">
+			<Text>Les hommes croient ce qu'ils désirent.</Text>
+		</Row>
+		<!--AI Warnings french-->
+		<Row Tag="LOC_DIPLO_WARNING_EXIT_LEADER_GEDEMO_CAESAR_ANY" Language="fr_FR">
+			<Text>Tu quoque mi fili?</Text>
+		</Row>
+		<!--AI warns player for border troops french-->
+		<Row Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_LEADER_GEDEMO_CAESAR_ANY" Language="fr_FR">
+			<Text>Un amas nauseabond de soldats s'est formé prés de nos frontières...voulez-vous bien les retirer avant qu'un incident facheux se produise?</Text>
+		</Row>
+		<!--TRADE french-->
+		<!--AI Accepts Deal french-->
+		<Row Tag="LOC_DIPLO_ACCEPT_MAKE_DEAL_FROM_AI_LEADER_GEDEMO_CAESAR_ANY" Language="fr_FR">
+			<Text>{LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_GEDEMO_CAESAR_ANY}</Text>
+		</Row>
+		<!--AI Rejects Deal french-->
+		<Row Tag="LOC_DIPLO_REJECT_MAKE_DEAL_FROM_AI_LEADER_GEDEMO_CAESAR_ANY" Language="fr_FR">
+			<Text>{LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_GEDEMO_CAESAR_ANY}</Text>
+		</Row>
+		<!--DENOUNCE french-->
+		<!--From Human french-->
+		<Row Tag="LOC_DIPLO_DENOUNCE_FROM_HUMAN_LEADER_GEDEMO_CAESAR_ANY" Language="fr_FR">
+			<Text>Le danger que l'on pressent, mais que l'on ne voit pas, est celui qui trouble le plus! (Dénonciation).</Text>
+		</Row>
+		<!--From AI french-->
+		<Row Tag="LOC_DIPLO_DENOUNCE_FROM_AI_LEADER_GEDEMO_CAESAR_ANY" Language="fr_FR">
+			<Text>Vous complotez dans notre dos. Soyez assuré que je vais prevenir les autres! (Dénonciation).</Text>
+		</Row>
+		<!--DECLARE WAR french-->
+		<!--Human Declares War french-->
+		<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_HUMAN_LEADER_GEDEMO_CAESAR_ANY" Language="fr_FR">
+			<Text>Je poursuivrai ma chance jusqu'au fond de l'eau.</Text>
+		</Row>
+		<!--AI Declares War french-->
+		<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_GEDEMO_CAESAR_ANY" Language="fr_FR">
+			<Text>Je poursuivrai ma chance jusqu'au fond de l'eau, c'est la guerre!</Text>
+		</Row>
+		<!--MAKE PEACE french-->
+		<!--AI accepts from human french-->
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_AI_ACCEPT_DEAL_LEADER_GEDEMO_CAESAR_ANY" Language="fr_FR">
+			<Text>Faisons la paix!</Text>
+		</Row>
+		<!--AI refuses human french-->
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_AI_REFUSE_DEAL_LEADER_GEDEMO_CAESAR_ANY" Language="fr_FR">
+			<Text>Naturellement non.</Text>
+		</Row>
+		<!--AI requests from human french-->
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_FROM_AI_LEADER_GEDEMO_CAESAR_ANY" Language="fr_FR">
+			<Text>Je vous propose une trève, quand pensez-vous?</Text>
+		</Row>
+		<!--DEFEAT french-->
+		<!--AI is Defeated french-->
+		<Row Tag="LOC_DIPLO_DEFEAT_FROM_AI_LEADER_GEDEMO_CAESAR_ANY" Language="fr_FR">
+			<Text>Le sort est jeté et je fais face à la défaite. Je suis prêt à écouter vos conditions de reddition, si vous les avez.</Text>
+		</Row>
+		<!--Human is Defeated (will see this in hotseat) french-->
+		<Row Tag="LOC_DIPLO_DEFEAT_FROM_HUMAN_LEADER_GEDEMO_CAESAR_ANY" Language="fr_FR">
+			<Text>[LOC_DIPLO_DEFEAT_FROM_AI_LEADER_GEDEMO_CAESAR_ANY]</Text>
+		</Row>
+
+		
+
+	
+
+		
+
+		
+	</LocalizedText>
+</GameData>

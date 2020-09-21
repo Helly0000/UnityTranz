@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<EnglishText>
+		<Row Tag="LOC_BUILDING_GLOBE_THEATRE_NAME">
+			<Text>Globe Theatre</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_GLOBE_THEATRE_DESCRIPTION">
+			<Text>+1 [ICON_Amenities] Amenities in all cities that have an Amphitheater. Contains 2 slots for Great Works of Writing [ICON_GreatWork_Writing]. 1 free Great Writer appears near the city where the wonder was built (if one is available).  It must be built on Grassland, Plains or Tundra next to a River.</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_GLOBE_THEATRE_QUOTE">
+			<Text>"Good, my lord, will you see the players well bestowed? Do you hear, let them be well used; for they are the abstract and brief chronicles of the time: after your death you were better have a bad epitaph than their ill report while you live."[NEWLINE]–Hamlet Act II, Scene 2.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_WONDERS_PAGE_BUILDING_GLOBE_THEATRE_CHAPTER_HISTORY_PARA_1">
+			<Text>Built in 1599 AD on Maiden Lane in London by the Lord Chamberlain's Men, the theatrical company of which William Shakespeare was a shareholder, the Globe Theatre incorporated a number of design innovations.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_WONDERS_PAGE_BUILDING_GLOBE_THEATRE_CHAPTER_HISTORY_PARA_2">
+			<Text>In 1613 the Globe burned to the ground after the thatched roof was set alight by cannonfire during a production of Henry VIII; it was rebuilt on the same site in 1614 and continued in operation until closed by the Puritans in 1642. Although its exact dimensions are unrecorded, it is known that the Globe Theatre was a three-story, circular, open-air amphitheater roughly 30 meters (100 feet) in diameter and able to seat about 300 spectators.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_WONDERS_PAGE_BUILDING_GLOBE_THEATRE_CHAPTER_HISTORY_PARA_3">
+			<Text>The stage was 13 meters (43 feet) wide, 8 meters (27 feet) deep and raised five feet off the ground, allowing for trap doors.</Text>
+		</Row>
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_CWON_DANTE_NAME">
+			<Text>Dante Alighieri</Text>
+		</Row>
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_CWON_JOHN_DONNE_NAME">
+			<Text>John Donne</Text>
+		</Row>
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_CWON_MOLIERE_NAME">
+			<Text>Molière</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_CWON_JOHN_DONNE_CHAPTER_HISTORY_PARA_1">
+			<Text>John Donne (22 January 1572 – 31 March 1631) was an English poet and cleric in the Church of England. He is considered the pre-eminent representative of the metaphysical poets. His works are noted for their strong, sensual style and include sonnets, love poems, religious poems, Latin translations, epigrams, elegies, songs, satires and sermons. His poetry is noted for its vibrancy of language and inventiveness of metaphor, especially compared to that of his contemporaries. Donne's style is characterised by abrupt openings and various paradoxes, ironies and dislocations. These features, along with his frequent dramatic or everyday speech rhythms, his tense syntax and his tough eloquence, were both a reaction against the smoothness of conventional Elizabethan poetry and an adaptation into English of European baroque and mannerist techniques. His early career was marked by poetry that bore immense knowledge of English society and he met that knowledge with sharp criticism. Another important theme in Donne's poetry is the idea of true religion, something that he spent much time considering and about which he often theorized. He wrote secular poems as well as erotic and love poems. He is particularly famous for his mastery of metaphysical conceits. Despite his great education and poetic talents, Donne lived in poverty for several years, relying heavily on wealthy friends. He spent much of the money he inherited during and after his education on womanising, literature, pastimes, and travel. In 1601, Donne secretly married Anne More, with whom he had twelve children. In 1615 he was ordained deacon and then Anglican priest, although he did not want to take Holy Orders and only did so because the king ordered it. In 1621, he was appointed the Dean of St Paul's Cathedral in London. He also served as a member of Parliament in 1601 and in 1614.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_CWON_DANTE_CHAPTER_HISTORY_PARA_1">
+			<Text>Durante di Alighiero degli Alighieri, commonly known by his pen name Dante Alighieri or simply as Dante (c.1265 – 1321), was an Italian poet during the Late Middle Ages. His Divine Comedy, originally called Comedìa and later christened Divina by Giovanni Boccaccio, is widely considered the most important poem of the Middle Ages and the greatest literary work in the Italian language.In the late Middle Ages, most poetry was written in Latin, making it accessible only to the most educated readers. In De vulgari eloquentia (On Eloquence in the Vernacular), however, Dante defended the use of the vernacular in literature. He would even write in the Tuscan dialect for works such as The New Life (1295) and the Divine Comedy; this highly unorthodox choice set a precedent that important later Italian writers such as Petrarch and Boccaccio would follow.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_CWON_MOLIERE_CHAPTER_HISTORY_PARA_1">
+			<Text>Jean-Baptiste Poquelin, known by his stage name Molière (baptised 15 January 1622; died 17 February 1673), was a French playwright, actor and poet, widely regarded as one of the greatest writers in the French language and universal literature. His extant works include comedies, farces, tragicomedies, comédie-ballets and more. His plays have been translated into every major living language and are performed at the Comédie-Française more often than those of any other playwright today. His influence is such that the French language itself is often referred to as the "language of Molière".</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_CWON_JOHN_DONNE_1_NAME">
+			<Text>Devotions upon Emergent Occasions</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_CWON_JOHN_DONNE_2_NAME">
+			<Text>Songs and Sonnets</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_CWON_DANTE_2_NAME">
+			<Text>Paradiso</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_CWON_DANTE_1_NAME">
+			<Text>Inferno</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_CWON_MOLIERE_1_NAME">
+			<Text>The Misanthrope</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_CWON_MOLIERE_2_NAME">
+			<Text>Tartuffe</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_CWON_JOHN_DONNE_1_QUOTE">
+			<Text>No man is an island entire of itself; every man is a piece of the continent, a part of the main; any man's death diminishes me, because I am involved in mankind. And therefore never send to know for whom the bell tolls; it tolls for thee.</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_CWON_JOHN_DONNE_2_QUOTE">
+			<Text>We can die by it, if not live by love, and if unfit for tombs and hearse our legend be, it will be fit for verse; and if no piece of chronicle we prove, we'll build in sonnets pretty rooms; as well a well-wrought urn becomes the greatest ashes, as half-acre tombs, and by these hymns, all shall approve us canonized for Love.</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_CWON_DANTE_2_QUOTE">
+			<Text>Here powers failed my high imagination: but by now my desire and will were turned, like a balanced wheel rotated evenly, by the Love that moves the sun and the other stars.</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_CWON_DANTE_1_QUOTE">
+			<Text>As little flowers, which the chill of night has bent and huddled, when the white sun strikes, grow straight and open fully on their stems, so did I, too, with my exhausted force.</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_CWON_MOLIERE_1_QUOTE">
+			<Text>If everyone were clothed with integrity, if every heart were just, frank, kindly, the other virtues would be well-nigh useless, since their chief purpose is to make us bear with patience the injustice of our fellows.</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_CWON_MOLIERE_2_QUOTE">
+			<Text>Those whose conduct gives room for talk are always the first to attack their neighbors.</Text>
+		</Row>
+	</EnglishText>
+	<LocalizedText>
+		<Replace Tag="LOC_BUILDING_GLOBE_THEATRE_NAME" Language="es_ES">
+			<Text>Globe Theatre</Text>
+		</Replace>
+		<Replace Tag="LOC_BUILDING_GLOBE_THEATRE_QUOTE" Language="es_ES">
+			<Text>"Y vos, mi buen señor, ¿podéis aseguraros de que los comediantes reciban buen hospedaje? ¿Me oís? Tratadlos bien, porque a su cargo está representar breve y esencialmente las crónicas de nuestros tiempos. Más os vale un mal epitafio que un retrato poco lisonjero en una de sus comedias."[NEWLINE] - Hamlet Acto II, Escena 2.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_WONDERS_PAGE_BUILDING_GLOBE_THEATRE_CHAPTER_HISTORY_PARA_1" Language="es_ES">
+			<Text>Construido en el año 1599 en Maiden Lane, en Londres, por Lord Chamberlain's Men, la compañía teatral de la que William Shakespeare era accionista, el Globe Theatre incorporó un gran número de innovaciones en su diseño.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_WONDERS_PAGE_BUILDING_GLOBE_THEATRE_CHAPTER_HISTORY_PARA_2" Language="es_ES">
+			<Text>En 1613, el Globe se incendió hasta los cimientos después de que su techo de paja prendiera debido al fuego de un cañón durante la representación de Enrique VIII. Se reconstruyó en el mismo sitio en 1614 y siguió funcionando hasta que los puritanos lo cerraron en 1642. Aunque no hay constancia de sus dimensiones exactas, se sabe que el Globe Theatre era un anfiteatro de tres plantas circulares y al aire libre de unos 30 metros de diámetro y capaz de acoger a unos 300 espectadores.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_WONDERS_PAGE_BUILDING_GLOBE_THEATRE_CHAPTER_HISTORY_PARA_3" Language="es_ES">
+			<Text>El escenario tenía 13 metros de ancho por 8 de profundidad y se levantaba metro y medio del suelo, lo que permitía el uso de trampillas.</Text>
+        </Replace>
+	</LocalizedText>
+</GameData>

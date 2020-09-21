@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<EnglishText>
+		<Row Tag="LOC_BUILDING_BURJ_KHALIFA_NAME">
+			<Text>Burj Khalifa</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_BURJ_KHALIFA_DESCRIPTION">
+			<Text>Awards +3 [ICON_RESOURCE_OIL] Oil. Oil Wells, Oil Rigs and Mines within 9 tiles yield +2 [ICON_Culture] Culture. +15% [ICON_Gold] Gold in this city. +1 [ICON_TradeRoute] Trade Route.</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_BURJ_KHALIFA_QUOTE">
+			<Text>"I am the heart of the city and its people, the marker that defines ... Dubai's shiny dream. More than just a moment in time, I define moments for future generations. I am Burj Khalifa." - inscription at the entrance</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_WONDERS_PAGE_BUILDING_BURJ_KHALIFA_CHAPTER_HISTORY_PARA_1">
+			<Text>The Burj Khalifa is a skyscraper in Dubai, United Arab Emirates. With a total height of 829.8 m (2,722 ft) and a roof height (excluding antenna) of 828 m (2,717 ft), the Burj Khalifa has been the tallest structure and building in the world since its topping out in 2009.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_WONDERS_PAGE_BUILDING_BURJ_KHALIFA_CHAPTER_HISTORY_PARA_2">
+			<Text>Construction of the Burj Khalifa began in 2004, with the exterior completed five years later in 2009. The primary structure is reinforced concrete. The building was opened in 2010 as part of a new development called Downtown Dubai. It is designed to be the centrepiece of large-scale, mixed-use development. The decision to construct the building is based on the government's decision to diversify from an oil-based economy, and for Dubai to gain international recognition. The building was originally named Burj Dubai but was renamed in honour of the ruler of Abu Dhabi and president of the United Arab Emirates, Khalifa bin Zayed Al Nahyan; Abu Dhabi and the UAE government lent Dubai money to pay its debts. The building broke numerous height records, including its designation as the tallest building in the world.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_WONDERS_PAGE_BUILDING_BURJ_KHALIFA_CHAPTER_HISTORY_PARA_3">
+			<Text>Burj Khalifa was designed by Adrian Smith, of Skidmore, Owings and Merrill, whose firm designed the Willis Tower and One World Trade Center. Hyder Consulting was chosen to be the supervising engineer with NORR Group Consultants International Limited chosen to supervise the architecture of the project. The design is derived from the Islamic architecture of the region, such as in the Great Mosque of Samarra. The Y-shaped tripartite floor geometry is designed to optimize residential and hotel space. A buttressed central core and wings are used to support the height of the building. Although this design was derived from Tower Palace III, the Burj Khalifa's central core houses all vertical transportation with the exception of egress stairs within each of the wings. The structure also features a cladding system which is designed to withstand Dubai's hot summer temperatures. It contains a total of 57 elevators and 8 escalators.</Text>
+		</Row>
+	</EnglishText>
+</GameData>

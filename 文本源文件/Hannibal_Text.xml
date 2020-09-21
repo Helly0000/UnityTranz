@@ -1,0 +1,450 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<LocalizedText>
+		
+				
+	
+		<Row Tag="LOC_TRAIT_LEADER_GEDEMO_HANNIBAL_NAME" Language="en_US">
+			<Text>Hannibal Ad Portas</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_LEADER_GEDEMO_HANNIBAL_DESCRIPTION" Language="en_US">
+			<Text>During peacetime, Military Units increase [ICON_PRODUCTION] Production by 10% when garrisoned. During wartime, all the Phoenician units reduce the [ICON_Strength] Combat Strength of adjacent enemy units by 5. Hannibal has a Unique Unit: the African Forest Elephant.</Text>
+		</Row>
+
+
+		<Row Tag="LOC_LEADER_GEDEMO_HANNIBAL" Language="en_US">
+			<Text>Hannibal Barca</Text>
+		</Row>
+		
+		<Row Tag="LOC_LOADING_INFO_LEADER_GEDEMO_HANNIBAL" Language="en_US">
+			<Text>Mighty Hannibal Barca, you were not only a leader of men, but also a brewer of ideas. Behind the captain who made Rome tremble hides the politician born in a Carthage subject to the influences of Hellenism. Hannibal poses as the continuator of Alexander, as the man of the gathering of the Mediterranean States. We can say that two hundred years before Caesar, before Augustus, Hannibal understood that the world could only find prosperity in unity. The "Roman peace" could very well have been preceded by a "Carthaginian peace". Hannibal was the precursor and undoubtedly the involuntary artisan of the unification enterprise that Rome, after the failure and death of the Barcid, will tirelessly carry out to its end.[NewLine]Can you build a civilization that can stand the test of time? </Text>
+		</Row>
+		<!--Civilopedia-->
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_GEDEMO_HANNIBAL_TITLE" Language="en_US">
+			<Text>General Commander-in-Chief of the Carthaginian army</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_GEDEMO_HANNIBAL_SUBTITLE" Language="en_US">
+			<Text>Shophet</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_GEDEMO_HANNIBAL_QUOTE" Language="en_US">
+			<Text>I will either find a way or make one.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_GEDEMO_HANNIBAL_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Among the great captains of military history, few stand as high, and none higher, than Hannibal Barca. He was born the son of Hamilcar Barca in 247 BC, shortly before the Carthaginian defeat in the First Punic War. Hamilcar made it his mission to conquer new territory in Hispania (Spain) to make up for the loss of Sicily, Sardinia and Corsica to the Romans; when Hannibal grew old enough, he joined his father and learned the art of military command. According to legend, at this time Hannibal swore an oath of eternal vengeance on Rome. After the death of his father and brother-in-law, Hannibal was acclaimed the commander of the Carthaginian forces in Hispania in 221 BC. He spent the next two years finishing the subjugation of the region, and then in 219 BC he attacked the town of Sagentum. Hannibal had been looking for a bigger fight: the city was under the protection of Rome and his attack was sure to spark a diplomatic incident. In fact, the situation boiled out of control and Rome declared war on Carthage, thus beginning the Second Punic War.</Text>
+		</Row>
+		
+
+
+
+ 
+		
+		
+		
+		
+		<!--Diplomacy-->
+		<!--FIRST MEET-->
+		<!--First AI line-->
+		<Row Tag="LOC_DIPLO_FIRST_MEET_LEADER_GEDEMO_HANNIBAL_ANY" Language="en_US">
+			<Text>Hail wanderer, you stand before the guardian of mighty Carthage, favored empire of Ba'al-hamon. If you seek with Carthage turmoil, then I will march a storm upon your pathetic armies and have your greatest generals weep in fear.</Text>
+		</Row>
+		<!--AI invitation to visit nearby City-->
+		<Row Tag="LOC_DIPLO_FIRST_MEET_VISIT_RECIPIENT_LEADER_GEDEMO_HANNIBAL_ANY" Language="en_US">
+			<Text>Hi! I'm Hannibal Barca. Welcome in Carthage! Would you like to visit our nearest city?</Text>
+		</Row>
+		<!--AI accepts Human invitation-->
+		<Row Tag="LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_POSITIVE_LEADER_GEDEMO_HANNIBAL_ANY" Language="en_US">
+			<Text>Thank you.</Text>
+		</Row>
+		<!--AI invitation to exchange Capital Information-->
+		<Row Tag="LOC_DIPLO_FIRST_MEET_NO_MANS_INFO_EXCHANGE_LEADER_GEDEMO_HANNIBAL_ANY" Language="en_US">
+			<Text>I am Hannibal Barca, I come from the mighty Carthage! let's share the locations of our respective capitals.</Text>
+		</Row>
+		<!--GREETINGS-->
+		<Row Tag="LOC_DIPLO_GREETING_LEADER_GEDEMO_HANNIBAL_ANY" Language="en_US">
+			<Text>Avo! (Greetings)</Text>
+		</Row>
+		<!--DELEGATION-->
+		<!--AI Accepts-->
+		<Row Tag="LOC_DIPLO_ACCEPT_DELEGATION_FROM_HUMAN_LEADER_GEDEMO_HANNIBAL_ANY" Language="en_US">
+			<Text>Carthage accept your delegation with pleasure.</Text>
+		</Row>
+		<!--AI Rejects-->
+		<Row Tag="LOC_DIPLO_REJECT_DELEGATION_FROM_HUMAN_LEADER_GEDEMO_HANNIBAL_ANY" Language="en_US">
+			<Text>Unfortunately, no.</Text>
+		</Row>
+		<!--AI Requests -->
+		<Row Tag="LOC_DIPLO_DELEGATION_FROM_AI_LEADER_GEDEMO_HANNIBAL_ANY" Language="en_US">
+			<Text>Carthage sent you some gifts: the latest brochures on hiking in the Alps, and of course some elephants...</Text>
+		</Row>
+		<!--OPEN BORDERS-->
+		<!--AI accepts from human-->
+		<Row Tag="LOC_DIPLO_ACCEPT_OPEN_BORDERS_FROM_HUMAN_LEADER_GEDEMO_HANNIBAL_ANY" Language="en_US">
+			<Text>So be it.</Text>
+		</Row>
+		<!--AI rejects from human-->
+		<Row Tag="LOC_DIPLO_REJECT_OPEN_BORDERS_FROM_HUMAN_LEADER_GEDEMO_HANNIBAL_ANY" Language="en_US">
+			<Text>You cannot be serious about your request.</Text>
+		</Row>
+		<!--AI requests from human-->
+		<Row Tag="LOC_DIPLO_OPEN_BORDERS_FROM_AI_LEADER_GEDEMO_HANNIBAL_ANY" Language="en_US">
+			<Text>Carthage believe it's in our mutual interest to allow free passage between our two great empires.</Text>
+		</Row>
+		<!--DECLARE FRIENDSHIP-->
+		<!--AI accepts from human-->
+		<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_HUMAN_LEADER_GEDEMO_HANNIBAL_ANY" Language="en_US">
+			<Text>Let us plant the seeds of a bright future!</Text>
+		</Row>
+		<!--AI Rejects from human -->
+		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_HUMAN_LEADER_GEDEMO_HANNIBAL_ANY" Language="en_US">
+			<Text>Such an arrangement would be of little benefit for Carthage.</Text>
+		</Row>
+		<!--AI Requests friendship from human-->
+		<Row Tag="LOC_DIPLO_DECLARE_FRIEND_FROM_AI_LEADER_GEDEMO_HANNIBAL_ANY" Language="en_US">
+			<Text>Would you make with Carthage a Declaration of Friendship?</Text>
+		</Row>
+		<!--Human accepts AI requests, AI responds-->
+		<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_GEDEMO_HANNIBAL_ANY" Language="en_US">
+			<Text>Thank you, friend of Carthage.</Text>
+		</Row>
+		<!--Human rejects AI requests, AI responds-->
+		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_GEDEMO_HANNIBAL_ANY" Language="en_US">
+			<Text>How disappointing.</Text>
+		</Row>
+		<!--ALLIANCE-->
+		<!--AI Requests an alliance from human-->
+		<Row Tag="LOC_DIPLO_MAKE_ALLIANCE_FROM_AI_LEADER_GEDEMO_HANNIBAL_ANY" Language="en_US">
+			<Text>Would you like to form an alliance with Carthage?</Text>
+		</Row>
+		<!--KUDOS & WARNINGS-->
+		<!--AI Kudos-->
+		<Row Tag="LOC_DIPLO_KUDO_EXIT_LEADER_GEDEMO_HANNIBAL_ANY" Language="en_US">
+			<Text>Words are living things. They have personality, point of view... agenda.</Text>
+		</Row>
+		<!--AI Warnings-->
+		<Row Tag="LOC_DIPLO_WARNING_EXIT_LEADER_GEDEMO_HANNIBAL_ANY" Language="en_US">
+			<Text>Words are living things. They have personality, point of view... agenda.</Text>
+		</Row>
+		<!--AI warns player for border troops-->
+		<Row Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_LEADER_GEDEMO_HANNIBAL_ANY" Language="en_US">
+			<Text>I see your armies amassed near my empire. If you wish to attack then come. Don't hide in the shadows like a child.</Text>
+		</Row>
+		<!--TRADE-->
+		<!--AI Accepts Deal-->
+		<Row Tag="LOC_DIPLO_ACCEPT_MAKE_DEAL_FROM_AI_LEADER_GEDEMO_HANNIBAL_ANY" Language="en_US">
+			<Text>{LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_GEDEMO_HANNIBAL_ANY}</Text>
+		</Row>
+		<!--AI Rejects Deal-->
+		<Row Tag="LOC_DIPLO_REJECT_MAKE_DEAL_FROM_AI_LEADER_GEDEMO_HANNIBAL_ANY" Language="en_US">
+			<Text>{LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_GEDEMO_HANNIBAL_ANY}</Text>
+		</Row>
+		<!--DENOUNCE-->
+		<!--From Human-->
+		<Row Tag="LOC_DIPLO_DENOUNCE_FROM_HUMAN_LEADER_GEDEMO_HANNIBAL_ANY" Language="en_US">
+			<Text>Nothing more isolating than a mental illness.</Text>
+		</Row>
+		<!--From AI-->
+		<Row Tag="LOC_DIPLO_DENOUNCE_FROM_AI_LEADER_GEDEMO_HANNIBAL_ANY" Language="en_US">
+			<Text>Discourtesy is unspeakably ugly to Carthage.(Denounces You).</Text>
+		</Row>
+		<!--DECLARE WAR-->
+		<!--Human Declares War-->
+		<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_HUMAN_LEADER_GEDEMO_HANNIBAL_ANY" Language="en_US">
+			<Text>You will be crushed under the foot of an elephant. Carthage would have warned you.</Text>
+		</Row>
+		<!--AI Declares War-->
+		<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_GEDEMO_HANNIBAL_ANY" Language="en_US">
+			<Text>Carthage declares war on you: you will be swept away.</Text>
+		</Row>
+		<!--MAKE PEACE-->
+		<!--AI accepts from human-->
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_AI_ACCEPT_DEAL_LEADER_GEDEMO_HANNIBAL_ANY" Language="en_US">
+			<Text>Carthage wants to make peace!</Text>
+		</Row>
+		<!--AI refuses human-->
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_AI_REFUSE_DEAL_LEADER_GEDEMO_HANNIBAL_ANY" Language="en_US">
+			<Text>There can be no peace. Perhaps another day.</Text>
+		</Row>
+		<!--AI requests from human-->
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_FROM_AI_LEADER_GEDEMO_HANNIBAL_ANY" Language="en_US">
+			<Text>Carthage proposes to make peace.</Text>
+		</Row>
+		<!--DEFEAT-->
+		<!--AI is Defeated-->
+		<Row Tag="LOC_DIPLO_DEFEAT_FROM_AI_LEADER_GEDEMO_HANNIBAL_ANY" Language="en_US">
+			<Text>Let us ease your people's fears, who think it long to await the death of this old man.</Text>
+		</Row>
+		<!--Human is Defeated (will see this in hotseat)-->
+		<Row Tag="LOC_DIPLO_DEFEAT_FROM_HUMAN_LEADER_GEDEMO_HANNIBAL_ANY" Language="en_US">
+			<Text>[LOC_DIPLO_DEFEAT_FROM_AI_LEADER_GEDEMO_HANNIBAL_ANY]</Text>
+		</Row>
+
+		
+
+
+		<Row Tag="LOC_AGENDA_GEDEMO_HANNIBAL_NAME" Language="en_US">
+			<Text>Punic Wars</Text>
+		</Row>
+		<Row Tag="LOC_AGENDA_GEDEMO_HANNIBAL_DESCRIPTION" Language="en_US">
+			<Text>Emphasizes protectorate wars. Admires civilizations that start protectorate wars. Dislikes civilizations that attack city-states.</Text>
+		</Row>
+
+		
+
+		
+
+		<Row Tag="LOC_ABILITY_BARCA_NAME" Language="en_US">
+			<Text>Barcide ability</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_BARCA_DESCRIPTION" Language="en_US">
+			<Text>Reduces the Combat Strength of adjacent enemy units by 5.</Text>
+		</Row>
+
+		<Row Tag="LOC_ABILITY_SURUS_NAME" Language="en_US">
+			<Text>Surus ability</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_SURUS_DESCRIPTION" Language="en_US">
+			<Text>Starts with one free promotion.</Text>
+		</Row>
+
+		<Row Tag="LOC_ABILITY_SURUS_NAME" Language="fr_FR">
+			<Text>Surus</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_SURUS_DESCRIPTION" Language="fr_FR">
+			<Text>Commence avec une promotion gratuite.</Text>
+		</Row>
+		
+		
+		<Row Tag="LOC_ABILITY_BARCA_NAME" Language="fr_FR">
+			<Text>Barcide</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_BARCA_DESCRIPTION" Language="fr_FR">
+			<Text>Reduit la puissance de combat de l'enemi adjacent de 5.</Text>
+		</Row>
+
+
+		<Row Tag="LOC_UNIT_GEDEMO_LOXODONTA_NAME" Language="en_US">
+			<Text>African Forest Elephant</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_GEDEMO_LOXODONTA_DESCRIPTION" Language="en_US">
+			<Text>Hannibal's Unique Unit that replaces nothing. Starts with one free Promotion.</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_CIVILIZATION_UNIT_GEDEMO_LOXODONTA_NAME" Language="en_US">
+			<Text>Hannibal Unique Unit: African Forest Elephant</Text>
+		</Row>
+
+		<Row Tag="LOC_UNIT_GEDEMO_LOXODONTA_NAME" Language="fr_FR">
+			<Text>Elephant de Forêt d'Afrique|Elephants de Forêt d'Afrique</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1|2</Plurality>
+		</Row>
+		<Row Tag="LOC_UNIT_GEDEMO_LOXODONTA_DESCRIPTION" Language="fr_FR">
+			<Text>Exclusive à Hannibal, cette unité ne remplace rien. Commence avec une promotion gratuite.</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_CIVILIZATION_UNIT_GEDEMO_LOXODONTA_NAME" Language="fr_FR">
+			<Text>Unité exclusive à Hannibal: Elephant de Forêt d'Afrique</Text>
+		</Row>
+		
+
+
+	
+	
+
+
+
+
+		<Row Tag="LOC_AGENDA_GEDEMO_HANNIBAL_NAME" Language="fr_FR">
+			<Text>Guerres Puniques</Text>
+		</Row>
+		<Row Tag="LOC_AGENDA_GEDEMO_HANNIBAL_DESCRIPTION" Language="fr_FR">
+			<Text>Aime mettre l'accent sur les guerres du protectorat. Admire les civilisations qui déclenchent les guerres du protectorat. N'aime pas les civilisations qui attaquent les cités-états.</Text>
+		</Row>
+		
+
+
+		<Row Tag="LOC_TRAIT_LEADER_GEDEMO_HANNIBAL_NAME"  Language="fr_FR" >
+			<Text>Hannibal Ad Portas</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_LEADER_GEDEMO_HANNIBAL_DESCRIPTION"  Language="fr_FR" >
+			<Text>En temps de paix, les unités en garnison dans la ville augmente la [ICON_PRODUCTION] Production de 10%. En temps de guerre, toutes les Unités Phéniciennes réduisent la [ICON_Strength] Puissance de Combat des unités enemies adjacentes de 5. Hannibal dispose d'une Unité Unique: l'Eléphant de Forêt d'Afrique.</Text>
+		</Row>
+		
+		
+
+		
+		
+		
+		
+		<Row Tag="LOC_LEADER_GEDEMO_HANNIBAL" Language="fr_FR">
+			<Text>Hannibal Barca</Text>
+		</Row>
+		
+		<Row Tag="LOC_LOADING_INFO_LEADER_GEDEMO_HANNIBAL" Language="fr_FR">
+			<Text>O Rusé Hannibal, vous avez été non seulement un meneur d'hommes, mais aussi un brasseur d'idées. Derrière le capitaine qui fit trembler Rome se cache l'homme politique né dans une Carthage soumise aux influences de l'hellénisme. Hannibal se pose comme le continuateur d'Alexandre, comme l'homme du rassemblement des États méditerranéens. On peut dire que deux cents ans avant César, avant Auguste, Hannibal a compris que le monde ne pouvait retrouver la prospérité que dans l'unité. La « paix romaine » aurait fort bien pu être précédée par une « paix carthaginoise ». Hannibal a été le précurseur et sans doute l'artisan involontaire de l'entreprise d'unification que Rome, après l'échec et la mort du Barcide, mènera inlassablement jusqu'à son terme.[NewLine]Pouvez-vous construire une civilisation qui résiste à l'épreuve du temps?</Text>
+		</Row>
+
+		<!--Civilopedia french-->
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_GEDEMO_HANNIBAL_TITLE" Language="fr_FR">
+			<Text>Général</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_GEDEMO_HANNIBAL_SUBTITLE" Language="fr_FR">
+			<Text>Suffète</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_GEDEMO_HANNIBAL_QUOTE" Language="fr_FR">
+			<Text>Nous trouverons un chemin...ou nous en créerons un.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_GEDEMO_HANNIBAL_CHAPTER_HISTORY_PARA_1" Language="fr_FR">
+			<Text>Parmi les grands capitaines de l'histoire militaire, peu sont aussi hauts et aucun plus haut que Hannibal Barca. Il est né fils d'Hamilcar Barca en 247 avant JC, peu de temps avant la défaite carthaginoise de la première guerre punique. Hamilcar s'est donné pour mission de conquérir de nouveaux territoires en Hispanie (Espagne) pour compenser la perte de la Sicile, de la Sardaigne et de la Corse aux Romains; Quand Hannibal est devenu assez vieux, il a rejoint son père et a appris l'art du commandement militaire. Selon la légende, à cette époque, Hannibal a prêté serment de vengeance éternelle sur Rome. Après la mort de son père et de son beau-frère, Hannibal est acclamé commandant des forces carthaginoises en Hispanie en 221 av. Il a passé les deux années suivantes à terminer l'assujettissement de la région, puis en 219 avant JC, il a attaqué la ville de Sagentum. Hannibal avait cherché un plus grand combat: la ville était sous la protection de Rome et son attaque allait certainement déclencher un incident diplomatique. En fait, la situation est devenue incontrôlable et Rome a déclaré la guerre à Carthage, déclenchant ainsi la deuxième guerre punique.</Text>
+		</Row>
+		
+
+
+
+		
+		
+		
+		<!--Diplomacy french-->
+		<!--FIRST MEET french-->
+		<!--First AI line french-->
+		<Row Tag="LOC_DIPLO_FIRST_MEET_LEADER_GEDEMO_HANNIBAL_ANY" Language="fr_FR">
+			<Text>Salutations vagabond, vous vous tenez devant le gardien du puissant Carthage, empire favori de Ba'al-hamon. Si vous cherchez la tourmente de Carthage, alors je ferai une tempête sur vos armées pathétiques et ferai pleurer de peur vos plus grands généraux.</Text>
+		</Row>
+		<!--AI invitation to visit nearby City french-->
+		<Row Tag="LOC_DIPLO_FIRST_MEET_VISIT_RECIPIENT_LEADER_GEDEMO_HANNIBAL_ANY" Language="fr_FR">
+			<Text>Salutations étranger, je suis Hannibal Barca, de Carthage! Souhaitez-vous visiter notre cité voisine et admirer ses splendeurs?</Text>
+		</Row>
+		<!--AI accepts Human invitation french-->
+		<Row Tag="LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_POSITIVE_LEADER_GEDEMO_HANNIBAL_ANY" Language="fr_FR">
+			<Text>Merci beaucoup.</Text>
+		</Row>
+		<!--AI invitation to exchange Capital Information french -->
+		<Row Tag="LOC_DIPLO_FIRST_MEET_NO_MANS_INFO_EXCHANGE_LEADER_GEDEMO_HANNIBAL_ANY" Language="fr_FR">
+			<Text>Carthage vous invite à échanger des informations sur nos capitales respectives.</Text>
+		</Row>
+		<!--GREETINGS french-->
+		<Row Tag="LOC_DIPLO_GREETING_LEADER_GEDEMO_HANNIBAL_ANY" Language="fr_FR">
+			<Text>Avo! (Salutations)</Text>
+		</Row>
+		<!--DELEGATION french-->
+		<!--AI Accepts french-->
+		<Row Tag="LOC_DIPLO_ACCEPT_DELEGATION_FROM_HUMAN_LEADER_GEDEMO_HANNIBAL_ANY" Language="fr_FR">
+			<Text>Carthage accepte votre délégation avec le plus grand des plaisirs!</Text>
+		</Row>
+		<!--AI Rejects french-->
+		<Row Tag="LOC_DIPLO_REJECT_DELEGATION_FROM_HUMAN_LEADER_GEDEMO_HANNIBAL_ANY" Language="fr_FR">
+			<Text>Non, malheureusement la situation ne s'y prète pas.</Text>
+		</Row>
+		<!--AI Requests french-->
+		<Row Tag="LOC_DIPLO_DELEGATION_FROM_AI_LEADER_GEDEMO_HANNIBAL_ANY" Language="fr_FR">
+			<Text>Carthage vous a envoyé quelques cadeaux: des brochures sur les randonnées alpines et bien sûr, quelques éléphants...</Text>
+		</Row>
+		<!--OPEN BORDERS french-->
+		<!--AI accepts from human french-->
+		<Row Tag="LOC_DIPLO_ACCEPT_OPEN_BORDERS_FROM_HUMAN_LEADER_GEDEMO_HANNIBAL_ANY" Language="fr_FR">
+			<Text>C'est avec plaisir que Carthage ouvre ses frontières à vos armées insignifiantes.</Text>
+		</Row>
+		<!--AI rejects from human french-->
+		<Row Tag="LOC_DIPLO_REJECT_OPEN_BORDERS_FROM_HUMAN_LEADER_GEDEMO_HANNIBAL_ANY" Language="fr_FR">
+			<Text>Carthage n'est pas intéressée pour l'instant.</Text>
+		</Row>
+		<!--AI requests from human french-->
+		<Row Tag="LOC_DIPLO_OPEN_BORDERS_FROM_AI_LEADER_GEDEMO_HANNIBAL_ANY" Language="fr_FR">
+			<Text>Permettrez-vous à nos unités de traverser votre territoire?</Text>
+		</Row>
+		<!--DECLARE FRIENDSHIP french-->
+		<!--AI accepts from human french-->
+		<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_HUMAN_LEADER_GEDEMO_HANNIBAL_ANY" Language="fr_FR">
+			<Text>Carthage accepte de declarer publiquement notre amitié.</Text>
+		</Row>
+		<!--AI Rejects from human french-->
+		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_HUMAN_LEADER_GEDEMO_HANNIBAL_ANY" Language="fr_FR">
+			<Text>Carthage n'a pas envie d'afficher mon amitié pour vous pour le moment.</Text>
+		</Row>
+		<!--AI Requests friendship from human french-->
+		<Row Tag="LOC_DIPLO_DECLARE_FRIEND_FROM_AI_LEADER_GEDEMO_HANNIBAL_ANY" Language="fr_FR">
+			<Text>Cela serait dans votre interet d'accepter cette proposition d'amitié de la part de Carthage.</Text>
+		</Row>
+		<!--Human accepts AI requests, AI responds french-->
+		<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_GEDEMO_HANNIBAL_ANY" Language="fr_FR">
+			<Text>Carthage vous remercie.</Text>
+		</Row>
+		<!--Human rejects AI requests, AI responds french-->
+		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_GEDEMO_HANNIBAL_ANY" Language="fr_FR">
+			<Text>Comme c'est dommage!</Text>
+		</Row>
+		<!--ALLIANCE-->
+		<!--AI Requests an alliance from human french-->
+		<Row Tag="LOC_DIPLO_MAKE_ALLIANCE_FROM_AI_LEADER_GEDEMO_HANNIBAL_ANY" Language="fr_FR">
+			<Text>Aimeriez-vous former une alliance avec la puissante Carhage?</Text>
+		</Row>
+		<!--KUDOS & WARNINGS french-->
+		<!--AI Kudos-->
+		<Row Tag="LOC_DIPLO_KUDO_EXIT_LEADER_GEDEMO_HANNIBAL_ANY" Language="fr_FR">
+			<Text>Ah! Ah! Formidable!</Text>
+		</Row>
+		<!--AI Warnings french-->
+		<Row Tag="LOC_DIPLO_WARNING_EXIT_LEADER_GEDEMO_HANNIBAL_ANY" Language="fr_FR">
+			<Text>Quel ennui!</Text>
+		</Row>
+		<!--AI warns player for border troops french-->
+		<Row Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_LEADER_GEDEMO_HANNIBAL_ANY" Language="fr_FR">
+			<Text>Vos soldats manquent de discretion de l'autre côté de la frontière...Veuillez les retirer rapidement ou vous en paierez le prix!</Text>
+		</Row>
+		<!--TRADE french-->
+		<!--AI Accepts Deal french-->
+		<Row Tag="LOC_DIPLO_ACCEPT_MAKE_DEAL_FROM_AI_LEADER_GEDEMO_HANNIBAL_ANY" Language="fr_FR">
+			<Text>{LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_GEDEMO_HANNIBAL_ANY}</Text>
+		</Row>
+		<!--AI Rejects Deal french-->
+		<Row Tag="LOC_DIPLO_REJECT_MAKE_DEAL_FROM_AI_LEADER_GEDEMO_HANNIBAL_ANY" Language="fr_FR">
+			<Text>{LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_GEDEMO_HANNIBAL_ANY}</Text>
+		</Row>
+		<!--DENOUNCE french-->
+		<!--From Human french-->
+		<Row Tag="LOC_DIPLO_DENOUNCE_FROM_HUMAN_LEADER_GEDEMO_HANNIBAL_ANY" Language="fr_FR">
+			<Text>Rien de plus isolant qu'une maladie mentale. (Dénonciation)</Text>
+		</Row>
+		<!--From AI french-->
+		<Row Tag="LOC_DIPLO_DENOUNCE_FROM_AI_LEADER_GEDEMO_HANNIBAL_ANY" Language="fr_FR">
+			<Text>L'incivilité est indiciblement laide pour Carthage! (Dénonciation)</Text>
+		</Row>
+		<!--DECLARE WAR french-->
+		<!--Human Declares War french-->
+		<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_HUMAN_LEADER_GEDEMO_HANNIBAL_ANY" Language="fr_FR">
+			<Text>Soit, Carthage ne voit pas d'autre issue que la guerre!</Text>
+		</Row>
+		<!--AI Declares War french-->
+		<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_GEDEMO_HANNIBAL_ANY" Language="fr_FR">
+			<Text>Carthage déclare la guerre à votre misérable royaume. Nous serons implacable avec vos soldats.</Text>
+		</Row>
+		<!--MAKE PEACE french-->
+		<!--AI accepts from human french-->
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_AI_ACCEPT_DEAL_LEADER_GEDEMO_HANNIBAL_ANY" Language="fr_FR">
+			<Text>Il est temps de faire la paix.</Text>
+		</Row>
+		<!--AI refuses human french-->
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_AI_REFUSE_DEAL_LEADER_GEDEMO_HANNIBAL_ANY" Language="fr_FR">
+			<Text>Ah! ah! ah! Non.</Text>
+		</Row>
+		<!--AI requests from human french-->
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_FROM_AI_LEADER_GEDEMO_HANNIBAL_ANY" Language="fr_FR">
+			<Text>Carthage vous propose de faire la paix, qu'en pensez-vous?</Text>
+		</Row>
+		<!--DEFEAT french-->
+		<!--AI is Defeated french-->
+		<Row Tag="LOC_DIPLO_DEFEAT_FROM_AI_LEADER_GEDEMO_HANNIBAL_ANY" Language="fr_FR">
+			<Text>Laissez-nous apaiser les craintes de votre peuple, qui pense attendre longtemps la mort de ce vieil homme.</Text>
+		</Row>
+		<!--Human is Defeated (will see this in hotseat) french-->
+		<Row Tag="LOC_DIPLO_DEFEAT_FROM_HUMAN_LEADER_GEDEMO_HANNIBAL_ANY" Language="fr_FR">
+			<Text>[LOC_DIPLO_DEFEAT_FROM_AI_LEADER_GEDEMO_HANNIBAL_ANY]</Text>
+		</Row>
+
+		
+
+	
+
+		
+
+		
+	</LocalizedText>
+</GameData>

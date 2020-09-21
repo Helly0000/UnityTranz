@@ -1,0 +1,216 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by Ed Beach (Firaxis Games) -->
+<GameData>
+	<LocalizedText>
+		<!--MOD-->
+		<Row Tag="LOC_MOD_JFD_AMERICA_COOLIDGE_DESCRIPTION" Language="en_US">
+			<Text>------------------------------------[NEWLINE]LEADER -- CALVIN COOLIDGE[NEWLINE][NEWLINE]TRAIT - ROARING TWENTIES[NEWLINE]Receives bonus Loyalty when unlocking new Economic Policies. Cities at full Loyalty receive +5% [ICON_GOLD] Gold and [ICON_PRODUCTION] Production, and can work the Deregulate Businesses unique project.[NEWLINE][NEWLINE]PROJECT - DEREGULATE BUSINESSES[NEWLINE]American unique District-based project when Coolidge is their leader which provides [ICON_GOLD] Gold and [ICON_CULTURE] Culture whilst active, and [ICON_GREATENGINEER] Great Engineer Points and [ICON_GREATMERCHANT] Great Merchant Points once finished. Can only be worked when the city is at full Loyalty.[NEWLINE][NEWLINE]AGENDA - HAMILTONIAN ECONOMICS[NEWLINE]Tries to keep his people happy and prosperous. Respects civilizations with the same Government and high [ICON_GOLD] Gold. Believes civilizations with the same Government but low [ICON_GOLD] Gold are too regulatory.</Text>
+		</Row>
+		<!--LEADER-->
+		<Row Tag="LOC_LEADER_JFD_COOLIDGE_NAME" Language="en_US">
+			<Text>Calvin Coolidge</Text>
+		</Row>
+		<!--Agenda-->
+		<Row Tag="LOC_AGENDA_JFD_HAMILTONIAN_ECONOMICS_NAME" Language="en_US">
+			<Text>Hamiltonian Economics</Text>
+		</Row>
+		<Row Tag="LOC_AGENDA_JFD_HAMILTONIAN_ECONOMICS_DESCRIPTION" Language="en_US">
+			<Text>Tries to keep his people happy and prosperous. Respects civilizations with the same Government and high [ICON_GOLD] Gold. Believes civilizations with the same Government but low [ICON_GOLD] Gold are too regulatory.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_KUDO_LEADER_JFD_COOLIDGE_REASON_LEADS_GOLD_AND_SAME_GOVERNMENT" Language="en_US">
+			<Text>(You share the same Government and are strong in Gold.)</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MODIFIER_AGENDA_JFD_HAMILTONIAN_ECONOMICS_LEADS_GOLD_AND_SAME_GOVERNMENT" Language="en_US">
+			<Text>Calvin Coolidge respects the prosperity of your administration</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_LEADER_JFD_COOLIDGE_REASON_LAGS_GOLD_AND_SAME_GOVERNMENT" Language="en_US">
+			<Text>(You share the same Government but are weak in Gold.)</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MODIFIER_AGENDA_JFD_HAMILTONIAN_ECONOMICS_LAGS_GOLD_AND_SAME_GOVERNMENT" Language="en_US">
+			<Text>Calvin Coolidge considers your administration too regulatory</Text>
+		</Row>
+		<!--DOM-->
+		<Row Tag="LOC_LOADING_INFO_LEADER_JFD_COOLIDGE" Language="en_US">
+			<Text>It is a time of industry and innovation, of prosperity and growth. In such chaotic times, the American people need a President who is silent and unassuming, thoughtful and respectful. Gently, keep your people on the path through this new era, and they will be content.</Text>
+		</Row>
+		<!--Traits-->
+		<Row Tag="LOC_TRAIT_LEADER_JFD_ROARING_TWENTIES_NAME" Language="en_US">
+			<Text>Roaring Twenties</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_LEADER_JFD_ROARING_TWENTIES_DESCRIPTION" Language="en_US">
+			<Text>Receives bonus Loyalty when unlocking new Economic Policies. Cities at full Loyalty receive +5% [ICON_GOLD] Gold and [ICON_PRODUCTION] Production, and can work the Deregulate Businesses unique project.</Text>
+		</Row>
+		<!--Civilopedia-->
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_JFD_COOLIDGE_TITLE" Language="en_US">
+			<Text>Calvin Coolidge</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_JFD_COOLIDGE_SUBTITLE" Language="en_US">
+			<Text>President of the United States</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_JFD_COOLIDGE_QUOTE" Language="en_US">
+			<Text>The chief business of the American people is business.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_JFD_COOLIDGE_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Calvin Coolidge was born July 14, 1872, at Plymouth Notch, a tiny, isolated village in southern Vermont; he was descended from colonial New England stock. His father was a thrifty, hard-working, self-reliant storekeeper and farmer, active in local politics. Calvin was a shy and frail boy, sober, frugal, industrious, and taciturn. But he acquired from his mother, whom he remembered as having "a touch of mysticism and poetry," a yearning for something better than Plymouth Notch.[NEWLINE][NEWLINE]Coolidge entered Amherst College in 1891 and graduated cum laude. While there he became an effective debater, and his professors imbued him with the ideal of public service. Unable to afford law school, he read law and clerked in a law office in Northampton, Mass. In 1897 he was admitted to the bar and the following year opened an office in Northampton. He built a modestly successful local practice. In 1905 he married Grace Goodhue, a charming and vivacious teacher. They had two sons: John, born 1906, and Calvin, born 1908.[NEWLINE][NEWLINE]Coolidge became active in local Republican politics, serving as a member of the city council, city solicitor, clerk of the Hampshire County courts, and chairman of the Republican city committee. He spent two terms in the Massachusetts House of Representatives and two terms as mayor of Northampton. In 1911 he was elected to the state senate and 2 years later—thanks to luck, hard work, and cautious but skillful political maneuvering—he became president of the state senate. This was a traditional stepping-stone to the lieutenant governorship; he was elected to this post in 1915 and reelected in 1916 and 1917. Meanwhile, he gained a reputation as a loyal party man and follower of the powerful U.S. senator W. Murray Crane, a safe and sound man as regards business and a champion of governmental economy and efficiency. And Coolidge won the friendship of Boston department store owner Frank W. Stearns, who became his enthusiastic political booster.[NEWLINE][NEWLINE]But Coolidge was no narrow-minded standpatter. His credo was the promotion of stability and harmony through the balancing of all legitimate interests. Thus, he supported woman's suffrage, popular election of U.S. senators, establishment of a public service commission, legislation to prohibit the practice of undercutting competition by charging less than cost, protection of child and woman workers, maternity aid legislation, and the state's savings-bank insurance system.Elected governor in 1918, Coolidge pushed through a far-reaching reorganization of the state government, supported adoption of legislation against profiteering, and won a reputation for fairness as a mediator in labor disputes. But what brought him national fame was the Boston police strike of 1919. He avoided involvement in the dispute on the ground that he had no legal authority to interfere. Even when the police went out on strike, Coolidge failed to act until after Boston's mayor had brought the situation under control. Yet again Coolidge's luck held; and he, not the mayor, received the credit for maintaining law and order. His reply to the plea of the American Federation of Labor president Samuel Gompers for reinstatement of the dismissed strikers—"There is no right to strike against the public safety by anybody, anywhere, any time"—made him a popular hero and won him reelection that fall with the largest vote ever received by a Massachusetts gubernatorial candidate. At the Republican National Convention the following year the rank-and-file delegates rebelled against the party leaders' choice for the vice-presidential nominee and named Coolidge on the first ballot.[NEWLINE][NEWLINE]Coolidge found the vice presidency frustrating and unrewarding. He presided over the Senate and unobtrusively sat in on Cabinet meetings at President Warren G. Harding's request but took no active role in administration decision making, gaining the nickname "Silent Cal."[NEWLINE][NEWLINE]Harding's death in 1923 catapulted Coolidge into the White House. The new president's major problem was the exposure of the corruption that had gone on under his predecessor. But his own reputation for honesty and integrity, his early appointment of special counsel to investigate the Teapot Dome oil-lease scandal and prosecute wrongdoers, and his removal of Attorney General Harry Daugherty when Daugherty refused to open Justice Department files to Senate investigators, effectively defused the corruption issue. Simultaneously, he smoothed the path for his nomination in 1924 through skillful manipulation of patronage. The Republican themes in the 1924 election were prosperity, governmental economy, and "Keep Cool with Coolidge." He won decisively.[NEWLINE][NEWLINE]Except for legislation regulating and stabilizing the chaotic radio industry, the subsidization and promotion of commercial aviation, and the Railroad Labor Act of 1926 establishing more effective machinery for resolving railway labor disputes, the new Coolidge administration's record in the domestic sphere was largely negative. Coolidge was handicapped by the split in Republican congressional ranks between the insurgents and regulars; furthermore, he was not a strong leader and remained temperamentally averse to making moves that might lead to trouble. He was also handcuffed by his conviction that the executive's duty was simply to administer the laws Congress passed. Most important, he was limited by his devotion to governmental economy, his belief in allowing the widest possible scope for private enterprise, his faith in business self-regulation, his narrow definition of the powers of the national government under the Constitution, and his acceptance of the "trickle-down" theory of prosperity through the encouragement of big business.[NEWLINE][NEWLINE]Coolidge's domestic program was in line with this philosophy. He strongly backed Secretary of the Treasury Andrew Mellon's proposals for tax cuts to stimulate investment, and the Revenue Act of 1926 cut the maximum surtax from 40 to 20 percent, abolished the gift tax, and halved the estate tax. He vetoed the World War I veterans' bonus bill (1924), but Congress overrode his veto. He packed the regulatory commissions with appointees sympathetic to business. He twice vetoed the McNary-Haugen bills for the subsidized dumping of agricultural surpluses abroad in hopes of bolstering domestic prices. Coolidge unsuccessfully urged the sale or lease of Muscle Shoals to private enterprise and in 1928 pocket-vetoed a bill providing for government operation. He succeeded in limiting expenditures for flood control and Federal development of water resources. He resisted any reductions in the protective tariff. And he not only failed to restrain, but encouraged, the stock market speculation that was to have such disastrous consequences in 1929.[NEWLINE][NEWLINE]Coolidge left foreign affairs largely in the hands of his secretaries of state, Charles Evans Hughes and then Frank B. Kellogg. The administration's major achievements in this area were its fostering of a professional civil service, its cautious sympathy toward Chinese demands for revision of the tariff and extraterritoriality treaties, and its efforts to restore friendship with Latin America.[NEWLINE][NEWLINE]Coolidge had a vague, idealistic desire to promote international stability and peace. But he rejected American membership in the League of Nations as then constituted and, whatever his personal feelings, regarded the League as a dead issue. He felt bound by Harding's prior commitment to support American membership on the World Court, but he never fought for its approval and dropped the issue when other members balked at accepting the reservations added by the Senate anti-internationalists. Although Coolidge did exert his influence to secure ratification of the Kellogg-Briand Pact (1928) outlawing war, his hand was forced by public opinion and he had no illusions about its significance. He supported Hughes's efforts to resolve the reparations tangle; but he was adamant against cancellation of the World War I Allied debts, reportedly saying, "They hired the money, didn't they?" His major effort in behalf of disarmament, the Geneva Conference of 1927, was a failure.[NEWLINE][NEWLINE]Yet Coolidge was popular and could have been reelected in 1928. But on Aug. 2, 1927, he publicly announced, "I do not choose to run for president in 1928." The death of his son Calvin in 1924 had dimmed his interest in politics; both he and his wife felt the physical strain of the presidency, and he had doubts about the continued soundness of the economy. He left the White House to retire to Northampton, where he died on Jan. 5, 1933, of a coronary thrombosis.[NEWLINE][NEWLINE]Coolidge was not a leader of foresight and vision. But whatever his shortcomings as seen in retrospect, he fitted the popular yearning of his day for stability and normalcy.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_JFD_COOLIDGE_CHAPTER_CAPSULE_BODY" Language="en_US">
+			<Text>Coolidge keeps watch over economic progress with a silent gaze. His people are hard working and prosperous so long as he is watchful of his economic policies.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_JFD_COOLIDGE_CHAPTER_DETAILED_BODY" Language="en_US">
+			<Text>Early in the game, the American advantage is in their bonuses to Production and Gold in fully loyal cities. They will want to keep their cities loyal by unlocking new Economic Policies if they want to maintain their prosperity. With diplomatic policy slots turning into wildcard ones, their choice of government is important, though Classical Republic and Merchant Republic are the most helpful with America's preference: a Culture Victory. They should also consider building toward the National History Museum in their Government Plaza. With their Film Studio, National Park bonus, and two post-Industrial unique units, they shine from the 20th Century onwards.</Text>
+		</Row>
+		<!--Diplomacy-->
+		<!--FIRST MEET-->
+		<!--First AI line-->
+		<Row Tag="LOC_DIPLO_FIRST_MEET_LEADER_JFD_COOLIDGE_ANY" Language="en_US">
+			<Text>I am President Calvin Coolidge. Welcome to the United States of America.</Text>
+		</Row>
+		<!--AI invitation to visit nearby City-->
+		<Row Tag="LOC_DIPLO_FIRST_MEET_VISIT_RECIPIENT_LEADER_JFD_COOLIDGE_ANY" Language="en_US">
+			<Text>I invite you to my nearby city to speak with me.</Text>
+		</Row>
+		<!--AI accepts Human invitation-->
+		<Row Tag="LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_POSITIVE_LEADER_JFD_COOLIDGE_ANY" Language="en_US">
+			<Text>Accepted.</Text>
+		</Row>
+		<!--AI invitation to exchange Capital Information-->
+		<Row Tag="LOC_DIPLO_FIRST_MEET_NO_MANS_INFO_EXCHANGE_LEADER_JFD_COOLIDGE_ANY" Language="en_US">
+			<Text>I invite you to exchange information about our Capitals with me.</Text>
+		</Row>
+		<!--GREETINGS-->
+		<Row Tag="LOC_DIPLO_GREETING_LEADER_JFD_COOLIDGE_ANY" Language="en_US">
+			<Text>...</Text>
+		</Row>
+		<!--DELEGATION-->
+		<!--AI Accepts-->
+		<Row Tag="LOC_DIPLO_ACCEPT_DELEGATION_FROM_HUMAN_LEADER_JFD_COOLIDGE_ANY" Language="en_US">
+			<Text>I accept.</Text>
+		</Row>
+		<!--AI Rejects-->
+		<Row Tag="LOC_DIPLO_REJECT_DELEGATION_FROM_HUMAN_LEADER_JFD_COOLIDGE_ANY" Language="en_US">
+			<Text>I decline.</Text>
+		</Row>
+		<!--AI Requests -->
+		<Row Tag="LOC_DIPLO_DELEGATION_FROM_AI_LEADER_JFD_COOLIDGE_ANY" Language="en_US">
+			<Text>I wish to send a delegation.</Text>
+		</Row>
+		<!--OPEN BORDERS-->
+		<!--AI accepts from human-->
+		<Row Tag="LOC_DIPLO_ACCEPT_OPEN_BORDERS_FROM_HUMAN_LEADER_JFD_COOLIDGE_ANY" Language="en_US">
+			<Text>Agreed.</Text>
+		</Row>
+		<!--AI rejects from human-->
+		<Row Tag="LOC_DIPLO_REJECT_OPEN_BORDERS_FROM_HUMAN_LEADER_JFD_COOLIDGE_ANY" Language="en_US">
+			<Text>Rejected.</Text>
+		</Row>
+		<!--AI requests from human-->
+		<Row Tag="LOC_DIPLO_OPEN_BORDERS_FROM_AI_LEADER_JFD_COOLIDGE_ANY" Language="en_US">
+			<Text>I request an open borders arrangement with you.</Text>
+		</Row>
+		<!--DECLARE FRIENDSHIP-->
+		<!--AI accepts from human-->
+		<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_HUMAN_LEADER_JFD_COOLIDGE_ANY" Language="en_US">
+			<Text>Agreeable.</Text>
+		</Row>
+		<!--AI Rejects from human -->
+		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_HUMAN_LEADER_JFD_COOLIDGE_ANY" Language="en_US">
+			<Text>Impossible.</Text>
+		</Row>
+		<!--AI Requests friendship from human-->
+		<Row Tag="LOC_DIPLO_DECLARE_FRIEND_FROM_AI_LEADER_JFD_COOLIDGE_ANY" Language="en_US">
+			<Text>I request a public declaration of friendship with your government.</Text>
+		</Row>
+		<!--Human accepts AI requests, AI responds-->
+		<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_JFD_COOLIDGE_ANY" Language="en_US">
+			<Text>...</Text>
+		</Row>
+		<!--Human rejects AI requests, AI responds-->
+		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_JFD_COOLIDGE_ANY" Language="en_US">
+			<Text>...</Text>
+		</Row>
+		<!--ALLIANCE-->
+		<!--AI Requests an alliance from human-->
+		<Row Tag="LOC_DIPLO_MAKE_ALLIANCE_FROM_AI_LEADER_JFD_COOLIDGE_ANY" Language="en_US">
+			<Text>I request an alliance with your government.</Text>
+		</Row>
+		<!--KUDOS & WARNINGS-->
+		<!--AI Kudos-->
+		<Row Tag="LOC_DIPLO_KUDO_EXIT_LEADER_JFD_COOLIDGE_ANY" Language="en_US">
+			<Text>Maintain prosperity.</Text>
+		</Row>
+		<!--AI Warnings-->
+		<Row Tag="LOC_DIPLO_WARNING_EXIT_LEADER_JFD_COOLIDGE_ANY" Language="en_US">
+			<Text>Regulation begets poverty.</Text>
+		</Row>
+		<!--AI warns player for border troops-->
+		<Row Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_LEADER_JFD_COOLIDGE_ANY" Language="en_US">
+			<Text>I caution your military activities.</Text>
+		</Row>
+		<!--TRADE-->
+		<!--AI Accepts Deal-->
+		<Row Tag="LOC_DIPLO_ACCEPT_MAKE_DEAL_FROM_AI_LEADER_JFD_COOLIDGE_ANY" Language="en_US">
+			<Text>{LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_JFD_COOLIDGE_ANY}</Text>
+		</Row>
+		<!--AI Rejects Deal-->
+		<Row Tag="LOC_DIPLO_REJECT_MAKE_DEAL_FROM_AI_LEADER_JFD_COOLIDGE_ANY" Language="en_US">
+			<Text>{LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_JFD_COOLIDGE_ANY}</Text>
+		</Row>
+		<!--DENOUNCE-->
+		<!--From Human-->
+		<Row Tag="LOC_DIPLO_DENOUNCE_FROM_HUMAN_LEADER_JFD_COOLIDGE_ANY" Language="en_US">
+			<Text>...</Text>
+		</Row>
+		<!--From AI-->
+		<Row Tag="LOC_DIPLO_DENOUNCE_FROM_AI_LEADER_JFD_COOLIDGE_ANY" Language="en_US">
+			<Text>... (Denounces You)</Text>
+		</Row>
+		<!--Rationale-->
+		<Row Tag="LOC_DIPLO_DENOUNCE_REASON_FROM_AI_LEADER_ANY_REASON_JFD_HAMILTONIAN_ECONOMICS_LAGS_GOLD_AND_SAME_GOVERNMENT" Language="en_US">
+			<Text>(You share the same Government but are weak in Gold.)</Text>
+		</Row>
+		<!--DECLARE WAR-->
+		<!--Human Declares War-->
+		<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_HUMAN_LEADER_JFD_COOLIDGE_ANY" Language="en_US">
+			<Text>...</Text>
+		</Row>
+		<!--AI Declares War-->
+		<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_JFD_COOLIDGE_ANY" Language="en_US">
+			<Text>It is war.</Text>
+		</Row>
+		<!--MAKE PEACE-->
+		<!--AI accepts from human-->
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_AI_ACCEPT_DEAL_LEADER_JFD_COOLIDGE_ANY" Language="en_US">
+			<Text>Accepted.</Text>
+		</Row>
+		<!--AI refuses human-->
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_AI_REFUSE_DEAL_LEADER_JFD_COOLIDGE_ANY" Language="en_US">
+			<Text>Declined.</Text>
+		</Row>
+		<!--AI requests from human-->
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_FROM_AI_LEADER_JFD_COOLIDGE_ANY" Language="en_US">
+			<Text>I request peace.</Text>
+		</Row>
+		<!--DEFEAT-->
+		<!--AI is Defeated-->
+		<Row Tag="LOC_DIPLO_DEFEAT_FROM_AI_LEADER_JFD_COOLIDGE_ANY" Language="en_US">
+			<Text>...</Text>
+		</Row>
+		<!--Human is Defeated (will see this in hotseat)-->
+		<Row Tag="LOC_DIPLO_DEFEAT_FROM_HUMAN_LEADER_JFD_COOLIDGE_ANY" Language="en_US">
+			<Text>[LOC_DIPLO_DEFEAT_FROM_AI_LEADER_JFD_COOLIDGE_ANY]</Text>
+		</Row>
+		<!--DEREGULATE BUSINESSES-->
+		<Row Tag="LOC_RESOURCE_JFD_COOLIDGE_NAME" Language="en_US">
+			<Text>Deregulate Businesses</Text>
+		</Row>
+		<Row Tag="LOC_PROJECT_JFD_DEREGULATE_BUSINESSES_NAME" Language="en_US">
+			<Text>Deregulate Businesses</Text>
+		</Row>
+		<Row Tag="LOC_PROJECT_JFD_DEREGULATE_BUSINESSES_SHORT_NAME" Language="en_US">
+			<Text>Deregulate Businesses</Text>
+		</Row>
+		<Row Tag="LOC_PROJECT_JFD_DEREGULATE_BUSINESSES_DESCRIPTION" Language="en_US">
+			<Text>American unique District-based project when Calvin Coolidge is their leader which provides [ICON_GOLD] Gold and [ICON_CULTURE] Culture whilst active, and [ICON_GREATENGINEER] Great Engineer Points and [ICON_GREATMERCHANT] Great Merchant Points once finished. Can only be worked when the city is at full Loyalty.</Text>
+		</Row>
+	</LocalizedText>
+</GameData>

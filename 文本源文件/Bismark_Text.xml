@@ -1,0 +1,446 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<LocalizedText>
+		
+		
+	
+		
+	
+		<Row Tag="LOC_TRAIT_LEADER_GEDEMO_BISMARK_NAME" Language="en_US">
+			<Text>Kulturkampf</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_LEADER_GEDEMO_BISMARK_DESCRIPTION" Language="en_US">
+			<Text>[ICON_DISTRICT_ENCAMPMENT] Encampment district buildings provide [ICON_Culture] Culture equivalent to their [ICON_Production] Production output. +10% [ICON_Culture] culture for cities with garrison units. Build the Ruhr Valley +50% faster.</Text>
+		</Row>
+
+
+		
+
+
+		<Row Tag="LOC_LEADER_GEDEMO_BISMARK" Language="en_US">
+			<Text>Otto von Bismarck</Text>
+		</Row>
+		
+		<Row Tag="LOC_LOADING_INFO_LEADER_GEDEMO_BISMARK" Language="en_US">
+			<Text>Hail mighty Bismarck, first chancellor of Germany and her empire! Germany is an upstart nation, fashioned from the ruins of the Holy Roman Empire and finally unified in 1871, a little more than a century ago. The German people have proven themselves to be creative, industrious and ferocious warriors. Despite enduring great catastrophe in the first half of the 20th century, Germany remains a worldwide economic, artistic and technological leader. Great Prince Bismarck, the German people look to you to lead them to greater days of glory. Their determination is strong and they turn to you, their beloved iron chancellor, to guide them once more. Will you rule and conquer through blood and iron, or foster the Germanic arts and industry? Can you build a civilization that will stand the test of time?
+			</Text>
+		</Row>
+		<!--Civilopedia-->
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_GEDEMO_BISMARK_TITLE" Language="en_US">
+			<Text>Chancellor of the German Empire</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_GEDEMO_BISMARK_SUBTITLE" Language="en_US">
+			<Text>Minister President of Prussia</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_GEDEMO_BISMARK_QUOTE" Language="en_US">
+			<Text>Diplomacy without arms is music without instruments.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_GEDEMO_BISMARK_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Otto von Bismarck, Duke of Lauenburg and Prince of Bismarck, born in Schönhausen on April 1, 1815 and died on July 30, 1898 in Friedrichsruh, is a Prussian then German statesman. He was at the same time Minister-President of the Kingdom of Prussia from 1862 to 1890, Chancellor of the Confederation of Northern Germany from 1867 to 1871, before becoming Chancellor of the New German Empire in 1871, a post he occupied until 1890, while retaining his position as minister-president of Prussia. He plays a decisive role in German unification. At the beginning of his political career, Bismarck made a name for himself by defending the interests of the junkers, a Prussian nobility, of which he is a part, from the conservative benches. He was appointed minister-president of Prussia in 1862. In the Prussian constitutional conflict, he fought against the liberals to maintain the primacy of the monarchy. Also Minister of Foreign Affairs, he launched the Duchies war and the Austro-Prussian war between 1864 and 1866, and thereby imposes the supremacy of Prussia in Germany. The Franco-Prussian war of 1870 solves the German question by retaining the German solution, defended by Prussia, and leads to German unification in 1871. Then, in terms of foreign policy, he tries to establish a balance between the great European powers thanks to a system of alliances.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_GEDEMO_BISMARK_CHAPTER_HISTORY_PARA_2" Language="en_US">
+			<Text>In domestic politics, beginning in 1866, Bismarck first joined the moderate liberals, which led to the vote of many reforms such as the institution of civil marriage, which meets the resistance of Catholics, which he strongly opposes in instituting Kulturkampf policy. In the late 1870s, he broke away from the Liberals and returned to the Conservatives. During this phase, the laws for protectionism and state interventionism are passed. A social security system is also created. The 1880s are mostly marked by anti-socialist laws. In 1890, Bismarck's differences of opinion with the new Emperor William II led to his departure. After his resignation, Bismarck continues to play a political role, criticizing the action of his successor. He also writes his memoirs, which strongly influence the image of German public opinion. Until the middle of the twentieth century, German historians have largely judged its action in a positive way, the latter being, in this nationalist period, associated with the unification of Germany. However, after the Second World War, critics increased: he was accused of being responsible, as the founder of the German Empire, for the failure of democracy in Germany. More modern approaches to history, however, attempt to put Bismarck's action, with its strengths and shortcomings, in the context of its time with the political structure that was then in place.</Text>
+		</Row>
+
+
+
+ 
+		
+		
+		
+		
+		<!--Diplomacy-->
+		<!--FIRST MEET-->
+		<!--First AI line-->
+		<Row Tag="LOC_DIPLO_FIRST_MEET_LEADER_GEDEMO_BISMARK_ANY" Language="en_US">
+			<Text>Im Namen des großen deutschen Volkes heiße ich Euch willkommen! (In the name of the great German people, I bid you welcome!)</Text>
+		</Row>
+		<!--AI invitation to visit nearby City-->
+		<Row Tag="LOC_DIPLO_FIRST_MEET_VISIT_RECIPIENT_LEADER_GEDEMO_BISMARK_ANY" Language="en_US">
+			<Text>Hallo, ich bin Otto von Bismarck, Kanzler von Deutschland! Möchten Sie unsere nächste Stadt besuchen? (Hello, I am Otto von Bismarck, Chancellor of Germany! Would you like to visit our nearest city?)</Text>
+		</Row>
+		<!--AI accepts Human invitation-->
+		<Row Tag="LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_POSITIVE_LEADER_GEDEMO_BISMARK_ANY" Language="en_US">
+			<Text>Danke.</Text>
+		</Row>
+		<!--AI invitation to exchange Capital Information-->
+		<Row Tag="LOC_DIPLO_FIRST_MEET_NO_MANS_INFO_EXCHANGE_LEADER_GEDEMO_BISMARK_ANY" Language="en_US">
+			<Text>Ich lade Sie ein, Informationen über unsere jeweiligen Hauptstädte auszutauschen. (I invite you to exchange information on our respective capitals.)</Text>
+		</Row>
+		<!--GREETINGS-->
+		<Row Tag="LOC_DIPLO_GREETING_LEADER_GEDEMO_BISMARK_ANY" Language="en_US">
+			<Text>Gruss!</Text>
+		</Row>
+		<!--DELEGATION-->
+		<!--AI Accepts-->
+		<Row Tag="LOC_DIPLO_ACCEPT_DELEGATION_FROM_HUMAN_LEADER_GEDEMO_BISMARK_ANY" Language="en_US">
+			<Text>Ich akzeptiere deine Delegation mit Freude! (I accept your delegation with joy.)</Text>
+		</Row>
+		<!--AI Rejects-->
+		<Row Tag="LOC_DIPLO_REJECT_DELEGATION_FROM_HUMAN_LEADER_GEDEMO_BISMARK_ANY" Language="en_US">
+			<Text>Nein, leider. (Unfortunately, no.)</Text>
+		</Row>
+		<!--AI Requests -->
+		<Row Tag="LOC_DIPLO_DELEGATION_FROM_AI_LEADER_GEDEMO_BISMARK_ANY" Language="en_US">
+			<Text>Ich sende Ihnen eine Wirtschaftsdelegation mit Geschenken aus meinem Land: Würstchen und Bier, viel Bier ...(I send you a business delegation with gifts from my country: sausages and beer, lots of beer ...)</Text>
+		</Row>
+		<!--OPEN BORDERS-->
+		<!--AI accepts from human-->
+		<Row Tag="LOC_DIPLO_ACCEPT_OPEN_BORDERS_FROM_HUMAN_LEADER_GEDEMO_BISMARK_ANY" Language="en_US">
+			<Text>Ja, ich bin damit einverstanden, meine Grenzen für Ihre kleinen Soldaten zu öffnen. (Yes I agree to open my borders to your little soldiers.)</Text>
+		</Row>
+		<!--AI rejects from human-->
+		<Row Tag="LOC_DIPLO_REJECT_OPEN_BORDERS_FROM_HUMAN_LEADER_GEDEMO_BISMARK_ANY" Language="en_US">
+			<Text>Wir sind im Moment nicht interessiert. (We are not interested at the moment.)</Text>
+		</Row>
+		<!--AI requests from human-->
+		<Row Tag="LOC_DIPLO_OPEN_BORDERS_FROM_AI_LEADER_GEDEMO_BISMARK_ANY" Language="en_US">
+			<Text>Sind Sie damit einverstanden, dass wir Ihr Territorium durchqueren? (Will you allow our units to cross through your territory?)</Text>
+		</Row>
+		<!--DECLARE FRIENDSHIP-->
+		<!--AI accepts from human-->
+		<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_HUMAN_LEADER_GEDEMO_BISMARK_ANY" Language="en_US">
+			<Text>Ich stimme zu, unsere Freundschaft der Welt zu erklären. (I accept your offer of friendship.)</Text>
+		</Row>
+		<!--AI Rejects from human -->
+		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_HUMAN_LEADER_GEDEMO_BISMARK_ANY" Language="en_US">
+			<Text>Ich weigere mich, der Welt unsere Freundschaft zu erklären. (I refuse such a ridiculous offer.)</Text>
+		</Row>
+		<!--AI Requests friendship from human-->
+		<Row Tag="LOC_DIPLO_DECLARE_FRIEND_FROM_AI_LEADER_GEDEMO_BISMARK_ANY" Language="en_US">
+			<Text>Es wäre in Eurem Interesse, dass Ihr dieses Angebot sorgfältig prüft. (It would be in your best interest, to carefully consider this proposal of friendship.)</Text>
+		</Row>
+		<!--Human accepts AI requests, AI responds-->
+		<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_GEDEMO_BISMARK_ANY" Language="en_US">
+			<Text>Ich danke dir. (Thank you, friend.)</Text>
+		</Row>
+		<!--Human rejects AI requests, AI responds-->
+		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_GEDEMO_BISMARK_ANY" Language="en_US">
+			<Text>Da ist das bedauerlich. (How disappointing.)</Text>
+		</Row>
+		<!--ALLIANCE-->
+		<!--AI Requests an alliance from human-->
+		<Row Tag="LOC_DIPLO_MAKE_ALLIANCE_FROM_AI_LEADER_GEDEMO_BISMARK_ANY" Language="en_US">
+			<Text>Möchten Sie eine Allianz bilden? (Would you like to form an alliance?)</Text>
+		</Row>
+		<!--KUDOS & WARNINGS-->
+		<!--AI Kudos-->
+		<Row Tag="LOC_DIPLO_KUDO_EXIT_LEADER_GEDEMO_BISMARK_ANY" Language="en_US">
+			<Text>Du bist zäh! (you are tenacious)</Text>
+		</Row>
+		<!--AI Warnings-->
+		<Row Tag="LOC_DIPLO_WARNING_EXIT_LEADER_GEDEMO_BISMARK_ANY" Language="en_US">
+			<Text>Du bist ein Weichei! (You are a wimp!).</Text>
+		</Row>
+		<!--AI warns player for border troops-->
+		<Row Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_LEADER_GEDEMO_BISMARK_ANY" Language="en_US">
+			<Text>Ein übelster Haufen von Soldaten, die sich in der Nähe unserer Grenzen gebildet haben ... Willst du sie entfernen, bevor ein unglücklicher Vorfall eintritt? (A nauseabond pile of soldiers formed near our borders ... do you want to remove them before an unfortunate incident occurs?)</Text>
+		</Row>
+		<!--TRADE-->
+		<!--AI Accepts Deal-->
+		<Row Tag="LOC_DIPLO_ACCEPT_MAKE_DEAL_FROM_AI_LEADER_GEDEMO_BISMARK_ANY" Language="en_US">
+			<Text>{LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_GEDEMO_BISMARK_ANY}</Text>
+		</Row>
+		<!--AI Rejects Deal-->
+		<Row Tag="LOC_DIPLO_REJECT_MAKE_DEAL_FROM_AI_LEADER_GEDEMO_BISMARK_ANY" Language="en_US">
+			<Text>{LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_GEDEMO_BISMARK_ANY}</Text>
+		</Row>
+		<!--DENOUNCE-->
+		<!--From Human-->
+		<Row Tag="LOC_DIPLO_DENOUNCE_FROM_HUMAN_LEADER_GEDEMO_BISMARK_ANY" Language="en_US">
+			<Text>Ich prangere dich öffentlich an! (I publicly denounce you.)</Text>
+		</Row>
+		<!--From AI-->
+		<Row Tag="LOC_DIPLO_DENOUNCE_FROM_AI_LEADER_GEDEMO_BISMARK_ANY" Language="en_US">
+			<Text>Sie planen in unseren Rücken. Sei versichert, dass ich andere warnen werde! (You are plotting in our backs. Rest assured that I will warn others!) (Denounces You).</Text>
+		</Row>
+		<!--DECLARE WAR-->
+		<!--Human Declares War-->
+		<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_HUMAN_LEADER_GEDEMO_BISMARK_ANY" Language="en_US">
+			<Text>Ich kann nicht warten bis Ihr noch mächtiger geworden seid. Bereitet Euch also auf den Krieg vor! (I cannot wait until ye grow even mightier. Therefore, prepare for war!)</Text>
+		</Row>
+		<!--AI Declares War-->
+		<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_GEDEMO_BISMARK_ANY" Language="en_US">
+			<Text>Verderbter Bösewicht! Wir werden Euch unter die Erde bringen! (Corrupted villain! We will bring you into the ground!)</Text>
+		</Row>
+		<!--MAKE PEACE-->
+		<!--AI accepts from human-->
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_AI_ACCEPT_DEAL_LEADER_GEDEMO_BISMARK_ANY" Language="en_US">
+			<Text>Lass uns Frieden machen! (Let's make peace!)</Text>
+		</Row>
+		<!--AI refuses human-->
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_AI_REFUSE_DEAL_LEADER_GEDEMO_BISMARK_ANY" Language="en_US">
+			<Text>Natürlich nein. (Naturally no.)</Text>
+		</Row>
+		<!--AI requests from human-->
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_FROM_AI_LEADER_GEDEMO_BISMARK_ANY" Language="en_US">
+			<Text>Ich schlage einen Waffenstillstand vor, wann denkst du? (I propose a truce, when do you think?)</Text>
+		</Row>
+		<!--DEFEAT-->
+		<!--AI is Defeated-->
+		<Row Tag="LOC_DIPLO_DEFEAT_FROM_AI_LEADER_GEDEMO_BISMARK_ANY" Language="en_US">
+			<Text>Deutschland ist zerstört worden. Ich weine um die zukünftigen Generationen. (Germany has been destroyed. I weep for the future generations.)</Text>
+		</Row>
+		<!--Human is Defeated (will see this in hotseat)-->
+		<Row Tag="LOC_DIPLO_DEFEAT_FROM_HUMAN_LEADER_GEDEMO_BISMARK_ANY" Language="en_US">
+			<Text>[LOC_DIPLO_DEFEAT_FROM_AI_LEADER_GEDEMO_BISMARK_ANY]</Text>
+		</Row>
+
+		
+
+
+		<Row Tag="LOC_AGENDA_GEDEMO_BISMARK_NAME" Language="en_US">
+			<Text>Iron Chancellor</Text>
+		</Row>
+		<Row Tag="LOC_AGENDA_GEDEMO_BISMARK_DESCRIPTION" Language="en_US">
+			<Text>Never gives up items in a peace deal, and likes civilizations who match that approach. Dislikes civlizations who have capitulated or who have never gone to war.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_KUDO_LEADER_GEDEMO_BISMARK_REASON_ANY" Language="en_US">
+			<Text>(You have fought honorably and not capitulated in a peace deal.)</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_LEADER_GEDEMO_BISMARK_REASON_ANY" Language="en_US">
+			<Text>(You have never gone to war or have capitulated in a peace deal.)</Text>
+		</Row>
+
+
+
+		<Replace Tag="LOC_DIPLO_MODIFIER_WITH_SHIELD_OR_ON_IT" Language="de_DE">
+			<Text>Der Anführer möchte sehen, wie Ihr kämpft, sonst weiß sie, dass Ihr für Frieden zahlt</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_MODIFIER_WITH_SHIELD_NEVER_WARRED" Language="de_DE">
+			<Text>Der Anführer möchte Euch kämpfen sehen.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_MODIFIER_WITH_SHIELD_PAID_FOR_PEACE" Language="de_DE">
+			<Text>Der Anführer weiß, dass Ihr für den Frieden bezahlt habt.</Text>
+		</Replace>
+
+		<Replace Tag="LOC_DIPLO_MODIFIER_WITH_SHIELD_OR_ON_IT"	Language="en_US">
+			<Text>The Leader wants to see you fight or knows you paid for peace.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_MODIFIER_WITH_SHIELD_NEVER_WARRED" Language="en_US">
+			<Text>The Leader wants to see you fight.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_MODIFIER_WITH_SHIELD_PAID_FOR_PEACE" Language="en_US">
+			<Text>The Leader knows you paid for peace.</Text>
+		</Replace>
+		
+
+		<Replace Tag="LOC_DIPLO_MODIFIER_WITH_SHIELD_OR_ON_IT" Language="fr_FR">
+			<Text>Le Dirigeant veut vous voir combattre, ou sait que vous avez acheté la paix.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_MODIFIER_WITH_SHIELD_NEVER_WARRED" Language="fr_FR">
+			<Text>Le Dirigeant veut vous voir combattre.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_MODIFIER_WITH_SHIELD_PAID_FOR_PEACE" Language="fr_FR">
+			<Text>Le Dirigeant sait que vous avez acheté la paix.</Text>
+		</Replace>
+		
+		
+		
+		
+		
+		
+		<Row Tag="LOC_AGENDA_GEDEMO_BISMARK_NAME" Language="fr_FR">
+			<Text>Chancelier de Fer</Text>
+		</Row>
+		<Row Tag="LOC_AGENDA_GEDEMO_BISMARK_DESCRIPTION" Language="fr_FR">
+			<Text>Ne lache rien dans les négociations de paix, et apprécie les ivilizations avec la même approche. N'apprécie pas les civilisations qui ont capitulé ou qui n'ont jamais fait la guerre.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_KUDO_LEADER_GEDEMO_BISMARK_REASON_ANY" Language="fr_FR">
+			<Text>(Vous avez combattu avec honneur et n'avez pas capitulé dans un traité de paix.)</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_LEADER_GEDEMO_BISMARK_REASON_ANY" Language="fr_FR">
+			<Text>(Vous n'avez jamais fait la guerre ou avez capitulé dans un traité de paix.)</Text>
+		</Row>
+
+
+		<Row Tag="LOC_TRAIT_LEADER_GEDEMO_BISMARK_NAME"  Language="fr_FR" >
+			<Text>Kulturkampf</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_LEADER_GEDEMO_BISMARK_DESCRIPTION"  Language="fr_FR" >
+			<Text>Les Batiments du district [ICON_DISTRICT_ENCAMPMENT] Campement fournissent l'équivalent de leur [ICON_Production] Production générée en [ICON_Culture] Culture. +10% culture [ICON_Culture] pour les villes avec des unités en garnison. Construisez la Vallée de la Ruhr 50% plus vite.</Text>
+		</Row>
+		
+		
+
+		
+		
+		
+		
+		<Row Tag="LOC_LEADER_GEDEMO_BISMARK" Language="fr_FR">
+			<Text>Otto von Bismarck</Text>
+		</Row>
+		
+		<Row Tag="LOC_LOADING_INFO_LEADER_GEDEMO_BISMARK" Language="fr_FR">
+			<Text>Salutations puissant Bismarck, premier chancelier de l'empire allemand! L'Allemagne est une nation par excellence, façonnée à partir des ruines du Saint Empire romain germanique et finalement unifiée en 1871, il y a un peu plus d'un siècle. Les Allemands se sont révélés être des guerriers créatifs, industrieux et féroces. Malgré une grande catastrophe dans la première moitié du 20ème siècle, l'Allemagne reste un leader économique, artistique et technologique mondial. Grand prince Bismarck, les Allemands se tournent vers vous pour les conduire à de plus grands jours de gloire. Leur détermination est forte et ils se tournent vers vous, leur chancelier de fer bien-aimé, pour les guider une fois de plus. Allez-vous gouverner et vaincre par le sang et le fer, ou encourager les arts et l'industrie germaniques? Pouvez-vous construire une civilisation qui résistera à l'épreuve du temps?
+			</Text>
+		</Row>
+
+		<!--Civilopedia french-->
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_GEDEMO_BISMARK_TITLE" Language="fr_FR">
+			<Text>Chancelier Imperial d'Allemagne</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_GEDEMO_BISMARK_SUBTITLE" Language="fr_FR">
+			<Text>Ministre-Président de Prusse</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_GEDEMO_BISMARK_QUOTE" Language="fr_FR">
+			<Text>La diplomatie sans les armes, c'est la musique sans les instruments.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_GEDEMO_BISMARK_CHAPTER_HISTORY_PARA_1" Language="fr_FR">
+			<Text>Otto von Bismarck, duc de Lauenburg et prince de Bismarck, né à Schönhausen le 1er avril 1815 et mort le 30 juillet 1898 à Friedrichsruh, est un homme d'État prussien puis allemand. Il est à la fois ministre-président du royaume de Prusse de 1862 à 1890, chancelier de la confédération de l'Allemagne du Nord de 1867 à 1871, avant d'accéder au poste de premier chancelier du nouvel Empire allemand en 1871, poste qu'il occupe jusqu'en 1890, tout en conservant sa place de ministre-président de Prusse. Il joue un rôle déterminant dans l'unification allemande. Au début de sa carrière politique, Bismarck se fait un nom en défendant les intérêts des junkers, petite noblesse prussienne, dont il fait partie, depuis les bancs conservateurs. Il est nommé ministre-président de Prusse en 1862. Dans le conflit constitutionnel prussien, il lutte contre les libéraux pour maintenir la primauté de la monarchie. Également ministre des Affaires étrangères, il déclenche la guerre des Duchés puis la guerre austro-prussienne entre 1864 et 1866, et impose par là-même la suprématie de la Prusse en Allemagne. La guerre franco-prussienne de 1870 permet de résoudre la question allemande en retenant la solution petite-allemande, défendue par la Prusse, et entraîne l'unification allemande en 1871. Ensuite, sur le plan de la politique extérieure, il essaie d'établir un équilibre entre les grandes puissances européennes grâce à un système d'alliances.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_GEDEMO_BISMARK_CHAPTER_HISTORY_PARA_2" Language="fr_FR">
+			<Text>En politique intérieure, à partir de 1866, Bismarck s'allie d'abord aux libéraux modérés, ce qui conduit au vote de nombreuses réformes comme l'institution du mariage civil, qui rencontre la résistance des catholiques, auxquels il s'oppose durement en instituant la politique du Kulturkampf. À la fin des années 1870, il se sépare des libéraux, pour renouer avec les conservateurs. Durant cette phase, sont votées les lois pour le protectionnisme et l'interventionnisme étatique. Un système de sécurité sociale est également créé. Les années 1880 sont surtout marquées par les lois antisocialistes. En 1890, les divergences de point de vue de Bismarck avec le nouvel empereur Guillaume II conduisent à son départ. Après sa démission, Bismarck continue de jouer un rôle politique, en critiquant l'action de son successeur. Il écrit également ses mémoires, qui influencent fortement l'image que se forge de lui l'opinion publique allemande. Jusqu'au milieu du XXe siècle, les historiens allemands jugent en grande majorité son action de manière positive, celle-ci étant, dans cette période nationaliste, associée à l'unification de l'Allemagne. Cependant, après la Seconde Guerre mondiale, les critiques s'accentuent : il est alors accusé d'être responsable, en tant que fondateur de l'Empire allemand, de l'échec de la démocratie en Allemagne. Des approches plus modernes de l'histoire tentent cependant de remettre l'action de Bismarck, avec ses forces et ses manques, dans le contexte de son époque avec la structure politique qui était alors en place.</Text>
+		</Row>
+
+
+
+		
+		
+		
+		<!--Diplomacy french-->
+		<!--FIRST MEET french-->
+		<!--First AI line french-->
+		<Row Tag="LOC_DIPLO_FIRST_MEET_LEADER_GEDEMO_BISMARK_ANY" Language="fr_FR">
+			<Text>Im Namen des großen deutschen Volkes heiße ich Euch willkommen! (Je vous souhaite la bienvenue au nom du grand Peuple Allemand!)</Text>
+		</Row>
+		<!--AI invitation to visit nearby City french-->
+		<Row Tag="LOC_DIPLO_FIRST_MEET_VISIT_RECIPIENT_LEADER_GEDEMO_BISMARK_ANY" Language="fr_FR">
+			<Text>Hallo, ich bin Otto von Bismarck, Reichskanzler! Möchten Sie unsere nächste Stadt besuchen? (Bienvenue en Allemagne, étranger! Avez-vous déjà visité la Grande Prusse?)</Text>
+		</Row>
+		<!--AI accepts Human invitation french-->
+		<Row Tag="LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_POSITIVE_LEADER_GEDEMO_BISMARK_ANY" Language="fr_FR">
+			<Text>Danke.</Text>
+		</Row>
+		<!--AI invitation to exchange Capital Information french -->
+		<Row Tag="LOC_DIPLO_FIRST_MEET_NO_MANS_INFO_EXCHANGE_LEADER_GEDEMO_BISMARK_ANY" Language="fr_FR">
+			<Text>Ich lade Sie ein, Informationen über unsere jeweiligen Hauptstädte auszutauschen. (je vous invite à échanger des informations sur nos capitales respectives.)</Text>
+		</Row>
+		<!--GREETINGS french-->
+		<Row Tag="LOC_DIPLO_GREETING_LEADER_GEDEMO_BISMARK_ANY" Language="fr_FR">
+			<Text>Gruss!</Text>
+		</Row>
+		<!--DELEGATION french-->
+		<!--AI Accepts french-->
+		<Row Tag="LOC_DIPLO_ACCEPT_DELEGATION_FROM_HUMAN_LEADER_GEDEMO_BISMARK_ANY" Language="fr_FR">
+			<Text>Ich akzeptiere deine Delegation mit Freude! (I accept your delegation with joy.)</Text>
+		</Row>
+		<!--AI Rejects french-->
+		<Row Tag="LOC_DIPLO_REJECT_DELEGATION_FROM_HUMAN_LEADER_GEDEMO_BISMARK_ANY" Language="fr_FR">
+			<Text>Nein, leider. (Non, malheureusement.)</Text>
+		</Row>
+		<!--AI Requests french-->
+		<Row Tag="LOC_DIPLO_DELEGATION_FROM_AI_LEADER_GEDEMO_BISMARK_ANY" Language="fr_FR">
+			<Text>Ich sende Ihnen eine Wirtschaftsdelegation mit Geschenken aus meinem Land: Würstchen und Bier, viel Bier ... (Je vous envoie une délégation commerciale avec des cadeaux de mon pays : des saucisses et de la bière, beaucoup de bière...)</Text>
+		</Row>
+		<!--OPEN BORDERS french-->
+		<!--AI accepts from human french-->
+		<Row Tag="LOC_DIPLO_ACCEPT_OPEN_BORDERS_FROM_HUMAN_LEADER_GEDEMO_BISMARK_ANY" Language="fr_FR">
+			<Text>Ja, ich bin damit einverstanden, meine Grenzen für Ihre kleinen Soldaten zu öffnen. (C'est avec plaisir que nous ouvrons nos frontières à vos petits soldats.)</Text>
+		</Row>
+		<!--AI rejects from human french-->
+		<Row Tag="LOC_DIPLO_REJECT_OPEN_BORDERS_FROM_HUMAN_LEADER_GEDEMO_BISMARK_ANY" Language="fr_FR">
+			<Text>Wir sind im Moment nicht interessiert. (Nous ne sommes pas intéressés pour l'instant.)</Text>
+		</Row>
+		<!--AI requests from human french-->
+		<Row Tag="LOC_DIPLO_OPEN_BORDERS_FROM_AI_LEADER_GEDEMO_BISMARK_ANY" Language="fr_FR">
+			<Text>Sind Sie damit einverstanden, dass wir Ihr Territorium durchqueren? (Permettrez-vous à nos unités de traverser votre territoire?)</Text>
+		</Row>
+		<!--DECLARE FRIENDSHIP french-->
+		<!--AI accepts from human french-->
+		<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_HUMAN_LEADER_GEDEMO_BISMARK_ANY" Language="fr_FR">
+			<Text>Ich stimme zu, unsere Freundschaft der Welt zu erklären. (J'accepte de declarer notre amitié.)</Text>
+		</Row>
+		<!--AI Rejects from human french-->
+		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_HUMAN_LEADER_GEDEMO_BISMARK_ANY" Language="fr_FR">
+			<Text>Ich weigere mich, der Welt unsere Freundschaft zu erklären. (Je n'ai pas envie d'afficher mon amitié pour vous pour le moment.)</Text>
+		</Row>
+		<!--AI Requests friendship from human french-->
+		<Row Tag="LOC_DIPLO_DECLARE_FRIEND_FROM_AI_LEADER_GEDEMO_BISMARK_ANY" Language="fr_FR">
+			<Text>Es wäre in Eurem Interesse, dass Ihr dieses Angebot sorgfältig prüft. (Cela serait dans votre meilleur interet que d'accepter cette proposition d'amitié.)</Text>
+		</Row>
+		<!--Human accepts AI requests, AI responds french-->
+		<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_GEDEMO_BISMARK_ANY" Language="fr_FR">
+			<Text>Ich danke dir. (Je vous remercie.)</Text>
+		</Row>
+		<!--Human rejects AI requests, AI responds french-->
+		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_GEDEMO_BISMARK_ANY" Language="fr_FR">
+			<Text>Da ist das bedauerlich. (C'est fâcheux.)</Text>
+		</Row>
+		<!--ALLIANCE-->
+		<!--AI Requests an alliance from human french-->
+		<Row Tag="LOC_DIPLO_MAKE_ALLIANCE_FROM_AI_LEADER_GEDEMO_BISMARK_ANY" Language="fr_FR">
+			<Text>Möchten Sie eine Allianz bilden? (Aimeriez-vous former une alliance?)</Text>
+		</Row>
+		<!--KUDOS & WARNINGS french-->
+		<!--AI Kudos-->
+		<Row Tag="LOC_DIPLO_KUDO_EXIT_LEADER_GEDEMO_BISMARK_ANY" Language="fr_FR">
+			<Text>Du bist zäh Ah! Ah! (Vous êtes tenace, j'aime ça!)</Text>
+		</Row>
+		<!--AI Warnings french-->
+		<Row Tag="LOC_DIPLO_WARNING_EXIT_LEADER_GEDEMO_BISMARK_ANY" Language="fr_FR">
+			<Text>Du bist ein Weichei! (Vous êtes une mauviette!)</Text>
+		</Row>
+		<!--AI warns player for border troops french-->
+		<Row Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_LEADER_GEDEMO_BISMARK_ANY" Language="fr_FR">
+			<Text>Ein übelster Haufen von Soldaten, die sich in der Nähe unserer Grenzen gebildet haben ... Willst du sie entfernen, bevor ein unglücklicher Vorfall eintritt? (un amas nauseabond de soldats s'est formé prés de nos frontières...voulez-vous bien les retirer avant qu'un incident facheux se produise?)</Text>
+		</Row>
+		<!--TRADE french-->
+		<!--AI Accepts Deal french-->
+		<Row Tag="LOC_DIPLO_ACCEPT_MAKE_DEAL_FROM_AI_LEADER_GEDEMO_BISMARK_ANY" Language="fr_FR">
+			<Text>{LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_GEDEMO_BISMARK_ANY}</Text>
+		</Row>
+		<!--AI Rejects Deal french-->
+		<Row Tag="LOC_DIPLO_REJECT_MAKE_DEAL_FROM_AI_LEADER_GEDEMO_BISMARK_ANY" Language="fr_FR">
+			<Text>{LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_GEDEMO_BISMARK_ANY}</Text>
+		</Row>
+		<!--DENOUNCE french-->
+		<!--From Human french-->
+		<Row Tag="LOC_DIPLO_DENOUNCE_FROM_HUMAN_LEADER_GEDEMO_BISMARK_ANY" Language="fr_FR">
+			<Text>Ich prangere dich öffentlich an! (Je vous denonce publiquement.)</Text>
+		</Row>
+		<!--From AI french-->
+		<Row Tag="LOC_DIPLO_DENOUNCE_FROM_AI_LEADER_GEDEMO_BISMARK_ANY" Language="fr_FR">
+			<Text>Sie planen in unseren Rücken. Sei versichert, dass ich andere warnen werde! (Vous complotez dans notre dos. Soyez assuré que je vais prevenir les autres!) (Dénonciation)</Text>
+		</Row>
+		<!--DECLARE WAR french-->
+		<!--Human Declares War french-->
+		<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_HUMAN_LEADER_GEDEMO_BISMARK_ANY" Language="fr_FR">
+			<Text>Ich kann nicht warten bis Ihr noch mächtiger geworden seid. Bereitet Euch also auf den Krieg vor! (Je ne peux pas attendre d'avantage que vous deveniez plus fort...ainsi préparez-vous pour la guerre!)</Text>
+		</Row>
+		<!--AI Declares War french-->
+		<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_GEDEMO_BISMARK_ANY" Language="fr_FR">
+			<Text>Verderbter Bösewicht! Wir werden Euch unter die Erde bringen! (Souillure corrompue! Nous allons vous battre à plat de couture!)</Text>
+		</Row>
+		<!--MAKE PEACE french-->
+		<!--AI accepts from human french-->
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_AI_ACCEPT_DEAL_LEADER_GEDEMO_BISMARK_ANY" Language="fr_FR">
+			<Text>Lass uns Frieden machen! (Faisons la paix!)</Text>
+		</Row>
+		<!--AI refuses human french-->
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_AI_REFUSE_DEAL_LEADER_GEDEMO_BISMARK_ANY" Language="fr_FR">
+			<Text>Natürlich nein. (Naturellement non.)</Text>
+		</Row>
+		<!--AI requests from human french-->
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_FROM_AI_LEADER_GEDEMO_BISMARK_ANY" Language="fr_FR">
+			<Text>Ich schlage einen Waffenstillstand vor, wann denkst du? (Je vous propose une trève, quand pensez-vous?)</Text>
+		</Row>
+		<!--DEFEAT french-->
+		<!--AI is Defeated french-->
+		<Row Tag="LOC_DIPLO_DEFEAT_FROM_AI_LEADER_GEDEMO_BISMARK_ANY" Language="fr_FR">
+			<Text>Deutschland ist zerstört worden. Ich weine um die zukünftigen Generationen. (L'Allemagne a été détruite. Je pleure pour les générations futures.)</Text>
+		</Row>
+		<!--Human is Defeated (will see this in hotseat) french-->
+		<Row Tag="LOC_DIPLO_DEFEAT_FROM_HUMAN_LEADER_GEDEMO_BISMARK_ANY" Language="fr_FR">
+			<Text>[LOC_DIPLO_DEFEAT_FROM_AI_LEADER_GEDEMO_BISMARK_ANY]</Text>
+		</Row>
+
+		
+
+	
+
+		
+
+		
+	</LocalizedText>
+</GameData>

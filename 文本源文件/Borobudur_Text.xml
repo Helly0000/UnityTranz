@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<EnglishText>
+		<Row Tag="LOC_BUILDING_BOROBUDUR_NAME">
+			<Text>Borobudur</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_BOROBUDUR_DESCRIPTION">
+			<Text>Your trade routes to foreign cities earn +1 [ICON_Faith] Faith for each luxury resource in destination city. Each Plantation with 6 tiles yields +1 [ICON_Faith] Faith. 1 Apostle and 1 Guru appear. Must have founded a Religion and requires Temple Building. Must be built on Rainforest.</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_BOROBUDUR_QUOTE">
+			<Text>"Borobudur is admirable as a majestic work of art. The great extent of the masses of building covered in some parts with the luxuriant vegetation of the climate, the beauty and delicate execution of the separate portions, the symmetry and regularity of the whole." - Sir Thomas Stamford Raffles</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_WONDERS_PAGE_BUILDING_BOROBUDUR_CHAPTER_HISTORY_PARA_1">
+			<Text>Borobudur is a 9th-century Mahayana Buddhist temple in Magelang Regency, not far from the town of Muntilan, in Central Java, Indonesia. It is the world's largest Buddhist temple. The temple consists of nine stacked platforms, six square and three circular, topped by a central dome. It is decorated with 2,672 relief panels and 504 Buddha statues. The central dome is surrounded by 72 Buddha statues, each seated inside a perforated stupa.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_WONDERS_PAGE_BUILDING_BOROBUDUR_CHAPTER_HISTORY_PARA_2">
+			<Text>Built in the 9th century during the reign of the Sailendra Dynasty, the temple design follows Javanese Buddhist architecture, which blends the Indonesian indigenous cult of ancestor worship and the Buddhist concept of attaining Nirvana. The temple demonstrates the influences of Gupta art that reflects India's influence on the region, yet there are enough indigenous scenes and elements incorporated to make Borobudur uniquely Indonesian. The monument is a shrine to the Lord Buddha and a place for Buddhist pilgrimage. The pilgrim journey begins at the base of the monument and follows a path around the monument, ascending to the top through three levels symbolic of Buddhist cosmology: Kāmadhātu (the world of desire), Rupadhatu (the world of forms) and Arupadhatu (the world of formlessness). The monument guides pilgrims through an extensive system of stairways and corridors with 1,460 narrative relief panels on the walls and the balustrades. Borobudur has one of the largest and most complete ensembles of Buddhist reliefs in the world.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_WONDERS_PAGE_BUILDING_BOROBUDUR_CHAPTER_HISTORY_PARA_3">
+			<Text>Evidence suggests that Borobudur was constructed in the 9th century and subsequently abandoned following the 14th-century decline of Hindu kingdoms in Java and the Javanese conversion to Islam. Worldwide knowledge of its existence was sparked in 1814 by Sir Thomas Stamford Raffles, then the British ruler of Java, who was advised of its location by native Indonesians. Borobudur has since been preserved through several restorations. The largest restoration project was undertaken between 1975 and 1982 by the Indonesian government and UNESCO, followed by the monument's listing as a UNESCO World Heritage Site.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_WONDERS_PAGE_BUILDING_BOROBUDUR_CHAPTER_HISTORY_PARA_4">
+			<Text>Borobudur is the largest Buddhist temple in the world, and ranks with Bagan in Myanmar and Angkor Wat in Cambodia as one of the great archeological sites of Southeast Asia. Borobudur remains popular for pilgrimage, with Buddhists in Indonesia celebrating Vesak Day at the monument. Borobudur is Indonesia's single most visited tourist attraction.</Text>
+		</Row>
+	</EnglishText>
+</GameData>

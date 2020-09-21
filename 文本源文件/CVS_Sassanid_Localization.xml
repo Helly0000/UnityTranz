@@ -1,0 +1,524 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--Sasanian / Text-->
+<GameData>
+	<LocalizedText>
+
+		<!--CIVILIZATION-->
+		<Row Tag="LOC_CIVILIZATION_CVS_SASANIAN_NAME" Language="en_US">
+			<Text>Sassanid</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_CVS_SASANIAN_DESCRIPTION" Language="en_US">
+			<Text>Sassanid Empire</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_CVS_SASANIAN_ADJECTIVE" Language="en_US">
+			<Text>Sassanid</Text>
+		</Row>
+
+		<!--Pedia-->
+		<Row Tag="LOC_CIVINFO_CVS_SASANIAN_LOCATION" Language="en_US">
+			<Text>Asia and Africa</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_CVS_SASANIAN_POPULATION" Language="en_US">
+			<Text>About 21 million before the plague; about 13 million after.</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_CVS_SASANIAN_SIZE" Language="en_US">
+			<Text>3,500,000 km² (1,400,000 sq mi)</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_CVS_SASANIAN_CAPITAL" Language="en_US">
+			<Text>Ctesiphon</Text>
+
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_CVS_SASANIAN_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>The Sassanid Empire first began in Persis, under a nobleman in the court of the local ruler by the name of Pabag. While the rise of the Sassanid Empire is often attributed to Ardashir I, and surely owed its success to his achievements, numismatic evidence points to its beginning under his father, Pabag, and brother, Shapur. In its nascency, this rebellion was focused on Persis, which was under the rule of a Gozihr at the time. Ardashir would take the reins of this rebellion, and from there go on to subjugate or unite the territories belonging to the Parthian yoke, culminating in the defeat of Parthian leader Ardawan IV and his brother and rival Walakhsh VI.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_CVS_SASANIAN_CHAPTER_HISTORY_PARA_2" Language="en_US">
+			<Text>After a series of clashes with the Roman empire, Ardashir would appoint his son, Shapur I, as co-regent, and eventually abdicate. Shapur would continue the conquests of his father, both in the east and the west. There followed an increase in the imperial apparatus, though that would not reach its peak until centuries later. It was during Shapur's reign that Armenia would become a point of contention between Rome and the Sassanids—one which would persist for centuries. Shapur would go on to make a name for himself in defeating Gordianus III, forcing Philip the Arab into a humiliating treaty, and capturing and imprisoning Emperor Valerian. So monumental were these accomplishments, especially by one ruler, that Shapur would have them immortalized in a rock relief and inscription at Naqsh-e Rostam. This marked a return of Iranian military power and influence in Mesopotamia. In only a few decades, the Sassanids were able to secure their own realm and disrupt and change the politics of their larger region.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_CVS_SASANIAN_CHAPTER_HISTORY_PARA_3" Language="en_US">
+			<Text>During the early empire, rock reliefs were a common artistic and cultural production of royal propaganda and image. These reliefs, mainly investiture or triumphal, were carved into cliffs, hills, and grottoes throughout the Iranian heartland. It should be noted that reliefs such as Shapur's that depict victory over Roman adversaries were there for more than the glory of the King of Kings: they were meant to demonstrate the arrival of the Sassanid power within the political world of the time. The Sassanids were agents of change.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_CVS_SASANIAN_CHAPTER_HISTORY_PARA_4" Language="en_US">
+			<Text>There followed several Kings of Kings until Bahram II, whose reign included the rise of the influential priest Kerdir (first seen during the reign of Shapur I), and the execution of the prophet Mani (of Manichaeism) by Bahram. In this, Zoroastrianism contributed to the identity of the Sassanids, and went on to affect to the sociocultural world of Eranshahr so deeply that it endured well beyond their demise. The Sassanids would adopt Zoroastrianism as their official administrative religion, but Christianity, Judaism, and Buddhism continued to be practiced in the realm for the rest of its history. Bahram's mostly peaceful reign allowed him to exert influence over the Kushans to the east, though he did have to quell several internal conflicts: chiefly, a rebellion by his brother.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_CVS_SASANIAN_CHAPTER_HISTORY_PARA_5" Language="en_US">
+			<Text>Bahram III was installed on the throne through a conspiracy, but was soon deposed by Bahram II's heir apparent, Narseh (the heir apparent tended to function as the king of Armenia until it was his time to rule). Perhaps the most important event during Narseh's reign was the adoption of Christianity in Armenia, which would only throw cinnamon in the flames of hostility between Rome and Iran. During his reign, the Kushanshahs would emerge in the east as a sort of Sassanid suzerain, and while the exact relationship is inscrutable, it was clear that the Kushanshahs had a significant role under the Kings of Kings. The succession of Hormizd II was mainly involved with continued hostility over Armenia</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_CVS_SASANIAN_CHAPTER_HISTORY_PARA_6" Language="en_US">
+			<Text>Shapur II, the longest reigning Sassanid monarch, is said to have been crowned while still in his mother's womb. When he came of age, Shapur brought a swift, brutal end to the Arab invasions to the south, which would earn him the epithet "He Who Pierces Shoulders". To the east, he was charged with fighting off the Chionites, and though he managed to thwart their invasion, the Kushano-Sassanid cadet branch would be lost to an autonomous state, possibly Kidarite. In the western theater, Shapur successfully repelled a Roman campaign. The resulting peace treaty placed Nisibis, a border city crucial to defense and trade, under Sassanid control. Shapur's rule was not strictly one of military conflict, however. During his time, Shapur brought stability to the empire, partly due to the dissolution of vassal kingdoms. This granted the King of Kings considerable power, and further centralized the Sassanid machine. An image of the King of Kings as princeps over other kings was replaced by one of a central ruler of an ancient order, further established by the codification of the Avesta and the legendary Kayanid kings from which Shapur II and subsequent leaders would claim lineage.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_CVS_SASANIAN_CHAPTER_HISTORY_PARA_7" Language="en_US">
+			<Text>Ardashir II succeeded his brother Shapur II, probably as a result of an agreement with his brother, and perhaps due to his valor in combat. His would be a rule during which the nobility was purged in an attempt to control their power, which resulted in his removal from the throne. Shapur III, son of II, did not last long: a symptom of the rising authority of the nobles, who had him killed by collapsing his tent. Wahram IV's short rule would be curtailed by the nobles same as his predecessors. This pattern would come to an end with his son (or perhaps brother) Yazdgerd I.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_CVS_SASANIAN_CHAPTER_HISTORY_PARA_8" Language="en_US">
+			<Text>"The Sinful One", as Yazdgerd came to be known, was likely an epithet owed to his many strong-willed qualities: chiefly, that he did not kowtow to the nobility and priests. Less so, his religious tolerance. His intransigence restored the throne's place in the empire at the expense of those who conspired behind it. One event worth noting during his reign is the request by Emperor Arcadius to adopt his son, the future Theodosios II, as his foster son. While he avoided the wrath of the conspirators he extirpated, Yazdgerd would instead meet his demise in a tragicomic manner by a kick from his horse.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_CVS_SASANIAN_CHAPTER_HISTORY_PARA_9" Language="en_US">
+			<Text>Bahram V, raised in the court of al-Hira, would achieve a great deal during his time. He began by rallying his Arab benefactors behind a march on the capital to secure the throne against a usurper. Bahram is said to have enjoyed musicians and the hunt, qualities which have been highly romanticized in Classical Persian literature. If his epithet Gur, meaning "onager", is any indication, there is presumably some truth to these tales. His would be a period of prosperity and cultural emergence, during which minstrels were imported, taxes were allayed, and the Iranian people were at ease.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_CVS_SASANIAN_CHAPTER_HISTORY_PARA_10" Language="en_US">
+			<Text>Unlike his namesake and grandfather, Yazdgerd II did not tolerate Christianity—not in Armenia at least. In a play to regain influence and control over Armenia, Yazdgerd and his vizier attempted to forcefully reconvert Armenians to Zoroastrianism. The rebellion this provoked was squashed, and Persarmenia was henceforth governed directly by the Sassanid court. Of note is the title "Kay", which Yazdgerd began minting on his coins. This signalled a shift in Sassanid ideology away from the King of (many) Kings and more toward a divinely, or at least religiously, ordained Great King.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_CVS_SASANIAN_CHAPTER_HISTORY_PARA_11" Language="en_US">
+			<Text>With the death of Yazdgerd II there followed a power struggle between his heirs Hormizd II and Peroz, of whom the latter would emerge triumphant. The disarray caused by this struggle would give Caucasian Iberia the opportunity to gain its independence, and would weaken the eastern bulwark to an attack by the Hephthalites. Peroz would, however, pacify Caucasian Albania, and reach an understanding with the Eastern Roman Empire for defense of the Caucasus from invaders. This manifested as an annual payment from Rome for the upkeep of the Gate of Darband, which eventually led to a great deal of turbulence in future relations between the empires.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_CVS_SASANIAN_CHAPTER_HISTORY_PARA_12" Language="en_US">
+			<Text>Unfortunately for Peroz, his campaigns against the Hephthalites to the east were woefully unsuccessful, and culminated in his capture. As a consequence, the Sassanids were forced to cede territory, leave Prince Kawad as a hostage, and pay tribute. This dismal situation was made worse when, during a subsequent campaign to free Kawad, Peroz was killed and his army obliterated. Left in a bad way, the Sassanids had their work cut out for them.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_CVS_SASANIAN_CHAPTER_HISTORY_PARA_13" Language="en_US">
+			<Text>Relief would not come in the form of Walash, brother of Peroz, whose short reign did nothing for the empty treasury. Salvation would be found instead in the prince who had been left with the Hephthalites. Kawad I inherited a throne burdened with damaged credibility, a drained treasury, and to make matters worse, the Hephthalites continued to help themselves to Sassanid territory.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_CVS_SASANIAN_CHAPTER_HISTORY_PARA_14" Language="en_US">
+			<Text>Kawad earned for himself a reputation of infamy among the courtiers and clergy. In his attempts to undermine their conspiracies and institute radical reforms, he invited their ire and his imprisonment. During his two-year incarceration, the grandees installed on the throne a brother of Kawad's by the name of Zamasp—transgressions that would not go unpunished. Kawad escaped to his former hosts, the Hephthalites, and with their aid marched on the capital to remove Zamasp peacefully and reclaim his crown.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_CVS_SASANIAN_CHAPTER_HISTORY_PARA_15" Language="en_US">
+			<Text>Kawad's second reign proved to be of monumental importance to the characteristics of the empire and the region. He would curtail Roman fortifications in Dara, near the border with Nisibis, besiege Amida, put down a rebellion in Armenia, demand resumed payments for the defense of the Caucasus passes, and in so doing re-establish the might and credibility of the Sassanid military. His sociopolitical reforms, many of which were attributed to his son, restructured the tax system, reorganized the clerical administration, reformed the nobility, and quadripartitioned the military. What's more, Kawad would, through an upstart Zoroastrian sect, inflict upon the courtiers and clergy a heavy blow that restored authority to the throne. Disputes with Rome over Lazica led to a war that persisted into the rule of his son.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_CVS_SASANIAN_CHAPTER_HISTORY_PARA_16" Language="en_US">
+			<Text>When Khosrow I succeeded his father, the Sassanid Empire was enjoying a period of stability thanks to a redoubtable military and reinvigorated treasury. Khosrow is said to have killed Mazdak and his followers, paving the way for a standard state Zoroastrianism to follow. Remembered as a wise and just ruler, Khosrow is perhaps the most renowned King of Kings in both Persian and Arabic sources. He went on to continue and strengthen the reforms of his father, and press the war with the Romans to a favorable end. With hostilities ceased, Khosrow set his sights on the Hephthalites: too long had they encroached upon the domain of the Sassanids. By way of an alliance with the Gok-Turks, he carved up their empire, effectively replacing one threat to the east with another.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_CVS_SASANIAN_CHAPTER_HISTORY_PARA_17" Language="en_US">
+			<Text>Hormizd IV achieved little, though he sought to expand the reforms of his forebears. This and his lack of focus on military matters eventually led to a palace coup, which placed his son, Khosrow II on the throne. His would prove to be a tumultuous succession, contested by an acclaimed general by the name of Bahram Chobin. Bahram Chobin ran Khosrow II out of the empire and claimed the crown by force, thus becoming the first non-Sassanid to rule. That Bahram could accomplish as much spoke to the rising prestige and influence of the military and the noble families to which these generals belonged.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_CVS_SASANIAN_CHAPTER_HISTORY_PARA_18" Language="en_US">
+			<Text>Khosrow II fled to the Eastern Roman Empire where he entreated Emperor Maurice for aid, who obliged, though with principally Armenian forces. Khosrow drove Bahram from Ctesiphon and into the realm of the Gok-Turks. Naturally, this led to peace with Rome. Khosrow then dealt with those who had a hand in the assassination of his father, though it is possible he played a tacit part in the deed. Khosrow II would bring to heel a second rebellion, after which he would take the time to consolidate his power.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_CVS_SASANIAN_CHAPTER_HISTORY_PARA_19" Language="en_US">
+			<Text>The murder of Emperor Maurice soon gave Khosrow II leave to initiate a campaign against the Eastern Roman Empire, claiming the presence of Maurice's son Theodosius in his court as justification. This campaign would be far and above the most successful of all Sassanid ventures, resulting in the fall of Syria, Palestine, and Egypt. Khosrow would in fact go as far as laying siege to Constantinople. Internal disputes over a protracted war combined with a formidable counteroffensive by Heraclius resulted in a reversal of fortunes for the Sassanids. Court intrigue further weakened the empire, which allowed the Romans to not only retake all territories Khosrow had gained, but press into Sassanid borders. This was reason enough for Khosrow II to be removed in a palace coup and replaced by his son Kawad II.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_CVS_SASANIAN_CHAPTER_HISTORY_PARA_20" Language="en_US">
+			<Text>What followed was a period of interregnum, chaos, and regicide, which would be further aggravated by the Plague of Shireye. Kawad II's short reign was followed by his son, Ardashir III, who in turn was removed from the throne by Shahrbaraz, a Sassanid commander. Shahrbaraz was then thwarted by Boran with the help of one of the Parthian Houses. This restored the throne, if fleetingly, to Sassanid blood, for Boran was a daughter of Khosrow II. Her reign was marked by a period of consolidation of imperial power and endeavors to rebuild the empire. Boran minted coins in the form of her father, and sought to restore his image. Both Boran and her sister Azarmigduxt, who was also installed on the throne, were deposed by a Sassanid general, which further demonstrates the growing power of military commanders. The empire would cycle through other claimants before finally reaching a period of relative stability under Yazdgerd III.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_CVS_SASANIAN_CHAPTER_HISTORY_PARA_21" Language="en_US">
+			<Text>But this stability was too little too late. Yazdgerd III was faced with the Muslim horde. While the Sassanids fought tooth and nail, their fate had been sealed in the decades leading up to their demise. The Muslim armies simply capitalized, securing victories in Qadisiyya and Ctesiphon, and forcing Yazdgerd to flee to the east, province by province, to rouse support against the invaders. Eventually, his dwindling forces were defeated. Tradition has it that Yazdgerd was slain in 651 by a miller who didn't recognize the King of Kings. </Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_CVS_SASANIAN_CHAPTER_HISTORY_PARA_22" Language="en_US">
+			<Text>Yazdgerd III's sons would continue east to the court of Chinese Emperor Gaozang, where they were recognized as holders of the Persian throne-in-exile, and given command in Sistan. A failed attempt to retake Iran in the early eight century marked the final vestige of Sassanid history.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_CVS_SASANIAN_CHAPTER_HISTORY_PARA_23" Language="en_US">
+			<Text>— The Historical Context section above is a paraphrased version of content in From Oxus to Euphrates: The World of Late Antique Iran by Touraj Daryaee and Khodadad Rezakhani.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_CVS_SASANIAN_CHAPTER_CAPSULE_BODY" Language="en_US">
+			<Text>
+				The Sassanid Empire stretched from the Euphrates in the West to Central Asia in the East. Through a combination of strength of arms and tolerance, Sassanian Iran brought swathes of land into its fold. There, by harnessing cultures and ideas from both within and without, the empire nurtured the arts and sciences. It glowed with an appreciation for court, religion, king, and nature—often finding unity in depictions of the Royal Hunt. Many of the well-travelled tales of One Thousand and One Nights first graced the lips of storytellers in Sassanian Iran's thriving and magical folktales. The empire's military conquests scored heavy blows on many fronts: from the Eastern Roman Empire to the Caucasus, from Arabia to Sogdiana, its armies commanded respect. A mighty yet often unsung player in ancient history, Sassanian Iran commanded an indelible place both in contemporary times, and in the world we live in today.
+			</Text>
+		</Row>
+
+		<!--Trait-->
+		<Row Tag="LOC_TRAIT_CIVILIZATION_CVS_SASANIAN_UA_NAME" Language="en_US">
+			<Text>Khwadāy-Nāmag</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_CIVILIZATION_CVS_SASANIAN_UA_DESCRIPTION" Language="en_US">
+			<Text>Specialty Districts yield +1 [ICON_GreatPerson] Great Person points if a District of that type has been built adjacent to the [ICON_Capital] Capital. Military units are produced 20% faster in the capital.</Text>
+		</Row>
+
+		<Row Tag="LOC_TRAIT_CIVILIZATION_CVS_SASANIAN_UA_EXPAC1_NAME" Language="en_US">
+			<Text>Khwadāy-Nāmag</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_CIVILIZATION_CVS_SASANIAN_UA_EXPAC1_DESCRIPTION" Language="en_US">
+			<Text>Specialty Districts yield +1 [ICON_GreatPerson] Great Person points if a District of that type has been built adjacent to a Government Plaza. The Government Plaza increases unit production by 20% in its city.</Text>
+		</Row>
+		
+		<Row Tag="LOC_TRAIT_CIVILIZATION_CVS_SASANIAN_UA_EXPAC2_NAME" Language="en_US">
+			<Text>Khwadāy-Nāmag</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_CIVILIZATION_CVS_SASANIAN_UA_EXPAC2_DESCRIPTION" Language="en_US">
+			<Text>Specialty Districts yield +1 [ICON_GreatPerson] Great Person points if a District of that type has been built adjacent to a Government Plaza. The Government Plaza increases unit production by 20% in its city, and upon completion, Government Plaza buildings create roads on surrounding tiles, which increase in range and level with each tier of building.</Text>
+		</Row>
+
+		<!--Citizens-->
+		<Row Tag="LOC_CITIZEN_CVS_SASANIAN_MALE_1" Language="en_US">
+			<Text>Tirdad</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_CVS_SASANIAN_MALE_2" Language="en_US">
+			<Text>Gushnasp</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_CVS_SASANIAN_MALE_3" Language="en_US">
+			<Text>Wuzurgmihr</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_CVS_SASANIAN_MALE_4" Language="en_US">
+			<Text>Mihr-farr</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_CVS_SASANIAN_MALE_5" Language="en_US">
+			<Text>Rakhsh</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_CVS_SASANIAN_MALE_6" Language="en_US">
+			<Text>Valash</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_CVS_SASANIAN_MALE_7" Language="en_US">
+			<Text>Khumafrat</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_CVS_SASANIAN_MALE_8" Language="en_US">
+			<Text>Zayen</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_CVS_SASANIAN_MALE_9" Language="en_US">
+			<Text>Manzik</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_CVS_SASANIAN_MALE_10" Language="en_US">
+			<Text>Sasan</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_CVS_SASANIAN_MODERN_MALE_1" Language="en_US">
+			<Text>Farbod</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_CVS_SASANIAN_MODERN_MALE_2" Language="en_US">
+			<Text>Arash</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_CVS_SASANIAN_MODERN_MALE_3" Language="en_US">
+			<Text>Kaveh</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_CVS_SASANIAN_MODERN_MALE_4" Language="en_US">
+			<Text>Touraj</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_CVS_SASANIAN_MODERN_MALE_5" Language="en_US">
+			<Text>Babak</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_CVS_SASANIAN_MODERN_MALE_6" Language="en_US">
+			<Text>Ardashir</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_CVS_SASANIAN_MODERN_MALE_7" Language="en_US">
+			<Text>Mazdak</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_CVS_SASANIAN_MODERN_MALE_8" Language="en_US">
+			<Text>Khodadad</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_CVS_SASANIAN_MODERN_MALE_9" Language="en_US">
+			<Text>Piruz</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_CVS_SASANIAN_MODERN_MALE_10" Language="en_US">
+			<Text>Marzban</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_CVS_SASANIAN_FEMALE_1" Language="en_US">
+			<Text>Adur-Anahid</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_CVS_SASANIAN_FEMALE_2" Language="en_US">
+			<Text>Dinak</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_CVS_SASANIAN_FEMALE_3" Language="en_US">
+			<Text>Ashtadukht</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_CVS_SASANIAN_FEMALE_4" Language="en_US">
+			<Text>Shkarag</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_CVS_SASANIAN_FEMALE_5" Language="en_US">
+			<Text>Anoshak</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_CVS_SASANIAN_FEMALE_6" Language="en_US">
+			<Text>Varazdukht</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_CVS_SASANIAN_FEMALE_7" Language="en_US">
+			<Text>Rud-dukhtak</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_CVS_SASANIAN_FEMALE_8" Language="en_US">
+			<Text>Rodak</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_CVS_SASANIAN_FEMALE_9" Language="en_US">
+			<Text>Myrod</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_CVS_SASANIAN_FEMALE_10" Language="en_US">
+			<Text>Zruandukht</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_CVS_SASANIAN_MODERN_FEMALE_1" Language="en_US">
+			<Text>Parvaneh</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_CVS_SASANIAN_MODERN_FEMALE_2" Language="en_US">
+			<Text>Anahita</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_CVS_SASANIAN_MODERN_FEMALE_3" Language="en_US">
+			<Text>Azadeh</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_CVS_SASANIAN_MODERN_FEMALE_4" Language="en_US">
+			<Text>Tarsa</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_CVS_SASANIAN_MODERN_FEMALE_5" Language="en_US">
+			<Text>Mehregan</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_CVS_SASANIAN_MODERN_FEMALE_6" Language="en_US">
+			<Text>Pardis</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_CVS_SASANIAN_MODERN_FEMALE_7" Language="en_US">
+			<Text>Khorshid</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_CVS_SASANIAN_MODERN_FEMALE_8" Language="en_US">
+			<Text>Roxana</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_CVS_SASANIAN_MODERN_FEMALE_9" Language="en_US">
+			<Text>Shirin</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_CVS_SASANIAN_MODERN_FEMALE_10" Language="en_US">
+			<Text>Astar</Text>
+		</Row>
+
+		<!--Aswar-->
+		<Row Tag="LOC_TRAIT_CIVILIZATION_UNIT_CVS_ASWAR_NAME" Language="en_US">
+			<Text>Aswār</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_CIVILIZATION_UNIT_CVS_ASWAR_DESCRIPTION" Language="en_US">
+			<Text>Sassanid unique cavalry unit that can move after attacking. Has increased defense against ranged attacks, and a unique promotion tree. Unlocks with the Feudalism civic.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_CVS_ASWAR_NAME" Language="en_US">
+			<Text>Aswār</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_CVS_ASWAR_DESCRIPTION" Language="en_US">
+			<Text>Sassanid unique cavalry unit that can move after attacking. Has increased defense against ranged attacks, and a unique promotion tree. Unlocks with the Feudalism civic.</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_CVS_ASWAR_RANGEDDEFENSE_PREVIEW_TEXT" Language="en_US">
+			<Text>+7 defense versus ranged attacks.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_CVS_ASWAR_CHAPTER_CAPSULE_BODY" Language="en_US">
+			<Text>
+				The Aswār is a cavalry unit that combines the traits of heavy and light cavalry, replete with a mixed promotion tree.
+			</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_CVS_ASWAR_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>
+				Aswārān were the quintessential unit in the Sassanid army—the backbone of its military might and battlefield maneuvering. While the Sassanids did rely on multifarious support and auxiliary troops, the Aswārān were the elite cavalry for which they would be known.
+			</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_CVS_ASWAR_CHAPTER_HISTORY_PARA_2" Language="en_US">
+			<Text>
+				These cavalry units were versatile, and evolved over time in response to both technology and their enemies. Perhaps the most iconic trappings of the Aswārān are their mail armor and their pike (often confused with a lance). The former is somewhat misleading, as Aswārān wore a combination of several armor types. In addition to mail, they wore metal plates sewn into surcoats, breastplates, corselets, laminated leg and arm defense, and at times, scale—all to great effect. Their horses would sometimes have plate in the front (and only in the front to ease their load) with scale elsewhere. The pike was typically held with two arms at waist level, and reputedly capable of skewering two men at a time.
+			</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_CVS_ASWAR_CHAPTER_HISTORY_PARA_3" Language="en_US">
+			<Text>
+				Aswārān weren't only tanks with pikes; they were trained to adapt. The required equiment for an Aswār was a lengthy list indeed: helm, hauberk*, breastplate, mail, gauntlet, girdle, thigh guards, lance (pike), sword, spear, battle axe**, mace**, bow case with two bows and two strings, quiver with thirty arrows, two extra bow strings fastened to the back of their helm, and a choice of lasso or slingshot. *Hauberk may have meant neck and shoulder armor. Typically, Aswārān carried either an axe or a mace.
+			</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_CVS_ASWAR_CHAPTER_HISTORY_PARA_4" Language="en_US">
+			<Text>
+				Aswārān were a force to be reckoned with on the battlefield, and commanded quite the presence. They were often used in wave maneuvers that made the most of their mobility and intimidation. One such strategy involved a line of charging Aswārān that would put the enemy on guard. They would break off at the last second, and the feint would be immediately followed by a line of heavy infantry. Another involved rotating waves of archers (perhaps cavalry) and Aswārān. The Aswārān would rush in, bunching up the enemy to make easier targets for the archers, who would loose their salvo then break off. This kept the enemy on their heels for the next line of Aswārān, and so on and so forth.
+			</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_CVS_ASWAR_CHAPTER_HISTORY_PARA_5" Language="en_US">
+			<Text>
+				What's more, Aswārān didn't belong to a homogenous entity. The most famous were the Zhayedan (Immortals), which numbered 10,000. Oftentimes, Zhayedan were held in reserve for crucial stages in battle or to secure a breakthrough. More prestigious were the Pushtighban (Royal Guard), which numbered about 1,000. These were the Aswārān who had distinguished themselves in battle, and were known to have saved the king of kings on several occasions. The bulk of the Aswārān—those who were neither Immortals nor Royal Guard—generally accounted for only a portion of the Sassanid army, though there were historical exceptions. Within that bulk, Aswārān units fought under banners and a system of heraldry.
+			</Text>
+		</Row>
+
+		<!--Hunting Park-->
+		<Row Tag="LOC_DISTRICT_CVS_HUNTINGPARK_NAME" Language="en_US">
+			<Text>Wiškar</Text>
+		</Row>
+		<Row Tag="LOC_DISTRICT_CVS_HUNTINGPARK_DESCRIPTION" Language="en_US">
+			<Text>Specialty districts in its city gain a minor adjacency bonus from feature types adjacent to the Wiškar. Grants its city +1 [ICON_Amenities] Amenity, and unlocks the Royal Hunt project.</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_CIVILIZATION_DISTRICT_CVS_HUNTINGPARK_NAME" Language="en_US">
+			<Text>Wiškar</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_CIVILIZATION_DISTRICT_CVS_HUNTINGPARK_DESCRIPTION" Language="en_US">
+			<Text>Specialty districts in its city gain a minor adjacency bonus from feature types adjacent to the Wiškar. Grants its city +1 [ICON_Amenities] Amenity, and unlocks the Royal Hunt project.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_DISTRICTS_PAGE_DISTRICT_CVS_HUNTINGPARK_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>
+				The Wiškar was a supposed hunting ground, walled and stocked with all manner of flora and fauna. The hunt itself was a long-lived tradition in Iranian culture; it was said that a man who went neither hunting nor fighting was worthless.
+			</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_DISTRICTS_PAGE_DISTRICT_CVS_HUNTINGPARK_CHAPTER_HISTORY_PARA_2" Language="en_US">
+			<Text>
+				Sassanid hunting parties were grand affairs that involved a veritable army. One need only look to the grotto of Khosrow II at Taq-e Bostan. In the national epic, the Shahnameh, Khosrow's hunt was said to have involved the following: 300 steeds with golden caparisons, 1,160 servants with javelins, 1,040 more wearing brocade over mail, and carrying a sword and staff; 500 falconers bearing sparrowhawks, goshawks, and royal falcons; 300 horsemen, the cheetah-keeper with his 70 tame lions and leopards in golden harnesses and muzzles, and 800 hounds on golden leashes; 200 minstrels wearing gold and riding camels; 500 camels bearing seats, tents, pavillions, and a portable stable; 300 princes, each wearing golden, jewel-embellished armbands and belts; 200 slaves carring censers that burned aloeswood and ambergris; 200 servants with narcissus and saffron; and finally 100 water-bearers to sprinkle the road ahead of the considerable retinue to prevent the dust from rising.
+			</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_DISTRICTS_PAGE_DISTRICT_CVS_HUNTINGPARK_CHAPTER_HISTORY_PARA_3" Language="en_US">
+			<Text>
+				The importance of these hunting parties can be seen in the surfeit of representations, especially when contrasted with the relative dearth of extant Sassanid art. Rock reliefs, seals, wall motifs, and metalwork all depicted the king, or the king and his entourage, participating in the hunt.
+			</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_DISTRICTS_PAGE_DISTRICT_CVS_HUNTINGPARK_CHAPTER_HISTORY_PARA_4" Language="en_US">
+			<Text>
+				Kings of kings could find more than mere prestige in the hunt.  The idea of supernatural valor was attached to the act, so in performing feats in the hunt Kings of kings drew parallels between themselves and divinities.
+			</Text>
+		</Row>
+		<!--Hunting Park Adjacencies-->
+		<Row Tag="LOC_CVS_HUNTINGPARK_ADJ_NATURALWONDER" Language="en_US">
+			<Text>+{1_num} [ICON_Culture] Culture from adjacent {1_Num : plural 1? Natural Wonder; other?Natural Wonders;}.</Text>
+		</Row>
+		<Row Tag="LOC_CVS_HUNTINGPARK_ADJ_FEATURE_FOREST" Language="en_US">
+			<Text>+{1_num} [ICON_Culture] Culture from adjacent Woods.</Text>
+		</Row>
+		<Row Tag="LOC_CVS_HUNTINGPARK_ADJ_FEATURE_OASIS" Language="en_US">
+			<Text>+{1_num} [ICON_Culture] Culture from adjacent Oases.</Text>
+		</Row>
+		<Row Tag="LOC_CVS_HUNTINGPARK_ADJ_FEATURE_RAINFOREST" Language="en_US">
+			<Text>+{1_num} [ICON_Culture] Culture from adjacent Rainforest.</Text>
+		</Row>
+		<Row Tag="LOC_CVS_HUNTINGPARK_ADJ_FEATURE_ICE" Language="en_US">
+			<Text>+{1_num} [ICON_Culture] Culture from adjacent Ice.</Text>
+		</Row>
+		<Row Tag="LOC_CVS_HUNTINGPARK_ADJ_FEATURE_MARSH" Language="en_US">
+			<Text>+{1_num} [ICON_Culture] Culture from adjacent Marshes.</Text>
+		</Row>
+		<Row Tag="LOC_CVS_HUNTINGPARK_ADJ_FEATURE_REEF" Language="en_US">
+			<Text>+{1_num} [ICON_Culture] Culture from adjacent Reefs.</Text>
+		</Row>
+		<!--Expac Features-->
+		<Row Tag="LOC_CVS_HUNTINGPARK_ADJ_FEATURE_FLOODPLAINS" Language="en_US">
+			<Text>+{1_num} [ICON_Culture] Culture from adjacent Floodplains.</Text>
+		</Row>
+		<Row Tag="LOC_CVS_HUNTINGPARK_ADJ_FEATURE_FLOODPLAINS_GRASSLAND" Language="en_US">
+			<Text>+{1_num} [ICON_Culture] Culture from adjacent Floodplains.</Text>
+		</Row>
+		<Row Tag="LOC_CVS_HUNTINGPARK_ADJ_FEATURE_FLOODPLAINS_GRASSLAND_PLAINS" Language="en_US">
+			<Text>+{1_num} [ICON_Culture] Culture from adjacent Floodplains.</Text>
+		</Row>
+		<Row Tag="LOC_CVS_HUNTINGPARK_ADJ_FEATURE_VOLCANO" Language="en_US">
+			<Text>+{1_num} [ICON_Culture] Culture from adjacent Volcanoes.</Text>
+		</Row>
+		<Row Tag="LOC_CVS_HUNTINGPARK_ADJ_FEATURE_VOLCANIC_SOIL" Language="en_US">
+			<Text>+{1_num} [ICON_Culture] Culture from adjacent Volcanic Soil.</Text>
+		</Row>
+		<Row Tag="LOC_CVS_HUNTINGPARK_ADJ_FEATURE_GEOTHERMAL_FISSURE" Language="en_US">
+			<Text>+{1_num} [ICON_Culture] Culture from adjacent Geothermal Fissures.</Text>
+		</Row>
+		<!--Hunting Park Granted Adjacencies-->
+			<!--Science-->
+		<Row Tag="LOC_CVS_HUNTINGPARK_SCIENCE_GRANTED_FROM_FEATURE_FOREST" Language="en_US">
+			<Text>+{1_num} [ICON_Science] Science from adjacent Woods.</Text>
+		</Row>
+		<Row Tag="LOC_CVS_HUNTINGPARK_SCIENCE_GRANTED_FROM_FEATURE_REEF" Language="en_US">
+			<Text>+{1_num} [ICON_Science] Science from adjacent {1_Num : plural 1? Reef; other?Reefs;}.</Text>
+		</Row>
+		<Row Tag="LOC_CVS_HUNTINGPARK_SCIENCE_GRANTED_FROM_FEATURE_ICE" Language="en_US">
+			<Text>+{1_num} [ICON_Science] Science from adjacent {1_Num : plural 1? Ice; other?Ice;}.</Text>
+		</Row>
+		<Row Tag="LOC_CVS_HUNTINGPARK_SCIENCE_GRANTED_FROM_FEATURE_OASIS" Language="en_US">
+			<Text>+{1_num} [ICON_Science] Science from adjacent {1_Num : plural 1? Oasis; other?Oases;}.</Text>
+		</Row>
+		<Row Tag="LOC_CVS_HUNTINGPARK_SCIENCE_GRANTED_FROM_FEATURE_MARSH" Language="en_US">
+			<Text>+{1_num} [ICON_Science] Science from adjacent {1_Num : plural 1? Marsh; other?Marshes;}.</Text>
+		</Row>
+			<!--Faith-->
+		<Row Tag="LOC_CVS_HUNTINGPARK_FAITH_GRANTED_FROM_FEATURE_JUNGLE" Language="en_US">
+			<Text>+{1_num} [ICON_Faith] Faith from adjacent {1_Num : plural 1? Rainforest; other?Rainforest;}.</Text>
+		</Row>
+		<Row Tag="LOC_CVS_HUNTINGPARK_FAITH_GRANTED_FROM_FEATURE_REEF" Language="en_US">
+			<Text>+{1_num} [ICON_Faith] Faith from adjacent {1_Num : plural 1? Reef; other?Reefs;}.</Text>
+		</Row>
+		<Row Tag="LOC_CVS_HUNTINGPARK_FAITH_GRANTED_FROM_FEATURE_ICE" Language="en_US">
+			<Text>+{1_num} [ICON_Faith] Faith from adjacent {1_Num : plural 1? Ice; other?Ice;}.</Text>
+		</Row>
+		<Row Tag="LOC_CVS_HUNTINGPARK_FAITH_GRANTED_FROM_FEATURE_OASIS" Language="en_US">
+			<Text>+{1_num} [ICON_Faith] Faith from adjacent {1_Num : plural 1? Oasis; other?Oases;}.</Text>
+		</Row>
+		<Row Tag="LOC_CVS_HUNTINGPARK_FAITH_GRANTED_FROM_FEATURE_MARSH" Language="en_US">
+			<Text>+{1_num} [ICON_Faith] Faith from adjacent {1_Num : plural 1? Marsh; other?Marshes;}.</Text>
+		</Row>
+			<!--Culture-->
+		<Row Tag="LOC_CVS_HUNTINGPARK_CULTURE_GRANTED_FROM_FEATURE_JUNGLE" Language="en_US">
+			<Text>+{1_num} [ICON_Culture] Culture from adjacent {1_Num : plural 1? Rainforest; other?Rainforest;}.</Text>
+		</Row>
+		<Row Tag="LOC_CVS_HUNTINGPARK_CULTURE_GRANTED_FROM_FEATURE_REEF" Language="en_US">
+			<Text>+{1_num} [ICON_Culture] Culture from adjacent {1_Num : plural 1? Reef; other?Reefs;}.</Text>
+		</Row>
+		<Row Tag="LOC_CVS_HUNTINGPARK_CULTURE_GRANTED_FROM_FEATURE_ICE" Language="en_US">
+			<Text>+{1_num} [ICON_Culture] Culture from adjacent {1_Num : plural 1? Ice; other?Ice;}.</Text>
+		</Row>
+		<Row Tag="LOC_CVS_HUNTINGPARK_CULTURE_GRANTED_FROM_FEATURE_OASIS" Language="en_US">
+			<Text>+{1_num} [ICON_Culture] Culture from adjacent {1_Num : plural 1? Oasis; other?Oases;}.</Text>
+		</Row>
+		<Row Tag="LOC_CVS_HUNTINGPARK_CULTURE_GRANTED_FROM_FEATURE_MARSH" Language="en_US">
+			<Text>+{1_num} [ICON_Culture] Culture from adjacent {1_Num : plural 1? Marsh; other?Marshes;}.</Text>
+		</Row>
+		<Row Tag="LOC_CVS_HUNTINGPARK_CULTURE_GRANTED_FROM_FEATURE_FOREST" Language="en_US">
+			<Text>+{1_num} [ICON_Culture] Culture from adjacent Woods.</Text>
+		</Row>
+			<!--Production-->
+		<Row Tag="LOC_CVS_HUNTINGPARK_PRODUCTION_GRANTED_FROM_FEATURE_JUNGLE" Language="en_US">
+			<Text>+{1_num} [ICON_Production] Production from adjacent {1_Num : plural 1? Rainforest; other?Rainforest;}.</Text>
+		</Row>
+		<Row Tag="LOC_CVS_HUNTINGPARK_PRODUCTION_GRANTED_FROM_FEATURE_REEF" Language="en_US">
+			<Text>+{1_num} [ICON_Production] Production from adjacent {1_Num : plural 1? Reef; other?Reefs;}.</Text>
+		</Row>
+		<Row Tag="LOC_CVS_HUNTINGPARK_PRODUCTION_GRANTED_FROM_FEATURE_ICE" Language="en_US">
+			<Text>+{1_num} [ICON_Production] Production from adjacent {1_Num : plural 1? Ice; other?Ice;}.</Text>
+		</Row>
+		<Row Tag="LOC_CVS_HUNTINGPARK_PRODUCTION_GRANTED_FROM_FEATURE_OASIS" Language="en_US">
+			<Text>+{1_num} [ICON_Production] Production from adjacent {1_Num : plural 1? Oasis; other?Oases;}.</Text>
+		</Row>
+		<Row Tag="LOC_CVS_HUNTINGPARK_PRODUCTION_GRANTED_FROM_FEATURE_MARSH" Language="en_US">
+			<Text>+{1_num} [ICON_Production] Production from adjacent {1_Num : plural 1? Marsh; other?Marshes;}.</Text>
+		</Row>
+		<Row Tag="LOC_CVS_HUNTINGPARK_PRODUCTION_GRANTED_FROM_FEATURE_FOREST" Language="en_US">
+			<Text>+{1_num} [ICON_Production] Production from adjacent Woods.</Text>
+		</Row>
+			<!--Gold-->
+		<Row Tag="LOC_CVS_HUNTINGPARK_GOLD_GRANTED_FROM_FEATURE_JUNGLE" Language="en_US">
+			<Text>+{1_num} [ICON_Gold] Gold from adjacent {1_Num : plural 1? Rainforest; other?Rainforest;}.</Text>
+		</Row>
+		<Row Tag="LOC_CVS_HUNTINGPARK_GOLD_GRANTED_FROM_FEATURE_REEF" Language="en_US">
+			<Text>+{1_num} [ICON_Gold] Gold from adjacent {1_Num : plural 1? Reef; other?Reefs;}.</Text>
+		</Row>
+		<Row Tag="LOC_CVS_HUNTINGPARK_GOLD_GRANTED_FROM_FEATURE_ICE" Language="en_US">
+			<Text>+{1_num} [ICON_Gold] Gold from adjacent {1_Num : plural 1? Ice; other?Ice;}.</Text>
+		</Row>
+		<Row Tag="LOC_CVS_HUNTINGPARK_GOLD_GRANTED_FROM_FEATURE_OASIS" Language="en_US">
+			<Text>+{1_num} [ICON_Gold] Gold from adjacent {1_Num : plural 1? Oasis; other?Oases;}.</Text>
+		</Row>
+		<Row Tag="LOC_CVS_HUNTINGPARK_GOLD_GRANTED_FROM_FEATURE_MARSH" Language="en_US">
+			<Text>+{1_num} [ICON_Gold] Gold from adjacent {1_Num : plural 1? Marsh; other?Marshes;}.</Text>
+		</Row>
+		<Row Tag="LOC_CVS_HUNTINGPARK_GOLD_GRANTED_FROM_FEATURE_FOREST" Language="en_US">
+			<Text>+{1_num} [ICON_Gold] Gold from adjacent Woods.</Text>
+		</Row>
+
+		<!--Royal Hunt Project-->
+		<Row Tag="LOC_PROJECT_CVS_ROYALHUNT_NAME" Language="en_US">
+			<Text>Royal Hunt</Text>
+		</Row>
+		<Row Tag="LOC_PROJECT_CVS_ROYALHUNT_SHORTNAME" Language="en_US">
+			<Text>Royal Hunt</Text>
+		</Row>
+		<Row Tag="LOC_PROJECT_CVS_ROYALHUNT_DESCRIPTION" Language="en_US">
+			<Text>Sassanid unique project that spawns a random unit in your [ICON_Capital] Capital, including units from other leaders or civilizations. +1 [ICON_Amenities] Amenity when active.</Text>
+		</Row>
+
+		<!--Composite Cavalary Promotions-->
+		<Row Tag="LOC_PROMOTION_CLASS_CVS_ASWAR_NAME" Language="en_US">
+			<Text>Composite Cavalry</Text>
+		</Row>
+			<!--Tier 1-->
+		<Row Tag="LOC_PROMOTION_CVS_TIER_1_HEAVY_NAME" Language="en_US">
+			<Text>Horned Saddle</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_CVS_TIER_1_LIGHT_NAME" Language="en_US">
+			<Text>Maneuvering</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_CVS_TIER_1_HEAVY_DESCRIPTION" Language="en_US">
+			<Text>+10 [ICON_Strength] Combat Strength vs. fortified defender.</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_CVS_TIER_1_LIGHT_DESCRIPTION" Language="en_US">
+			<Text>+5 [ICON_Strength] Combat Strength vs. anti-cavalry.</Text>
+		</Row>
+			<!--Tier 2-->
+		<Row Tag="LOC_PROMOTION_CVS_TIER_2_HEAVY_NAME" Language="en_US">
+			<Text>Storm-Livened</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_CVS_TIER_2_LIGHT_NAME" Language="en_US">
+			<Text>Despoil</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_CVS_TIER_2_HEAVY_DESCRIPTION" Language="en_US">
+			<Text>2x flanking bonus.</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_CVS_TIER_2_LIGHT_DESCRIPTION" Language="en_US">
+			<Text>Pillaging costs only 1 [ICON_Movement] Movement point.</Text>
+		</Row>
+			<!--Tier 3-->
+		<Row Tag="LOC_PROMOTION_CVS_TIER_3_HEAVY_NAME" Language="en_US">
+			<Text>Iron Furnace</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_CVS_TIER_3_LIGHT_NAME" Language="en_US">
+			<Text>Skirmishing</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_CVS_TIER_3_HEAVY_DESCRIPTION" Language="en_US">
+			<Text>+7 [ICON_Strength] Combat Strength when defending against heavy cavalry and anti-cavalry.</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_CVS_TIER_3_LIGHT_DESCRIPTION" Language="en_US">
+			<Text>+2 [ICON_Movement] when starting in open terrain.</Text>
+		</Row>
+			<!--Tier 4-->
+		<Row Tag="LOC_PROMOTION_CVS_TIER_4_HEAVYLIGHT_NAME" Language="en_US">
+			<Text>Nisaean Stallions</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_CVS_TIER_4_HEAVYLIGHT_DESCRIPTION" Language="en_US">
+			<Text>+1 additional attack per turn if [ICON_Movement] Movement allows.</Text>
+		</Row>
+	</LocalizedText>
+</GameData>

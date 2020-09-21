@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<EnglishText>
+		<Row Tag="LOC_BUILDING_BAMYAN_NAME">
+			<Text>Buddhas of Bamyan</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_BAMYAN_DESCRIPTION">
+			<Text>+1 [ICON_Faith] Faith yield for every International Trade Route. Other Civilizations' Trade Routes to this Player grants both the Player +1 [ICON_Faith] Faith and other Civilization +1 [ICON_Faith] Faith. Farms and Pastures within 6 tiles yield +1 [ICON_Faith] Faith. Provides 2 Relic Slots and grants 1 Free Relic.</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_BAMYAN_QUOTE">
+			<Text>"To the north-east of the royal city there is a mountain, on the declivity of which is placed a stone figure of Buddha, erect, in height 140 or 150 feet. Its golden hues sparkle on every side, and its precious ornaments dazzle the eyes by their brightness." - Xuanzang, Record of the Western Regions</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_WONDERS_PAGE_BUILDING_BAMYAN_CHAPTER_HISTORY_PARA_1">
+			<Text>The Buddhas of Bamyan were two 6th-century monumental statues of Gautama Buddha carved into the side of a cliff in the Bamyan valley in the Hazarajat region of central Afghanistan, 230 kilometres (140 mi) northwest of Kabul at an elevation of 2,500 metres (8,200 ft). Built in 507 CE (smaller) and 554 CE (larger), the statues represented the classic blended style of Gandhara art. They were respectively 35 and 53 m (115 and 174 ft) tall.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_WONDERS_PAGE_BUILDING_BAMYAN_CHAPTER_HISTORY_PARA_2">
+			<Text>The main bodies were hewn directly from the sandstone cliffs, but details were modeled in mud mixed with straw, coated with stucco. This coating, practically all of which wore away long ago, was painted to enhance the expressions of the faces, hands, and folds of the robes; the larger one was painted carmine red and the smaller one was painted multiple colors. The lower parts of the statues' arms were constructed from the same mud-straw mix supported on wooden armatures. It is believed that the upper parts of their faces were made from great wooden masks or casts. The rows of holes that can be seen in photographs held wooden pegs that stabilized the outer stucco.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_WONDERS_PAGE_BUILDING_BAMYAN_CHAPTER_HISTORY_PARA_3">
+			<Text>They were dynamited and destroyed in March 2001 by the Taliban, on orders from leader Mullah Mohammed Omar, after the Taliban government declared that they were idols. An envoy visiting the United States in the following weeks said that they were destroyed to protest international aid exclusively reserved for statue maintenance while Afghanistan was experiencing famine, while the Afghan Foreign Minister claimed that the destruction was merely about carrying out Islamic religious iconoclasm.</Text>
+		</Row>
+	</EnglishText>
+</GameData>

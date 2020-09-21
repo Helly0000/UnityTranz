@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<EnglishText>
+		<Row Tag="LOC_BUILDING_ABU_SIMBEL_NAME">
+			<Text>Abu Simbel</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_ABU_SIMBEL_DESCRIPTION">
+			<Text>Grants free Granary for every City including new Cities built afterwards. Provides +2 Loyalty for cities with 6 tiles. Must be constructed on Floodplains (Desert, Plains or Grassland).</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_ABU_SIMBEL_QUOTE">
+			<Text>"I give you, Ramessses II, constant harvests to feed the two lands at all times; the sheaves thereof are like sand, their granaries approach heaven and their grain heaps are like mountains." - inscription in Great Temple</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_WONDERS_PAGE_BUILDING_ABU_SIMBEL_CHAPTER_HISTORY_PARA_1">
+			<Text>The Abu Simbel temples are two massive rock temples at Abu Simbel, a village in Aswan Governorate, Upper Egypt, near the border with Sudan. They are situated on the western bank of Lake Nasser, about 230 km (140 mi) southwest of Aswan. The complex is part of the UNESCO World Heritage Site known as the "Nubian Monuments", which run from Abu Simbel downriver to Philae (near Aswan). The twin temples were originally carved out of the mountainside in the 13th century BC, during the 19th dynasty reign of the Pharaoh Ramesses II. They serve as a lasting monument to the king and his queen Nefertari, and commemorate his victory at the Battle of Kadesh. Their huge external rock relief figures have become iconic.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_WONDERS_PAGE_BUILDING_ABU_SIMBEL_CHAPTER_HISTORY_PARA_2">
+			<Text>During his reign, Ramesses II embarked on an extensive building program throughout Egypt and Nubia, which Egypt controlled. Nubia was very important to the Egyptians because it was a source of gold and many other precious trade goods. He, therefore, built several grand temples there in order to impress upon the Nubians Egypt's might and Egyptianize the people of Nubia. The most famous temples are the rock-cut temples near the modern village of Abu Simbel, at the Second Nile Cataract, the border between Lower Nubia and Upper Nubia. There are two temples, the Great Temple, dedicated to Ramesses II himself, and the Small Temple, dedicated to his chief wife Queen Nefertari. Construction of the temple complex started in approximately 1264 BC and lasted for about 20 years, until 1244 BC. It was known as the "Temple of Ramesses, beloved by Amun".</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_WONDERS_PAGE_BUILDING_ABU_SIMBEL_CHAPTER_HISTORY_PARA_3">
+			<Text>The complex was relocated in its entirety in 1968 under the supervision of a Polish archaeologist, Kazimierz Michałowski, on an artificial hill made from a domed structure, high above the Aswan High Dam reservoir. The relocation of the temples was necessary or they would have been submerged during the creation of Lake Nasser, the massive artificial water reservoir formed after the building of the Aswan High Dam on the River Nile.</Text>
+		</Row>
+	</EnglishText>
+	<LocalizedText>
+		<Replace Tag="LOC_BUILDING_ABU_SIMBEL_NAME" Language="de_DE">
+			<Text>Abu Simbel</Text>
+		</Replace>
+		<Replace Tag="LOC_BUILDING_ABU_SIMBEL_DESCRIPTION" Language="de_DE">
+			<Text>Gewährt einen kostenlosen Kornspeicher in jeder Stadt, einschließlich zukünftig gegründeter Städte. Städte innerhalb von 6 Geländefeldern erhalten zudem +2 Loyalität. Muss auf Flussland (Wüste, Ebene oder Grasland) errichtet werden.</Text>
+		</Replace>
+		<Replace Tag="LOC_BUILDING_ABU_SIMBEL_QUOTE" Language="de_DE">
+			<Text>Ich gebe Euch, Ramessses II., beständige Ernten, um die Zwei Länder jederzeit zu ernähren. Ihre Garben sind wie Sand, ihre Getreidespeicher nähern sich dem Himmel, und ihre Getreidehaufen gleichen Bergen." – Inschrift im großen Tempel</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_WONDERS_PAGE_BUILDING_ABU_SIMBEL_CHAPTER_HISTORY_PARA_1" Language="de_DE">
+			<Text>Die Tempel von Abu Simbel, ein großer Tempel zum Ruhm Ramses’ II. und ein kleiner Hathor-Tempel zur Erinnerung an dessen königliche Gemahlin Nefertari, sind zwei Felsentempel am Westufer des Nassersees. Sie befinden sich im ägyptischen Teil Nubiens am südöstlichen Rand des Ortes Abu Simbel und wurden im 13. Jahrhundert v. Chr. unter Pharao Ramses II. aus der 19. Dynastie des altägyptischen Neuen Reiches errichtet. Beide Tempel befinden sich nicht mehr an ihrem ursprünglichen Standort. Um sie vor dem ansteigenden Wasser des Nassersees, des durch den Assuan-Staudamm aufgestauten Stausees des Nil, zu retten, wurden sie in den Jahren 1963 bis 1968 abgetragen und 64 Meter höher auf der Hochebene von Abu Simbel wieder aufgebaut. Dort erheben sie sich heute auf einer Insel im Nassersee, die an der Nordwestseite durch einen befahrbaren Damm mit dem Ort Abu Simbel verbunden ist.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_WONDERS_PAGE_BUILDING_ABU_SIMBEL_CHAPTER_HISTORY_PARA_2" Language="de_DE">
+			<Text>Die Tempel übernahmen als „Zweigniederlassung des Königspalastes“ die Repräsentation als „göttliche Aufenthaltsstätte“, in der der König symbolisch durch seine göttliche Legitimation als irdischer Herrscher die Gottheiten anruft, um mit ihnen in Kontakt zu treten. Damit fungieren die Tempel als Bindeglied zwischen Himmel und Erde im Rahmen der göttlichen Himmelskosmologie.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_WONDERS_PAGE_BUILDING_ABU_SIMBEL_CHAPTER_HISTORY_PARA_3" Language="de_DE">
+			<Text>Genaue Daten über die Planung und Errichtung der Tempel von Abu Simbel existieren nicht, jedoch kann angenommen werden, dass die Arbeiten zur Zeit des nubischen Vizekönigs Iunj erfolgten: Eine Inschrift, die sich in Nähe des kleinen Tempels fand, weist darauf hin, dass der König einen seiner engsten Vertrauten damit betraut hatte, die Anfangsarbeiten zu beaufsichtigen. Allgemein gelten die Jahre zwischen 1260 und 1250 v. Chr. als mutmaßliche Zeit des Tempelbaus. In diesen Zeitraum fällt der Tod der großen königlichen Gemahlin Nefertari Meritenmut um 1255 v. Chr., die eine herausgehobene Rolle am Hof des von 1279 bis 1213 v. Chr. regierenden Königs Ramses II. spielte. Sie wird letztmals im 24. Regierungsjahr von Ramses II. anlässlich der Einweihung der beiden Tempel von Abu Simbel erwähnt.</Text>
+		</Replace>
+	</LocalizedText>
+</GameData>

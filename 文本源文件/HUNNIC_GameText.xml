@@ -1,0 +1,1206 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by Ed Beach (Firaxis Games) -->
+<GameData>
+	<LocalizedText>
+		<!--CIVILIZATION-->
+		<Row Tag="LOC_CIVILIZATION_GEDEMO_HUNNIC_NAME" Language="en_US">
+			<Text>Huns</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_GEDEMO_HUNNIC_DESCRIPTION" Language="en_US">
+			<Text>Hunnic Empire</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_GEDEMO_HUNNIC_ADJECTIVE" Language="en_US">
+			<Text>Hunnic</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_GEDEMO_HUNNIC_DESCRIPTION_GEDEMO_CIVILIZATION" Language="en_US">
+			<Text>Huns</Text>
+		</Row>
+		<!--Pedia-->
+		<Row Tag="LOC_CIVINFO_GEDEMO_HUNNIC_LOCATION" Language="en_US">
+			<Text>Eastern Europa</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_GEDEMO_HUNNIC_POPULATION" Language="en_US">
+			<Text>About 500,000</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_GEDEMO_HUNNIC_SIZE" Language="en_US">
+			<Text>Roughly 1,544,408 square miles (4,000,000 square kilometers)</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_GEDEMO_HUNNIC_CAPITAL" Language="en_US">
+			<Text>Tapiomarton</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_GEDEMO_HUNNIC_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Early records of the Huns were far from impartial, having been written from the perspective of their numerous enemies, and leaving behind a spotty history of the Huns' initial conquests. Crossing into Europe in the 4th century, the Huns are said to have subjugated several rival tribes including the Alans, the Ostrogoths, and the Visigoths. While still only loosely united at this point, the Huns also boldly attacked portions of both the Eastern and Western Roman Empire, while also working as mercenaries for Rome against other tribes, successfully playing both sides of the field. It was during this period that the Byzantines (the Eastern Romans) began paying tribute to the Huns in order to secure peaceful relations, although the Romans often failed to meet their obligations. The history of the Huns becomes more certain in the time directly before the rule of Attila. Preceding him was his uncle Rua, who gradually established complete control over the diverse Hunnic forces and eliminated all opposing leadership. Rua maintained an iron-fisted rule over the Huns and launched a number of successful attacks against neighboring tribes before setting his sights on bigger objectives. Ruling as King of the Hun Confederation - as it became known at this point in history - Rua initiated a number of conflicts with the Eastern Roman Empire. It seems that several of the tribes previously subjugated by the Huns fled to the Byzantines in the hopes of seeking asylum. Rua, demanding they be turned over, set his armies loose on the Byzantine territory and pillaged Thrace, to the northwest of Constantinople. However, in the midst of his campaign, Rua was killed, allegedly after being struck by lightning, and the Huns were forced to retreat.Following Rua's death in 434, Attila and his brother Bleda shared a dual kingship, continuing the expansion of Hun territory across Europe. Sustained primarily by a steady income of tribute and plunder, the Huns became an increasingly powerful force on the European continent in the 5th century. The Roman General Aetius, who had previously allied with Rua and used the Huns to aid in securing his position as commander of the Roman troops in Gaul, again hired the Huns to serve as mercenaries in his campaign against the Burgundian raiders attacking the northern Roman provinces. Flush with wealth, the Huns once again moved on the Eastern Roman Empire (a favored target of their campaigns) and intimidated the weakened Byzantine leadership into signing the Treaty of Margus in 435. This treaty was said to have doubled the previous tribute due from the Byzantines - which was already several hundred pounds of gold per year - further increasing the resources of the Huns. As was the case in the past, the Byzantines failed to meet their obligations and delivered no tribute, and as before, the Huns returned to the Eastern Roman territory and sacked a number of cities, eventually reaching Constantinople in 443. The Byzantines once again agreed to deliver substantial tribute, this time triple the original amount, and the Huns took them at their word and withdrew.</Text>
+		</Row>
+		
+
+
+		<!--Cities-->
+		<Row Tag="LOC_CITY_NAME_GEDEMO_HUNNIC_1" Language="en_US">
+			<Text>Tapiomarton</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_GEDEMO_HUNNIC_2" Language="en_US">
+			<Text>Segedin</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_GEDEMO_HUNNIC_3" Language="en_US">
+			<Text>Sikambruk</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_GEDEMO_HUNNIC_4" Language="en_US">
+			<Text>Turuk</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_GEDEMO_HUNNIC_5" Language="en_US">
+			<Text>Hunuk</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_GEDEMO_HUNNIC_6" Language="en_US">
+			<Text>Akatziruk</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_GEDEMO_HUNNIC_7" Language="en_US">
+			<Text>Kutrigur</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_GEDEMO_HUNNIC_8" Language="en_US">
+			<Text>Sabir</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_GEDEMO_HUNNIC_9" Language="en_US">
+			<Text>Utigur</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_GEDEMO_HUNNIC_10" Language="en_US">
+			<Text>Suvar</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_GEDEMO_HUNNIC_11" Language="en_US">
+			<Text>Kevi</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_GEDEMO_HUNNIC_12" Language="en_US">
+			<Text>Antes</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_GEDEMO_HUNNIC_13" Language="en_US">
+			<Text>Sklavenir</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_GEDEMO_HUNNIC_14" Language="en_US">
+			<Text>Bastarnuk</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_GEDEMO_HUNNIC_15" Language="en_US">
+			<Text>Suebir</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_GEDEMO_HUNNIC_16" Language="en_US">
+			<Text>Aduni</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_GEDEMO_HUNNIC_17" Language="en_US">
+			<Text>Jegi</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_GEDEMO_HUNNIC_18" Language="en_US">
+			<Text>Egerseg</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_GEDEMO_HUNNIC_19" Language="en_US">
+			<Text>Telikhi</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_GEDEMO_HUNNIC_20" Language="en_US">
+			<Text>Laiduni</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_GEDEMO_HUNNIC_21" Language="en_US">
+			<Text>Bastetir</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_GEDEMO_HUNNIC_22" Language="en_US">
+			<Text>Tesongadi</Text>
+		</Row>
+
+
+
+		<!--Citizens-->
+		<Row Tag="LOC_CITIZEN_GEDEMO_HUNNIC_MALE_1" Language="en_US">
+			<Text>Alatheus</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_GEDEMO_HUNNIC_MALE_2"  Language="en_US">
+			<Text>Safrac</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_GEDEMO_HUNNIC_MALE_3"  Language="en_US">
+			<Text>Athanaric</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_GEDEMO_HUNNIC_MALE_4"  Language="en_US">
+			<Text>Octar</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_GEDEMO_HUNNIC_MALE_5"  Language="en_US">
+			<Text>Moundzouk</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_GEDEMO_HUNNIC_MALE_6"  Language="en_US">
+			<Text>Bleda</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_GEDEMO_HUNNIC_MALE_7"  Language="en_US">
+			<Text>Ellac</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_GEDEMO_HUNNIC_MALE_8"  Language="en_US">
+			<Text>Ernakh</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_GEDEMO_HUNNIC_MALE_9"  Language="en_US">
+			<Text>Dengizik</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_GEDEMO_HUNNIC_MALE_10"  Language="en_US">
+			<Text>Balamber</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_GEDEMO_HUNNIC_FEMALE_1"  Language="en_US">
+			<Text>Gundrun</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_GEDEMO_HUNNIC_FEMALE_2"  Language="en_US">
+			<Text>Erekan</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_GEDEMO_HUNNIC_FEMALE_3"  Language="en_US">
+			<Text>Ildico</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_GEDEMO_HUNNIC_FEMALE_4"  Language="en_US">
+			<Text>Kreka</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_GEDEMO_HUNNIC_FEMALE_5"  Language="en_US">
+			<Text>Ascama</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_GEDEMO_HUNNIC_FEMALE_6"  Language="en_US">
+			<Text>Kirembilt</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_GEDEMO_HUNNIC_FEMALE_7"  Language="en_US">
+			<Text>Gudun</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_GEDEMO_HUNNIC_FEMALE_8"  Language="en_US">
+			<Text>Chlodweg</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_GEDEMO_HUNNIC_FEMALE_9"  Language="en_US">
+			<Text>Helche</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_GEDEMO_HUNNIC_FEMALE_10"  Language="en_US">
+			<Text>Kriemhild</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_GEDEMO_HUNNIC_MODERN_MALE_1"  Language="en_US">
+			<Text>Csaba</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_GEDEMO_HUNNIC_MODERN_MALE_2"  Language="en_US">
+			<Text>Uldin</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_GEDEMO_HUNNIC_MODERN_MALE_3"  Language="en_US">
+			<Text>Donatus</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_GEDEMO_HUNNIC_MODERN_MALE_4"  Language="en_US">
+			<Text>Charato</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_GEDEMO_HUNNIC_MODERN_MALE_5"  Language="en_US">
+			<Text>Hormidac</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_GEDEMO_HUNNIC_MODERN_MALE_6"  Language="en_US">
+			<Text>Rugila</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_GEDEMO_HUNNIC_MODERN_MALE_7"  Language="en_US">
+			<Text>Karaton</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_GEDEMO_HUNNIC_MODERN_MALE_8"  Language="en_US">
+			<Text>Edecon</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_GEDEMO_HUNNIC_MODERN_MALE_9"  Language="en_US">
+			<Text>Onegese</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_GEDEMO_HUNNIC_MODERN_MALE_10"  Language="en_US">
+			<Text>Scottas</Text>
+		</Row>
+
+		<Row Tag="LOC_CITIZEN_GEDEMO_HUNNIC_MODERN_FEMALE_1"  Language="en_US">
+			<Text>Erpe</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_GEDEMO_HUNNIC_MODERN_FEMALE_2"  Language="en_US">
+			<Text>Eiti</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_GEDEMO_HUNNIC_MODERN_FEMALE_3"  Language="en_US">
+			<Text>Geila</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_GEDEMO_HUNNIC_MODERN_FEMALE_4"  Language="en_US">
+			<Text>Waldrada</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_GEDEMO_HUNNIC_MODERN_FEMALE_5"  Language="en_US">
+			<Text>Romilde</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_GEDEMO_HUNNIC_MODERN_FEMALE_6"  Language="en_US">
+			<Text>Gepiade</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_GEDEMO_HUNNIC_MODERN_FEMALE_7"  Language="en_US">
+			<Text>Gisulf</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_GEDEMO_HUNNIC_MODERN_FEMALE_8"  Language="en_US">
+			<Text>Zvelyke</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_GEDEMO_HUNNIC_MODERN_FEMALE_9"  Language="en_US">
+			<Text>Boglarka</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_GEDEMO_HUNNIC_MODERN_FEMALE_10"  Language="en_US">
+			<Text>csenge</Text>
+		</Row>
+
+		<Row Tag="LOC_CITY_NAME_C15_COLONY_NAMES_DORGATHEGI" Language="en_US">
+			<Text>Dorgathegi</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_C15_COLONY_NAMES_KHALATIR" Language="en_US">
+			<Text>Khalatir</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_C15_COLONY_NAMES_SUCHONGADI" Language="en_US">
+			<Text>Suchongadi</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_C15_COLONY_NAMES_LIVI" Language="en_US">
+			<Text>Livi</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_C15_COLONY_NAMES_TISZA" Language="en_US">
+			<Text>Tisza</Text>
+		</Row>
+
+		<!--LEADER-->
+		<Row Tag="LOC_LEADER_GEDEMO_ATTILA" Language="en_US">
+			<Text>Attila the Hun</Text>
+		</Row>
+
+
+		<!--DOM-->
+		<Row Tag="LOC_LOADING_INFO_LEADER_GEDEMO_ATTILA" Language="en_US">
+			<Text>Your men stand proudly to greet you, Great Attila, grand warrior and ruler of the Hunnic Empire.  Together with your brother Bleda you expanded the boundaries of your empire, becoming the most powerful and frightening force of the 5th century.  You bowed the Eastern Roman Emperors to your will and took kingdom after kingdom along the Danube and Nisava Rivers.  As the sovereign ruler of the Huns, you marched your army across Europe into Gaul, planning to extend your already impressive lands all the way to the Atlantic Ocean.  Your untimely death led to the quick disintegration and downfall of your empire, but your name and deeds have created an everlasting legacy for your people.[NEWLINE][NEWLINE]Fearsome General, your people call for the recreation of a new Hunnic Empire, one which will make the exploits and histories of the former seem like the faded dreamings of a dying sun.  Will you answer their call to regain your rightful prominence and glory?  Will you mount your steadfast steed and lead your armies to victory?  Will you build a civilization that stands the test of time?</Text>
+		</Row>
+
+
+		<!--Civilopedia-->
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_GEDEMO_ATTILA_TITLE" Language="en_US">
+			<Text>King of the Huns</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_GEDEMO_ATTILA_SUBTITLE" Language="en_US">
+			<Text>King of the Hunnic Confederation</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_GEDEMO_ATTILA_QUOTE" Language="en_US">
+			<Text>Where my horse passes, the grass does not grow back.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_GEDEMO_ATTILA_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Attila's brother Bleda died in 445, and Attila became sole ruler of the Hunnic Empire. By 447, Attila had defeated the Eastern Roman armies and captured a number of Roman forts, gaining control of the Balkans. The Romans again tried to ply the Huns with tribute, and for a time, they actually paid it ... at least until Attila had focused his attention elsewhere. In 451, Attila invaded Gaul, attacking a number of cities en route to Orleans. Ironically, the Huns early benefactor, Roman General Aetius was now forced to face them head-on in defense of Gaul. Leading a combined force of Romans and Visigoths, General Aetius and his army met Attila at The Battle of Catalaunian Plains and managed to rebuff the Huns. Suffering the first major defeat of his career as a military commander, Attila was forced to withdraw from Gaul and regroup. Always the ambitious conqueror, Attila moved his forces east with the intention of striking Italy and the heart of the Romans.Sacking various cities in northern Italy, Attila never made his way to Rome. Although some historians believe it was the intervention of Pope Leo I who convinced Attila not to march further, others claim it was the threat of reinforcements from the Eastern Roman Empire that truly swayed his decision. Shortly thereafter in 453, Attila died unceremoniously on his wedding night, falling to, some historians claim, a simple nosebleed. Without the forceful leadership of the charismatic Attila and his legendary reputation, the Huns mystique as an unstoppable force was broken. Following Attila's death, the Hunnic Empire was to be ruled by his oldest son Ellac. However, Attila's other sons, Dengizich and Irnk, also sought the throne and internal divisions within the empire quickly brought about its downfall. Only a year after his reign began, Ellac was killed at The Battle of Nedao in 454, during which the Huns were soundly defeated by an army of united Germanic tribes. After his brother's death, Dengizich secured the throne for a brief rule, but the Huns, now in an increasing state of disarray, soon vanished from history as quickly as they had arrived. When Dengizich died in 469, it is thought that the remaining Hunnic people began to migrate back towards their ancestral lands on the Central Asian steppe.</Text>
+		</Row>
+		
+		
+
+
+		<!--Diplomacy-->
+		<!--FIRST MEET-->
+		<!--First AI line-->
+		<Row Tag="LOC_DIPLO_FIRST_MEET_LEADER_GEDEMO_ATTILA_ANY" Language="en_US">
+			<Text>The son of Mundzuk greets you. Tread lightly across my land, and you may be safe yet from my horse's iron hooves.</Text>
+		</Row>
+		<!--AI invitation to visit nearby City-->
+		<Row Tag="LOC_DIPLO_FIRST_MEET_VISIT_RECIPIENT_LEADER_GEDEMO_ATTILA_ANY" Language="en_US">
+			<Text>You are in the presence of Attila, scourge of Rome. Do not let hubris be your downfall as well.</Text>
+		</Row>
+		<!--AI accepts Human invitation-->
+		<Row Tag="LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_POSITIVE_LEADER_GEDEMO_ATTILA_ANY" Language="en_US">
+			<Text>So be it.</Text>
+		</Row>
+		<!--AI invitation to exchange Capital Information-->
+		<Row Tag="LOC_DIPLO_FIRST_MEET_NO_MANS_INFO_EXCHANGE_LEADER_GEDEMO_ATTILA_ANY" Language="en_US">
+			<Text>Welcome stranger to my domain.  I am Attila the Hun - be wary of crossing me lest your wealth end up here at my feet.</Text>
+		</Row>
+		<!--GREETINGS-->
+		<Row Tag="LOC_DIPLO_GREETING_LEADER_GEDEMO_ATTILA_ANY" Language="en_US">
+			<Text>Yra sunsa ketetper (Welcome)!</Text>
+		</Row>
+		<!--DELEGATION-->
+		<!--AI Accepts-->
+		<Row Tag="LOC_DIPLO_ACCEPT_DELEGATION_FROM_HUMAN_LEADER_GEDEMO_ATTILA_ANY" Language="en_US">
+			<Text>All right!</Text>
+		</Row>
+		<!--AI Rejects-->
+		<Row Tag="LOC_DIPLO_REJECT_DELEGATION_FROM_HUMAN_LEADER_GEDEMO_ATTILA_ANY" Language="en_US">
+			<Text>Rejoice that my attention is urgently needed elsewhere. Else I might not be so forgiving.</Text>
+		</Row>
+		<!--AI Requests -->
+		<Row Tag="LOC_DIPLO_DELEGATION_FROM_AI_LEADER_GEDEMO_ATTILA_ANY" Language="en_US">
+			<Text>Horses and slaves are brought to you by my delegation. We offer them to you.</Text>
+		</Row>
+		<!--OPEN BORDERS-->
+		<!--AI accepts from human-->
+		<Row Tag="LOC_DIPLO_ACCEPT_OPEN_BORDERS_FROM_HUMAN_LEADER_GEDEMO_ATTILA_ANY" Language="en_US">
+			<Text>We have nothing to fear from your military. You may pass.</Text>
+		</Row>
+		<!--AI rejects from human-->
+		<Row Tag="LOC_DIPLO_REJECT_OPEN_BORDERS_FROM_HUMAN_LEADER_GEDEMO_ATTILA_ANY" Language="en_US">
+			<Text>You may not pass through our empire. It is closed to you.</Text>
+		</Row>
+		<!--AI requests from human-->
+		<Row Tag="LOC_DIPLO_OPEN_BORDERS_FROM_AI_LEADER_GEDEMO_ATTILA_ANY" Language="en_US">
+			<Text>Let us pass through your lands! The Great Spirit commands it!</Text>
+		</Row>
+		<!--DECLARE FRIENDSHIP-->
+		<!--AI accepts from human-->
+		<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_HUMAN_LEADER_GEDEMO_ATTILA_ANY" Language="en_US">
+			<Text>This is better than you deserve, but let it not be said that I am an unfair man.</Text>
+		</Row>
+		<!--AI Rejects from human -->
+		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_HUMAN_LEADER_GEDEMO_ATTILA_ANY" Language="en_US">
+			<Text>I can feel the bile rising in my throat, but I will let you improve your offer at my advisors' behest.</Text>
+		</Row>
+		<!--AI Requests friendship from human-->
+		<Row Tag="LOC_DIPLO_DECLARE_FRIEND_FROM_AI_LEADER_GEDEMO_ATTILA_ANY" Language="en_US">
+			<Text>Be my friend and together we'll conquest the whole tundra!</Text>
+		</Row>
+		<!--Human accepts AI requests, AI responds-->
+		<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_GEDEMO_ATTILA_ANY" Language="en_US">
+			<Text>Thank you!</Text>
+		</Row>
+		<!--Human rejects AI requests, AI responds-->
+		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_GEDEMO_ATTILA_ANY" Language="en_US">
+			<Text>Are you kidding?</Text>
+		</Row>
+		<!--ALLIANCE-->
+		<!--AI Requests an alliance from human-->
+		<Row Tag="LOC_DIPLO_MAKE_ALLIANCE_FROM_AI_LEADER_GEDEMO_ATTILA_ANY" Language="en_US">
+			<Text>Come, there are many great treaties to be drawn!</Text>
+		</Row>
+		<!--KUDOS & WARNINGS-->
+		<!--AI Kudos-->
+		<Row Tag="LOC_DIPLO_KUDO_EXIT_LEADER_GEDEMO_ATTILA_ANY" Language="en_US">
+			<Text>You are actually worthy of interest, what chance to meet you!</Text>
+		</Row>
+		<!--AI Warnings-->
+		<Row Tag="LOC_DIPLO_WARNING_EXIT_LEADER_GEDEMO_ATTILA_ANY" Language="en_US">
+			<Text>Your interest are conflicting with ours. Be careful.</Text>
+		</Row>
+		<!--AI warns player for border troops-->
+		<Row Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_LEADER_GEDEMO_ATTILA_ANY" Language="en_US">
+			<Text>I thought you useless yet you prove me wrong.  You've become an excellent example for how to die.</Text>
+		</Row>
+		<!--TRADE-->
+		<!--AI Accepts Deal-->
+		<Row Tag="LOC_DIPLO_ACCEPT_MAKE_DEAL_FROM_AI_LEADER_GEDEMO_ATTILA_ANY" Language="en_US">
+			<Text>{LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_GEDEMO_ATTILA_ANY}</Text>
+		</Row>
+		<!--AI Rejects Deal-->
+		<Row Tag="LOC_DIPLO_REJECT_MAKE_DEAL_FROM_AI_LEADER_GEDEMO_ATTILA_ANY" Language="en_US">
+			<Text>{LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_GEDEMO_ATTILA_ANY}</Text>
+		</Row>
+		<!--DENOUNCE-->
+		<!--From Human-->
+		<Row Tag="LOC_DIPLO_DENOUNCE_FROM_HUMAN_LEADER_GEDEMO_ATTILA_ANY" Language="en_US">
+			<Text>You seek to steal from me in front of my own men? Begone, beggar!</Text>
+		</Row>
+		<!--From AI-->
+		<Row Tag="LOC_DIPLO_DENOUNCE_FROM_AI_LEADER_GEDEMO_ATTILA_ANY" Language="en_US">
+			<Text>Curse you, you vile Roman cur! I'll have your head before the day is done! (Denounces You).</Text>
+		</Row>
+		<!--DECLARE WAR-->
+		<!--Human Declares War-->
+		<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_HUMAN_LEADER_GEDEMO_ATTILA_ANY" Language="en_US">
+			<Text>Honoria's bride-price must be met!  This land is mine, whether you give it freely or not.</Text>
+		</Row>
+		<!--AI Declares War-->
+		<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_GEDEMO_ATTILA_ANY" Language="en_US">
+			<Text>Rome's forces have splintered like twigs against my army's flanks, how will you stand?  My horsemen will pound you into the earth!</Text>
+		</Row>
+		<!--MAKE PEACE-->
+		<!--AI accepts from human-->
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_AI_ACCEPT_DEAL_LEADER_GEDEMO_ATTILA_ANY" Language="en_US">
+			<Text>Your lesson is learned, I hope.  Perhaps I shall liberate you of your fanciest silver to ensure you remember.</Text>
+		</Row>
+		<!--AI refuses human-->
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_AI_REFUSE_DEAL_LEADER_GEDEMO_ATTILA_ANY" Language="en_US">
+			<Text>I do not accept.</Text>
+		</Row>
+		<!--AI requests from human-->
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_FROM_AI_LEADER_GEDEMO_ATTILA_ANY" Language="en_US">
+			<Text>Remember this could have been avoided. Your people will not support you long in repeated attempts at self-destruction.</Text>
+		</Row>
+		<!--DEFEAT-->
+		<!--AI is Defeated-->
+		<Row Tag="LOC_DIPLO_DEFEAT_FROM_AI_LEADER_GEDEMO_ATTILA_ANY" Language="en_US">
+			<Text>My people will mourn me not with tears but with the blood of men. I may be gone, but one will rise to take my place.</Text>
+		</Row>
+		<!--Human is Defeated (will see this in hotseat)-->
+		<Row Tag="LOC_DIPLO_DEFEAT_FROM_HUMAN_LEADER_GEDEMO_ATTILA_ANY" Language="en_US">
+			<Text>[LOC_DIPLO_DEFEAT_FROM_AI_LEADER_GEDEMO_ATTILA_ANY]</Text>
+		</Row>
+		<!--Traits-->
+		<Row Tag="LOC_TRAIT_LEADER_GEDEMO_ATTILA_LTRAIT_NAME" Language="en_US">
+			<Text>Scourge of God</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_LEADER_GEDEMO_ATTILA_LTRAIT_DESCRIPTION" Language="en_US">
+			<Text>Units get +1 [ICON_movement] movement on Plains and Grass tiles. Horses resource grant +1 [ICON_culture] Culture.</Text>
+		</Row>
+
+
+		<Row Tag="LOC_TRAIT_CIVILIZATION_GEDEMO_HUNNIC_CIV_TRAIT_NAME" Language="en_US">
+			<Text>Battle of the Catalaunian Fields</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_CIVILIZATION_GEDEMO_HUNNIC_CIV_TRAIT_DESCRIPTION" Language="en_US">
+			<Text>No war weariness. Stables are built faster.</Text>
+		</Row>
+
+		<Row Tag="LOC_BUILDING_GEDEMO_YURT_NAME" Language="en_US">
+			<Text>Yurt</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_GEDEMO_YURT_DESCRIPTION" Language="en_US">
+			<Text>This building is unique to the Huns and replaces the Sewer. Available at the ancient era, it grants +2 Horsemen and +2 [ICON_Housing] Housing.</Text>
+		</Row>
+
+		<Row Tag="LOC_UNIT_GEDEMO_HUNNIC_HORSEARCHER_NAME" Language="en_US">
+			<Text>Hunnic Mounted Archer</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_GEDEMO_HUNNIC_HORSEARCHER_DESCRIPTION" Language="en_US">
+			<Text>Huns's unique unit that replaces the Horseman. Available at Animal Husbandry, it gets stronger when it is adjacent to another Hunnic Mounted Archer.</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_CIVILIZATION_UNIT_GEDEMO_HUNNIC_HORSEARCHER_NAME" Language="en_US">
+			<Text>Hunnic unique unit : Hunnic Mounted Archer</Text>
+		</Row>
+
+		<Row Tag="LOC_PEDIA_BUILDINGS_PAGE_BUILDING_GEDEMO_YURT_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Yurts have been a distinctive feature of life in Central Asia for at least three thousand years. The first written description of a yurt used as a dwelling was recorded by the ancient Greek historian Herodotus. He described yurt-like tents as the dwelling place of the Scythians, a horse riding-nomadic nation who lived in the northern Black Sea and Central Asian region from around 600 BC to AD 300.Traditional yurts consist of an expanding wooden circular frame carrying a felt cover. The felt is made from the wool of the flocks of sheep that accompany the pastoralists. The timber to make the external structure is not to be found on the treeless steppes, and must be obtained by trade in the valleys below.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_GEDEMO_HUNNIC_HORSEARCHER_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>The fearsome cavalry of the Huns, renowned for both their skill in archery, and their mastery of horsemanship, were the scourge of Europe during the Hunnic conquests of the 4th and 5th centuries AD. Utilizing powerful composite bows, the mounted archers of the Huns honed their skills while hunting on the Central Asian Steppe, and they had no trouble carrying over these skills into warfare. It is widely believed that the Huns' use of mounted archers greatly influenced the future military considerations of both European and Asian kingdoms, as a greater emphasis on cavalry units arose following their incursions.</Text>
+		</Row>
+
+		<!--MOD SUPPORT-->
+		<!--JFD Rule with Faith-->
+
+		<Row Tag="LOC_CIVILIZATION_GEDEMO_HUNNIC_DESCRIPTION_JFD_CIVILIZATION" Language="en_US">
+			<Text>Hunnic Civilization</Text>
+		</Row>
+
+		<Row Tag="LOC_GOVERNMENT_JFD_CHIEFDOM_LEADER_TITLE_GEDEMO_HUNNIC" Language="en_US">
+			<Text>Chief</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNMENT_JFD_CHIEFDOM_LEADER_TITLE_GEDEMO_HUNNIC_FEMININE" Language="en_US">
+			<Text>Chieftess</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNMENT_JFD_HORDE_LEADER_TITLE_GEDEMO_HUNNIC" Language="en_US">
+			<Text>King</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNMENT_JFD_HORDE_LEADER_TITLE_GEDEMO_HUNNIC_FEMININE" Language="en_US">
+			<Text>Queen</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNMENT_JFD_POLIS_LEADER_TITLE_GEDEMO_HUNNIC" Language="en_US">
+			<Text>Old Man Chief</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNMENT_JFD_POLIS_LEADER_TITLE_GEDEMO_HUNNIC_FEMININE" Language="en_US">
+			<Text>Old Woman Chief</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNMENT_JFD_AUTOCRACY_LEADER_TITLE_GEDEMO_HUNNIC" Language="en_US">
+			<Text>King</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNMENT_JFD_AUTOCRACY_LEADER_TITLE_GEDEMO_HUNNIC_FEMININE" Language="en_US">
+			<Text>Queen</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNMENT_JFD_CLASSICAL_DEMOCRACY_LEADER_TITLE_GEDEMO_HUNNIC" Language="en_US">
+			<Text>Council Chief</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNMENT_JFD_CLASSICAL_DEMOCRACY_LEADER_TITLE_GEDEMO_HUNNIC_FEMININE" Language="en_US">
+			<Text>Council Chieftess</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNMENT_JFD_OLIGARCHY_LEADER_TITLE_GEDEMO_HUNNIC" Language="en_US">
+			<Text>Commander</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNMENT_JFD_OLIGARCHY_LEADER_TITLE_GEDEMO_HUNNIC_FEMININE" Language="en_US">
+			<Text>Commander</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNMENT_JFD_MERCHANT_REPUBLIC_LEADER_TITLE_GEDEMO_HUNNIC" Language="en_US">
+			<Text>Lord</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNMENT_JFD_MERCHANT_REPUBLIC_LEADER_TITLE_GEDEMO_HUNNIC_FEMININE" Language="en_US">
+			<Text>Lady</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNMENT_JFD_MONARCHY_LEADER_TITLE_GEDEMO_HUNNIC" Language="en_US">
+			<Text>King</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNMENT_JFD_MONARCHY_LEADER_TITLE_GEDEMO_HUNNIC_FEMININE" Language="en_US">
+			<Text>Queen</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNMENT_JFD_NOBLE_REPUBLIC_LEADER_TITLE_GEDEMO_HUNNIC" Language="en_US">
+			<Text>Prince</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNMENT_JFD_NOBLE_REPUBLIC_LEADER_TITLE_GEDEMO_HUNNIC_FEMININE" Language="en_US">
+			<Text>Princess</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNMENT_JFD_PEOPLES_REPUBLIC_LEADER_TITLE_GEDEMO_HUNNIC" Language="en_US">
+			<Text>Chairman</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNMENT_JFD_PEOPLES_REPUBLIC_LEADER_TITLE_GEDEMO_HUNNIC_FEMININE" Language="en_US">
+			<Text>Chairwoman</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNMENT_JFD_LIBERAL_DEMOCRACY_LEADER_TITLE_GEDEMO_HUNNIC" Language="en_US">
+			<Text>President</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNMENT_JFD_LIBERAL_DEMOCRACY_LEADER_TITLE_GEDEMO_HUNNIC_FEMININE" Language="en_US">
+			<Text>President</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNMENT_JFD_MILITARY_GUARDIANSHIP_LEADER_TITLE_GEDEMO_HUNNIC" Language="en_US">
+			<Text>General</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNMENT_JFD_MILITARY_GUARDIANSHIP_LEADER_TITLE_GEDEMO_HUNNIC_FEMININE" Language="en_US">
+			<Text>General</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNMENT_JFD_EMPIRE_LEADER_TITLE_GEDEMO_HUNNIC" Language="en_US">
+			<Text>Emperor</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNMENT_JFD_EMPIRE_LEADER_TITLE_GEDEMO_HUNNIC_FEMININE" Language="en_US">
+			<Text>Empress</Text>
+		</Row>
+		<Row Tag="LOC_POLITICIAN_GEDEMO_HUNNIC_MALE_1" Language="en_US">
+			<Text>Vund</Text>
+		</Row>
+		<Row Tag="LOC_POLITICIAN_GEDEMO_HUNNIC_MALE_2" Language="en_US">
+			<Text>Balamber</Text>
+		</Row>
+		<Row Tag="LOC_POLITICIAN_GEDEMO_HUNNIC_MALE_3" Language="en_US">
+			<Text>Baltazar</Text>
+		</Row>
+		<Row Tag="LOC_POLITICIAN_GEDEMO_HUNNIC_MALE_4" Language="en_US">
+			<Text>Alypbi</Text>
+		</Row>
+		<Row Tag="LOC_POLITICIAN_GEDEMO_HUNNIC_MALE_5" Language="en_US">
+			<Text>Uldin</Text>
+		</Row>
+		<Row Tag="LOC_POLITICIAN_GEDEMO_HUNNIC_MALE_6" Language="en_US">
+			<Text>Donatus</Text>
+		</Row>
+		<Row Tag="LOC_POLITICIAN_GEDEMO_HUNNIC_MALE_7" Language="en_US">
+			<Text>Karaton</Text>
+		</Row>
+		<Row Tag="LOC_POLITICIAN_GEDEMO_HUNNIC_MALE_8" Language="en_US">
+			<Text>Aksungur</Text>
+		</Row>
+		<Row Tag="LOC_POLITICIAN_GEDEMO_HUNNIC_MALE_9" Language="en_US">
+			<Text>Moundzouk</Text>
+		</Row>
+		<Row Tag="LOC_POLITICIAN_GEDEMO_HUNNIC_MALE_10" Language="en_US">
+			<Text>Ruga</Text>
+		</Row>
+		<Row Tag="LOC_POLITICIAN_GEDEMO_HUNNIC_MALE_11" Language="en_US">
+			<Text>Bleda</Text>
+		</Row>
+		<Row Tag="LOC_POLITICIAN_GEDEMO_HUNNIC_MALE_12" Language="en_US">
+			<Text>Ellac</Text>
+		</Row>
+		<Row Tag="LOC_POLITICIAN_GEDEMO_HUNNIC_MALE_13" Language="en_US">
+			<Text>Dengizich</Text>
+		</Row>
+		<Row Tag="LOC_POLITICIAN_GEDEMO_HUNNIC_MALE_14" Language="en_US">
+			<Text>Ernakh</Text>
+		</Row>
+		<Row Tag="LOC_POLITICIAN_GEDEMO_HUNNIC_FEMALE_1" Language="en_US">
+			<Text>Erekan</Text>
+		</Row>
+		
+
+		<Row Tag="LOC_ABILITY_FUITESIMULEE_GATHERING_NAME" Language="en_US">
+			<Text>Simulated Flight</Text>
+		</Row>
+
+		<Row Tag="LOC_ABILITY_FUITESIMULEE_GATHERING_DESCRIPTION"	Language="en_US">
+			<Text>Hunnic Horsemen join together to increase their power exponentially.</Text>
+		</Row>
+
+		<Row Tag="LOC_ABILITY_FUITESIMULEE_GATHERING_NEIGHBOR_COMBAT_MODIFIER_DESCRIPTION" Language="en_US">
+			<Text>+10 [ICON_Strength] Combat Strength when adjacent to another Hunnic Horsemen.</Text>
+		</Row>
+
+
+		<Row Tag="LOC_AGENDA_GEDEMO_ATTILA_NAME" Language="en_US">
+			<Text>Prince of the entire world</Text>
+		</Row>
+		<Row Tag="LOC_AGENDA_GEDEMO_ATTILA_DESCRIPTION" Language="en_US">
+			<Text>Likes to see civilizations at war, and believes in constant struggle.</Text>
+		</Row>
+
+
+
+		<Row Tag="LOC_AGENDA_GEDEMO_ATTILA_NAME" Language="fr_FR">
+			<Text>Prince du monde entier</Text>
+		</Row>
+		<Row Tag="LOC_AGENDA_GEDEMO_ATTILA_DESCRIPTION" Language="fr_FR">
+			<Text>Aime voir les civilisations en guerre et croit en une lutte constante.</Text>
+		</Row>
+		
+		<!--Traits french-->
+		
+		
+		<Row Tag="LOC_TRAIT_LEADER_GEDEMO_ATTILA_LTRAIT_NAME" Language="fr_FR">
+			<Text>Fléau de Dieu</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_LEADER_GEDEMO_ATTILA_LTRAIT_DESCRIPTION" Language="fr_FR">
+			<Text>Les unités obtiennent +1 [ICON_movement] sur les cases de Plaines et de Prairies. Les chevaux génèrent +1 [ICON_culture] Culture.</Text>
+		</Row>
+
+		<Row Tag="LOC_TRAIT_CIVILIZATION_GEDEMO_HUNNIC_CIV_TRAIT_NAME" Language="fr_FR">
+			<Text>Bataille des champs Catalauniques</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_CIVILIZATION_GEDEMO_HUNNIC_CIV_TRAIT_DESCRIPTION" Language="fr_FR">
+			<Text>Pas de mécontentement lié à la guerre. Les Ecuries sont construites plus rapidement.</Text>
+		</Row>
+
+		<Row Tag="LOC_BUILDING_GEDEMO_YURT_NAME" Language="fr_FR">
+			<Text>Yurt</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_GEDEMO_YURT_DESCRIPTION" Language="fr_FR">
+			<Text>Ce batiment est exclusif à la civilization des Huns. Disponible à l'Ere Ancienne, il remplace le Réseau d'égouts. Il rapporte +2 Archers à Cheval et +2 [ICON_Housing] Habitations.</Text>
+		</Row>
+
+		<Row Tag="LOC_UNIT_GEDEMO_HUNNIC_HORSEARCHER_NAME" Language="fr_FR">
+			<Text>Archer Monté Hun|Archers Montés Huns</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1|2</Plurality>
+		</Row>
+		<Row Tag="LOC_UNIT_GEDEMO_HUNNIC_HORSEARCHER_DESCRIPTION" Language="fr_FR">
+			<Text>Exclusive à la civilization des Huns et remplaçant le Cavalier, cette unité est disponible avec l'Elevage et a une puissance qui augmente lorsqu'elle est adjacente à un autre Cavalier Hun.</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_CIVILIZATION_UNIT_GEDEMO_HUNNIC_HORSEARCHER_NAME" Language="fr_FR">
+			<Text>Unité exclusive à la civilization Hunnique: Archer Monté Hun</Text>
+		</Row>
+		
+		
+		
+		<!--LEADER french-->
+		<Row Tag="LOC_LEADER_GEDEMO_ATTILA" Language="fr_FR">
+			<Text>Attila le Hun</Text>
+		</Row>
+
+
+		<!--DOM french-->
+		<Row Tag="LOC_LOADING_INFO_LEADER_GEDEMO_ATTILA" Language="fr_FR">
+			<Text>Vos hommes vous accueillent avec fierté, grand Attila, valeureux guerrier à la tête de l'Empire hunnique. Aux côtés de votre frère, Bleda, vous avez repoussé les frontières de votre empire pour devenir la force la plus puissante et la plus crainte du Ve siècle. Vous avez placé l'Empire byzantin sous votre joug, et conquis royaume après royaume le long du Danube et de la Nisava. En tant que souverain des Huns, vous avez mené vos armées à travers l'Europe et vers la Gaule, bien décidé à étendre votre territoire déjà impressionnant jusqu'à l'Atlantique. Votre mort prématurée a conduit votre empire à sa perte, mais votre nom et vos prouesses ont laissé à votre peuple un héritage éternel. [NEWLINE][NEWLINE]Redoutable général, votre peuple souhaite voir naître un nouvel Empire hunnique, une civilisation aux prouesses et légendes toujours plus impressionnantes. Répondrez-vous à leur appel et tenterez-vous de retrouver gloire et puissance ? Remonterez-vous en selle pour mener vos armées à la victoire ? Bâtirez-vous une civilisation capable de résister au passage du temps ?</Text>
+		</Row>
+
+
+		<!--Civilopedia french-->
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_GEDEMO_ATTILA_TITLE" Language="fr_FR">
+			<Text>Roi des Huns</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_GEDEMO_ATTILA_SUBTITLE" Language="fr_FR">
+			<Text>Roi de la Confédération Hunnique</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_GEDEMO_ATTILA_QUOTE" Language="fr_FR">
+			<Text>Là où mon cheval passe, l'herbe ne repousse pas.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_GEDEMO_ATTILA_CHAPTER_HISTORY_PARA_1" Language="fr_FR">
+			<Text>Après la mort de Rugas en 434, Attila et son frère Bleda héritèrent ensemble du royaume et poursuivirent l'expansion du territoire des Huns en Europe. Grâce aux revenus réguliers des tributs et des pillages, les Huns devinrent une force de plus en plus puissante sur le continent européen vers le Ve siècle. Le général romain Aetius, qui s'était auparavant allié à Rugas et avait utilisé les Huns pour s'assurer le poste de commandant des troupes romaines en Gaule, engagea de nouveau les Huns comme mercenaires pour sa campagne contre les Burgondes, qui attaquaient les provinces romaines du nord. Croulant sous les richesses, les Huns s'attaquèrent de nouveau à l'Empire romain d'Orient (une cible privilégiée de leurs campagnes) et poussèrent par l'intimidation les chefs byzantins affaiblis à signer le traité de Margus en 435. Ce traité aurait doublé le tribut de plusieurs centaines de livres d'or que les Byzantins devaient déjà verser chaque année aux Huns, augmentant ainsi encore leurs ressources. Comme par le passé, les Byzantins ne versèrent pas le tribut dû, ce qui poussa les Huns à attaquer derechef le territoire de l'Empire romain d'Orient et à piller plusieurs villes, avant d'atteindre Constantinople en 443. À nouveau, les Byzantins acceptèrent de payer un tribut substantiel, trois fois supérieur à la somme initiale, et les Huns se replièrent, acceptant de les croire sur parole. Après la mort d'Attila, l'empire des Huns aurait dû revenir à son fils aîné, Ellac. Toutefois, ses autres fils, Dengitzic et Ernac, convoitaient aussi le trône et les divisions au sein de l'empire entraînèrent rapidement sa chute. En 454, un an seulement après le début de son règne, Ellac fut tué à la bataille du Nédao, durant laquelle les Huns furent durement vaincus par une coalition de tribus germaniques. Après la mort de son frère, Dengitzic s'empara brièvement du trône, mais les Huns, de plus en plus désorganisés, disparurent bientôt de l'histoire aussi rapidement qu'ils y étaient entrés. À la mort de Dengitzic en 469, on suppose que le reste du peuple des Huns commença à migrer vers son territoire ancestral dans les steppes d'Asie centrale.</Text>
+		</Row>
+		
+		
+
+		<!--CIVILIZATION french-->
+		<Row Tag="LOC_CIVILIZATION_GEDEMO_HUNNIC_NAME" Language="fr_FR">
+			<Text>Huns</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_GEDEMO_HUNNIC_DESCRIPTION" Language="fr_FR">
+			<Text>Le Peuple des Huns</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_GEDEMO_HUNNIC_ADJECTIVE" Language="fr_FR">
+			<Text>Hunnique</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_GEDEMO_HUNNIC_DESCRIPTION_GEDEMO_CIVILIZATION" Language="fr_FR">
+			<Text>Huns</Text>
+		</Row>
+		<!--Pedia french-->
+		<Row Tag="LOC_CIVINFO_GEDEMO_HUNNIC_LOCATION" Language="fr_FR">
+			<Text>Europe de l'est</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_GEDEMO_HUNNIC_POPULATION" Language="fr_FR">
+			<Text>Environ 500 000 habitants</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_GEDEMO_HUNNIC_SIZE" Language="fr_FR">
+			<Text>Environ 4 000 000 kilomètres carrés</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_GEDEMO_HUNNIC_CAPITAL" Language="fr_FR">
+			<Text>Tapiomarton</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_GEDEMO_HUNNIC_CHAPTER_HISTORY_PARA_1" Language="fr_FR">
+			<Text>Les plus anciens témoignages sur les Huns sont loin d'être impartiaux, car ils furent rédigés du point de vue de leurs nombreux ennemis et ne livrent qu'une histoire parcellaire des premières conquêtes hunniques. Arrivés en Europe au IVe siècle, les Huns auraient soumis plusieurs tribus rivales, dont celles des Alains, des Ostrogoths et des Wisigoths. Malgré leur manque d'union, les Huns attaquèrent aussi avec audace des régions de l'Empire romain d'Orient et d'Occident, tout en travaillant comme mercenaires pour Rome contre d'autres tribus, parvenant à tirer leur épingle du jeu dans les deux cas. C'est au cours de cette période que les Byzantins (les Romains d'Orient) commencèrent à verser un tribut aux Huns pour s'assurer la paix avec eux, même si les Byzantins manquèrent souvent à leurs engagements. On a plus de certitudes concernant l'histoire des Huns à partir de l'époque qui précède le règne d'Attila. Son oncle Rugas, qui régna avant lui, parvint peu à peu à prendre le contrôle des différentes forces hunniques et élimina tous les chefs rivaux. Gouvernant les Huns d'une main de fer, Rugas lança avec succès plusieurs attaques contre des tribus voisines, avant de se tourner vers des objectifs plus importants. Régnant en tant que roi de la confédération des Huns, nom que prit le peuple à cette époque, Rugas s'engagea dans différents conflits contre l'Empire romain d'Orient. Il semble que plusieurs des tribus soumises par les Huns fuirent chez les Byzantins dans l'espoir d'y trouver asile. Rugas, exigeant qu'elles lui soient remises, lança ses armées contre le territoire byzantin et pilla Thrace, au nord-ouest de Constantinople. Toutefois, au milieu de sa campagne, Rugas fut tué, semble-t-il frappé par la foudre, et les Huns furent contraints de battre en retraite. Après la mort de Rugas en 434, Attila et son frère Bleda héritèrent ensemble du royaume et poursuivirent l'expansion du territoire des Huns en Europe. Grâce aux revenus réguliers des tributs et des pillages, les Huns devinrent une force de plus en plus puissante sur le continent européen vers le Ve siècle. Le général romain Aetius, qui s'était auparavant allié à Rugas et avait utilisé les Huns pour s'assurer le poste de commandant des troupes romaines en Gaule, engagea de nouveau les Huns comme mercenaires pour sa campagne contre les Burgondes, qui attaquaient les provinces romaines du nord. Croulant sous les richesses, les Huns s'attaquèrent de nouveau à l'Empire romain d'Orient (une cible privilégiée de leurs campagnes) et poussèrent par l'intimidation les chefs byzantins affaiblis à signer le traité de Margus en 435. Ce traité aurait doublé le tribut de plusieurs centaines de livres d'or que les Byzantins devaient déjà verser chaque année aux Huns, augmentant ainsi encore leurs ressources. Comme par le passé, les Byzantins ne versèrent pas le tribut dû, ce qui poussa les Huns à attaquer derechef le territoire de l'Empire romain d'Orient et à piller plusieurs villes, avant d'atteindre Constantinople en 443. À nouveau, les Byzantins acceptèrent de payer un tribut substantiel, trois fois supérieur à la somme initiale, et les Huns se replièrent, acceptant de les croire sur parole.</Text>
+		</Row>
+		
+
+
+		<!--Cities french-->
+		<Row Tag="LOC_CITY_NAME_GEDEMO_HUNNIC_1" Language="fr_FR">
+			<Text>Tapiomarton</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_GEDEMO_HUNNIC_2" Language="fr_FR">
+			<Text>Segedin</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_GEDEMO_HUNNIC_3" Language="fr_FR">
+			<Text>Sikambruk</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_GEDEMO_HUNNIC_4" Language="fr_FR">
+			<Text>Turuk</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_GEDEMO_HUNNIC_5" Language="fr_FR">
+			<Text>Hunuk</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_GEDEMO_HUNNIC_6" Language="fr_FR">
+			<Text>Akatziruk</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_GEDEMO_HUNNIC_7" Language="fr_FR">
+			<Text>Kutrigur</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_GEDEMO_HUNNIC_8" Language="fr_FR">
+			<Text>Sabir</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_GEDEMO_HUNNIC_9" Language="fr_FR">
+			<Text>Utigur</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_GEDEMO_HUNNIC_10" Language="fr_FR">
+			<Text>Suvar</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_GEDEMO_HUNNIC_11" Language="fr_FR">
+			<Text>Kevi</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_GEDEMO_HUNNIC_12" Language="fr_FR">
+			<Text>Antes</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_GEDEMO_HUNNIC_13" Language="fr_FR">
+			<Text>Sklavenir</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_GEDEMO_HUNNIC_14" Language="fr_FR">
+			<Text>Bastarnuk</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_GEDEMO_HUNNIC_15" Language="fr_FR">
+			<Text>Suebir</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_GEDEMO_HUNNIC_16" Language="fr_FR">
+			<Text>Aduni</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_GEDEMO_HUNNIC_17" Language="fr_FR">
+			<Text>Jegi</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_GEDEMO_HUNNIC_18" Language="fr_FR">
+			<Text>Egerseg</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_GEDEMO_HUNNIC_19" Language="fr_FR">
+			<Text>Telikhi</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_GEDEMO_HUNNIC_20" Language="fr_FR">
+			<Text>Laiduni</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_GEDEMO_HUNNIC_21" Language="fr_FR">
+			<Text>Bastetir</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_GEDEMO_HUNNIC_22" Language="fr_FR">
+			<Text>Tesongadi</Text>
+		</Row>
+		
+
+		<!--Citizens french-->
+		<Row Tag="LOC_CITIZEN_GEDEMO_HUNNIC_MALE_1" Language="fr_FR">
+			<Text>Alatheus</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_GEDEMO_HUNNIC_MALE_2"  Language="fr_FR">
+			<Text>Safrac</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_GEDEMO_HUNNIC_MALE_3"  Language="fr_FR">
+			<Text>Athanaric</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_GEDEMO_HUNNIC_MALE_4"  Language="fr_FR">
+			<Text>Octar</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_GEDEMO_HUNNIC_MALE_5"  Language="fr_FR">
+			<Text>Moundzouk</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_GEDEMO_HUNNIC_MALE_6"  Language="fr_FR">
+			<Text>Bleda</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_GEDEMO_HUNNIC_MALE_7"  Language="fr_FR">
+			<Text>Ellac</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_GEDEMO_HUNNIC_MALE_8"  Language="fr_FR">
+			<Text>Ernakh</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_GEDEMO_HUNNIC_MALE_9"  Language="fr_FR">
+			<Text>Dengizik</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_GEDEMO_HUNNIC_MALE_10"  Language="fr_FR">
+			<Text>Balamber</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_GEDEMO_HUNNIC_FEMALE_1"  Language="fr_FR">
+			<Text>Gundrun</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_GEDEMO_HUNNIC_FEMALE_2"  Language="fr_FR">
+			<Text>Erekan</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_GEDEMO_HUNNIC_FEMALE_3"  Language="fr_FR">
+			<Text>Ildico</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_GEDEMO_HUNNIC_FEMALE_4"  Language="fr_FR">
+			<Text>Kreka</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_GEDEMO_HUNNIC_FEMALE_5"  Language="fr_FR">
+			<Text>Ascama</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_GEDEMO_HUNNIC_FEMALE_6"  Language="fr_FR">
+			<Text>Kirembilt</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_GEDEMO_HUNNIC_FEMALE_7"  Language="fr_FR">
+			<Text>Gudun</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_GEDEMO_HUNNIC_FEMALE_8"  Language="fr_FR">
+			<Text>Chlodweg</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_GEDEMO_HUNNIC_FEMALE_9"  Language="fr_FR">
+			<Text>Helche</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_GEDEMO_HUNNIC_FEMALE_10"  Language="fr_FR">
+			<Text>Kriemhild</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_GEDEMO_HUNNIC_MODERN_MALE_1"  Language="fr_FR">
+			<Text>Csaba</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_GEDEMO_HUNNIC_MODERN_MALE_2"  Language="fr_FR">
+			<Text>Uldin</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_GEDEMO_HUNNIC_MODERN_MALE_3"  Language="fr_FR">
+			<Text>Donatus</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_GEDEMO_HUNNIC_MODERN_MALE_4"  Language="fr_FR">
+			<Text>Charato</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_GEDEMO_HUNNIC_MODERN_MALE_5"  Language="fr_FR">
+			<Text>Hormidac</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_GEDEMO_HUNNIC_MODERN_MALE_6"  Language="fr_FR">
+			<Text>Rugila</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_GEDEMO_HUNNIC_MODERN_MALE_7"  Language="fr_FR">
+			<Text>Karaton</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_GEDEMO_HUNNIC_MODERN_MALE_8"  Language="fr_FR">
+			<Text>Edecon</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_GEDEMO_HUNNIC_MODERN_MALE_9"  Language="fr_FR">
+			<Text>Onegese</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_GEDEMO_HUNNIC_MODERN_MALE_10"  Language="fr_FR">
+			<Text>Scottas</Text>
+		</Row>
+
+		<Row Tag="LOC_CITIZEN_GEDEMO_HUNNIC_MODERN_FEMALE_1"  Language="fr_FR">
+			<Text>Erpe</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_GEDEMO_HUNNIC_MODERN_FEMALE_2"  Language="fr_FR">
+			<Text>Eiti</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_GEDEMO_HUNNIC_MODERN_FEMALE_3"  Language="fr_FR">
+			<Text>Geila</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_GEDEMO_HUNNIC_MODERN_FEMALE_4"  Language="fr_FR">
+			<Text>Waldrada</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_GEDEMO_HUNNIC_MODERN_FEMALE_5"  Language="fr_FR">
+			<Text>Romilde</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_GEDEMO_HUNNIC_MODERN_FEMALE_6"  Language="fr_FR">
+			<Text>Gepiade</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_GEDEMO_HUNNIC_MODERN_FEMALE_7"  Language="fr_FR">
+			<Text>Gisulf</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_GEDEMO_HUNNIC_MODERN_FEMALE_8"  Language="fr_FR">
+			<Text>Zvelyke</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_GEDEMO_HUNNIC_MODERN_FEMALE_9"  Language="fr_FR">
+			<Text>Boglarka</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_GEDEMO_HUNNIC_MODERN_FEMALE_10"  Language="fr_FR">
+			<Text>csenge</Text>
+		</Row>
+
+		<Row Tag="LOC_CITY_NAME_C15_COLONY_NAMES_DORGATHEGI" Language="fr_FR">
+			<Text>Dorgathegi</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_C15_COLONY_NAMES_KHALATIR" Language="fr_FR">
+			<Text>Khalatir</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_C15_COLONY_NAMES_SUCHONGADI" Language="fr_FR">
+			<Text>Suchongadi</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_C15_COLONY_NAMES_LIVI" Language="fr_FR">
+			<Text>Livi</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_C15_COLONY_NAMES_TISZA" Language="fr_FR">
+			<Text>Tisza</Text>
+		</Row>
+
+		<!--Diplomacy french-->
+		<!--FIRST MEET french-->
+		<!--First AI line french-->
+		<Row Tag="LOC_DIPLO_FIRST_MEET_LEADER_GEDEMO_ATTILA_ANY" Language="fr_FR">
+			<Text>Bienvenue dans mon domaine. Je suis Attila le Hun. Je ne vous conseille pas de croiser ma route, à moins que vous n'ayez envie de voir vos richesses terminer à mes pieds.</Text>
+		</Row>
+		<!--AI invitation to visit nearby City french-->
+		<Row Tag="LOC_DIPLO_FIRST_MEET_VISIT_RECIPIENT_LEADER_GEDEMO_ATTILA_ANY" Language="fr_FR">
+			<Text>Le fils de Moundzouk vous salue. Faites preuve de prudence en traversant mon territoire, et j'éviterai peut-être de vous faire piétiner par mon cheval.</Text>
+		</Row>
+		<!--AI accepts Human invitation french-->
+		<Row Tag="LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_POSITIVE_LEADER_GEDEMO_ATTILA_ANY" Language="fr_FR">
+			<Text>Qu'il en soit ainsi.</Text>
+		</Row>
+		<!--AI invitation to exchange Capital Information french -->
+		<Row Tag="LOC_DIPLO_FIRST_MEET_NO_MANS_INFO_EXCHANGE_LEADER_GEDEMO_ATTILA_ANY" Language="fr_FR">
+			<Text>Vous êtes en présence d'Attila, le fléau de Rome. Ne laissez pas votre orgueil devenir votre perte.</Text>
+		</Row>
+		<!--GREETINGS french-->
+		<Row Tag="LOC_DIPLO_GREETING_LEADER_GEDEMO_ATTILA_ANY" Language="fr_FR">
+			<Text>Yra sunsa ketetper (Bienvenue)!</Text>
+		</Row>
+		<!--DELEGATION french-->
+		<!--AI Accepts french-->
+		<Row Tag="LOC_DIPLO_ACCEPT_DELEGATION_FROM_HUMAN_LEADER_GEDEMO_ATTILA_ANY" Language="fr_FR">
+			<Text>Nous accueillons votre delegation avec joie!</Text>
+		</Row>
+		<!--AI Rejects french-->
+		<Row Tag="LOC_DIPLO_REJECT_DELEGATION_FROM_HUMAN_LEADER_GEDEMO_ATTILA_ANY" Language="fr_FR">
+			<Text>Il va falloir me proposer mieux que ça.</Text>
+		</Row>
+		<!--AI Requests french-->
+		<Row Tag="LOC_DIPLO_DELEGATION_FROM_AI_LEADER_GEDEMO_ATTILA_ANY" Language="fr_FR">
+			<Text>Ma délégation commerciale devrait bientôt arriver avec des chevaux et des esclaves.</Text>
+		</Row>
+		<!--OPEN BORDERS french-->
+		<!--AI accepts from human french-->
+		<Row Tag="LOC_DIPLO_ACCEPT_OPEN_BORDERS_FROM_HUMAN_LEADER_GEDEMO_ATTILA_ANY" Language="fr_FR">
+			<Text>C'est avec plaisir que nous ouvrons nos frontières à vos unités.</Text>
+		</Row>
+		<!--AI rejects from human french-->
+		<Row Tag="LOC_DIPLO_REJECT_OPEN_BORDERS_FROM_HUMAN_LEADER_GEDEMO_ATTILA_ANY" Language="fr_FR">
+			<Text>Nous ne sommes pas intéressés pour l'instant.</Text>
+		</Row>
+		<!--AI requests from human french-->
+		<Row Tag="LOC_DIPLO_OPEN_BORDERS_FROM_AI_LEADER_GEDEMO_ATTILA_ANY" Language="fr_FR">
+			<Text>Permettrez-vous à nos unités de traverser votre territoire?</Text>
+		</Row>
+		<!--DECLARE FRIENDSHIP french-->
+		<!--AI accepts from human french-->
+		<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_HUMAN_LEADER_GEDEMO_ATTILA_ANY" Language="fr_FR">
+			<Text>Allez, nous avons de nombreux traités à signer!</Text>
+		</Row>
+		<!--AI Rejects from human french-->
+		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_HUMAN_LEADER_GEDEMO_ATTILA_ANY" Language="fr_FR">
+			<Text>J'ai un fort goût de bile dans la gorge, mais je vais vous laisser améliorer votre offre sur l'ordre de mes conseillers.</Text>
+		</Row>
+		<!--AI Requests friendship from human french-->
+		<Row Tag="LOC_DIPLO_DECLARE_FRIEND_FROM_AI_LEADER_GEDEMO_ATTILA_ANY" Language="fr_FR">
+			<Text>Vous n'en méritez pas tant, mais il faut qu'on sache que je suis un homme juste!</Text>
+		</Row>
+		<!--Human accepts AI requests, AI responds french-->
+		<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_GEDEMO_ATTILA_ANY" Language="fr_FR">
+			<Text>Soit. J'accepte.</Text>
+		</Row>
+		<!--Human rejects AI requests, AI responds french-->
+		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_GEDEMO_ATTILA_ANY" Language="fr_FR">
+			<Text>Vous voulez que mes hommes et mes chevaux meurent de faim, c'est ça ? Faites-moi une meilleure offre.</Text>
+		</Row>
+		<!--ALLIANCE-->
+		<!--AI Requests an alliance from human french-->
+		<Row Tag="LOC_DIPLO_MAKE_ALLIANCE_FROM_AI_LEADER_GEDEMO_ATTILA_ANY" Language="fr_FR">
+			<Text>Aimeriez-vous former une alliance?</Text>
+		</Row>
+		<!--KUDOS & WARNINGS french-->
+		<!--AI Kudos-->
+		<Row Tag="LOC_DIPLO_KUDO_EXIT_LEADER_GEDEMO_ATTILA_ANY" Language="fr_FR">
+			<Text>Vous êtes véritablement un dirigeant digne d'interet. Quelle chance de se connaître!</Text>
+		</Row>
+		<!--AI Warnings french-->
+		<Row Tag="LOC_DIPLO_WARNING_EXIT_LEADER_GEDEMO_ATTILA_ANY" Language="fr_FR">
+			<Text>Vos interets entrent en conflit avec les miens. Faites attention.</Text>
+		</Row>
+		<!--AI warns player for border troops french-->
+		<Row Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_LEADER_GEDEMO_ATTILA_ANY" Language="fr_FR">
+			<Text>Votre armée est à nos portes. Nous ne sommes pas aveugles. Rappelez-la ou nous serons contraints d'agir!</Text>
+		</Row>
+		<!--TRADE french-->
+		<!--AI Accepts Deal french-->
+		<Row Tag="LOC_DIPLO_ACCEPT_MAKE_DEAL_FROM_AI_LEADER_GEDEMO_ATTILA_ANY" Language="fr_FR">
+			<Text>{LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_GEDEMO_ATTILA_ANY}</Text>
+		</Row>
+		<!--AI Rejects Deal french-->
+		<Row Tag="LOC_DIPLO_REJECT_MAKE_DEAL_FROM_AI_LEADER_GEDEMO_ATTILA_ANY" Language="fr_FR">
+			<Text>{LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_GEDEMO_ATTILA_ANY}</Text>
+		</Row>
+		<!--DENOUNCE french-->
+		<!--From Human french-->
+		<Row Tag="LOC_DIPLO_DENOUNCE_FROM_HUMAN_LEADER_GEDEMO_ATTILA_ANY" Language="fr_FR">
+			<Text>Je vais vous dénoncer aux yeux du monde entier!</Text>
+		</Row>
+		<!--From AI french-->
+		<Row Tag="LOC_DIPLO_DENOUNCE_FROM_AI_LEADER_GEDEMO_ATTILA_ANY" Language="fr_FR">
+			<Text>J'admire le courage chez mes chefs, mais vous êtes bien trop présomptueux! (Dénonciation)</Text>
+		</Row>
+		<!--DECLARE WAR french-->
+		<!--Human Declares War french-->
+		<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_HUMAN_LEADER_GEDEMO_ATTILA_ANY" Language="fr_FR">
+			<Text>Vos soldats mourront sur le champs de bataille. C'est la guerre!</Text>
+		</Row>
+		<!--AI Declares War french-->
+		<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_GEDEMO_ATTILA_ANY" Language="fr_FR">
+			<Text>Maintenant nous allons voir si vous êtes des lâches ou des guerriers!</Text>
+		</Row>
+		<!--MAKE PEACE french-->
+		<!--AI accepts from human french-->
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_AI_ACCEPT_DEAL_LEADER_GEDEMO_ATTILA_ANY" Language="fr_FR">
+			<Text>Vous avez retenu la leçon, j'espère. Peut-être devrais-je vous libérer de vos métaux les plus précieux pour que vous ne perdiez pas la mémoire.</Text>
+		</Row>
+		<!--AI refuses human french-->
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_AI_REFUSE_DEAL_LEADER_GEDEMO_ATTILA_ANY" Language="fr_FR">
+			<Text>Je dois refuser.</Text>
+		</Row>
+		<!--AI requests from human french-->
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_FROM_AI_LEADER_GEDEMO_ATTILA_ANY" Language="fr_FR">
+			<Text>Parfois une défaite survient en dépit des meilleurs préparatifs. La prochaine manche ne se passera peut-être pas aussi bien pour vous..</Text>
+		</Row>
+		<!--DEFEAT french-->
+		<!--AI is Defeated french-->
+		<Row Tag="LOC_DIPLO_DEFEAT_FROM_AI_LEADER_GEDEMO_ATTILA_ANY" Language="fr_FR">
+			<Text>Vous avez peut-être pris mes terres et dispersé mes armées, mais les Huns sont un peuple fier et puissant. Ils n'accepteront pas la faiblesse de la part d'un chef</Text>
+		</Row>
+		<!--Human is Defeated (will see this in hotseat) french-->
+		<Row Tag="LOC_DIPLO_DEFEAT_FROM_HUMAN_LEADER_GEDEMO_ATTILA_ANY" Language="fr_FR">
+			<Text>[LOC_DIPLO_DEFEAT_FROM_AI_LEADER_GEDEMO_ATTILA_ANY]</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_BUILDINGS_PAGE_BUILDING_GEDEMO_YURT_CHAPTER_HISTORY_PARA_1" Language="fr_FR">
+			<Text>L'histoire des yourtes semble se perdre dans celle des peuples de la steppe qui ont essaimé à travers l'immensité des horizons de l'infinie steppe eurasienne après que celle-ci a été rendue de nouveau propice à un peuplement nomade épars, chasseurs-cueilleurs, puis éleveurs, à mesure du retrait de l'inlandsis qui couvrait le nord du continent jusqu'à la fin de la dernière période glaciaire. Les premières traces de yourtes ont été laissées par les pasteurs semi-nomades de la culture d'Andronovo, peuple indo-européen éleveur de chevaux qui s'est répandu dans la steppe eurasienne depuis l'Oural et la mer Caspienne jusqu'au bassin de l'Ienisseï vers la fin du IIIe millénaire av. J.-C. La yourte, formidable refuge pour faire face aux rigueurs du climat continental et aux nécessités de mobilité pour suivre troupeaux et migrations annuelles, a évolué substantiellement à travers les siècles. Son succès est lié à quelques découvertes significatives: celle des vertus de la roue qui a permis de constituer des attelages autorisant la mobilité : ainsi des images de gerlugs, ou les « charrettes à yourte », ont été trouvées sur plus de cinquante fresques datant de l'âge du bronze. La découverte du feutre a permis aux premiers nomades d'isoler facilement et efficacement leurs maisons, posant les fondations des habitations qui deviendront les premières yourtes. Enfin la yourte semble aussi avoir emprunté à l'orts, un simple abri toujours utilisé par les Tsaatans (les éleveurs de rennes), consistant aujourd'hui en un cadre conique de branches ou de poteaux en bois couverts de peaux animales.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_GEDEMO_HUNNIC_HORSEARCHER_CHAPTER_HISTORY_PARA_1" Language="fr_FR">
+			<Text>La redoutable cavalerie des Huns, réputée à la fois pour son habileté au tir à l'arc et pour sa maîtrise de l'équitation, fut le fléau de l'Europe lors des conquêtes hunniques des IVe et Ve siècles de notre ère. Utilisant de puissants arcs composites, les archers à cheval des Huns ont perfectionné leurs compétences en chassant dans la steppe d'Asie centrale, et ils n'ont eu aucun mal à transférer ces compétences dans la guerre. Il est largement admis que l'utilisation des archers à cheval par les Huns a grandement influencé les futures considérations militaires des royaumes européens et asiatiques, alors qu'une plus grande importance accordée aux unités de cavalerie résultait de leurs incursions.</Text>
+		</Row>
+
+
+		<!--MOD SUPPORT-->
+		<!--JFD Rule with Faith-->
+
+		<Row Tag="LOC_CIVILIZATION_GEDEMO_HUNNIC_DESCRIPTION_JFD_CIVILIZATION" Language="fr_FR">
+			<Text>Civilization Hunnique</Text>
+		</Row>
+
+		<Row Tag="LOC_GOVERNMENT_JFD_CHIEFDOM_LEADER_TITLE_GEDEMO_HUNNIC" Language="fr_FR">
+			<Text>Chief</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNMENT_JFD_CHIEFDOM_LEADER_TITLE_GEDEMO_HUNNIC_FEMININE" Language="fr_FR">
+			<Text>Chieftess</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNMENT_JFD_HORDE_LEADER_TITLE_GEDEMO_HUNNIC" Language="fr_FR">
+			<Text>Roi</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNMENT_JFD_HORDE_LEADER_TITLE_GEDEMO_HUNNIC_FEMININE" Language="fr_FR">
+			<Text>Reine</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNMENT_JFD_POLIS_LEADER_TITLE_GEDEMO_HUNNIC" Language="fr_FR">
+			<Text>Vieux Chef</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNMENT_JFD_POLIS_LEADER_TITLE_GEDEMO_HUNNIC_FEMININE" Language="fr_FR">
+			<Text>Vieille Cheffe</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNMENT_JFD_AUTOCRACY_LEADER_TITLE_GEDEMO_HUNNIC" Language="fr_FR">
+			<Text>Roi</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNMENT_JFD_AUTOCRACY_LEADER_TITLE_GEDEMO_HUNNIC_FEMININE" Language="fr_FR">
+			<Text>Reine</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNMENT_JFD_CLASSICAL_DEMOCRACY_LEADER_TITLE_GEDEMO_HUNNIC" Language="fr_FR">
+			<Text>Chef du Conseil</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNMENT_JFD_CLASSICAL_DEMOCRACY_LEADER_TITLE_GEDEMO_HUNNIC_FEMININE" Language="fr_FR">
+			<Text>Cheffe du Conseil</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNMENT_JFD_OLIGARCHY_LEADER_TITLE_GEDEMO_HUNNIC" Language="fr_FR">
+			<Text>Commandant</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNMENT_JFD_OLIGARCHY_LEADER_TITLE_GEDEMO_HUNNIC_FEMININE" Language="fr_FR">
+			<Text>Commandant</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNMENT_JFD_MERCHANT_REPUBLIC_LEADER_TITLE_GEDEMO_HUNNIC" Language="fr_FR">
+			<Text>Seigneur</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNMENT_JFD_MERCHANT_REPUBLIC_LEADER_TITLE_GEDEMO_HUNNIC_FEMININE" Language="fr_FR">
+			<Text>Dame</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNMENT_JFD_MONARCHY_LEADER_TITLE_GEDEMO_HUNNIC" Language="fr_FR">
+			<Text>Roi</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNMENT_JFD_MONARCHY_LEADER_TITLE_GEDEMO_HUNNIC_FEMININE" Language="fr_FR">
+			<Text>Reine</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNMENT_JFD_NOBLE_REPUBLIC_LEADER_TITLE_GEDEMO_HUNNIC" Language="fr_FR">
+			<Text>Prince</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNMENT_JFD_NOBLE_REPUBLIC_LEADER_TITLE_GEDEMO_HUNNIC_FEMININE" Language="fr_FR">
+			<Text>Princesse</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNMENT_JFD_PEOPLES_REPUBLIC_LEADER_TITLE_GEDEMO_HUNNIC" Language="fr_FR">
+			<Text>Administrateur</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNMENT_JFD_PEOPLES_REPUBLIC_LEADER_TITLE_GEDEMO_HUNNIC_FEMININE" Language="fr_FR">
+			<Text>Administratrice</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNMENT_JFD_LIBERAL_DEMOCRACY_LEADER_TITLE_GEDEMO_HUNNIC" Language="fr_FR">
+			<Text>President</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNMENT_JFD_LIBERAL_DEMOCRACY_LEADER_TITLE_GEDEMO_HUNNIC_FEMININE" Language="fr_FR">
+			<Text>Presidente</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNMENT_JFD_MILITARY_GUARDIANSHIP_LEADER_TITLE_GEDEMO_HUNNIC" Language="fr_FR">
+			<Text>General</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNMENT_JFD_MILITARY_GUARDIANSHIP_LEADER_TITLE_GEDEMO_HUNNIC_FEMININE" Language="fr_FR">
+			<Text>Generale</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNMENT_JFD_EMPIRE_LEADER_TITLE_GEDEMO_HUNNIC" Language="fr_FR">
+			<Text>Empereur</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNMENT_JFD_EMPIRE_LEADER_TITLE_GEDEMO_HUNNIC_FEMININE" Language="fr_FR">
+			<Text>Imperatrice</Text>
+		</Row>
+		<Row Tag="LOC_POLITICIAN_GEDEMO_HUNNIC_MALE_1" Language="fr_FR">
+			<Text>Vund</Text>
+		</Row>
+		<Row Tag="LOC_POLITICIAN_GEDEMO_HUNNIC_MALE_2" Language="fr_FR">
+			<Text>Balamber</Text>
+		</Row>
+		<Row Tag="LOC_POLITICIAN_GEDEMO_HUNNIC_MALE_3" Language="fr_FR">
+			<Text>Baltazar</Text>
+		</Row>
+		<Row Tag="LOC_POLITICIAN_GEDEMO_HUNNIC_MALE_4" Language="fr_FR">
+			<Text>Alypbi</Text>
+		</Row>
+		<Row Tag="LOC_POLITICIAN_GEDEMO_HUNNIC_MALE_5" Language="fr_FR">
+			<Text>Uldin</Text>
+		</Row>
+		<Row Tag="LOC_POLITICIAN_GEDEMO_HUNNIC_MALE_6" Language="fr_FR">
+			<Text>Donatus</Text>
+		</Row>
+		<Row Tag="LOC_POLITICIAN_GEDEMO_HUNNIC_MALE_7" Language="fr_FR">
+			<Text>Karaton</Text>
+		</Row>
+		<Row Tag="LOC_POLITICIAN_GEDEMO_HUNNIC_MALE_8" Language="fr_FR">
+			<Text>Aksungur</Text>
+		</Row>
+		<Row Tag="LOC_POLITICIAN_GEDEMO_HUNNIC_MALE_9" Language="fr_FR">
+			<Text>Moundzouk</Text>
+		</Row>
+		<Row Tag="LOC_POLITICIAN_GEDEMO_HUNNIC_MALE_10" Language="fr_FR">
+			<Text>Ruga</Text>
+		</Row>
+		<Row Tag="LOC_POLITICIAN_GEDEMO_HUNNIC_MALE_11" Language="fr_FR">
+			<Text>Bleda</Text>
+		</Row>
+		<Row Tag="LOC_POLITICIAN_GEDEMO_HUNNIC_MALE_12" Language="fr_FR">
+			<Text>Ellac</Text>
+		</Row>
+		<Row Tag="LOC_POLITICIAN_GEDEMO_HUNNIC_MALE_13" Language="fr_FR">
+			<Text>Dengizich</Text>
+		</Row>
+		<Row Tag="LOC_POLITICIAN_GEDEMO_HUNNIC_MALE_14" Language="fr_FR">
+			<Text>Ernakh</Text>
+		</Row>
+		<Row Tag="LOC_POLITICIAN_GEDEMO_HUNNIC_FEMALE_1" Language="fr_FR">
+			<Text>Erekan</Text>
+		</Row>
+
+
+		<Row Tag="LOC_ABILITY_FUITESIMULEE_GATHERING_NAME" Language="fr_FR">
+			<Text>Fuite simulée</Text>
+		</Row>
+
+		<Row Tag="LOC_ABILITY_FUITESIMULEE_GATHERING_DESCRIPTION"	Language="fr_FR">
+			<Text>Les Cavaliers Huns se rassemblent pour émuler leur puissance au combat.</Text>
+		</Row>
+
+		<Row Tag="LOC_ABILITY_FUITESIMULEE_GATHERING_NEIGHBOR_COMBAT_MODIFIER_DESCRIPTION" Language="fr_FR">
+			<Text>+10 [ICON_Strength] Puissance de Combat quand adjacent à un autre Cavalier Hun.</Text>
+		</Row>
+	</LocalizedText>
+</GameData>

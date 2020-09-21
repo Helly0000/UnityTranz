@@ -1,0 +1,231 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by Ed Beach (Firaxis Games) -->
+<GameData>
+	<LocalizedText>
+		<!--MOD-->
+		<Row Tag="LOC_MOD_JFD_KOREA_MYEONGSEONG_DESCRIPTION" Language="en_US">
+			<Text>------------------------------------[NEWLINE]LEADER -- MYEONGSEONG[NEWLINE][NEWLINE]TRAIT - ROYAL ENGLISH SCHOOL[NEWLINE]+10% [ICON_PRODUCTION] District Production per active Alliance, and can support 1 more District than normal with at least one Level 3 Alliance. +25% Alliance Points generation during wartime. Gain the Righteous Army unique unit after researching the Nationalism civic.[NEWLINE][NEWLINE]AGENDA - WESTERN MISSIONS[NEWLINE]Tries to form as many Alliances as possible, especially with those that are high in [ICON_SCIENCE] Science or that spread their Religion to her people. Distrusts civilizations that start wars on her continent, especially if they are high in [ICON_SCIENCE] Science.[NEWLINE][NEWLINE]UNIT - RIGHTEOUS_ARMY[NEWLINE]Korean unique Industrial melee unit when Myeongseong is their leader. Spawns whenever a Korean city is captured, if less than 5 are active.</Text>
+		</Row>
+		<!--LEADER-->
+		<Row Tag="LOC_LEADER_JFD_MYEONGSEONG_NAME" Language="en_US">
+			<Text>Myeongseong</Text>
+		</Row>
+		<!--Agenda-->
+		<Row Tag="LOC_AGENDA_JFD_WESTERN_MISSIONS_NAME" Language="en_US">
+			<Text>Western Missions</Text>
+		</Row>
+		<Row Tag="LOC_AGENDA_JFD_WESTERN_MISSIONS_DESCRIPTION" Language="en_US">
+			<Text>Tries to form as many Alliances as possible, especially with those that are high in [ICON_SCIENCE] Science or that spread their Religion to her people. Distrusts civilizations that start wars on her continent, especially if they are high in [ICON_SCIENCE] Science.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_LEADER_JFD_WESTERN_MISSIONS_REASON_ATTACKED_CONTINENT" Language="en_US">
+			<Text>(You started a war on her continent)</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MODIFIER_AGENDA_JFD_WESTERN_MISSIONS_ATTACKED_CONTINENT" Language="en_US">
+			<Text>Myeongseong resents your warmongering.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_LEADER_JFD_WESTERN_MISSIONS_REASON_ATTACKED_CONTINENT_AND_LEADS_SCIENCE" Language="en_US">
+			<Text>(You started a war on her continent and are strong in Science)</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MODIFIER_AGENDA_JFD_WESTERN_MISSIONS_ATTACKED_CONTINENT_AND_LEADS_SCIENCE" Language="en_US">
+			<Text>Myeongseong fears your power.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_KUDO_LEADER_JFD_WESTERN_MISSIONS_REASON_LEADS_SCIENCE" Language="en_US">
+			<Text>(You are strong in Science)</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MODIFIER_AGENDA_JFD_WESTERN_MISSIONS_LEADS_SCIENCE" Language="en_US">
+			<Text>Myeongseong is impressed by your advancements.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_KUDO_LEADER_JFD_WESTERN_MISSIONS_REASON_RELIGION_RECEIVED" Language="en_US">
+			<Text>(You have spread your Religion to her people)</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MODIFIER_AGENDA_JFD_WESTERN_MISSIONS_RELIGION_RECEIVED" Language="en_US">
+			<Text>Myeongseong values the knowledge of your missionaries.</Text>
+		</Row>
+		<!--DOM-->
+		<Row Tag="LOC_LOADING_INFO_LEADER_JFD_MYEONGSEONG" Language="en_US">
+			<Text>Noble and stern Joseon Empress, the world you once knew is fast coming to an end. Korea must seek allies in this modern world if she is to step out from the darkness and into the light. Embrace the ways of this new era, and your reformation might be enough to fend off its foes.</Text>
+		</Row>
+		<!--Traits-->
+		<Row Tag="LOC_TRAIT_LEADER_JFD_ROYAL_ENGLISH_SCHOOL_NAME" Language="en_US">
+			<Text>Royal English School</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_LEADER_JFD_ROYAL_ENGLISH_SCHOOL_DESCRIPTION" Language="en_US">
+			<Text>+10% [ICON_PRODUCTION] District Production per active Alliance, and can support 1 more District than normal with at least one Level 3 Alliance. +25% Alliance Points generation during wartime. Gain the Righteous Army unique unit after researching the Nationalism civic.</Text>
+		</Row>
+		<!--Civilopedia-->
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_JFD_MYEONGSEONG_TITLE" Language="en_US">
+			<Text>Myeongseong</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_JFD_MYEONGSEONG_SUBTITLE" Language="en_US">
+			<Text>Queen consort of Joseon</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_JFD_MYEONGSEONG_QUOTE" Language="en_US">
+			<Text>I would rather slit my wrists and let them bleed than disgrace the woman who saved this kingdom.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_JFD_MYEONGSEONG_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Empress Myeongseong of Korea, more commonly known as Queen Min, was the last empress of Korea. She is recognized by the Korean people as a heroine, equivalent to France's Joan of Arc.[NEWLINE][NEWLINE]Empress Myeongseong was the wife of Emperor Gojong of the Joseon Dynasty of the Daehan Empire. During her life as empress, she strived diplomatically and politically to keep Korea independent of foreign influence. She is credited for introducing new Western technologies, such as trains, telephones, streetcars, and electrical lights. She also proved herself brilliant when handling foreign affairs, as shown when she summoned the help of Russia and the Qing Dynasty of China to block the Japanese from taking over Korea, which was within considerable influence of Tokyo's imperialistic ambitions.[NEWLINE][NEWLINE]The Japanese, Emperor Meiji in particular, viewed her as an obstacle. However, efforts to neutralize her or to remove her from Korea's government continuously failed due to Emperor Gojong's devotion.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_JFD_MYEONGSEONG_CHAPTER_HISTORY_PARA_2" Language="en_US">
+			<Text>The Japanese resorted to sending ambassadors to Korea's royal court, but such efforts were eventually repelled, again by Empress Myeongseong. As a result, the Japanese minister to Korea, Miura Goro, faced with losing Korea, allegedly hired assassins to invade Gyeongbok Palace, the Korean imperial residence, and kill the empress in 1895. Two of the Japanese assassins were allegedly Shigeaki Kunitomo and Kakitsu Ieiri. Increasingly, other figures that were involved in this event are coming to light.[NEWLINE][NEWLINE]The mercenary killers raped and slaughtered three women suspected of being Queen Min, and when they verified which was the Queen they raped her and they desecrated her body, displayed it in a small circle, cut it to pieces, and then burned the corpse. Other witness accounts indicate she was raped then burned alive. Other accounts claim that she was stabbed and stomped on, or that she was not raped, but instead had her genitals molested posthumously.[NEWLINE][NEWLINE]These criminal acts were witnessed by Russian architects and one of the guards named Sabatin and other foreign officials, who protested heavily. To appease these protests, and other growing criticism worldwide, the Japanese government eventually brought Miura Goro and the other assassins to a criminal court. However, all were cleared of murder charges on the grounds of a lack of clear-cut evidence.[NEWLINE][NEWLINE]Emperor Gojong, enraged over the event, posthumously awarded his late wife the title "Myeongseong" and enshrined her in Jongmyo, Korea's state shrine. She is the only empress enshrined in Jongmyo; all other females are queens.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_JFD_MYEONGSEONG_CHAPTER_CAPSULE_BODY" Language="en_US">
+			<Text>For Korea, the pursuit of [ICON_Science] Science has many benefits, in addition to being the most technologically advanced civilization in the world.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_JFD_MYEONGSEONG_CHAPTER_DETAILED_BODY" Language="en_US">
+			<Text>Korea's unique science district, the Seowon, is going to be your most powerful asset, so completing the Writing technology early is essential in getting ahead of the competition. Plan its location carefully to take advantage of its benefits. Isolate the Seowon away from other districts to maximize the [ICON_Science] Science boost and gain additional [ICON_Food] Food and [ICON_Science] Science yields by placing Farms and Mines adjacent to this district. Combining these two benefits strategically will greatly improve your city output. Don't ignore Culture advancement, as gaining Governors to place in your cities provides an additional yield boost to your empire. You are very likely to want to appoint a Governors for each of your primary cities.</Text>
+		</Row>
+		<!--Diplomacy-->
+		<!--FIRST MEET-->
+		<!--First AI line-->
+		<Row Tag="LOC_DIPLO_FIRST_MEET_LEADER_JFD_MYEONGSEONG_ANY" Language="en_US">
+			<Text>Welcome to the Joseon Court. I am Empress Myeonseong.</Text>
+		</Row>
+		<!--AI invitation to visit nearby City-->
+		<Row Tag="LOC_DIPLO_FIRST_MEET_VISIT_RECIPIENT_LEADER_JFD_MYEONGSEONG_ANY" Language="en_US">
+			<Text>Might I interest you in joining me at court? Your culture so intrigues me. I'd love to learn more.</Text>
+		</Row>
+		<!--AI accepts Human invitation-->
+		<Row Tag="LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_POSITIVE_LEADER_JFD_MYEONGSEONG_ANY" Language="en_US">
+			<Text>Yes, of course.</Text>
+		</Row>
+		<!--AI invitation to exchange Capital Information-->
+		<Row Tag="LOC_DIPLO_FIRST_MEET_NO_MANS_INFO_EXCHANGE_LEADER_JFD_MYEONGSEONG_ANY" Language="en_US">
+			<Text>I would so love to get to know your culture better. What do you say to exchanging information about our Capitals?</Text>
+		</Row>
+		<!--GREETINGS-->
+		<Row Tag="LOC_DIPLO_GREETING_LEADER_JFD_MYEONGSEONG_ANY" Language="en_US">
+			<Text>Welcome to court.</Text>
+		</Row>
+		<!--DELEGATION-->
+		<!--AI Accepts-->
+		<Row Tag="LOC_DIPLO_ACCEPT_DELEGATION_FROM_HUMAN_LEADER_JFD_MYEONGSEONG_ANY" Language="en_US">
+			<Text>I eagerly accept your delegation. I have much to learn about your people.</Text>
+		</Row>
+		<!--AI Rejects-->
+		<Row Tag="LOC_DIPLO_REJECT_DELEGATION_FROM_HUMAN_LEADER_JFD_MYEONGSEONG_ANY" Language="en_US">
+			<Text>My people must come first. I have to decline.</Text>
+		</Row>
+		<!--AI Requests-->
+		<Row Tag="LOC_DIPLO_DELEGATION_FROM_AI_LEADER_JFD_MYEONGSEONG_ANY" Language="en_US">
+			<Text>Won't you accept a Korean delegation? I would love for you to share in our rich culture.</Text>
+		</Row>
+		<!--OPEN BORDERS-->
+		<!--AI accepts from human-->
+		<Row Tag="LOC_DIPLO_ACCEPT_OPEN_BORDERS_FROM_HUMAN_LEADER_JFD_MYEONGSEONG_ANY" Language="en_US">
+			<Text>I accept.</Text>
+		</Row>
+		<!--AI rejects from human-->
+		<Row Tag="LOC_DIPLO_REJECT_OPEN_BORDERS_FROM_HUMAN_LEADER_JFD_MYEONGSEONG_ANY" Language="en_US">
+			<Text>This offer makes me weary. I must refuse.</Text>
+		</Row>
+		<!--AI requests from human-->
+		<Row Tag="LOC_DIPLO_OPEN_BORDERS_FROM_AI_LEADER_JFD_MYEONGSEONG_ANY" Language="en_US">
+			<Text>Korea can no longer survive in isolation. I come to negotiate a way to open our borders.</Text>
+		</Row>
+		<!--DECLARE FRIENDSHIP-->
+		<!--AI accepts from human-->
+		<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_HUMAN_LEADER_JFD_MYEONGSEONG_ANY" Language="en_US">
+			<Text>You have my acceptance.</Text>
+		</Row>
+		<!--AI Rejects from human-->
+		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_HUMAN_LEADER_JFD_MYEONGSEONG_ANY" Language="en_US">
+			<Text>I must decline.</Text>
+		</Row>
+		<!--AI Requests friendship from human-->
+		<Row Tag="LOC_DIPLO_DECLARE_FRIEND_FROM_AI_LEADER_JFD_MYEONGSEONG_ANY" Language="en_US">
+			<Text>How would you feel about declaring friendship with my court?</Text>
+		</Row>
+		<!--Human accepts AI requests, AI responds-->
+		<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_JFD_MYEONGSEONG_ANY" Language="en_US">
+			<Text>You have my thanks.</Text>
+		</Row>
+		<!--Human rejects AI requests, AI responds-->
+		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_JFD_MYEONGSEONG_ANY" Language="en_US">
+			<Text>This disappoints me, I confess.</Text>
+		</Row>
+		<!--ALLIANCE-->
+		<!--AI Requests an alliance from human-->
+		<Row Tag="LOC_DIPLO_MAKE_ALLIANCE_FROM_AI_LEADER_JFD_MYEONGSEONG_ANY" Language="en_US">
+			<Text>Korea seeks to broaden its ideals and its technologies. Together, I believe we can enter the future with confidence.</Text>
+		</Row>
+		<!--KUDOS & WARNINGS-->
+		<!--AI Kudos-->
+		<Row Tag="LOC_DIPLO_KUDO_EXIT_LEADER_JFD_MYEONGSEONG_ANY" Language="en_US">
+			<Text>Yours is truly a model for a modern state.</Text>
+		</Row>
+		<!--AI Warnings-->
+		<Row Tag="LOC_DIPLO_WARNING_EXIT_LEADER_JFD_MYEONGSEONG_ANY" Language="en_US">
+			<Text>Your belligerance unsettles me and my court.</Text>
+		</Row>
+		<!--AI warns player for border troops-->
+		<Row Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_LEADER_JFD_MYEONGSEONG_ANY" Language="en_US">
+			<Text>Please, have you no respect for these ancient borders? I beg you not to resort to violence and that you remove your troops at once.</Text>
+		</Row>
+		<!--TRADE-->
+		<!--AI Accepts Deal-->
+		<Row Tag="LOC_DIPLO_ACCEPT_MAKE_DEAL_FROM_AI_LEADER_JFD_MYEONGSEONG_ANY" Language="en_US">
+			<Text>{LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_JFD_MYEONGSEONG_ANY}</Text>
+		</Row>
+		<!-- AI Rejects Deal -->
+		<Row Tag="LOC_DIPLO_REJECT_MAKE_DEAL_FROM_AI_LEADER_JFD_MYEONGSEONG_ANY" Language="en_US">
+			<Text>{LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_JFD_MYEONGSEONG_ANY}</Text>
+		</Row>
+		<!--DENOUNCE-->
+		<!--From Human-->
+		<Row Tag="LOC_DIPLO_DENOUNCE_FROM_HUMAN_LEADER_JFD_MYEONGSEONG_ANY" Language="en_US">
+			<Text>You bring sadness to my people.</Text>
+		</Row>
+		<!--From AI-->
+		<Row Tag="LOC_DIPLO_DENOUNCE_FROM_AI_LEADER_JFD_MYEONGSEONG_ANY" Language="en_US">
+			<Text>It is clear you mean nothing but harm to my people, and I will not stand for it. (Denounces You)</Text>
+		</Row>
+		<!--Rationale-->
+		<Row Tag="LOC_DIPLO_DENOUNCE_REASON_FROM_AI_LEADER_ANY_REASON_JFD_WESTERN_MISSIONS_ATTACKED_CONTINENT" Language="en_US">
+			<Text>(You started a war on her continent)</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DENOUNCE_REASON_FROM_AI_LEADER_ANY_REASON_JFD_WESTERN_MISSIONS_ATTACKED_CONTINENT_AND_LEADS_SCIENCE" Language="en_US">
+			<Text>(You started a war on her continent and are strong in Science)</Text>
+		</Row>
+		<!--DECLARE WAR-->
+		<!--Human Declares War-->
+		<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_HUMAN_LEADER_JFD_MYEONGSEONG_ANY" Language="en_US">
+			<Text>May this storm pass us over quickly.</Text>
+		</Row>
+		<!--AI Declares War-->
+		<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_JFD_MYEONGSEONG_ANY" Language="en_US">
+			<Text>Your wanton power can no longer go unchecked.</Text>
+		</Row>
+		<!--MAKE PEACE-->
+		<!--AI accepts from human-->
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_AI_ACCEPT_DEAL_LEADER_JFD_MYEONGSEONG_ANY" Language="en_US">
+			<Text>I graciously accept.</Text>
+		</Row>
+		<!--AI refuses human-->
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_AI_REFUSE_DEAL_LEADER_JFD_MYEONGSEONG_ANY" Language="en_US">
+			<Text>I cannot accept this false peace.</Text>
+		</Row>
+		<!--AI requests from human-->
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_FROM_AI_LEADER_JFD_MYEONGSEONG_ANY" Language="en_US">
+			<Text>I beg you to consider peace.</Text>
+		</Row>
+		<!--DEFEAT-->
+		<!--AI is Defeated-->
+		<Row Tag="LOC_DIPLO_DEFEAT_FROM_AI_LEADER_JFD_MYEONGSEONG_ANY" Language="en_US">
+			<Text>I submit. Please, do not harm any more of my people.</Text>
+		</Row>
+		<!--Human is Defeated (will see this in hotseat)-->
+		<Row Tag="LOC_DIPLO_DEFEAT_FROM_HUMAN_LEADER_JFD_MYEONGSEONG_ANY" Language="en_US">
+			<Text>[LOC_DIPLO_DEFEAT_FROM_AI_LEADER_JFD_MYEONGSEONG_ANY]</Text>
+		</Row>
+		<!--RIGHTEOUS ARMY-->
+		<Row Tag="LOC_UNIT_JFD_RIGHTEOUS_ARMY_NAME" Language="en_US">
+			<Text>Righteous Army</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_JFD_RIGHTEOUS_ARMY_DESCRIPTION" Language="en_US">
+			<Text>Korean unique Industrial melee unit when Myeongseong is their leader. Spawns whenever a Korean city is captured, if less than 5 are active.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_JFD_RIGHTEOUS_ARMY_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>The righteous army movement in Seongnam was initiated when Kim Harak formed a righteous army in January 1896 at Namhansanseong Fortress to fight against the Japanese following the Assassination of Empress Myeongseong (Eulmi Sabyeon) and the imposition of the the Ordinance to Cut Topknot (Danballyeong) in 1895. The Battle of Namhansanseong Fortress is regarded as the biggest battle fought by the righteous army, as more than 500 members of the righteous army and 300 soldiers were killed. The number of righteous army members rose rapidly in Seongnam following the collapse of the economy, and their tactics and strategies were refined as demobilized soldiers joined the righteous army.</Text>
+		</Row>
+	</LocalizedText>
+</GameData>

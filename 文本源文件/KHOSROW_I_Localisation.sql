@@ -1,0 +1,137 @@
+--------------------------------------------------------------------------------------------------------------------------
+-- LocalizedText
+--------------------------------------------------------------------------------------------------------------------------
+INSERT OR REPLACE INTO LocalizedText
+		(Tag, 																								Language,					Text)
+VALUES  
+--------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------------
+		("LOC_LEADER_SUK_KHOSROW_I_NAME",  																						"en_US",
+		"Khosrow I"																),
+		("LOC_CITY_NAME_SUK_CTESIPHON",  																						"en_US",
+		"Ctesiphon"																),
+--------------------------------------------------------------------------------------------------------------------------
+-- ULA
+--------------------------------------------------------------------------------------------------------------------------
+		("LOC_TRAIT_LEADER_SUK_ARCHWAY_OF_CTESIPHON_NAME",  																				"en_US",
+		"Arch of Ctesiphon"															),
+		("LOC_TRAIT_LEADER_SUK_ARCHWAY_OF_CTESIPHON_DESCRIPTION",  																		"en_US",
+		"+3% bonus to [ICON_GreatPerson] Great Person point generation for each Wonder you own. Pairidaezas gain +1 [ICON_Production] Production, +1 [ICON_Gold] Gold for each adjacent Wonder."  															),
+--------------------------------------------------------------------------------------------------------------------------
+-- Agenda
+--------------------------------------------------------------------------------------------------------------------------
+		("LOC_AGENDA_SUK_ACADEMY_OF_GONDISHAPUR_NAME",  																								"en_US",
+		"Academy of Gondishapur"														),
+		("LOC_AGENDA_SUK_ACADEMY_OF_GONDISHAPUR_DESCRIPTION",  																						"en_US",
+		"Respects civilized nations that have many Wonders and Great People. Has disdain for those that don't."															),
+
+		("LOC_DIPLO_KUDO_LEADER_SUK_KHOSROW_I_REASON_ANY",  																					"en_US",
+		"(You have many Wonders and Great People.)"															),
+		("LOC_DIPLO_MODIFIER_SUK_ACADEMY_OF_GONDISHAPUR_CIVILIZED",  																					"en_US",
+		"Khosrow respects you as a fellow civilised nation with many Wonders and Great People."															),
+
+		("LOC_DIPLO_WARNING_LEADER_SUK_KHOSROW_I_REASON_ANY",  																				"en_US",
+		"(You don't have many Wonders or Great People.)"															),
+		("LOC_DIPLO_MODIFIER_SUK_ACADEMY_OF_GONDISHAPUR_UNCIVILIZED",  																					"en_US",
+		"Khosrow dislikes nations with few Wonders and Great People."															),
+--------------------------------------------------------------------------------------------------------------------------
+-- Diplo
+--------------------------------------------------------------------------------------------------------------------------
+		("LOC_LOADING_INFO_LEADER_SUK_KHOSROW_I",  																		"en_US",
+		"Hail, Khosrow I, the Immortal Soul, King of Kings! All of Persia is under your wise and just rule. It is your duty to make Persia into a beacon of civilization by creating beautiful gardens, building great wonders, and attracting the world's greatest minds. Do this, and all the world will stand in awe at the glory of Persia."),
+		("LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_SUK_KHOSROW_I_ANY",                                      "en_US",
+		"How unfortunate."),
+		("LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_SUK_KHOSROW_I_ANY",                                      "en_US",
+		"Excellent."),
+		("LOC_DIPLO_DECLARE_FRIEND_FROM_AI_LEADER_SUK_KHOSROW_I_ANY",                                     "en_US",
+		"Through friendship, both our great nations will flourish. I hope you agree."),
+		("LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_HUMAN_LEADER_SUK_KHOSROW_I_ANY",                                     "en_US",
+		"Persia cannot accept friendship with just anyone. But perhaps in the future."),
+		("LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_HUMAN_LEADER_SUK_KHOSROW_I_ANY",                                     "en_US",
+		"Persia is honored to be able to call you a friend. We accept!"),
+		("LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_SUK_KHOSROW_I_ANY",                                      "en_US",
+		"Barbarians exist to be subjugated. We will bring civilization to your lands!"),
+		("LOC_DIPLO_DECLARE_WAR_FROM_HUMAN_LEADER_SUK_KHOSROW_I_ANY",                                     "en_US",
+		"You would battle mighty Persia? Bastion of civilization?"),
+		("LOC_DIPLO_DEFEAT_FROM_HUMAN_LEADER_SUK_KHOSROW_I_ANY",                                      "en_US",
+		"So rarely have I seen this side of war."),
+		("LOC_DIPLO_DEFEAT_FROM_AI_LEADER_SUK_KHOSROW_I_ANY",                                     "en_US",
+		"So rarely have I seen this side of war."),
+		("LOC_DIPLO_DELEGATION_FROM_AI_LEADER_SUK_KHOSROW_I_ANY",                                     "en_US",
+		"Envoys have been dispatched bearing with them a book with some of our best poetry. Please treat them kindly."),
+		("LOC_DIPLO_REJECT_DELEGATION_FROM_HUMAN_LEADER_SUK_KHOSROW_I_ANY",                                     "en_US",
+		"We decline"),
+		("LOC_DIPLO_ACCEPT_DELEGATION_FROM_HUMAN_LEADER_SUK_KHOSROW_I_ANY",                                     "en_US",
+		"I have welcomed the envoys you've sent personally. Thank you for the gifts."),
+		("LOC_DIPLO_DENOUNCE_FROM_AI_LEADER_SUK_KHOSROW_I_ANY",                                     "en_US",
+		"You do not deserve to be recognised as a civilization, and Persia wants nothing to do with you. (Denounces You)."),
+		("LOC_DIPLO_DENOUNCE_FROM_HUMAN_LEADER_SUK_KHOSROW_I_ANY",                                      "en_US",
+		"Such foolishness. All men know that Persia is a truly civilised nation."),
+		("LOC_DIPLO_FIRST_MEET_LEADER_SUK_KHOSROW_I_ANY",                                     "en_US",
+		"I am Khosrow I, King of Kings! Ruler of Persia! I hope in you, I will find someone worthy of being Persia's equal."),
+		("LOC_DIPLO_FIRST_MEET_VISIT_RECIPIENT_LEADER_SUK_KHOSROW_I_ANY",                                     "en_US",
+		"We have a city nearby. Come, and enjoy the tranquility of our gardens and the work of our poets."),
+		("LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_POSITIVE_LEADER_SUK_KHOSROW_I_ANY",                                     "en_US",
+		"I gladly accept."),
+		("LOC_DIPLO_FIRST_MEET_NO_MANS_INFO_EXCHANGE_LEADER_SUK_KHOSROW_I_ANY",                                     "en_US",
+		"I would know how your capital fares in comparison to Ctesiphon. Would you be willing to share?"),
+		("LOC_DIPLO_GREETING_LEADER_SUK_KHOSROW_I_ANY",                                     "en_US",
+		"Welcome."),
+		("LOC_DIPLO_WARNING_EXIT_LEADER_SUK_KHOSROW_I_ANY",                                     "en_US",
+		"It is a shame I cannot consider you a nation truly worthy of being called a civilization."),
+		("LOC_DIPLO_KUDO_EXIT_LEADER_SUK_KHOSROW_I_ANY",                                      "en_US",
+		"Grand cities and brilliant minds. We are honored to call you an equal of Persia."),
+		("LOC_DIPLO_MAKE_ALLIANCE_FROM_AI_LEADER_SUK_KHOSROW_I_ANY",                                      "en_US",
+		"Would you like to form an alliance?"),
+		("LOC_DIPLO_REJECT_MAKE_DEAL_FROM_AI_LEADER_SUK_KHOSROW_I_ANY",                                     "en_US",
+		"{LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_SUK_KHOSROW_I_ANY}"),
+		("LOC_DIPLO_ACCEPT_MAKE_DEAL_FROM_AI_LEADER_SUK_KHOSROW_I_ANY",                                     "en_US",
+		"{LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_SUK_KHOSROW_I_ANY}"),
+		("LOC_DIPLO_MAKE_PEACE_AI_ACCEPT_DEAL_LEADER_SUK_KHOSROW_I_ANY",                                      "en_US",
+		"Good, this war has gone on for too long."),
+		("LOC_DIPLO_MAKE_PEACE_AI_REFUSE_DEAL_LEADER_SUK_KHOSROW_I_ANY",                                      "en_US",
+		"No. I cannot accept."),
+		("LOC_DIPLO_MAKE_PEACE_FROM_AI_LEADER_SUK_KHOSROW_I_ANY",                                     "en_US",
+		"Let us come to peace."),
+		("LOC_DIPLO_ACCEPT_OPEN_BORDERS_FROM_HUMAN_LEADER_SUK_KHOSROW_I_ANY",                                     "en_US",
+		"Let us hope this heralds the beginning of a deeper understanding between our empires."),
+		("LOC_DIPLO_REJECT_OPEN_BORDERS_FROM_HUMAN_LEADER_SUK_KHOSROW_I_ANY",                                     "en_US",
+		"Now is not the time for my kingdom to open its doors to outsiders. Perhaps we can revisit this issue in the future."),
+		("LOC_DIPLO_OPEN_BORDERS_FROM_AI_LEADER_SUK_KHOSROW_I_ANY",                                     "en_US",
+		"The opening of our borders will no doubt strengthen both our nations. What do you say?"),
+		("LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_LEADER_SUK_KHOSROW_I_ANY",                                      "en_US",
+		"I can only assume this show of force was undertaken by mistake. Should I expect a careful withdrawal from our borders momentarily?"),
+		("LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_AI_RESPONSE_NEGATIVE_LEADER_SUK_KHOSROW_I_ANY",                                     "en_US",
+		"If you are so intent on war, then the armies of Persia embrace you!"),
+		("LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_AI_RESPONSE_POSITIVE_LEADER_SUK_KHOSROW_I_ANY",                                      "en_US",
+		"We meant no disrespect. Our forces will relinquish their position immediately."),
+--------------------------------------------------------------------------------------------------------------------------
+-- Quote and Pedia
+--------------------------------------------------------------------------------------------------------------------------
+		("LOC_PEDIA_LEADERS_PAGE_SUK_KHOSROW_I_QUOTE",  																		"en_US",
+		"We have not rejected anyone because they belonged to a different religion or people. And having examined the good customs and laws of our ancestors as well as those of the foreigners, we have not declined to adopt anything which was good nor to avoid anything which was bad."  															),
+		
+		("LOC_PEDIA_LEADERS_PAGE_SUK_KHOSROW_I_TITLE",														"en_US",
+		"Khosrow I"),
+		("LOC_PEDIA_LEADERS_PAGE_SUK_KHOSROW_I_SUBTITLE",													"en_US",
+		"The Immortal Soul, The Just, Philosopher King, Shahanshah of Iran and Aniran"),
+		("LOC_PEDIA_LEADERS_PAGE_LEADER_SUK_KHOSROW_I_CHAPTER_CAPSULE_BODY",							"en_US",
+		"Khosrow I's abilities allow Persia to fully exploit their cultural strengths, giving them a multitude of benefits to building Wonders and Pairidaezas all over Persia."),
+		("LOC_PEDIA_LEADERS_PAGE_LEADER_SUK_KHOSROW_I_CHAPTER_DETAILED_BODY",							"en_US",
+		'Persia is at its strongest when it can build a tightly consolidated empire. Their bonuses to internal [ICON_TradeRoute] Trade Routes make such an empire lucrative. Their Immortal unit and enhanced road network allow them to rapidly deploy effective defense forces against any threat. With [ICON_Culture] Culture bonuses from internal trade and the Pairidaeza, the Persians should be at or near the lead in civics in most games. Under Khosrow, this economic and cultural side of Persia is pushed even further. Build Wonders next to Pairidaezas to gain even more bonuses from them, all the Wonders themselves help attract Great People to Persia. These abilities make Persia a leading contender towards a Cultural Victory.'),		
+		("LOC_PEDIA_LEADERS_PAGE_LEADER_SUK_KHOSROW_I_CHAPTER_HISTORY_PARA_1",						"en_US",
+		"Khosrow I (also known as Chosroes I and Kasra in classical sources; 501–579, most commonly known in Persian as Anushiruwān, was the King of Kings (Shahanshah) of the Sasanian Empire from 531 to 579. He was the successor of his father Kavadh I (488–531). Khosrow I was the twenty-second Sasanian Emperor of Persia, and one of its most celebrated emperors. He laid the foundations of many cities and opulent palaces, and oversaw the repair of trade roads as well as the building of numerous bridges and dams. His reign is furthermore marked by the numerous wars fought against the Sassanid's neighboring archrivals, the Roman-Byzantine Empire, as part of the already centuries-long lasting Roman-Persian Wars. The most important wars under his reign were the Lazic War which was fought over Colchis (western Georgia-Abkhazia) and the Byzantine–Sasanian War of 572–591. During Khosrow's ambitious reign, art and science flourished in Persia and the Sasanian Empire reached its peak of glory and prosperity. His rule was preceded by his father's and succeeded by Hormizd IV. Khosrow Anushiruwan is one of the most popular emperors in Iranian culture and literature and, outside of Iran, his name became, like that of Caesar in the history of Rome, a designation of the Sasanian kings."),
+		("LOC_PEDIA_LEADERS_PAGE_LEADER_SUK_KHOSROW_I_CHAPTER_HISTORY_PARA_2",		"en_US",
+		"Little is known of the early life of Khosrow beyond legends. One story says that when Khosrow’s father, King Kavadh, took refuge with the Hephthalites, eastern neighbours of Iran, on the way (near the town of Nishapur) he married a peasant’s daughter, who gave birth to Khosrow. At his father’s death Khosrow did not at first succeed him, but in a struggle for the throne he was successful and put to death his brothers. At the end of his father’s reign, great social disorders had occurred because of a religious revolution of a sect called the Mazdakites. Khosrow first restored order and then launched reforms to transform the declining Sāsānian empire."),
+		("LOC_PEDIA_LEADERS_PAGE_LEADER_SUK_KHOSROW_I_CHAPTER_HISTORY_PARA_3",		"en_US",
+		"The reform of taxation was the most important of his actions, and it was probably copied from the Roman system inaugurated by the emperor Diocletian. Previously in the Sāsānian empire taxes had been levied on the yield of land; Khosrow established a fixed sum rather than a yearly variation. Other taxes were introduced that brought stability to the income of the state and were also fairer to those who paid the taxes. Khosrow’s program of taxes lasted into Islāmic times. Khosrow also reorganized the Sāsānian bureaucracy, and the system of ministries, or divans, under a prime minister is said to have been initiated by him. He was fortunate during most of his reign in having a capable prime minister called Bozorgmehr, who became famous in story and legend for his wisdom and abilities."),
+		("LOC_PEDIA_LEADERS_PAGE_LEADER_SUK_KHOSROW_I_CHAPTER_HISTORY_PARA_4",		"en_US",
+		"Under Khosrow the process of decentralization of the power of the monarch was reversed, and the lower aristocracy, or knights, called dihqāns, grew in importance at the expense of the great feudal lords, who had been more powerful under Khosrow’s predecessors. It is difficult to know how many changes really can be attributed to Khosrow’s reign and how many are arbitrarily assigned to him because of his place in history. Whether the religiously sanctioned division of society into priests, warriors, bureaucracy, and common folk was codified under his reign, as claimed by some sources, is difficult to determine."),
+		("LOC_PEDIA_LEADERS_PAGE_LEADER_SUK_KHOSROW_I_CHAPTER_HISTORY_PARA_5",		"en_US",
+		"Khosrow also reorganized the army and appointed four chief commanders to guard the four frontiers of Iran. On the frontier against the Byzantines and their Arab allies in the Syrian Desert, against the peoples of the steppes of southern Russia at the town of Derbent between the Caucasus Mountains and the Caspian Sea, and to the east of the sea in the present Turkmen steppes, Khosrow built defensive walls. The army, however, did not remain on the defensive, for Khosrow’s reign is noted for his wars against the Byzantines. In 540 Antioch was conquered and held for a short time by Khosrow. He brought many prisoners from Antioch and settled them in a new town near his capital of Ctesiphon, modeled on old Antioch. In the east, Khosrow, in alliance with the Turks, a new power in Central Asia, crushed the Hephthalites, and he established a hegemony over many of their principalities. The Sāsānian frontier in the east reached the Amu Darya (Oxus River) during his reign."),
+		("LOC_PEDIA_LEADERS_PAGE_LEADER_SUK_KHOSROW_I_CHAPTER_HISTORY_PARA_6",		"en_US",
+		"Khosrow was also a great patron of culture, and in 529, when the ancient academy of Athens was closed, a number of Greek philosophers migrated to the Sāsānian empire, where they were well received by the ruler. The later famous medical school of Gondēshāpūr was probably started in Khosrow’s reign, and the famous physician Burzoe is supposed to have been sent to India by Khosrow to gather Sanskrit books of learning to be translated into the Middle Persian language. The game of chess reportedly was also brought by him from India. Astronomy and astrology flourished at the court of Khosrow, and one star table (called the zīj-i Shahriyār), which was the basis of many later Islāmic tables, is said to have originated during the reign of Khosrow. Several works of Middle Persian, such as the Book of Deeds of Ardashir (Kārnāmak), are attributed to this period. Likewise, some scholars claim that the codification of the Avesta, the sacred book of the Zoroastrian religion, as well as the creation of a special Avestan alphabet to record the text, took place at the order of Khosrow. Further, it is supposed that the stories and legends of ancient Iran were gathered into a Khwatāy-nāmak (""Book of Kings"") in the time of Khosrow and thus provided the source for Ferdowsī’s immortal epic much later. Some of the names found in Ferdowsī’s Shāh-nāmeh appear among the royal family of Khosrow, which indicates at the least an interest on the part of the monarch in ancient legends."),
+		("LOC_PEDIA_LEADERS_PAGE_LEADER_SUK_KHOSROW_I_CHAPTER_HISTORY_PARA_7",		"en_US",
+		"Perhaps more than fact, the stories told about Khosrow have made his name famous in history. Almost any pre-Islāmic structure in Iran whose origin is unknown will be attributed to Khosrow by the simple folk. Undoubtedly he built many bridges, roads, and palaces, but much more is assigned to him in legend. The famous palace with the huge arch, called Ṭāq Kisrā, in Ctesiphon, near modern Baghdad, is said to date from Khosrow I, but this is uncertain. Several collections of wise sayings of this monarch, as well as stories about him, have been preserved in Arabic or New Persian versions. In them his reputation for justice as well as wisdom is constantly cited. The splendour of the court and the glory of his reign provided models for the later ʿAbbāsid court in Baghdad, and many of the institutions established by Khosrow were maintained in Islāmic times, when Khosrow was hailed as the model pre-Islāmic ruler to be emulated by Muslim princes.");
+--------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------------

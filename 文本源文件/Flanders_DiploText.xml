@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- DiploText -->
+<!-- Author: Richard -->
+<!-- DateCreated: 12/3/2017 6:10:28 PM -->
+<GameData>
+	<LocalizedText>
+	<!--Pedia-->
+		<Row Tag="LOC_CIVINFO_MER_FLANDERS_LOCATION" Language="en_US">
+			<Text>Flanders</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_MER_FLANDERS_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>The County of Flanders (Dutch: Graafschap Vlaanderen, French: Comté de Flandre) was a historic territory in the Low Countries. From 862 onwards the Counts of Flanders were among the original twelve peers of the Kingdom of France. For centuries their estates around the cities of Ghent, Bruges and Ypres formed one of the most affluent regions in Europe.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_MER_FLANDERS_CHAPTER_HISTORY_PARA_2" Language="en_US">
+			<Text>Up to 1477, the area under French suzerainty was located west of the Scheldt River and was called "Royal Flanders" (Dutch: Kroon-Vlaanderen, French: Flandre royale). Aside from this the Counts of Flanders from the 11th century onward also held land east of the river as a fief of the Holy Roman Empire, an area called "Imperial Flanders" (Rijks-Vlaanderen or Flandre impériale). Part of the Burgundian Netherlands from 1384, the county was finally removed from French to Imperial control after the Peace of Madrid in 1526 and the Peace of the Ladies in 1529. </Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_MER_FLANDERS_CHAPTER_HISTORY_PARA_3" Language="en_US">
+			<Text>In 1795, the remaining territory within the Austrian Netherlands was incorporated by the French First Republic and passed to the newly established United Kingdom of the Netherlands in 1815. The former County of Flanders, except for French Flanders, is the only part of the medieval French kingdom that is not part of modern-day France. </Text>
+		</Row>
+	<!--DOM-->
+	<Row Tag="LOC_LOADING_INFO_LEADER_MER_THIERRY" Language="en_US">
+		<Text>Blessings upon you, Thierry of Alsace, fifteenth count of Flanders, the flemish people hold great ceremonies and weave tapestries in honour of your great deeds. Your committed to the crusades was a quality rarely seen, and you received the precious blood of Christ in recognition of your bravery in the Second Crusade. Your rule over Flanders held a period of peace, great economic development, and saw Flander's greatest territorial expansion. Once more you are called to watch over the Flemish people, will you answer the call?.</Text>
+	</Row>
+	<!--Agenda-->
+	<Row Tag="LOC_AGENDA_MER_COMMITTED_CRUSADER_NAME" Language="en_US">
+		<Text>Committed Crusader</Text>
+	</Row>
+	<Row Tag="LOC_AGENDA_MER_COMMITTED_CRUSADER_DESCRIPTION" Language="en_US">
+		<Text>Likes peaceful Civilizations who share his religion. Hates Civilizations of a different religion, especially those on foreign continents.</Text>
+	</Row>
+	<Row Tag="LOC_DIPLO_KUDOS_LEADER_MER_THIERRY_REASON_RELIGION" Language="en_US">
+		<Text>(You share a religion and remain peaceful.)</Text>
+	</Row>
+	<Row Tag="LOC_DIPLO_MODIFIER_MER_THIERRY_COMMITTED_CRUSADER_SAME_REL_GOV" Language="en_US">
+		<Text>Thierry is happy to see you share in his faith and keep the peace.</Text>
+	</Row>
+	<Row Tag="LOC_DIPLO_WARNING_LEADER_MER_THIERRY_REASON_NO_RELIGION" Language="en_US">
+		<Text>(You are of a different Religion.)</Text>
+	</Row>
+	<Row Tag="LOC_DIPLO_MODIFIER_MER_THIERRY_COMMITTED_CRUSADER_DIFF_REL_GOV" Language="en_US">
+		<Text>Thierry considers you a heretic and an infidel.</Text>
+	</Row>
+		<Row Tag="LOC_DIPLO_WARNING_LEADER_MER_THIERRY_REASON_NO_RELIGION_CONT" Language="en_US">
+			<Text>(You are of a different Religion on a different Continent.)</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MODIFIER_MER_THIERRY_COMMITTED_CRUSADER_DIFF_REL_CONT" Language="en_US">
+			<Text>Thierry considers you a heretic and an infidel.</Text>
+		</Row>
+	<!--Civilopedia-->
+	<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_MER_THIERRY_TITLE" Language="en_US">
+		<Text>Thierry of Alsace</Text>
+	</Row>
+	<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_MER_THIERRY_SUBTITLE" Language="en_US">
+		<Text>Count of Flanders</Text>
+	</Row>
+	<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_MER_THIERRY_QUOTE" Language="en_US">
+		<Text>Look upon the Holy blood of Christ, recovered from the infidels, recognition of my bravery.</Text>
+	</Row>
+	<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_MER_THIERRY_CHAPTER_HISTORY_PARA_1" Language="en_US">
+		<Text>Theoderic, commonly known as Thierry of Alsace, was the fifteenth count of Flanders from 1128 to 1168. He was the youngest son of Duke Theoderic II of Lorraine and Gertrude of Flanders (daughter of Robert I of Flanders). With a record of four campaigns in the Levant and Africa (including participation in the Second Crusade, the failed 1157–1158 siege of the Syrian city Shaizar, and the 1164 invasion of Egypt), he had a rare and distinguished record of commitment to crusading. </Text>
+	</Row>
+	<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_MER_THIERRY_CHAPTER_HISTORY_PARA_2" Language="en_US">
+		<Text>After the murder of his cousin, Charles the Good, in 1127, Theoderic claimed the county of Flanders as grandson of Robert I, but William Clito became count instead with the support of King Louis VI of France. William's politics and attitude towards the autonomy of Flanders made him unpopular, and by the end of the year Bruges, Ghent, Lille, and Saint-Omer recognized Theoderic as a rival count. Theoderic's supporters came from the Imperial faction of Flanders. Louis VI of France had Raymond of Martigné, the Archbishop of Reims, excommunicate Theoderic. Louis VI then besieged Lille, but was forced to retire when Henry I of England, William Clito's uncle, transferred his support to Theoderic. However, Theoderic was defeated at Axspoele and fled to Bruges. He was forced to flee Bruges as well, and went to Aalst, where he was soon under siege from William, Godfrey I of Leuven, and Louis VI. The city was about to be captured when William was found dead on 27 July 1128, leaving Theoderic as the only claimant to the seat. </Text>
+	</Row>
+	<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_MER_THIERRY_CHAPTER_HISTORY_PARA_3" Language="en_US">
+		<Text>Theoderic set up his government in Ghent and was recognized by all the Flemish cities as well as King Henry, who had his Flemish lords in England swear fealty to him. Theoderic himself swore homage to Louis VI after 1132, in order to gain the French king's support against Baldwin IV, Count of Hainaut, who had advanced his own claim on Flanders. In 1132, his wife, Suanhilde, died, leaving only a daughter. In 1139, he went on pilgrimage to the crusader Kingdom of Jerusalem, and married Sibylla of Anjou, daughter of King Fulk of Jerusalem and the widow of William Clito; a very prestigious marriage. This was the first of Theoderic's four pilgrimages to the Holy Land. While there he also led a victorious expedition against Caesarea Phillippi, and fought alongside his father-in-law in an invasion of Gilead. He soon returned to Flanders to put down a revolt in the Duchy of Lower Lotharingia, ruled at the time by Godfrey III of Leuven. </Text>
+	</Row>
+	<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_MER_THIERRY_CHAPTER_HISTORY_PARA_4" Language="en_US">
+		<Text>Theoderic joined the Second Crusade in 1147. He led the crossing of the Maeander River in Anatolia and fought at the Battla of Attalya in 1148, and after arriving in the crusader Kingdom he participated in the Council of Acre, where the ill-fated decision to attack Damascus was made. Theoderic participated in the Siege of Damascus, led by his wife's half-brother Baldwin III of Jerusalem, and with the support of Baldwin, Louis VII of France, and Conrad III of Germany, he lay claim to Damascus. However, the native crusader barons preferred one of their own nobles, Guy Brisebarre, lord of Beirut. According to William of Tyre, the resulting dispute contributed to the final failure of the siege: 'for the local barons preferred that the Damascenes should keep their city rather than to see it given to the count', and so did all they could to ensure the siege collapsed. Therefore, William continues, many contemporaries blamed Theoderic for the ultimate failure of the Second Crusade (though it is notable that William himself declines to say whether he believed Theoderic responsible). During his absence, Baldwin IV of Hainaut invaded Flanders and pillaged Artois; Sibylla reacted strongly and had Hainaut pillaged in response. The Archbishop of Reims intervened and a treaty was signed. When Theoderic returned in 1150, he took vengeance on Baldwin IV at Bouchain, with the aid of Henry I, Count of Namur and Henry II of Leez, Bishop of Liège. In the subsequent peace negotiations, Theoderic gave his daughter Marguerite in marriage to Baldwin IV's son, the future Baldwin V, Count of Hainaut. </Text>
+	</Row>
+	<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_MER_THIERRY_CHAPTER_HISTORY_PARA_5" Language="en_US">
+		<Text>During his absence, Baldwin IV of Hainaut invaded Flanders and pillaged Artois; Sibylla reacted strongly and had Hainaut pillaged in response. The Archbishop of Reims intervened and a treaty was signed. When Theoderic returned in 1150, he took vengeance on Baldwin IV at Bouchain, with the aid of Henry I, Count of Namur and Henry II of Leez, Bishop of Liège. In the subsequent peace negotiations, Theoderic gave his daughter Marguerite in marriage to Baldwin IV's son, the future Baldwin V, Count of Hainaut. n 1156, Theoderic had his eldest son married to Elizabeth of Vermandois, daughter and heiress of Raoul I of Vermandois. In 1156, he returned to the Holy Land, this time with his wife accompanying him. He participated in Baldwin III's siege of Shaizar, but the fortress remained in Muslim hands when a dispute arose between Theoderic and Raynald of Châtillon over who would possess it should it be captured. He returned to Flanders 1159 without Sibylla, who remained behind to become a nun at the convent of St. Lazarus in Bethany. Their son Philip had ruled the county in their absence, and he remained co-count after Theoderic's return. In 1164, Theoderic returned once more to the Holy Land. He accompanied King Amalric I, another half-brother of Sibylla, to Antioch and Tripoli. He returned home in 1166, and adopted a date palm as his seal, with a crown of laurels on the reverse. </Text>
+	</Row>
+	<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_MER_THIERRY_CHAPTER_HISTORY_PARA_6" Language="en_US">
+		<Text>In 1156, Theoderic had his eldest son married to Elizabeth of Vermandois, daughter and heiress of Raoul I of Vermandois. In 1156, he returned to the Holy Land, this time with his wife accompanying him. He participated in Baldwin III's siege of Shaizar, but the fortress remained in Muslim hands when a dispute arose between Theoderic and Raynald of Châtillon over who would possess it should it be captured. He returned to Flanders 1159 without Sibylla, who remained behind to become a nun at the convent of St. Lazarus in Bethany. Their son Philip had ruled the county in their absence, and he remained co-count after Theoderic's return. In 1164, Theoderic returned once more to the Holy Land. He accompanied King Amalric I, another half-brother of Sibylla, to Antioch and Tripoli. He returned home in 1166, and adopted a date palm as his seal, with a crown of laurels on the reverse. He died on 17 January 1168 and was buried in the Abbey of Watten, between Saint-Omer and Gravelines. His rule had been moderate and peaceful; the highly developed administration of the county in later centuries first began during these years. There had also been great economic and agricultural development, and new commercial enterprises were established; Flanders' greatest territorial expansion occurred under Theoderic. </Text>
+	</Row>
+	<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_MER_THIERRY_CHAPTER_CAPSULE_BODY" Language="en_US">
+		<Text>Flanders focuses on trade and resources, settling near rivers.</Text>
+	</Row>
+	<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_MER_THIERRY_CHAPTER_DETAILED_BODY" Language="en_US">
+		<Text>Thierry's Flanders focuses on warfare and agriculture.</Text>
+	</Row>
+	<!--Diplomacy-->
+	<!--FIRST MEET-->
+	<!--First AI line-->
+	<Row Tag="LOC_DIPLO_FIRST_MEET_LEADER_MER_THIERRY_ANY" Language="en_US">
+		<Text>God be with you, friend, I am Thierry. I pray for a bright future between us.</Text>
+	</Row>
+	<!--AI invitation to visit nearby City-->
+	<Row Tag="LOC_DIPLO_FIRST_MEET_VISIT_RECIPIENT_LEADER_MER_THIERRY_ANY" Language="en_US">
+		<Text>Come, let us share a drink.</Text>
+	</Row>
+	<!--AI accepts Human invitation-->
+	<Row Tag="LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_POSITIVE_LEADER_MER_THIERRY_ANY" Language="en_US">
+		<Text>I am most grateful.</Text>
+	</Row>
+	<!--AI invitation to exchange Capital Information-->
+	<Row Tag="LOC_DIPLO_FIRST_MEET_NO_MANS_INFO_EXCHANGE_LEADER_MER_THIERRY_ANY" Language="en_US">
+		<Text>I will have my court exchange maps with yours.</Text>
+	</Row>
+	<!--GREETINGS-->
+	<Row Tag="LOC_DIPLO_GREETING_LEADER_MER_THIERRY_ANY" Language="en_US">
+		<Text>Welcome. You may speak.</Text>
+	</Row>
+	<!--DELEGATION-->
+	<!--AI Accepts-->
+	<Row Tag="LOC_DIPLO_ACCEPT_DELEGATION_FROM_HUMAN_LEADER_MER_THIERRY_ANY" Language="en_US">
+		<Text>I will treat your delegation with the upmost respect.</Text>
+	</Row>
+	<!--AI Rejects-->
+	<Row Tag="LOC_DIPLO_REJECT_DELEGATION_FROM_HUMAN_LEADER_MER_THIERRY_ANY" Language="en_US">
+		<Text>Apologies, but we can't do that right now.</Text>
+	</Row>
+	<!--AI Requests-->
+	<Row Tag="LOC_DIPLO_DELEGATION_FROM_AI_LEADER_MER_THIERRY_ANY" Language="en_US">
+		<Text>I have sent a delegation, they carry with them a fine tapestry and a cloak of broadcloth. Please, accept them as a token of our future.</Text>
+	</Row>
+	<!--OPEN BORDERS-->
+	<!--AI accepts from human-->
+	<Row Tag="LOC_DIPLO_ACCEPT_OPEN_BORDERS_FROM_HUMAN_LEADER_MER_THIERRY_ANY" Language="en_US">
+		<Text>Yes.</Text>
+	</Row>
+	<!--AI rejects from human-->
+	<Row Tag="LOC_DIPLO_REJECT_OPEN_BORDERS_FROM_HUMAN_LEADER_MER_THIERRY_ANY" Language="en_US">
+		<Text>No, no, not this.</Text>
+	</Row>
+	<!--AI requests from human-->
+	<Row Tag="LOC_DIPLO_OPEN_BORDERS_FROM_AI_LEADER_MER_THIERRY_ANY" Language="en_US">
+		<Text>Open borders would only mean greater prosperity for all.</Text>
+	</Row>
+	<!--DECLARE FRIENDSHIP-->
+	<!--AI accepts from human-->
+	<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_HUMAN_LEADER_MER_THIERRY_ANY" Language="en_US">
+		<Text>I agree to this union, as witnessed by the lord.</Text>
+	</Row>
+	<!--AI Rejects from human-->
+	<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_HUMAN_LEADER_MER_THIERRY_ANY" Language="en_US">
+		<Text>No, not right now.</Text>
+	</Row>
+	<!--AI Requests friendship from human-->
+	<Row Tag="LOC_DIPLO_DECLARE_FRIEND_FROM_AI_LEADER_MER_THIERRY_ANY" Language="en_US">
+		<Text>Let God witness me reach out a hand in friendship.</Text>
+	</Row>
+	<!--Human accepts AI requests, AI responds-->
+	<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_MER_THIERRY_ANY" Language="en_US">
+		<Text>If god wills it.</Text>
+	</Row>
+	<!--Human rejects AI requests, AI responds-->
+	<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_MER_THIERRY_ANY" Language="en_US">
+		<Text>This is most disappointing.</Text>
+	</Row>
+	<!--ALLIANCE-->
+	<!--AI Requests an alliance from human-->
+	<Row Tag="LOC_DIPLO_MAKE_ALLIANCE_FROM_AI_LEADER_MER_THIERRY_ANY" Language="en_US">
+		<Text>A holy alliance, ordained by the will of god, and proclaimed here. </Text>
+	</Row>
+	<!--KUDOS & WARNINGS-->
+	<!--AI Kudos-->
+	<Row Tag="LOC_DIPLO_KUDO_EXIT_LEADER_MER_THIERRY_ANY" Language="en_US">
+		<Text>Blessings to you, your faith has not gone unnoticed.</Text>
+	</Row>
+	<!--AI Warnings-->
+	<Row Tag="LOC_DIPLO_WARNING_EXIT_LEADER_MER_THIERRY_ANY" Language="en_US">
+		<Text>You are a heretic and an infidel, and you will be driven out.</Text>
+	</Row>
+	<!--AI warns player for border troops-->
+	<Row Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_LEADER_MER_THIERRY_ANY" Language="en_US">
+		<Text>Our walls stand strong against invaders, don't try anything.</Text>
+	</Row>
+	<!--TRADE-->
+	<!--AI Accepts Deal-->
+	<Row Tag="LOC_DIPLO_ACCEPT_MAKE_DEAL_FROM_AI_LEADER_MER_THIERRY_ANY" Language="en_US">
+		<Text>I accept.</Text>
+	</Row>
+	<!-- AI Rejects Deal -->
+	<Row Tag="LOC_DIPLO_REJECT_MAKE_DEAL_FROM_AI_LEADER_MER_THIERRY_ANY" Language="en_US">
+		<Text>This cannot do.</Text>
+	</Row>
+	<!--DENOUNCE-->
+	<!--From Human-->
+	<Row Tag="LOC_DIPLO_DENOUNCE_FROM_HUMAN_LEADER_MER_THIERRY_ANY" Language="en_US">
+		<Text>I have been accused of worse, from greater powers.</Text>
+	</Row>
+	<!--From AI-->
+	<Row Tag="LOC_DIPLO_DENOUNCE_FROM_AI_LEADER_MER_THIERRY_ANY" Language="en_US">
+		<Text>You are a worthless ruler, without faith, and without wisdom. (Denounces You).</Text>
+	</Row>
+	<!--DECLARE WAR-->
+	<!--Human Declares War-->
+	<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_HUMAN_LEADER_MER_THIERRY_ANY" Language="en_US">
+		<Text>I have many campaigns under my belt, you don't stand a chance.</Text>
+	</Row>
+	<!--AI Declares War-->
+	<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_MER_THIERRY_ANY" Language="en_US">
+		<Text>I stand against you and as god my witness, this is a declaration of war.</Text>
+	</Row>
+	<!--MAKE PEACE-->
+	<!--AI accepts from human-->
+	<Row Tag="LOC_DIPLO_MAKE_PEACE_AI_ACCEPT_DEAL_LEADER_MER_THIERRY_ANY" Language="en_US">
+		<Text>No more blood need be shed.</Text>
+	</Row>
+	<!--AI refuses human-->
+	<Row Tag="LOC_DIPLO_MAKE_PEACE_AI_REFUSE_DEAL_LEADER_MER_THIERRY_ANY" Language="en_US">
+		<Text>I do not sway from my conviction.</Text>
+	</Row>
+	<!--AI requests from human-->
+	<Row Tag="LOC_DIPLO_MAKE_PEACE_FROM_AI_LEADER_MER_THIERRY_ANY" Language="en_US">
+		<Text>No more blood need be shed today.</Text>
+	</Row>
+	<!--DEFEAT-->
+	<!--AI is Defeated-->
+	<Row Tag="LOC_DIPLO_DEFEAT_FROM_AI_LEADER_MER_THIERRY_ANY" Language="en_US">
+		<Text>I have lived a faithful life, one of brave committment. I have made peace with this loss.</Text>
+	</Row>
+	<!--Human is Defeated (will see this in hotseat)-->
+	<Row Tag="LOC_DIPLO_DEFEAT_FROM_HUMAN_LEADER_MER_THIERRY_ANY" Language="en_US">
+		<Text>You lacked convinction.</Text>
+	</Row>
+	</LocalizedText>
+</GameData>

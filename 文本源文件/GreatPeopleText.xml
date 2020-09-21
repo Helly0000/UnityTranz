@@ -1,0 +1,1058 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<BaseGameText>
+		
+		<!-- Admirals -->
+
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_SC_ARLEIGH_BURKE_NAME">
+			<Text>Arleigh Burke</Text>
+		</Row>
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_SC_HENRY_LEACH_NAME">
+			<Text>Henry Leach</Text>
+		</Row>
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_SC_JAMES_STAVRIDIS_NAME">
+			<Text>James Stavridis</Text>
+		</Row>
+
+		<Row Tag="LOC_GREATPERSON_SC_ARLEIGH_BURKE_ACTIVE">
+			<Text>Instantly creates a Nuclear Submarine unit with 1 promotion level.</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_SC_HENRY_LEACH_ACTIVE">
+			<Text>Accumulate 50% less war weariness than usual. Grants +150% combat experience to a military naval unit.</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_SC_JAMES_STAVRIDIS_ACTIVE">
+			<Text>Gain {Amount} [ICON_Envoy] {Amount : plural 1?Envoy; other?Envoys;}. Grants +150% combat experience to a military naval unit.</Text>
+		</Row>
+
+		<Row Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_SC_ARLEIGH_BURKE_CHAPTER_HISTORY_PARA_1">
+			<Text>Arleigh Albert Burke (1901 - 1996) was an admiral in the United States Navy. Born in Boulder, Colorado, he fought in both World War II and the Korean War and served as Chief of Naval Operations for both President Dwight D. Eisenhower and John F. Kennedy and is remembered as one of the most famous American destroyer officers of the twentieth century.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_SC_ARLEIGH_BURKE_CHAPTER_HISTORY_PARA_2">
+			<Text>Due to the 1918 Influenza epidemic, Burke never graduated high school. Instead, he won an alternate appointment to the United States Naval Academy, graduating in 1923. Over the next 18 years, Burke served aboard both battleships and destroyers before being deployed to the South Pacific during World War II. There he commanded several destroyer squadrons, including DesRon 23, known as the "Little Beavers," which covered the initial landings at Bougainville. He was known for pushing his destroyers to their limits and, in 1944, was promoted to Chief of Staff to the Commander of Task Force 58, the Fifth Fleet's Fast Carrier Task Force. During the Korean War, he served as the Deputy Chief of Staff to Commander Naval Forces, Far East and was part of the United Nations Truce Delegation that negotiated the armistice at the end of the war.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_SC_ARLEIGH_BURKE_CHAPTER_HISTORY_PARA_3">
+			<Text>In late 1955, Burke was promoted to Chief of Naval Operations, moving up two grades from his earlier rank of Rear Admiral, Upper Half. He was known as an exceptionally hard worker and contributed greatly to the development of the Navy's nuclear capabilities. He supported Admiral Hyman Rickover's calls for a nuclear-powered submarine force as well the development of submarine-launched ballistic missiles, leading to the Polaris program. At the same time, Burke was wary of reactive nuclear strategies, warning that these "hair trigger" strategies were "dangerous for any nation." Upon completing his third term in 1961, Burke retired. He died three decades later, in 1996, having secured the role of the Navy as an integral part of the United States' nuclear deterrent capabilities. The Arleigh Burke-class of destroyers, the first built around the Aegis Combat System, is named for him.</Text>
+		</Row>
+
+		<Row Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_SC_HENRY_LEACH_CHAPTER_HISTORY_PARA_1">
+			<Text>Sir Henry Conyers Leach (1923 - 2011) was an Admiral of the Fleet of the Royal Navy and First Sea Lord and Chief of the Naval Staff of the United Kingdom during the Falklands War. His determination during the conflict during the tenure of Prime Minister Margaret Thatcher led to him being described as Thatcher's "knight in shining gold braid."</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_SC_HENRY_LEACH_CHAPTER_HISTORY_PARA_2">
+			<Text>Leach was born in Newton Abbot in Devon in 1923. He joined the Royal Navy as a cadet at the age of 14 and during World War II served in both the South Atlantic (on the HMS Rodney) and Indian Ocean (on the HMS Edinburgh) theatres. He also served as a plotting officer in the war room in Singapore. Leach was promoted to Lieutenant in 1943 and took part in the Battle of the North Cape as well as minesweeping operations in the Aegean. After World War II, Leach saw service at the end of the Korean War, the Malayan Emergency in 1955, and the Indonesia-Malaysia confrontation in 1962. Leach became Assistant Chief of the Naval Staff in 1971, receiving a promotion to rear admiral the same year. He was appointed First Sea Lord 8 years later.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_SC_HENRY_LEACH_CHAPTER_HISTORY_PARA_3">
+			<Text>As First Sea Lord, Leach fiercely resisted cuts to naval spending. His greatest challenge arose in 1982, when Argentine forces invaded the Falkland Islands (also known as the Malvinas Islands). Leach was an integral figure in coordinating the British response to reclaim the islands, and was instrumental in convincing Prime Minister Thatcher that retaking the islands was feasible. Leach exclaimed that if the United Kingdom did not recover the islands, "in another few months we shall be living in a different country whose word counts for little." Under his leadership, the United Kingdom successfully recovered the islands after 74 days of conflict, bolstering the popularity of the Conservative Party in Britain and precipitating the collapse of the Argentinian junta the following year. Henry Leach died in 2011, at the age of 87.</Text>
+		</Row>
+
+		<Row Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_SC_JAMES_STAVRIDIS_CHAPTER_HISTORY_PARA_1">
+			<Text>James George Stavridis is a retired U.S. Navy admiral who served as commander of the U.S. Southern Command as well as the U.S. European Command, where he simultaneously served as the NATO Supreme Allied Commander Europe. An advocate of 'smart power,' Stavridis partcipated in many of the United States' conflicts of the 1990s and in the 21st century.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_SC_JAMES_STAVRIDIS_CHAPTER_HISTORY_PARA_2">
+			<Text>James Stavridis was born in West Palm Beach, Florida in 1955. He graduated from the U.S. Naval Academy in 1976 and has served on a variety of vessels, including aircraft carriers, cruisers, and destroyers. Stavridis commanded the destroyer USS Barry from 1993 to 1995, responding to incidents in Haiti, Bosnia, and the Persian Gulf. During the Iraq War, Stavridis commanded the Enterprise Carrier Strike Group, stationed in the Persian Gulf in support of Operation Iraqi Freedom and Operation Enduring Freedom. In 2006, Stavridis became the first Navy officer to lead United States Southern Command and, three years later, he became Supreme Allied Commander Europe.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_SC_JAMES_STAVRIDIS_CHAPTER_HISTORY_PARA_3">
+			<Text>As Supreme Allied Commander Europe, Stavridis was at the top of the Chain of Command during Operation Unified Protector, the NATO operation that sought to enforce UN Security Council resolutions 1970 and 1973 during the 2011 military intervention in Libya, which culminated in the overthrow and death of Muammar Gaddafi. Throughout his career, Stavridis has been an advocate of what he has called "smart power," a delicate and deliberate balance of hard and soft power, and for building international partnerships in order to enhance security in the 21st-century world. After 37 years of service, Stavridis resigned in 2013. He is the current dean of the Fletcher School of Law and Diplomacy at Tufts University in Massachusetts and continues to give speechs advocating for the use of smart power and internationalism.</Text>
+		</Row>
+
+		<!-- Artists -->
+
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_SC_PABLO_PICASSO_NAME">
+			<Text>Pablo Picasso</Text>
+		</Row>
+
+		<Row Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_SC_PABLO_PICASSO_CHAPTER_HISTORY_PARA_1">
+			<Text>Pablo Picasso (1881 - 1973) was a renowned Spanish artist considered to be one of the most influential artists of the twentieth century. Born in Málaga, Spain, Picasso is best known for his paintings, which were important in developing the art movement known as Cubism.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_SC_PABLO_PICASSO_CHAPTER_HISTORY_PARA_2">
+			<Text>Pablo Picasso became involved in art from a young age, receiving formal artistic training from the age of seven. As a young adult he was inspired by the works of Diego Velázquez, Francisco Goya, Francisco de Zurbarán, El Greco, and - later on - his fellow Modernist artist, Henri Matisse. Picasso's early work, at the beginning of the twentieth century, is often categorized into different period, including the Blue and Rose periods. Around 1909, however, the themes and styles of this work began to change, developing into what would become Cubism and Surrealism, schools of art that sought to disrupt the traditional ideas and practices of art. In particular, Picasso's Les Demoiselles d'Avignon is seen as a major step in the creation of the Cubist movement.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_SC_PABLO_PICASSO_CHAPTER_HISTORY_PARA_3">
+			<Text>Picasso was extremely prolific, producing art for approximately seven decades: an estimated 50,000 works. He earned sizeable sums of money for his works, which were highly sought after around the world. He was also outspoken in his political views, joining the French Communist Party and speaking out against the regime of Francisco Franco and other Fascist governments. Even decades after his death in 1973, Picasso remains immensely popular: his paintings rank among the most expensive in the world and also the most frequently stolen. A true pioneer in the world of art, Picasso's legacy continues to this day.</Text>
+		</Row>
+
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_SC_FRIDA_KAHLO_NAME">
+			<Text>Frida Kahlo</Text>
+		</Row>
+
+		<Row Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_SC_FRIDA_KAHLO_CHAPTER_HISTORY_PARA_1">
+			<Text>Frida Kahlo (1907 - 1954) was a famous Mexican artist known for her many portraits and self-portraits. Her paintings revolved around Mexico's popular culture and played an important role in establishing Mexico's modern artistic character.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_SC_FRIDA_KAHLO_CHAPTER_HISTORY_PARA_2">
+			<Text>Early in her life, Frida Kahlo was near-fatally injured in a bus accident. Though she had received some artistic instruction before her injury, she redoubled her efforts while she lay in recovery. Her paintings encompass themes of identity and existence and oftentimes use surrealist imagery to express these complex thoughts. Two years after her injury, she joined the Mexican Communist Party, through which she met her future husband, fellow painter Diego Rivera. River and Kahlo had a tumultuous relationship, one that was sometimes expressed through Frida's own paintings. Nevertheless, she and her husband were both highly influential artists in Mexico, creating a distinct style of art that celebrated both the common man and the indigenous heritage of Mexico and its peoples.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_SC_FRIDA_KAHLO_CHAPTER_HISTORY_PARA_3">
+			<Text>In the 1930's, Kahlo's work began to attract international attention; she made a splash in New York City in 1938, selling half of her paintings despite the economic effects of the Great Depression. The following year, the Louvre acquired her painting The Frame, making her the first Mexican artist to be featured in its collection. These years were the Golden age of her artistry, when some of her most notable paintings were made. Her medical condition declined over the course of the 1940s, however, and she died in 1954 at the age of 47. Today, she is considered to be one of the greatest artists of the twentieth century. She is remembered for her groundbreaking work, not only in art but also in the social and political realms, and her works continue to be cherished in her native country, where they are considered to be a part of the national cultural heritage.</Text>
+		</Row>
+		
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_SC_GEORGIA_OKEEFFE_NAME">
+			<Text>Georgia O'Keeffe</Text>
+		</Row>
+
+		<Row Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_SC_GEORGIA_OKEEFFE_CHAPTER_HISTORY_PARA_1">
+			<Text>Known as the 'Mother of American Modernism,' Georgia O'Keeffe (1887 - 1986) was a renowned American artist. She is best remembered for her distinctive paintings, which commonly featured large flowers, New York City skyscrapers, and the landscapes of New Mexico.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_SC_GEORGIA_OKEEFFE_CHAPTER_HISTORY_PARA_2">
+			<Text>Born in Sun Prairie, Wisconsin, Georgia O'Keeffe started her art career from a young age. She began her instruction at the age of ten and later was ranked at the top of her class at the School of the Art Institute of Chicago. While taking a class at the University of Virginia in 1912, she became influenced by the work of Arthur Wesley Dow, shifting away from Realism and towards Modernism. Her work attracted the attention of photographer and art promoter Alfred Stieglitz, who would later become her husband. In the 1920s, O'Keeffe developed the style of painting she would become most associated with: large-scale images of flowers, seen as though through a magnifying glass. Her bold use of color and form (and perhaps some Freudian interpretation of her art) made her art stand out and gained her attention. While living in New York, she also began experimenting with another theme: the city's many skyscrapers and the contrast of their bright lights against dark skies.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_SC_GEORGIA_OKEEFFE_CHAPTER_HISTORY_PARA_3">
+			<Text>Starting at the end of the 1920s, she began taking trips to New Mexico, where she was inspired by the vivid landscapes and local aesthetic. In 1949, she moved there permananently, settling in Abiquiú and later moving to Santa Fe. Her health declined in her later years, and by 1972 she had lost most of her eyesight. She died in 1986 in Santa Fe. She was a force to be reckoned with in the art world; her artwork was praised for its audacity and its ability to conjure feelings of awe and other intense emotion. In 2014, her painting Jimson Weed sold for $44,405,000, more than three times the previous world record for any painting by a female artist.</Text>
+		</Row>
+
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_SC_ANDY_WARHOL_NAME">
+			<Text>Andy Warhol</Text>
+		</Row>
+
+		<Row Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_SC_ANDY_WARHOL_CHAPTER_HISTORY_PARA_1">
+			<Text>Well-known for his avant-garde art and lifestyle, Andy Warhol (1928 - 1987) was a famous American artist. He was a leading figure in the development of the Pop Art movement, rejecting the tenets of fine art in favor of a more popular (i.e. of the people) style that explored the relationship between culture, meaning, and the culture of consumption.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_SC_ANDY_WARHOL_CHAPTER_HISTORY_PARA_2">
+			<Text>Born in Pittsburgh to Lemko immigrants from modern-day Slovakia, Andy Warhol started out his career as a commercial artist, designing advertisements for shoes and other products. While working in this role, he began to experiment with silk screen printmaking, finding a certain charm in the method's imprecise variability. Silk screen prints make up some of his most famous works, and his skill at the art landed him a job at RCA Records making album covers and promotional materials even as he began his first exhibitions. In the 1960s, his popularity boomed as he created some of his most iconic works including the Marilyn Diptych. Around this time he founded The Factory, a place that functioned both as a studio and a hangout for artists, writers, musicians, and other celebrities.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_SC_ANDY_WARHOL_CHAPTER_HISTORY_PARA_3">
+			<Text>In addition to making paintings and drawings, Warhol also epxerimented with film in the 1960s and intermingled with the music industry, acting as the manager for The Velvet Underground, a band who feature in Warhol's multimedia piece, Exploding Plastic Inevitable. In 1968, Warhol survived an assassination attempt by a former member of The Factory, and continued to make art throughout the 1970s and 1980s, including portraits for Shah Mohammad Reza Pahlavi of Iran. He remained an influential figure in the New York art scene until his death in 1987. Known as the 'Pope of Pop,' his work - with its striking contrast, relevant messaging, and bold use of color - continues to inspire today and is an important part of the cultural consciousness of the twentieth century.</Text>
+		</Row>
+
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_SC_ROY_LICHTENSTEIN_NAME">
+			<Text>Roy Lichtenstein</Text>
+		</Row>
+
+		<Row Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_SC_ROY_LICHTENSTEIN_CHAPTER_HISTORY_PARA_1">
+			<Text>Roy Lichtenstein (1923 - 1997) was an American pop artist. He was best known for his art inspired by comic book panels that both reflected and parodied their source material.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_SC_ROY_LICHTENSTEIN_CHAPTER_HISTORY_PARA_2">
+			<Text>Lichtenstein was born in New York to an upper-middle-class Jewish family. He attended Ohio State University in pursuit of a degree in fine arts, but this was interrupted by a period of military service in World War 2. After returning from the Army, Lichtenstein completed his degree and had his first solo exhibition two years later. Over the next decade, he refined his artistic style, transitioning from a Cubist-Expressionist mode to one more closely rooted in Abstract Expressionism. In the 1960s he began to produce the kind of works he would become most famous for: paintings reminiscent of comic book panels. His first piece in this vein, Look Mickey, was the start of a prolific, yet brief, golden age for Lichtenstein.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_SC_ROY_LICHTENSTEIN_CHAPTER_HISTORY_PARA_3">
+			<Text>Lichtenstein was a striking, if controversial, figure in the art world. His art was certainly dynamic, but some accused him of plagiarism. Though some also believed that his art lacked soul, Lichtenstein always maintained that his most famous pieces were commentaries on capitalism, consumerism, and the modern mass-production of art and imagery. In the late 1960s, Lichtenstein moved on from comic imagery, producing works that reflected on the masterpieces of old as well as producing the Brushstrokes series. He continued to innovate in his art until his death, switching between a variety of projects, styles, and focuses until his death in 1997. He is fondly remembered as one of the most visible figures in the Pop Art movement, and his painting continue to intrigue viewers to this day.</Text>
+		</Row>
+
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_SC_JASPER_JOHNS_NAME">
+			<Text>Jasper Johns</Text>
+		</Row>
+
+		<Row Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_SC_JASPER_JOHNS_CHAPTER_HISTORY_PARA_1">
+			<Text>Jasper Johns (1930 - ) is an American artist affiliated with the abstract expressionism, Neo-Dadaist, and pop art movements. Some of his works rank among the most expensive art sales by a living artist.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_SC_JASPER_JOHNS_CHAPTER_HISTORY_PARA_2">
+			<Text>Born in Georgia, Johns got a late start in his art career. He briefly studied at the Parsons School of Design in New York before being stationed in Sendai, Japan during the Korean War. Upon his return to New York, Johns became romantically involved with fellow Neo-Dada artist Robert Rauschenberg. Together, they were a powerful influence in the art world. In 1958, Johns had his first solo exhibition, and his work was soon featured in the New York Museum of Modern Art. He also worked alongside American composer John Cage, establishing the Foundation for Contemporary Performance Arts in 1963.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_SC_JASPER_JOHNS_CHAPTER_HISTORY_PARA_3">
+			<Text>Though Johns created art in a variety of media, he is best known for his paintings. Flags and other elements of Americana make frequent appearances in his works, which straddle the line between Neo-Dada and pop art at times. Johns works are challenging at their core; they explore ideas of paradox and contradiction and have utilized unusual materials in some cases. Johns has received numerous honors over his career, including the National Medal of Arts and the Presidential Medal of Freedom. Since the 1980s, Johns pace of production has slowed - he usually produces four to five paintings each year - but his works regularly sell for large sums. In fact, on numerous occassions, sales of his paintings have established records for highest price paid for a painting by a living artist.</Text>
+		</Row>
+
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_SC_KIKI_KOGELNIK_NAME">
+			<Text>Kiki Kogelnik</Text>
+		</Row>
+
+		<Row Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_SC_KIKI_KOGELNIK_CHAPTER_HISTORY_PARA_1">
+			<Text>Kiki Kogelnik (1935 - 1997) was an Austrian artist. She is considered to be Austria's most important pop artist, although she herself rejected that affiliation.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_SC_KIKI_KOGELNIK_CHAPTER_HISTORY_PARA_2">
+			<Text>Kogelnik studied art at the Vienna Academy of Fine Arts; her art career took off in 1961, with her first show at the Galerie Nächst St. Stephan in Vienna. After making waves in her home country, she moved to New York in 1962, where she became part of a close-knit group of artists that included other greats like Roy Lichtenstein, Andy Warhol, and Jasper Johns. Known for her distinctively extravagant hats, Kogelnik was an iconic figure in New York. Although she was influenced by the vibrant colors and non-traditional material usage of mainstream pop art, she rejected the movement's celebration of commercial and mundane objects, instead focusing on the thems of futurism and space.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_SC_KIKI_KOGELNIK_CHAPTER_HISTORY_PARA_3">
+			<Text>In the 1970s, Kogelnik shifted her focus towards her Women series, addressing the role of females in advertising and exploring feminism through art. The 1980s brought her Expansion series, in which she experimented more with ceramics, sculpture, and film to augment her paintings. Her later works tend to focus more on abstract depictions of the human form while still continuing her trend of dissecting traditional notions of commercial and decorative art. Kogelnik died in 1997 at the age of 62; she was posthumously awarded Austria's highest medal for achievement in the arts: the Austrian Cross of Honour for Science and Art.</Text>
+		</Row>
+
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_SC_RENE_MAGRITTE_NAME">
+			<Text>René Magritte</Text>
+		</Row>
+
+		<Row Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_SC_RENE_MAGRITTE_CHAPTER_HISTORY_PARA_1">
+			<Text>René Magritte (1898 - 1967) was a Belgian artist best known for his witty and thought-provoking takes on surrealist imagery. His work was an important influence on the later minimalist, conceptual, and pop art schools.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_SC_RENE_MAGRITTE_CHAPTER_HISTORY_PARA_2">
+			<Text>Magritte was born in 1898 in Lessine, Belgium - the son of a tailor and a milliner. Little is known about Magritte's early life, save that he began drawing lessons in 1910 and that his mother committed suicide two years later. Though the loss affected him greatly, he continued with his lessons and produced his first paintings around 1915, demonstrating an Impressionist style. He later studied at the Académie Royale des Beaux-Arts in Brussels, but found that he lacked inspiration there. His post-academy works saw a shift towards Futurism and Cubism. After a brief stint working for the Belgian military and as a drafter in a wallpaper factory, in 1926 Magritte landed a contract with a gallery that allowed him to paint full-time; he produced his first surrealist painting the same year.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_SC_RENE_MAGRITTE_CHAPTER_HISTORY_PARA_3">
+			<Text>His early works were not well appreciated, however. Magritte moved to Paris and then back to Brussels, and though he was frustrated with the lack of success, he had a profound influence on the development of the surrealist movement in these years. Magritte remained in Brussels through the German occupation in the 1940s and, after the war was over, briefly adopted a brighter, more colorful style, before turning to the more provocative art of his Vache Period. However, he struggled to find success; in the post-war period, he supported himself by creating forgeries of works by Picasso and others. It would not be until the 1960s, shortly before his death, that René Magritte's genius would truly be recognized - his challenging works appreciated for both their skill and their power to make viewers reflect and think.</Text>
+		</Row>
+
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_SC_YAYOI_KUSAMA_NAME">
+			<Text>Yayoi Kusama</Text>
+		</Row>
+
+		<Row Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_SC_YAYOI_KUSAMA_CHAPTER_HISTORY_PARA_1">
+			<Text>Yayoi Kusama (1929 - ) is a Japanese artist known for her striking use of color in sculptural and installation art. Over five decades, Kusama has developed a unique conceptual style rooted in the American Abstract Impressionist and Pop-Art movements.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_SC_YAYOI_KUSAMA_CHAPTER_HISTORY_PARA_2">
+			<Text>Born in Matsumoto, Japan in 1929 to wealthy parents, Kusama began producing art and poetry from a young age. Around the age of 10, she began to experience vivid hallucinations - flashes of light and dots - that would go on to inspire her iconic artwork, a process she calls 'self-obliteration.' Around the age of 13 - during World War 2 - she went to work in a military factory making parachutes and, at the same time, developed strong ideas about personal and creative freedom. After the war she studied the traditional Nihonga painting style in Kyoto, but soon became interested in Western avant-garde art; she staged several exhibitions in Japan in the 1950s..</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_SC_YAYOI_KUSAMA_CHAPTER_HISTORY_PARA_3">
+			<Text>Her early works consisted mainly of abstracted natural forms, but she later grew to develop her famous polka dot, or infinity net, patterns. She moved to New York in the late 1950s, quickly establishing herself as a leader in the American avant-garde movement. She gained fame for her ability to produce works of both impressive quality and quantity, but did not find monetary success from her works at this time. In the 1960s, she organized several performance art demonstrations against the Vietnam War, many of which involved nudity. She returned to Japan in the 1970s, where she shifted to using bold-colored acrylics in her art even as she checked herself into a mental hospital near Tokyo. The following decades brought about renewed interest in her work, particularly at the 1993 Venice Bienniale, where she debuted her now-iconic pumpkin sculpture in conjunction with her work with mirrored rooms, the Infinity Mirror series. She has continued to gain international reknown; 2017 saw a 50-year retrospective of her work open in the Hirshhorn Museum in Washington, D.C. and also the opening of the Yayoi Kusama Museum in Tokyo.</Text>
+		</Row>
+
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_SC_BANKSY_NAME">
+			<Text>Banksy</Text>
+		</Row>
+
+		<Row Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_SC_BANKSY_CHAPTER_HISTORY_PARA_1">
+			<Text>Banksy is the name of an anonymous street artist active mainly in England. His work is known for its satirical qualities and dark humor.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_SC_BANKSY_CHAPTER_HISTORY_PARA_2">
+			<Text>As Banksy's identity is not known with certainty, little can be said about the artist's early life. It is believed that Banksy started producing graffiti art in the early 1990s as part of the Bristol underground scene. After a period of freehand graffiti art, Banksy shifted to stencil work, allowing him to increase his output and thereby increasing visibility of his works. His first large mural is believed to be The Mild Mild West, painted in 1999. Banksy's works are usually political in nature, displaying anti-war, anti-capitalist, and anti-establishment themes.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_SC_BANKSY_CHAPTER_HISTORY_PARA_3">
+			<Text>Banksy's work first appeared at an exhibition in 2002, and public installations and other aspects of performance art emerged over the next few years. By the middle of the 2000s, Banksy had reached an impressive popularity, with one of his works selling at Sotheby's for £50,400. Interest in street artwork increased in general due to Banksy's popularity, a pheonomenon known as the "Banksy Effect." In 2010, Banksy directed a film called Exit Through the Gift Shop, which premiered at the Sundance Film Festival and was nominated for an Academy Award for Best Documentary Feature. Banksy remains an enigmatic and divisive figure, with some arguing that his creations are mere vandalism and not actually art. Nevertheless, Banksy continues to produce challenging, critical art; from New York to the Jungle in Calais and from Bristol to the Gaza Strip, Banksy's works loom large in the popular imagination.</Text>
+		</Row>
+
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_SC_DAMIEN_HIRST_NAME">
+			<Text>Damien Hirst</Text>
+		</Row>
+
+		<Row Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_SC_DAMIEN_HIRST_CHAPTER_HISTORY_PARA_1">
+			<Text>Successful and controversial, Damien Hirst (1965 - ) is an English artist. He emerged as a leading figure in the Young British Artists movement in the late 1980s and 1990s. His works, which include dead animal displays and spin-art paintings, have sold for exceptionally high prices.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_SC_DAMIEN_HIRST_CHAPTER_HISTORY_PARA_2">
+			<Text>Hirst was born in Bristol and, though he proved to be reckless and headstrong in his youth, managed to gain entry first into the Jacob Kramer School of Art and then Goldsmiths, University of London. In 1991, Hirst had his first solo exhibition and met Iraqi-British businessman Charles Saatchi, who gave Hirst money to make whatever artwork he wanted. The result of that offer was unveiled the following year: The Physical Impossibility of Death in the Mind of Someone Living, one of Hirst's most iconic works. It was also the first of many of Hirst works that used animal remains to comment on the notion of death.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_SC_DAMIEN_HIRST_CHAPTER_HISTORY_PARA_3">
+			<Text>The Physical Impossibility of Death in the Mind of Someone Living catapulted Hirst to fame, making him one of the most famous members of the emergent Britart movement. He continued to produce outlandish and non-traditional sculpture art in the following decades and also branched out into film and music. His brash attitude and avant-garde artistry has made him a polarizing figure in the art world, with some questioning if his works really constitute 'art.' In September 2008, Hirst unexpectedly sold a complete show's worth of art without going through a gallery; the show, Beautiful Inside My Head Forever, sold in total for $198 million, breaking the record for a one-artist auction. His works have gone on to be represented at the Olympic Games, prestigious museums like the Tate Modern, and at the Venice Biennale; only time will tell what other innovative and experimental works Hirst will create in the years to come.</Text>
+		</Row>
+
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_SC_TAKASHI_MURAKAMI_NAME">
+			<Text>Takashi Murakami</Text>
+		</Row>
+
+		<Row Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_SC_TAKASHI_MURAKAMI_CHAPTER_HISTORY_PARA_1">
+			<Text>Takashi Murakami (1962 - ) is a Japanese contemporary artist best known for his distinctive 'superflat' style. Inspired in part by the art style of manga and anime, Murakami's distinct style combines these newer Japanese artistic developments with the traditional Nihonga form.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_SC_TAKASHI_MURAKAMI_CHAPTER_HISTORY_PARA_2">
+			<Text>Born and raised in Tokyo, Murakami enjoyed Japanese comics and animation from a young age. He attended the Tokyo University of the Arts to become an animator., but ultimately changed to focus on mastering the Japanese Nihonga style. While studying art, Murakami became more and more disillusioned with both traditional Nihonga and modern contemporary art in Japan, feeling that the former was too insular and the latter too dependent on Western art trends. Murakami's art style emerged as a way to reconcile these two shortcomings; it also sought to combine the 'low' culture of anime and manga with the 'high' culture associated with the art world.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_SC_TAKASHI_MURAKAMI_CHAPTER_HISTORY_PARA_3">
+			<Text>Murakami's artistic style is known for its bright colors, cartoonish qualities, and flat, glossy surfaces. His work is often satirical in nature, addressing themes like religion, sexuality, and consumer culture. Since Murakami established the tenets of the Superflat art style in 2000, several other artists have adopted the movement, and Murakami's international fame has grown - in particular through collaboration with figures like Louis Vuitton, Kanye West, and Pharrell Williams. In 2008, Murakami was listed among the 100 Most Influential People by Time Magazine - the only artist to be included - and two years later became the third-ever contempoary artist to exhibit their work at the Palace of Versailles. Around the world, Murakami's influence on the art world will surely continue to be felt for decades to come.</Text>
+		</Row>
+
+
+		<Row Tag="LOC_GREATWORK_SC_PICASSO_1_NAME">
+			<Text>Les Demoiselles d'Avignon</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_SC_PICASSO_2_NAME">
+			<Text>Guernica</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_SC_PICASSO_3_NAME">
+			<Text>The Old Guitarist</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_SC_KAHLO_1_NAME">
+			<Text>Self-Portrait with Thorn Necklace and Hummingbird</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_SC_KAHLO_2_NAME">
+			<Text>The Two Fridas</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_SC_KAHLO_3_NAME">
+			<Text>The Wounded Deer</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_SC_OKEEFFE_1_NAME">
+			<Text>Radiator Building - Night, New York, 1927</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_SC_OKEEFFE_2_NAME">
+			<Text>Blue and Green Music</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_SC_OKEEFFE_3_NAME">
+			<Text>Cow's Skull: Red, White, and Blue</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_SC_WARHOL_1_NAME">
+			<Text>Campbell's Soup Cans</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_SC_WARHOL_2_NAME">
+			<Text>Marilyn Diptych</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_SC_WARHOL_3_NAME">
+			<Text>Che Guevara</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_SC_LICHTENSTEIN_1_NAME">
+			<Text>Drowning Girl</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_SC_LICHTENSTEIN_2_NAME">
+			<Text>Whaam!</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_SC_LICHTENSTEIN_3_NAME">
+			<Text>In the Car</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_SC_JOHNS_1_NAME">
+			<Text>Three Flags</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_SC_JOHNS_2_NAME">
+			<Text>Map</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_SC_JOHNS_3_NAME">
+			<Text>Numbers in Color</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_SC_KOGELNIK_1_NAME">
+			<Text>Female Robot</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_SC_KOGELNIK_2_NAME">
+			<Text>Lady with Hat</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_SC_KOGELNIK_3_NAME">
+			<Text>It Hurts with a Scissor</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_SC_MAGRITTE_1_NAME">
+			<Text>The Treachery of Images</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_SC_MAGRITTE_2_NAME">
+			<Text>The Son of Man</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_SC_MAGRITTE_3_NAME">
+			<Text>The Empire of Light</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_SC_KUSAMA_1_NAME">
+			<Text>Pumpkin</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_SC_KUSAMA_2_NAME">
+			<Text>The Woman</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_SC_KUSAMA_3_NAME">
+			<Text>Infinity Nets</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_SC_BANKSY_1_NAME">
+			<Text>Show Me the Monet</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_SC_BANKSY_2_NAME">
+			<Text>Shop Until You Drop</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_SC_BANKSY_3_NAME">
+			<Text>Rage, Flower Thrower</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_SC_HIRST_1_NAME">
+			<Text>The Physical Impossibility of Death in the Mind of Someone Living</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_SC_HIRST_2_NAME">
+			<Text>For the Love of God</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_SC_HIRST_3_NAME">
+			<Text>Butterflies</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_SC_MURAKAMI_1_NAME">
+			<Text>Tan Tan Bo - In Communication</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_SC_MURAKAMI_2_NAME">
+			<Text>Army of Mushrooms</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_SC_MURAKAMI_3_NAME">
+			<Text>Such Cute Flowers</Text>
+		</Row>
+
+		<!-- Engineers -->
+
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_SC_ANTONI_GAUDI_NAME">
+			<Text>Antoni Gaudí</Text>
+		</Row>
+
+		<Row Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_SC_ANTONI_GAUDI_CHAPTER_HISTORY_PARA_1">
+			<Text>Antoni Gaudí (1852 - 1926) was a Spanish architect known best for his attention to detail and the one-of-a-kind nature of his creations. His most famous creation is the Sagrada Família in Barcelona.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_SC_ANTONI_GAUDI_CHAPTER_HISTORY_PARA_2">
+			<Text>Gaudí was known as a reserved figure, which may have been in part due to his history of poor health as a child. He received his degree in architecture in 1878 and his first major commission, the Casa Vicens in Barcelona, immediately gained him recognition in Spain and abroad. At the 1878 World's Fair in Paris, he met the Catalan industrialist Eusebi Güell, who would go on to commission some of Gaudí's most famous works. In 1883, Gaudí was put in charge of his greatest creation - one that he would not live to see finished: the Sagrada Família.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_SC_ANTONI_GAUDI_CHAPTER_HISTORY_PARA_3">
+			<Text>Gaudí's architectural style resists classification. Despite the influence of the Modern, Neo-Gothic, and Orientalist architectural styles, Gaudí's own style borrowed heavily from the natural world and its forms. He made great use of Trencadís, broken ceramic pieces, to give his creations a splash of color and distinctive patterns. Gaudí was involved in seemingly every part of his constructions, including sculpture, ceramics, stained glass, and carpentry. Work on the Sagrada Família consumed most of Gaudí's later years as his faith intensified and realization that he would not live to see the structures' completion. Gaudí died in 1926, but the legacy of God's Architect (as is sometimes known) continues even today, just as the Sagrada Família's constuction does.</Text>
+		</Row>
+
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_SC_SANTIAGO_CALATRAVA_NAME">
+			<Text>Santiago Calatrava</Text>
+		</Row>
+
+		<Row Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_SC_SANTIAGO_CALATRAVA_CHAPTER_HISTORY_PARA_1">
+			<Text>Santiago Calatrava (1951 - ) is a Spanish architect and structural engineer known for his use of organic shapes in his designs. He is perhaps best known for designing the City of Arts and Sciences in Valencia, Spain.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_SC_SANTIAGO_CALATRAVA_CHAPTER_HISTORY_PARA_2">
+			<Text>In his youth, Calatrava originally wanted to be an artist, studying drawing and painting. However, he came across a book about the architecture of Le Corbusier, which inspried him to become an architect. He received his degree in 1981 and began to receive commissions, mainly for industrial and infrastructural projects. In 1987, his first bridge, the Bac de Roda Bridge, was completed, garnerning him international attention. His next bridge, the Puente del Alamillo in Seville, was even more dramatic. He continued to create dynamic pieces of infrastructure throughtout the 1990s, while also beginning to take on other kinds of projects, including the Milwaukee Art Museum, the Auditorio de Tenerife, the Turning Torso in Malmö, and of course the City of Arts and Sciences.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_SC_SANTIAGO_CALATRAVA_CHAPTER_HISTORY_PARA_3">
+			<Text>Calatrava has continued to create dynamic structues even into the twenty-first century. The Museum of Tomorrow in Rio de Janeiro and the World Trade Center Transportation Hub are among his most recent creations. His works do not fall neatly into any one particular style of architecture, but perhaps Expressionism is the one that comes closest. His use of sweeping curves lends his buildings a striking sense of movement, breathing life into masses of concrete.</Text>
+		</Row>
+
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_SC_ZAHA_HADID_NAME">
+			<Text>Zaha Hadid</Text>
+		</Row>
+
+		<Row Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_SC_ZAHA_HADID_CHAPTER_HISTORY_PARA_1">
+			<Text>Zaha Hadid (1950 - 2016) was an Iraqi-British architect known for unique architectural style that some consider to be a form of Deconstructivism. She was described as the Queen of the Curve for her use of organic and other non-traditional shapes in her work.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_SC_ZAHA_HADID_CHAPTER_HISTORY_PARA_2">
+			<Text>Born in Iraq in 1950, Zaha Hadid was the daughter of wealthy industrialist/politician and an artist. She studied math at the American University of Beirut and architecture at the Architectural Association School of Architecture in London, where she distinguished herself as a brilliant designer. After graduating, she taught architecture at a number of prestigious institutions before her own career took off in the early 1990s.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_SC_ZAHA_HADID_CHAPTER_HISTORY_PARA_3">
+			<Text>Hadid completed several high-profile projects in the 2000s, including the Guangzhou Opera house and the Sheikh Zayed Bridge, and her fame only increased from there. The 2010s saw the completion of the London Aquatics Centre, Broad Museum in Michigan, and Dongdaemun Design Plaza. Sadly, these golden years would also be her last; she died suddenly in 2016. At the time of her death, several of her projects remained unfinished, but work continued posthumously on projects like the Salerno Maritime Terminal and the One Thousand Museum. Though her career was cut short, she was regarded as a highly-skilled architect, widely regarded as the greatest female architect of her era.</Text>
+		</Row>
+
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_SC_FRANK_GEHRY_NAME">
+			<Text>Frank Gehry</Text>
+		</Row>
+
+		<Row Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_SC_FRANK_GEHRY_CHAPTER_HISTORY_PARA_1">
+			<Text>Frank Gehry (1929 - ) is a Canadian-born American architect known for many distinctive structures from around the world. He is often considered to be one of the most significant architects alive today and has been called "the most important architect of our age."</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_SC_FRANK_GEHRY_CHAPTER_HISTORY_PARA_2">
+			<Text>Gehry was born Frank Owen Goldberg in Toronto, Canada to parents of Eastern European Jewish descent. His creativity was encouraged from a young age by his grandmother; together they would build miniature cities using leftover materials from Gehry's grandfather's hardware store. His parents also encouraged him to learn more about art and practice his drawing skills. In 1947, Gehry and his family moved to California, where he would eventually graduate from the University of Southern California's School of Architecture. He later moved to Cambridge, Massachusetts to study city planning at the Harvard Graduate School of Design, but grew frustrated with the lack of concern regarding socially responsible architecture and left before completing the program. Gehry returned to Southern California, where he designed his first private residence in 1957; years later, in 1978, he would remodel his own home, creating what some consider to be the first Deconstructivist building, though Gehry himself denies that label.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_SC_FRANK_GEHRY_CHAPTER_HISTORY_PARA_3">
+			<Text>In the 1980s, Gehry created several prominent buildings in Southern California as his reputation grew, including Santa Monica Place, the Cabrillo Marine Aquarium, and the California Aerospace Museum. He received the Pritzker Architecture Prize in 1989 and began to receive larger, more international commissions. His first European commission was completed in 1989, followed in the next years by other notable structures like the Cinémathèque Française in Paris in 1994 and Dancing House in Prague in 1996. However, true fame came to Gehry in 1997 with the completion of the Guggenheim Museum Bilbao, hailed as a "masterpiece of the twentieth century." The Guggenheim Museum's sweeping pseudo-deconstructivist style also characterized several other subsequent works by Gehry, including the Museum of Pop Culture in Seattle and the renowned Walt Disney Concert Hall in Los Angeles. Over 60 years after his first commission, Gehry's work continues to defy categorization and is uniquely sculptural in form. The impact of his buildings to revitalize their cities, a phenomenon known as the Bilbao Effect, has been enormous, and one can hardly imagine what Gehry - perhaps the world's greatest 'starchitect' - will come up with next.</Text>
+		</Row>
+
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_SC_ELON_MUSK_NAME">
+			<Text>Elon Musk</Text>
+		</Row>
+
+		<Row Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_SC_ELON_MUSK_CHAPTER_HISTORY_PARA_1">
+			<Text>Elon Musk (1971 - ) is a South African entrepreneur and engineer. He has founded numerous companies - including SpaceX, Tesla, and The Boring Company - that are pushing scientific boundaries in the fields of engineering and transportation.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_SC_ELON_MUSK_CHAPTER_HISTORY_PARA_2">
+			<Text></Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_SC_ELON_MUSK_CHAPTER_HISTORY_PARA_3">
+			<Text></Text>
+		</Row>
+
+
+		<Row Tag="LOC_GREATPERSON_SC_ANTONI_GAUDI_ACTIVE">
+			<Text>This city provides +1 Appeal to any tiles it owns.</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_SC_SANTIAGO_CALATRAVA_ACTIVE">
+			<Text>Aerodrome districts provide +15 [ICON_Tourism] Tourism. All museums produce +2 [ICON_Science] and +2 [ICON_Culture].</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_SC_ZAHA_HADID_ACTIVE">
+			<Text>Instantly builds an Arena, Zoo and Stadium in this district. +10 Tourism from Entertainment Complexes.</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_SC_FRANK_GEHRY_ACTIVE">
+			<Text>All wonders provide +2 [ICON_Production] Production and +2 [ICON_Gold] Gold.</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_SC_ELON_MUSK_ACTIVE">
+			<Text>All units gain +1 [ICON_Movement] Movement in friendly territory. Cities produce +2 [ICON_Gold] Gold for each specialty district constructed.</Text>
+		</Row>
+
+		<!-- Generals -->
+
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_SC_GEORGE_PATTON_NAME">
+			<Text>George Patton</Text>
+		</Row>
+
+		<Row Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_SC_GEORGE_PATTON_CHAPTER_HISTORY_PARA_1">
+			<Text>George S. Patton (1885 – 1945) was a senior officer in the United States Army best known for his service in the Mediterranean and Normandy theaters of World War 2. Patton was a central figure in the development of US armored warfare doctrine.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_SC_GEORGE_PATTON_CHAPTER_HISTORY_PARA_2">
+			<Text>Born in San Gabriel, California, Patton was interested in military history from a young age. He attended a private boys’ school in Pasadena for six years, then the Virginia Military Institute. After 2 years, he was nominated for West Point, where he gained a reputation as one of the best swordsmen in the academy. He graduated from West Point in 1909, joining the Cavalry Branch of the US Army. One year later, at the age of 25, he married Beatrice Banning Ayer, with whom he had three children. Patton competed at the 1912 Olympic Games in Stockholm as part of the first Olympic modern pentathlon, although he did not receive a medal. After the Games, he traveled to Saumur, France to improve his fencing and swordsmanship skills; he would return to the United States the next year and redesigned the US Cavalry’s saber combat doctrine, designing the Model 1913 Cavalry Saber for the purpose.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_SC_GEORGE_PATTON_CHAPTER_HISTORY_PARA_3">
+			<Text>In 1916, the Mexican revolutionary Pancho Villa crossed into New Mexico and raided the border town of Columbus, killing several American citizens in the process. In response, the US government launched the Pancho Villa Expedition as a punitive measure. Patton served as the personal aide for the expedition commander, John Pershing, from whom he learned a great deal about commanding and leading an army. Patton’s first combat experience came on May 14, 1916: the first motorized attack in the history US warfare. Patton again served on Pershing’s staff in the Western Front during World War I, where an encounter with Colonel Fox Conner precipitated Patton’s career with armored warfare, beginning with the establishment of the AEF Light Tank School. For his work during the war, Patton received several awards including the Purple Heart.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_SC_GEORGE_PATTON_CHAPTER_HISTORY_PARA_4">
+			<Text>In the interwar period, Patton came into contact with Dwight D. Eisenhower and helped push for the development of more modern, independent armored divisions in the US military. In early 1942, just two months after the Attack on Pearl Harbor, Patton established the Desert Training Center in California’s Imperial Valley; just a year later, he would be part of the planning for Operation Torch, an invasion of French North Africa. Patton assumed control of the US II Corps in North Africa, and then took part in the invasion of Sicily. Patton then fought as part of the Invasion of Normandy as well, leading the Third Army as the west-most flank of the Allied land forces; Patton favored speed and aggressive actions in his advance across France, utilizing a devastating combination of air support and mechanized infantry to break through German lines. This mobility was integral to the successful relief of Allied forces at the Battle of Bulge. After the war, Patton was appointed military governor of Bavaria, although he was later relieved of this duty after downplaying the importance of Denazification. On December 8, 1945, Patton was involved in a car crash near Speyer, Germany and died 13 days later, just months after the end of the war. He was buried in the Luxembourg American Cemetery alongside wartime casualties of the Third Army, a fitting final resting place for a devoted military man.</Text>
+		</Row>
+
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_SC_COLIN_POWELL_NAME">
+			<Text>Colin Powell</Text>
+		</Row>
+
+		<Row Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_SC_COLIN_POWELL_CHAPTER_HISTORY_PARA_1">
+			<Text>Colin Powell (1937 - ) is a retired American four-star general and former Secretary of State. He was the Chairman of the US Department of Defense's Joint Chiefs of Staff during Operation Desert Storm and the Persian Gulf War.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_SC_COLIN_POWELL_CHAPTER_HISTORY_PARA_2">
+			<Text></Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_SC_COLIN_POWELL_CHAPTER_HISTORY_PARA_3">
+			<Text></Text>
+		</Row>
+
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_SC_NORMAN_SCHWARZKOPF_NAME">
+			<Text>Norman Schwarzkopf Jr.</Text>
+		</Row>
+
+		<Row Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_SC_NORMAN_SCHWARZKOPF_CHAPTER_HISTORY_PARA_1">
+			<Text>Somtimes referred to as 'Stormin Norman' or 'The Bear,' Norman Schwarzkopf Jr. (1934 - 2012) was an American general. He was the commander-in-chief of the United States Central Command and leader of the coalition forces during the Gulf War.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_SC_NORMAN_SCHWARZKOPF_CHAPTER_HISTORY_PARA_2">
+			<Text></Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_SC_NORMAN_SCHWARZKOPF_CHAPTER_HISTORY_PARA_3">
+			<Text></Text>
+		</Row>
+
+
+		<Row Tag="LOC_GREATPERSON_SC_GEORGE_PATTON_ACTIVE">
+			<Text>All heavy cavalry units from the Modern Era or later gain +1 [ICON_Movement] Movement.</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_SC_COLIN_POWELL_ACTIVE">
+			<Text>Accumulate 50% less war weariness than usual. Gain 5 Envoys.</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_SC_NORMAN_SCHWARZKOPF_ACTIVE">
+			<Text>+25% [ICON_Production] production towards air units. Grants 1 free promotion to a military unit.</Text>
+		</Row>
+
+		<!-- Merchants -->
+
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_SC_BILL_GATES_NAME">
+			<Text>Bill Gates</Text>
+		</Row>
+
+		<Row Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_SC_BILL_GATES_CHAPTER_HISTORY_PARA_1">
+			<Text>Currently the second-richest person in the world, Bill Gates (1955 - ) was one of the founders of Microsoft, one of the largest software companies. After stepping away from the company, Gates is now known for his philanthropic works as part of the Bill and Melinda Gates Foundation.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_SC_BILL_GATES_CHAPTER_HISTORY_PARA_2">
+			<Text></Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_SC_BILL_GATES_CHAPTER_HISTORY_PARA_3">
+			<Text></Text>
+		</Row>
+
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_SC_ENZO_FERRARI_NAME">
+			<Text>Enzo Ferrari</Text>
+		</Row>
+
+		<Row Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_SC_ENZO_FERRARI_CHAPTER_HISTORY_PARA_1">
+			<Text>Often known as Il Commendatore, Enzo Ferrari (1898 – 1988) was an Italian motorcar driver and entrepreneur best known for founding the Ferrari sports car manufacturing company.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_SC_ENZO_FERRARI_CHAPTER_HISTORY_PARA_2">
+			<Text>Born in Modena, Italy, Ferrari had little formal education for much of his childhood, but was inspired at a young age to become a racecar driver after seeing Felice Nazzaro’s win at the 1908 Circuito di Bologna. Not long after the end of World War I, Ferrari began to pursue a job in the car industry and made his racing debut at the 1919 Parma-Poggio di Berceto race. In 1920, he joined the racing department of Alfa Romeo, winning the Coppa Acerbo in Pescara just four years later. He the competed in more prestigious races but retired in 1932 after the birth of his son, Alfredo. He instead decided to focus on the management and development of racing cars. Ferrari worked with Alfa Romeo off and on until 1939, when he founded the Auto-Avio Construzioni company; the company would be devastated during World War II, resulting in Ferrari’s creation of his new, eponymous company in 1947.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_SC_ENZO_FERRARI_CHAPTER_HISTORY_PARA_3">
+			<Text>The Ferrari Company’s first major win in the racing scene came at the 1949 24 Hours of Le Mans, and its first championship in 1952. In order to finance the companies racing endeavors, including in the new Formula One championships, the company began selling sports cars to customers. Ferrari managed his company closely and his strong personality and controversial management techniques made him notorious. Some of the company’s greatest talent left in 1962 in an event known as the Great Walkout, but Ferrari and his company were able to weather the storm. Nevertheless, Ferrari, seeing that financial difficulties for the company were increasing, offered rival FIAT a 50% stake in the company in 1969. He remained active in the racing world and its workings even after Ferrari merged with FIAT, building the Fiorano Circuit near Maranello after a lack of political will stymied a plan to renovate the Modena Autodrome. Decades after his death in 1988, Ferrari’s legacy lives on in his company, which is still often considered one of the finest and most luxurious car brands in the world.</Text>
+		</Row>
+
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_SC_MARK_ZUCKERBERG_NAME">
+			<Text>Mark Zuckerberg</Text>
+		</Row>
+
+		<Row Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_SC_MARK_ZUCKERBERG_CHAPTER_HISTORY_PARA_1">
+			<Text>Mark Zuckerberg (1984 - ) is an American entrepreneur and co-founder of the social media website Facebook. Under his leadership, Facebook has grown to an enromous size, with 2.2 billion monthly active users as of January 2018.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_SC_MARK_ZUCKERBERG_CHAPTER_HISTORY_PARA_2">
+			<Text></Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_SC_MARK_ZUCKERBERG_CHAPTER_HISTORY_PARA_3">
+			<Text></Text>
+		</Row>
+
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_SC_STEVE_JOBS_NAME">
+			<Text>Steve Jobs</Text>
+		</Row>
+
+		<Row Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_SC_STEVE_JOBS_CHAPTER_HISTORY_PARA_1">
+			<Text>Steve Jobs (1955 - 2011) was an American entrepreneur and co-founder of Apple, the world's largest information technology company. Though Jobs was forced out of Apple in 1985, he became the CEO again in 1997 and helped revive the company - just 7 years after his death, Apple became the first publically-traded company valued at over one trillion dollars.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_SC_STEVE_JOBS_CHAPTER_HISTORY_PARA_2">
+			<Text></Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_SC_STEVE_JOBS_CHAPTER_HISTORY_PARA_3">
+			<Text></Text>
+		</Row>
+
+
+		<Row Tag="LOC_GREATPERSON_SC_BILL_GATES_ACTIVE">
+			<Text>All cities produce +2 [ICON_Production] Production for each specialty district.</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_SC_ENZO_FERRARI_ACTIVE">
+			<Text>All cities gain +3 [ICON_Gold] Gold for each specialty district.</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_SC_MARK_ZUCKERBERG_ACTIVE">
+			<Text>Doubles Civilization-Wide [ICON_Tourism] Tourism Output.</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_SC_STEVE_JOBS_ACTIVE">
+			<Text>Adds +1 Wildcard Policy slot to your government.</Text>
+		</Row>
+
+		<!-- Musicians -->
+
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_SC_SCOTT_JOPLIN_NAME">
+			<Text>Scott Joplin</Text>
+		</Row>
+
+		<Row Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_SC_SCOTT_JOPLIN_CHAPTER_HISTORY_PARA_1">
+			<Text>Known as the 'King of Ragtime,' Scott Joplin (1868 - 1917) was an African-American composer. He wrote 44 original ragtime pieces - among others - and his composition, Maple Leaf Rag, was perhaps the first and most influential ragtime song to leave a lasting impact on the conscience.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_SC_SCOTT_JOPLIN_CHAPTER_HISTORY_PARA_2">
+			<Text></Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_SC_SCOTT_JOPLIN_CHAPTER_HISTORY_PARA_3">
+			<Text></Text>
+		</Row>
+
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_SC_IGOR_STRAVINSKY_NAME">
+			<Text>Igor Stravinsky</Text>
+		</Row>
+
+		<Row Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_SC_IGOR_STRAVINSKY_CHAPTER_HISTORY_PARA_1">
+			<Text>Widely considered to be one of the most important composers of the 20th century, Igor Stravinsky (1882 - 1971) was a Russian composer, pianist, and conductor. He is best known for his ballets, particularly The Firebird and the Rite of Spring.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_SC_IGOR_STRAVINSKY_CHAPTER_HISTORY_PARA_2">
+			<Text></Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_SC_IGOR_STRAVINSKY_CHAPTER_HISTORY_PARA_3">
+			<Text></Text>
+		</Row>
+
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_SC_GEORGE_GERSHWIN_NAME">
+			<Text>George Gershwin</Text>
+		</Row>
+
+		<Row Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_SC_GEORGE_GERSHWIN_CHAPTER_HISTORY_PARA_1">
+			<Text>George Gerswhin (1898 - 1937) was an American composer and pianist. His works were mainly in the jazz genre, but he also did numerous pieces for film scores; he is best known for his compositions Rhapsody in Blue and An American in Paris, as well as his opera, Porgy and Bess.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_SC_GEORGE_GERSHWIN_CHAPTER_HISTORY_PARA_2">
+			<Text></Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_SC_GEORGE_GERSHWIN_CHAPTER_HISTORY_PARA_3">
+			<Text></Text>
+		</Row>
+
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_SC_ANTONIO_CARLOS_JOBIM_NAME">
+			<Text>Antônio Carlos Jobim</Text>
+		</Row>
+
+		<Row Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_SC_ANTONIO_CARLOS_JOBIM_CHAPTER_HISTORY_PARA_1">
+			<Text>Often considered to be one of Brazil’s greatest musicians, Antônio Carlos Jobim (1927 – 1994) was a composer, songwriter, and singer who was an integral figure in the development and popularization of bossa nova music.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_SC_ANTONIO_CARLOS_JOBIM_CHAPTER_HISTORY_PARA_2">
+			<Text>Jobim was born in the Tijuca district of Rio de Janeiro; his parents separated shortly after his birth, and his mother moved him and herself to the neighborhood of Ipanema, which would figure heavily in many of Jobim’s compositions. His stepfather encouraged his musical interests from a young age, giving him his first piano. As a young man, Jobim earned a living playing music in nightclubs and bars, and then later as an arranger at recording label, before his career took off. Jobim’s style was rooted in the works of Pixinguinha and Hans-Joachim Koellreutter, and also in those of French composers like Debussy and Ravel as well as jazz music. Jobim’s big break came in 1956, when he teamed up with poet and diplomat Vinicius de Moraes to write the music for the play Orfeu da Conceição, as well as for its film adaptation three years later.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_SC_ANTONIO_CARLOS_JOBIM_CHAPTER_HISTORY_PARA_3">
+			<Text>In the following years, Jobim partnered with American jazz saxophonist Stan Getz, and the Brazilian singers (and husband and wife), João and Astrud Gilberto. The resulting albums, Getz/Gilberto Volumes 1 and 2, included well-known hits like The Girl from Ipanema and Corcovado and were hugely popular in the United States, creating a bossa nova craze there and around the world. Getz/Gilberto (along with The Girl from Ipanema) won several Grammys at the 1965 Awards and was the first jazz album to win the Grammy Award for Album of the Year. After these early successes, Jobim continued to produce music up until his death in 1994. He is widely regarded as one of the most important composers of the 20th century and many of his compositions have become standards in the jazz genre. Jazz and bossa nova was shaped by his musical innovations and he is still remembered fondly to this day in his homeland of Brazil.</Text>
+		</Row>
+
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_SC_DUKE_ELLINGTON_NAME">
+			<Text>Duke Ellington</Text>
+		</Row>
+
+		<Row Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_SC_DUKE_ELLINGTON_CHAPTER_HISTORY_PARA_1">
+			<Text>Duke Ellington (1899 - 1974) was an American composer and bandleader famous for his jazz compositions. With a career that lasted over fifty years, Ellington is considered to be a pivotal figure in the jazz history, and many of the members of his orchestra were among the finest jazz musicians of all time.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_SC_DUKE_ELLINGTON_CHAPTER_HISTORY_PARA_2">
+			<Text></Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_SC_DUKE_ELLINGTON_CHAPTER_HISTORY_PARA_3">
+			<Text></Text>
+		</Row>
+
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_SC_ELVIS_PRESLEY_NAME">
+			<Text>Elvis Presley</Text>
+		</Row>
+
+		<Row Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_SC_ELVIS_PRESLEY_CHAPTER_HISTORY_PARA_1">
+			<Text>Fondly remembered as 'The King of Rock and Roll,' Elvis Presley (1835 - 1977) was an American singer and one of the most popular cultural icons of the twentieth century. He was widely influential in a number of genres, including rock and roll, rockabilly, country, blues, and gospel, and remains an iconic figure today.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_SC_ELVIS_PRESLEY_CHAPTER_HISTORY_PARA_2">
+			<Text></Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_SC_ELVIS_PRESLEY_CHAPTER_HISTORY_PARA_3">
+			<Text></Text>
+		</Row>
+
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_SC_GYORGY_LIGETI_NAME">
+			<Text>György Ligeti</Text>
+		</Row>
+
+		<Row Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_SC_GYORGY_LIGETI_CHAPTER_HISTORY_PARA_1">
+			<Text>Known for his avant-garde compositions, György Ligeti (1923 - 2006) was a Hungarian-Austrian composer of classical music. He pioneered new and innovative compositional techniques to create etherial sounds that found particular popularity in film soundtracks.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_SC_GYORGY_LIGETI_CHAPTER_HISTORY_PARA_2">
+			<Text>Born in modern-day Romania and of Hungarian Jewish ancestry, György Ligeti lived in Hungary before emigrating to Austria in 1956. Though he had been active musically in Hungary, teaching at the Franz Liszt Academy of Music, he found his ability to create avant-garde music stymied by the Communist government there. This all changed when he moved to Vienna.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_SC_GYORGY_LIGETI_CHAPTER_HISTORY_PARA_3">
+			<Text>After arriving in Vienna, he set out for Cologne, where he experimented with electronic music, which significantly influenced his instrumental work. He would go on to teach music in Stockholm, Stanford, and Hamburg. His works are known for the experimental quality; he developed a musical texture known as Micropolyphony, an extremely dense kind of music with an emphasis on complexity and simultaneity. His work gained interenational renown; most notably, several of his songs were used in Stanley Kubrick's 1968 film 2001: A Space Odyssey. Even after his death in 2006, György Ligeti is often considered one of the most influential and innovative figures in twentieth-century music.</Text>
+		</Row>
+
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_SC_JOHN_ADAMS_NAME">
+			<Text>John Adams</Text>
+		</Row>
+
+		<Row Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_SC_JOHN_ADAMS_CHAPTER_HISTORY_PARA_1">
+			<Text>John Adams (1947 - ) is an American composer known for his minimalist works. He is perhaps best known for his operatic works, which commemorate modern events like US President Nixon's visit to China in 1972 or the Manhattan Project. He also composed a choral piece titled 'On the Transmigration of Souls' in honor of the victims of the September 11 terrorist attacks.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_SC_JOHN_ADAMS_CHAPTER_HISTORY_PARA_2">
+			<Text></Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_SC_JOHN_ADAMS_CHAPTER_HISTORY_PARA_3">
+			<Text></Text>
+		</Row>
+
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_SC_CHRISTOPHER_TIN_NAME">
+			<Text>Christopher Tin</Text>
+		</Row>
+
+		<Row Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_SC_CHRISTOPHER_TIN_CHAPTER_HISTORY_PARA_1">
+			<Text>Christopher Tin (1976 - ) is an American composer best known for his orchestral works that embody and blend cultural traditions from around the world. One of his compositions, Baba Yetu, was the theme song for the computer game Civilization IV and was the first ever piece of video game music to win a Grammy Award.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_SC_CHRISTOPHER_TIN_CHAPTER_HISTORY_PARA_2">
+			<Text></Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_SC_CHRISTOPHER_TIN_CHAPTER_HISTORY_PARA_3">
+			<Text></Text>
+		</Row>
+
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_SC_JOHN_WILLIAMS_NAME">
+			<Text>John Williams</Text>
+		</Row>
+
+		<Row Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_SC_JOHN_WILLIAMS_CHAPTER_HISTORY_PARA_1">
+			<Text>John Williams (1932 - ) is an American composer widely celebrated for his film scores. Eight of the twenty highest-grossing films in US box office history have scores composed by Williams, and he has, over the course of his over fifty-year-long career, garnered 51 Academy Award nominations.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_SC_JOHN_WILLIAMS_CHAPTER_HISTORY_PARA_2">
+			<Text></Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_SC_JOHN_WILLIAMS_CHAPTER_HISTORY_PARA_3">
+			<Text></Text>
+		</Row>
+
+
+		<Row Tag="LOC_GREATWORK_SC_SCOTT_JOPLIN_1_NAME">
+			<Text>Maple Leaf Rag</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_SC_SCOTT_JOPLIN_2_NAME">
+			<Text>The Entertainer</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_SC_IGOR_STRAVINSKY_1_NAME">
+			<Text>The Firebird</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_SC_IGOR_STRAVINSKY_2_NAME">
+			<Text>The Rite of Spring</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_SC_GEORGE_GERSHWIN_1_NAME">
+			<Text>Rhapsody in Blue</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_SC_GEORGE_GERSHWIN_2_NAME">
+			<Text>An American in Paris</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_SC_ANTONIO_CARLOS_JOBIM_1_NAME">
+			<Text>Chega de Saudade</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_SC_ANTONIO_CARLOS_JOBIM_2_NAME">
+			<Text>The Girl from Ipanema</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_SC_DUKE_ELLINGTON_1_NAME">
+			<Text>Take the A Train</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_SC_DUKE_ELLINGTON_2_NAME">
+			<Text>Caravan</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_SC_ELVIS_PRESLEY_1_NAME">
+			<Text>Jailhouse Rock</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_SC_ELVIS_PRESLEY_2_NAME">
+			<Text>Hound Dog</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_SC_GYORGY_LIGETI_1_NAME">
+			<Text>Atmosphères</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_SC_GYORGY_LIGETI_2_NAME">
+			<Text>Lux Aeterna</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_SC_JOHN_ADAMS_1_NAME">
+			<Text>Shaker Loops</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_SC_JOHN_ADAMS_2_NAME">
+			<Text>The People are the Heroes Now</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_SC_CHRISTOPHER_TIN_1_NAME">
+			<Text>Baba Yetu</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_SC_CHRISTOPHER_TIN_2_NAME">
+			<Text>Sogno di Volare</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_SC_JOHN_WILLIAMS_1_NAME">
+			<Text>Star Wars</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_SC_JOHN_WILLIAMS_2_NAME">
+			<Text>Harry Potter</Text>
+		</Row>
+
+		<!-- Prophets -->
+
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_SC_KIMPA_VITA_NAME">
+			<Text>Kimpa Vita</Text>
+		</Row>
+
+		<Row Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_KIMPA_VITA_NAME_CHAPTER_HISTORY_PARA_1">
+			<Text>Kimpa Vita (1684 - 1706) was a religious leader in the Kingdom of Kongo. She was the prophet of a Christian movement known as Antonianism, which held that Jesus and other early Christian figures were actually from the Kongo.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_KIMPA_VITA_NAME_CHAPTER_HISTORY_PARA_2">
+			<Text>Kimpa Vita, also known as Beatriz Kimpa Vita, was born near Mount Kibangu in modern-day Angola. Although she was born into the nobility, she was also born into a time of strife as the Kingdom of Kongo was wracked by civil war. From a young age, she reported having visions and she was trained as a nganga marinda - one who can communicate with the realm of the supernatural - but ultimately moved away from these beliefs in favor of Catholicism.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_KIMPA_VITA_NAME_CHAPTER_HISTORY_PARA_3">
+			<Text>As an adult, she set out to help resettle the ancient capital of Mbanza Kongo. She fell ill in 1704 and experienced a vision of St. Anthony; she reported that as part of this experience she died and St. Anthony took over her body. She began to preach of her connection to God, with whom she communicated, and set out to destroy the traditional Kongolese nkisi figures for their idolatry. She gained the ear of the two contenders for the throne of Kongo, but both rebuffed her, and so she made Mbanza Kongo her own capital. She sent out missionaries to spread the word of Antonianism, but just two years after her vision, she was captured and burned as a heretic by forces loyal to King Pedro IV. Her movement outlived her for a while until the Kingdom reconquered Mbanza Kongo, but some say that the roots of the modern-day faith of Kimbanguism has its roots in the words of Kimpa Vita.</Text>
+		</Row>
+
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_SC_JOHN_CALVIN_NAME">
+			<Text>John Calvin</Text>
+		</Row>
+
+		<Row Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_SC_JOHN_CALVIN_CHAPTER_HISTORY_PARA_1">
+			<Text>John Calvin (1509 - 1564) was a French theologian who played an integral part during the Protestant Reformation. His doctrine, which encompassed the concepts of predestination and the absolute sovereignty of God in human salvation, came to be known as Calvinism or Reformed Protestantism. Currently, there are more than 100 million members of the Reformed Church around the world.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_SC_JOHN_CALVIN_CHAPTER_HISTORY_PARA_2">
+			<Text></Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_SC_JOHN_CALVIN_CHAPTER_HISTORY_PARA_3">
+			<Text></Text>
+		</Row>
+
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_SC_GURU_NANAK_NAME">
+			<Text>Guru Nanak</Text>
+		</Row>
+
+		<Row Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_SC_GURU_NANAK_CHAPTER_HISTORY_PARA_1">
+			<Text>Guru Nanak (1469 - 1539) was the founder of Sikhism. His words make up the holy text of the Sikh faith and Guru Nanak is considered to be one of the greatest religious innovators in human history.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_SC_GURU_NANAK_CHAPTER_HISTORY_PARA_2">
+			<Text>Guru Nanak was born in modern-day Pakistan as part of the merchant caste. According to Sikh traditions, several events in Guru Nanak's childhood marked him as being blessed with divine grace. He later married and had two children; his eldest would follow in his footsteps as a religious leader. Sometime in the late 1400s, Guru Nanak founded Sikhism, a religion that believes in the unity of mankind and in a single creator. Guru Nanak's words make up a significant portion of the Sikh holy text known as the Guru Granth Sahib.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_SC_GURU_NANAK_CHAPTER_HISTORY_PARA_3">
+			<Text>While working to spread the Sikh faith, Guru Nanak embarked on four Udasis, or journeys. The details of these journeys are not completely known; it is widely believed he visited Baghdad, and some say he visited other places like Tibet, Mecca, Rome, Jerusalem, and Sudan. Despite the lack of details about his life, his impact is undeniable. Though he died in 1539, Sikhism continues to thrive; he was suceeded by nine other Sikh gurus, and Sikhism live on today with approximately 25 million adherents.</Text>
+		</Row>
+
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_SC_IGNATIUS_OF_LOYOLA_NAME">
+			<Text>Ignatius of Loyola</Text>
+		</Row>
+
+		<Row Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_SC_IGNATIUS_OF_LOYOLA_CHAPTER_HISTORY_PARA_1">
+			<Text>Saint Ignatius of Loyola (1491 - 1556) was a Spanish Basque priest and theologian who founded the Jesuit order, an important Catholic group during the Counter-Reformation. Loyola's Jesuits were focused on evangelization, but also became known for their work in promoting education around the world.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_SC_IGNATIUS_OF_LOYOLA_CHAPTER_HISTORY_PARA_2">
+			<Text></Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_SC_IGNATIUS_OF_LOYOLA_CHAPTER_HISTORY_PARA_3">
+			<Text></Text>
+		</Row>
+
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_SC_CHAITANYA_MAHAPRABHU_NAME">
+			<Text>Chaitanya Mahaprabhu</Text>
+		</Row>
+
+		<Row Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_SC_CHAITANYA_MAHAPRABHU_CHAPTER_HISTORY_PARA_1">
+			<Text>Chaitanya Mahaprabhu (1486 – 1534) was a Vedic spiritual leader best known as the founder of Gaudiya Vaishnavism, a sect of Hinduism. Believed by his followers to be an incarnation of Vishnu, he was responsible for the popularization of the Hare Krishna chant and composed the Shikshashtakam prayer.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_SC_CHAITANYA_MAHAPRABHU_CHAPTER_HISTORY_PARA_2">
+			<Text>Chaitanya Mahaprabhu was born in present-day West Bengal, India, reportedly during a lunar eclipse. He is said to have found an early calling for both religious chanting and singing and the study of Sanskrit. When travelling to Gaya to perform a Śrāddha ceremony for his deceased father, Chaitanya met the ascetic Ishvara Puri and became more fascinated with Vaishnavism. Upon returning to Bengal, he quickly rose up the ranks of the Vaishnava hierarchy, becoming the leader. Chaitanya traveled throughout India, chanting the divine names of Krishna.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_SC_CHAITANYA_MAHAPRABHU_CHAPTER_HISTORY_PARA_3">
+			<Text>Eventually he made his way to Puri in Odisha, where the great temple of Jagannath is located; he would spend the last 24 year of his life there. Prataparudra Deva, the last Gajapati emperor of Odisha, regarded Chaitanya as an avatar of Krishna and became an enthusiastic patron. It was here that Gaudiya Vaishnavism took form with its emphasis on divine love (Samadhi) and divine ecstasy (Bhakti); the Shikshashtakam, composed by Chaitanya Mahaprabhu, is said to contain the complete of philosophy of Gaudiya Vaishnavism in condensed form. Some hold that Chaitanya began a period of renaissance in Bengal, inspiring increased religiosity and compassion there. The Gaudiya Vaishnava school continues to thrive today, with adherants all around the world.</Text>
+		</Row>
+
+		<!-- Scientists -->
+
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_SC_TIMOTHY_BERNERSLEE_NAME">
+			<Text>Timothy Berners-Lee</Text>
+		</Row>
+
+		<Row Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_SC_TIMOTHY_BERNERSLEE_CHAPTER_HISTORY_PARA_1">
+			<Text>Timothy Berners-Lee (1955 - ) is an English computer scientist and engineer who is credited with the invention of the World Wide Web. He created the first web browser, web server, and web site and in such developed many of the fundamental principles that make the Internet accessible for the masses.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_SC_TIMOTHY_BERNERSLEE_CHAPTER_HISTORY_PARA_2">
+			<Text></Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_SC_TIMOTHY_BERNERSLEE_CHAPTER_HISTORY_PARA_3">
+			<Text></Text>
+		</Row>
+
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_SC_MILDRED_DRESSELHAUS_NAME">
+			<Text>Mildred Dresselhaus</Text>
+		</Row>
+
+		<Row Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_SC_MILDRED_DRESSELHAUS_CHAPTER_HISTORY_PARA_1">
+			<Text>Known as the 'Queen of Carbon Science,' Mildred Dresselhaus (1930 - 2017) was an American scientist best known for her important contributions to the field of carbon science and nanoscience.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_SC_MILDRED_DRESSELHAUS_CHAPTER_HISTORY_PARA_2">
+			<Text>The daughter of Polish Jewish immigrants, Mildred Dresselhaus was born and raised in New York. She was enrolled at several prestigious institutions, including Cambridge, Harvard, Cornell, and the Unviersity of Chicago, where she studied under Nobel Laureate Enrico Fermi. After completing her degrees, she began working at MIT - the start of a 57-year-long career there.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_SC_MILDRED_DRESSELHAUS_CHAPTER_HISTORY_PARA_3">
+			<Text>Dresselhaus's main scientific focus was on carbon science, working on graphite, fullerenes, nanotubes, thermoelectrics, and other properties. Her and her team's research played an integral role in the development of mobile electronic technologies: thin graphite used in portable electronics like smartphones and smart clothing. She earned numerous awards over her lifetime, including the National Medal of Science and Presidential Medal of Freedom, for both her research and her role in expanding the opportunities for women in the sciences. Many scientific theories are named after Dresselhaus, shortly before her death in 2017, she became the face of a campaign to encourage greater female participation in STEM fields; her contributions were not just scientific in nature, but also socially significant.</Text>
+		</Row>
+
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_SC_SHINYA_YAMANAKA_NAME">
+			<Text>Shinya Yamanaka</Text>
+		</Row>
+
+		<Row Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_SC_SHINYA_YAMANAKA_CHAPTER_HISTORY_PARA_1">
+			<Text>Shinya Yamanaka (1962 - ) is a Japanese scientist known for his groundbreaking work in stem cell research. His research has helped to revolutionize the scientific standards surrounding stem cell research by discovering a method of harvesting stem cells without destroying embryos.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_SC_SHINYA_YAMANAKA_CHAPTER_HISTORY_PARA_2">
+			<Text>Yamanaka was born in Higashiōsaka, Japan, received his MD at Kobe University, and earned his PhD at Osaka City University Graduate School. He originally studied orthopedic surgery and cardiovascular disease. From 1996 to 1999, Yamanaka worked at the Osaka City University Medical School as an assistant professor but became disillusioned working there since he found he was unable to do actual research at the institution. In 1999, he applied for and obtained a position at the Nara Institute of Science and Technology, where he began the research that would later earn him a Nobel Prize.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_SC_SHINYA_YAMANAKA_CHAPTER_HISTORY_PARA_3">
+			<Text>In 2006, Yamanaka moved to Kyoto University, where he and his team were able to generate induced pluripotent stem cells (iPS cells) from adult mouse cells called fibroblasts. Before this, the only known way of gathering stem cells was from embryos, which were destroyed in the process and thus carried ethical considerations. It was believed that mature cells were unable to demonstrate pluripotency – the ability to generate all types of cells – but Yamanaka’s research proved otherwise: that mature cells could be ‘reprogrammed’ to a pluripotent state. After the initial discovery, Yamanaka and his team were able to repeat the process but with human cells. The discovery revolutionized stem cell research, in part by increasing the efficiency of the creation of stem cells and also by getting around important ethical dilemmas, stemming from the destruction of human embryos and the possibility of human cloning, which made the field controversial and hindered continued funding and development. For his groundbreaking work, Yamanaka, alongside British developmental biologist John Gurdon, was awarded the 2012 Nobel Prize in Physiology or Medicine. Looking forward, only time will tell what other breakthroughs Dr. Yamanaka will discover and reveal the true extent of the impact of his discoveries.</Text>
+		</Row>
+
+
+		<Row Tag="LOC_GREATPERSON_SC_SPACE_RACE_PRODUCTION_RATE_MEDIUM">
+			<Text>+{Amount}% [ICON_Production] Production towards Space Race projects.</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_SC_TIMOTHY_BERNERSLEE_ACTIVE">
+			<Text>Doubles Civilization-Wide [ICON_Tourism] Tourism Output.</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_SC_MILDRED_DRESSELHAUS_ACTIVE">
+			<Text>+100% [ICON_Production] Production towards Space Race projects.</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_SC_SHINYA_YAMANAKA_ACTIVE">
+			<Text>Gain +2 [ICON_Housing] Housing and +4 [ICON_Amenities] Amenities in this city.</Text>
+		</Row>
+
+		<!-- Writers -->
+
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_SC_AGATHA_CHRISTIE_NAME">
+			<Text>Agatha Christie</Text>
+		</Row>
+
+		<Row Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_SC_AGATHA_CHRISTIE_CHAPTER_HISTORY_PARA_1">
+			<Text>One of the best-selling authors of all time, Agatha Christie (1890 - 1976) was an English author noted for her mystery novels, particularly those centered around the characters of Hercule Poirot and Miss Marple. She was an integral part of the Golden Age of Detective Fiction and today remains the most-translated individual author in history.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_SC_AGATHA_CHRISTIE_CHAPTER_HISTORY_PARA_2">
+			<Text></Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_SC_AGATHA_CHRISTIE_CHAPTER_HISTORY_PARA_3">
+			<Text></Text>
+		</Row>
+
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_SC_GABRIEL_GARCIA_MARQUEZ_NAME">
+			<Text>Gabriel García Márquez</Text>
+		</Row>
+
+		<Row Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_SC_GABRIEL_GARCIA_MARQUEZ_CHAPTER_HISTORY_PARA_1">
+			<Text>Affectionately known as Gabo or Gabito throughout Latin America, Gabriel García Márquez (1927 - 2014) was a Colombian author. He is widely considered to be one of the most influential Spanish-language authors, winning the Nobel Prize in Literature in 1982. He is credited for helping to popularize the genre of magical realism.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_SC_GABRIEL_GARCIA_MARQUEZ_CHAPTER_HISTORY_PARA_2">
+			<Text></Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_SC_GABRIEL_GARCIA_MARQUEZ_CHAPTER_HISTORY_PARA_3">
+			<Text></Text>
+		</Row>
+
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_SC_CHINUA_ACHEBE_NAME">
+			<Text>Chinua Achebe</Text>
+		</Row>
+
+		<Row Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_SC_CHINUA_ACHEBE_CHAPTER_HISTORY_PARA_1">
+			<Text>Chinua Achebe (1930 - 2013) was a Nigerian author who is best known his first novel, Things Fall Apart, which is the most widely read book in modern African literature. Achebe's novels often deal with the clash of cultures in his Igbo homeland and Achebe often tackled the complexities and legacies of imperialism both in his work and in his public life.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_SC_CHINUA_ACHEBE_CHAPTER_HISTORY_PARA_2">
+			<Text></Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_SC_CHINUA_ACHEBE_CHAPTER_HISTORY_PARA_3">
+			<Text></Text>
+		</Row>
+
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_SC_JRR_TOLKIEN_NAME">
+			<Text>J. R. R. Tolkien</Text>
+		</Row>
+
+		<Row Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_SC_JRR_TOLKIEN_CHAPTER_HISTORY_PARA_1">
+			<Text>Often considered to be the Father of Modern Fantasy Literature, J. R. R. Tolkien (1892 - 1973) was an English author best known for his works centered on the mythical land of Middle Earth, namely The Hobbit and The Lord of the Rings trilogy. The success of The Hobbit and The Lord of the Rings helped revitalized the fantasy genre in the mid-twentieth century and many modern fantasy works continue to take inspiration from Tolkien's works.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_SC_JRR_TOLKIEN_CHAPTER_HISTORY_PARA_2">
+			<Text></Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_SC_JRR_TOLKIEN_CHAPTER_HISTORY_PARA_3">
+			<Text></Text>
+		</Row>
+
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_SC_GEORGE_RR_MARTIN_NAME">
+			<Text>George R. R. Martin</Text>
+		</Row>
+
+		<Row Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_SC_GEORGE_RR_MARTIN_CHAPTER_HISTORY_PARA_1">
+			<Text>George R. R. Martin (1948 - ) is an American author of works primarily in the fantasy, horror, and science fiction genres. He is best known as the author of the A Song of Ice and Fire series of novels, which were the basis for the popular Game of Thrones television series. He has been described as the 'American Tolkien' for his reputation for crafting richly detailed worlds and complex characters.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_SC_GEORGE_RR_MARTIN_CHAPTER_HISTORY_PARA_2">
+			<Text></Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_SC_GEORGE_RR_MARTIN_CHAPTER_HISTORY_PARA_3">
+			<Text></Text>
+		</Row>
+
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_SC_JK_ROWLING_NAME">
+			<Text>J. K. Rowling</Text>
+		</Row>
+
+		<Row Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_SC_JK_ROWLING_CHAPTER_HISTORY_PARA_1">
+			<Text>J. K. Rowling (1965 - ) is a British author best known for writing the Harry Potter series of books, which is the best-selling book series in history. The success of the series made her the world's first billionaire author, although she lost that status due to her active philanthropic work, including through her own charity organization, Lumos.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_SC_JK_ROWLING_CHAPTER_HISTORY_PARA_2">
+			<Text></Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_SC_JK_ROWLING_CHAPTER_HISTORY_PARA_3">
+			<Text></Text>
+		</Row>
+
+
+		<Row Tag="LOC_GREATWORK_SC_AGATHA_CHRISTIE_1_NAME">
+			<Text>Murder on the Orient Express</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_SC_AGATHA_CHRISTIE_2_NAME">
+			<Text>And Then There were None</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_SC_GABRIEL_GARCIA_MARQUEZ_1_NAME">
+			<Text>One Hundred Years of Solitude</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_SC_GABRIEL_GARCIA_MARQUEZ_2_NAME">
+			<Text>Love in the Time of Cholera</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_SC_CHINUA_ACHEBE_1_NAME">
+			<Text>Things Fall Apart</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_SC_CHINUA_ACHEBE_2_NAME">
+			<Text>No Longer at Ease</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_SC_JRR_TOLKIEN_1_NAME">
+			<Text>The Hobbit</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_SC_JRR_TOLKIEN_2_NAME">
+			<Text>The Fellowship of the Ring</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_SC_GEORGE_RR_MARTIN_1_NAME">
+			<Text>A Game of Thrones</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_SC_GEORGE_RR_MARTIN_2_NAME">
+			<Text>A Clash of Kings</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_SC_JK_ROWLING_1_NAME">
+			<Text>Harry Potter and the Philosopher's Stone</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_SC_JK_ROWLING_2_NAME">
+			<Text>Harry Potter and the Prisoner of Azkaban</Text>
+		</Row>
+
+		<Row Tag="LOC_GREATWORK_SC_AGATHA_CHRISTIE_1_QUOTE">
+			<Text>The impossible cannot have happened, therefore the impossible must be possible in spite of appearances.</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_SC_AGATHA_CHRISTIE_2_QUOTE">
+			<Text>In the midst of life, we are in death.</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_SC_GABRIEL_GARCIA_MARQUEZ_1_QUOTE">
+			<Text>The secret of a good old age is simply an honorable pact with solitude.</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_SC_GABRIEL_GARCIA_MARQUEZ_2_QUOTE">
+			<Text>To him she seemed so beautiful, so seductive, so different from ordinary people, that he could not understand why no one was as disturbed as he by the clicking of her heels on the paving stones, why no one else's heart was wild with the breeze stirred by the sighs of her veils, why everyone did not go mad with the movements of her braid, the flight of her hands, the gold of her laughter.</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_SC_CHINUA_ACHEBE_1_QUOTE">
+			<Text>The sun will shine on those who stand before it shines on those who kneel under them.</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_SC_CHINUA_ACHEBE_2_QUOTE">
+			<Text>You cannot plant greatness as you plant yams or maize. Who ever planted an iroko tree — the greatest tree in the forest? You may collect all the iroko seeds in the world, open the soil and put them there. It will be in vain. The great tree chooses where to grow and we find it there, so it is with the greatness in men.</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_SC_JRR_TOLKIEN_1_QUOTE">
+			<Text>My armour is like tenfold shields, my teeth are swords, my claws spears, the shock of my tail a thunderbolt, my wings a hurricane, and my breath death!</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_SC_JRR_TOLKIEN_2_QUOTE">
+			<Text>One Ring to rule them all, One Ring to find them,[NEWLINE]One Ring to bring them all and in the darkness bind them.</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_SC_GEORGE_RR_MARTIN_1_QUOTE">
+			<Text>A mind needs books as a sword needs a whetstone, if it is to keep its edge.</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_SC_GEORGE_RR_MARTIN_2_QUOTE">
+			<Text>People often claim to hunger for truth, but seldom like the taste when it's served up.</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_SC_JK_ROWLING_1_QUOTE">
+			<Text>It does not do to dwell on dreams and forget to live.</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_SC_JK_ROWLING_2_QUOTE">
+			<Text>I solemnly swear that I am up to no good.</Text>
+		</Row>
+		
+		<!-- Updating Ture's Descrption -->
+		<Row Tag="LOC_GREATPERSON_SC_SAMORI_TURE_ACTIVE">
+			<Text>Instantly creates an Infantry unit with 1 promotion level.</Text>
+		</Row>
+		
+		
+	</BaseGameText>
+</GameData>

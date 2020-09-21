@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<GameData>
+	<LocalizedText>
+		<!-- English -->
+		<Row Tag="LOC_BUILDING_ITSUKUSHIMA_NAME" Language="en_US">
+			<Text>Itsukushima Shrine</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_ITSUKUSHIMA_DESCRIPTION" Language="en_US">
+			<Text>Grants Standard Adjacency (+1 [ICON_Faith] Faith) to Holy Site from Coast and Minor Adjacency (+0.5 [ICON_Culture] Culture) to Theatre Square from Coast. Grants a free Monument to City. Adds +1 Appeal to tiles in City. Must be built on Coast adjacent to a Holy Site District.</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_ITSUKUSHIMA_QUOTE" Language="en_US">
+			<Text>“There is nothing outside of yourself that can ever enable you to get better, stronger, richer, quicker, or smarter. Everything is within. Everything exists. Seek nothing outside of yourself.” - Miyamoto Musashi</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_WONDERS_PAGE_BUILDING_ITSUKUSHIMA_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Itsukushima Shrine is a Shinto shrine on the island of Itsukushima (popularly known as Miyajima), best known for its "floating" torii gate. It is in the city of Hatsukaichi in Hiroshima Prefecture in Japan. The shrine complex is listed as a UNESCO World Heritage Site, and the Japanese government has designated several buildings and possessions as National Treasures. The Itsukushima shrine is one of Japan's most popular tourist attractions. It is most famous for its dramatic gate, or torii on the outskirts of the shrine , the sacred peaks of Mount Misen, extensive forests, and its aesthetic ocean view.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_WONDERS_PAGE_BUILDING_ITSUKUSHIMA_CHAPTER_HISTORY_PARA_2" Language="en_US">
+			<Text>Itsukushima jinja was the chief Shinto shrine (ichinomiya) of Aki Province. It is said to have been erected in 593 supposedly by Saeki Kuramoto during the Suiko period. However, the present shrine has been popularly attributed to Taira no Kiyomori, a prominent warlord (daimyo) who contributed heavily to the building of the shrine during his time as governor of Aki Province in 1168. Another renowned patron of the shrine was the warlord Mori Motonari, lord of Choshu, who was responsible for rebuilding the honden in 1571. It is important to note, however, that as a result of waging war against Sue Takafusa there in 1555, Motonari is said to have tainted the island's grounds by battling on the island. This relates to the strict notions of sacred purity that Shinto shrines stand for.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_WONDERS_PAGE_BUILDING_ITSUKUSHIMA_CHAPTER_HISTORY_PARA_3" Language="en_US">
+			<Text>The Itsukushima shrine is dedicated to the three daughters of Susano-o no Mikoto: Ichikishimahime no mikoto, Tagorihime no mikoto, and Tagitsuhime no mikoto. Otherwise known as the sanjoshin or "three female deities", these Shinto deities are the goddesses of seas and storms. Kiyomori believed the goddesses to be "manifestations of Kannon," therefore the island was understood as the home of the bodhisattva. In Japanese, Itsukushima translates to mean "island dedicated to the gods" In fact, the island itself is also considered to be a god, which is why the shrine was built on the outskirts of the island.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_WONDERS_PAGE_BUILDING_ITSUKUSHIMA_CHAPTER_HISTORY_PARA_4" Language="en_US">
+			<Text>The most recognizable and celebrated feature of the Itsukushima shrine, is its fifty-foot tall vermilion otorii gate ("great gate"), built of decay-resistant camphor wood. The placement of an additional leg in front of and behind each main pillar identifies the torii as reflecting the style of Ryōbu Shintō (dual Shinto), a medieval school of esoteric Japanese Buddhism associated with the Shingon Sect. The torii appears to be floating only at high tide. When the tide is low, it is only approachable by foot from the island. Gathering shellfish near the gate is also popular at low tide. At night, powerful lights on the shore illuminate the torii.</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_ITSUKUSHIMA_THEATER_COAST_CULTURE" Language="en_US">
+			<Text>+{1_num} [ICON_Culture] Culture from the adjacent Coast (Itsukushima Shrine).</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_ITSUKUSHIMA_HOLY_SITE_COAST_FAITH" Language="en_US">
+			<Text>+{1_num} [ICON_Faith] Faith from the adjacent Coast (Itsukushima Shrine).</Text>
+		</Row>
+
+		<!-- German -->
+		<Row Tag="LOC_BUILDING_ITSUKUSHIMA_NAME" Language="de_DE">
+			<Text>Itsukushima Schrein</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_ITSUKUSHIMA_QUOTE" Language="de_DE">
+			<Text>“Es gibt nichts außerhalb von dir, dass dich dazu bemächtigt, stärker, reicher, schneller oder klüger zu werden. Alles ist in dir. Alles existiert. Suche nichts außerhalb von dir selbst.” - Miyamoto Musashi</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_WONDERS_PAGE_BUILDING_ITSUKUSHIMA_CHAPTER_HISTORY_PARA_1" Language="de_DE">
+			<Text>Itsukushima-Schrein ist ein Shinto-Schrein auf der Insel Itsukushima (im Volksmund als Miyajima bekannt), der am besten für sein "schwebendes" Torii-Tor bekannt ist. Es ist in der Stadt Hatsukaichi in der Präfektur Hiroshima in Japan. Der Schreinkomplex ist als UNESCO-Weltkulturerbe gelistet, und die japanische Regierung hat mehrere Gebäude und Besitztümer als nationale Schätze ausgewiesen. Der Itsukushima-Schrein ist eine der beliebtesten Touristenattraktionen Japans. Es ist am bekanntesten für sein wunderschönes Tor oder die Torii am Rande des Schreins, die heiligen Gipfel des Mount Misen, die ausgedehnten Wälder und seinen ästhetischen Meerblick.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_WONDERS_PAGE_BUILDING_ITSUKUSHIMA_CHAPTER_HISTORY_PARA_2" Language="de_DE">
+			<Text>Itsukushima jinja war der oberste Shinto-Schrein (Ichinomiya) der Provinz Aki. Er soll 593 von Saeki Kuramoto während der Suiko-Zeit errichtet worden sein. Der heutige Schrein wurde jedoch im Volksmund Taira no Kiyomori zugeschrieben, einem prominenten Kriegsherrn (Daimyo), der während seiner Zeit als Gouverneur der Provinz Aki im Jahr 1168 maßgeblich zum Bau des Schreins beigetragen hatte. Ein weiterer berühmter Schutzpatron des Schreins war der Kriegsherr Mori Motonari, Lord von Choshu, der 1571 für den Wiederaufbau des Honden verantwortlich war. Es ist jedoch wichtig zu erwähnen, dass Motonari 1555 als Ergebnis des Krieges gegen Sue Takafusa das Gelände der Insel durch Kämpfe in Mitleidenschaft gezogen haben soll. Dies bezieht sich auf die strengen Begriffe der heiligen Reinheit, für die shintoistische Schreine stehen.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_WONDERS_PAGE_BUILDING_ITSUKUSHIMA_CHAPTER_HISTORY_PARA_3" Language="de_DE">
+			<Text>Der Itsukushima-Schrein ist den drei Töchtern von Susano-o no Mikoto gewidmet: Ichikishimahime no mikoto, Tagorihime no mikoto und Tagitsuhime no mikoto. Diese shintoistischen Gottheiten, die auch als Sanjoshin oder "drei weibliche Gottheiten" bezeichnet werden, sind die Göttinnen der Meere und Stürme. Kiyomori glaubte, die Göttinnen seien "Manifestationen von Kannon", daher wurde die Insel als die Heimat des Bodhisattva verstanden. Itsukushima bedeutet auf Japanisch "Insel, die den Göttern gewidmet ist". Tatsächlich wird die Insel selbst auch als Gott betrachtet, weshalb der Schrein am Rande der Insel errichtet wurde.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_WONDERS_PAGE_BUILDING_ITSUKUSHIMA_CHAPTER_HISTORY_PARA_4" Language="de_DE">
+			<Text>Das bekannteste und berühmteste Merkmal des Itsukushima-Schreins ist das fünfzig Fuß hohe Tor o-torii ("Great Gate"), das aus fäulnisresistentem Kampferholz gebaut wurde. Die Platzierung eines zusätzlichen Beins vor und hinter jeder Hauptsäule zeigt, dass die Torii den Stil von Ryōbu Shintō (duales Shinto) widerspiegeln, einer mittelalterlichen Schule des esoterischen japanischen Buddhismus, die mit der Shingon-Sekte verbunden ist. Die Torii scheinen nur bei Flut zu schweben. Bei Ebbe ist die Insel nur zu Fuß erreichbar. Das Sammeln von Schalentieren in der Nähe des Tors ist auch bei Ebbe sehr beliebt. In der Nacht erleuchten mächtige Lichter am Ufer die Torii.</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_ITSUKUSHIMA_THEATER_COAST_CULTURE" Language="de_DE">
+			<Text>+{1_num} [ICON_Culture] Culture from the adjacent Coast.</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_ITSUKUSHIMA_HOLY_SITE_COAST_FAITH" Language="de_DE">
+			<Text>+{1_num} [ICON_Faith] Faith from the adjacent Coast.</Text>
+		</Row>
+	</LocalizedText>
+</GameData>

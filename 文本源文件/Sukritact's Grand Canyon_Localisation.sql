@@ -1,0 +1,18 @@
+--------------------------------------------------------------------------------------------------------------------------
+-- LocalizedText
+--------------------------------------------------------------------------------------------------------------------------
+INSERT OR REPLACE INTO LocalizedText
+		(Tag, 																								Language,					Text)
+VALUES  
+--------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------------
+		("LOC_FEATURE_SUK_GRANDCANYON_NAME",  																						"en_US",
+		"Grand Canyon"																),
+		("LOC_FEATURE_SUK_GRANDCANYON_DESCRIPTION",  																						"en_US",
+		"Three tile impassable natural wonder. Provides +1 [ICON_FOOD] Food, +1 [ICON_CULTURE] Culture to adjacent tiles. After the game reaches the Industrial Era, Cities gain +4 [ICON_Tourism] Tourism for each tile of the Grand Canyon they own. Acts as a source of Fresh Water."																),
+		("LOC_FEATURE_SUK_GRANDCANYON_QUOTE",  																						"en_US",
+		"“In the Grand Canyon, Arizona has a natural wonder which is in kind absolutely unparalleled throughout the rest of the world. You cannot improve it. The ages have been at work on it, and man can only mar it.”[NEWLINE]– Theodore Roosevelt"																),
+		("LOC_PEDIA_FEATURES_PAGE_FEATURE_SUK_GRANDCANYON_CHAPTER_HISTORY_PARA_1",  																						"en_US",
+		"The Grand Canyon is among the earth’s greatest on-going geological spectacles. Its vastness is stunning, and the evidence it reveals about the earth’s history is invaluable. Its geologic record spans all four eras of the earth's evolutionary history, from the Precambrian to the Cenozoic. The 1.5-kilometer (0.9 mile) deep gorge ranges twists and turns 445 km (276.5 miles) and was formed during 6 million years of geologic activity and erosion by the Colorado River. Widely known for its exceptional natural beauty and considered one of the world's most visually powerful landscapes, the Grand Canyon is celebrated for its plunging depths; temple-like buttes; and vast, multihued, labyrinthine topography. Scenic wonders within park boundaries include high plateaus, plains, deserts, forests, cinder cones, lava flows, streams, waterfalls, and one of America’s great whitewater rivers. It is an exceptional example of biological environments at different elevations that evolved as the river cut deeper portraying five of North America’s seven life zones within canyon walls. Flora and fauna species overlap in many of the zones and are found throughout the canyon. For thousands of years, the area has been continuously inhabited by Native Americans, who built settlements within the canyon and its many caves. The Pueblo people considered the Grand Canyon a holy site, and made pilgrimages to it. U.S. President Theodore Roosevelt designated the preserve a U.S. National Monument on January 11, 1908, and today Grand Canyon National Park is one of the world's premier natural attractions, attracting about five million visitors per year."																);
+--------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------------

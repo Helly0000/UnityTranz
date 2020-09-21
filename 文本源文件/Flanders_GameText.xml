@@ -1,0 +1,273 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by Ed Beach (Firaxis Games) -->
+<GameData>
+	<LocalizedText>
+		<Row Tag="LOC_LEADER_MER_THIERRY_NAME" Language="en_US">
+			<Text>Thierry</Text>
+		</Row>
+		<!--Traits-->
+		<Row Tag="LOC_TRAIT_LEADER_MER_HOLY_BLOOD_NAME" Language="en_US">
+			<Text>Procession of the Holy Blood</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_LEADER_MER_HOLY_BLOOD_DESCRIPTION" Language="en_US">
+			<Text>Capturing an enemy City grants a 20% bonus to [ICON_Production] Production, [ICON_Gold] Gold, and [ICON_Faith] Faith in all cities for 5 turns, conquering an enemy's original Capital also grants a free [ICON_GreatWork_Relic] Relic in an empty available slot. Medieval Walls grant +1 [ICON_Gold] Gold to Farms and Pastures.</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_CIVILIZATION_MER_BROADCLOTH_INDUSTRY_NAME" Language="en_US">
+			<Text>Lakengilden</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_CIVILIZATION_MER_BROADCLOTH_INDUSTRY_DESCRIPTION" Language="en_US">
+			<Text>International [ICON_TradeRoute] Trade Routes sent from cities with a Commercial Hub, Harbor, or Industrial Zone yield +1 [ICON_Production] Production per Bonus Resource in the origin city and +1 [ICON_Gold] Gold per Luxury Resource in the destination city. [NEWLINE]Commercial Hubs, Harbors, and Industrial Zones grant +1 [ICON_Citizen] Population when constructed and provide +1 additional [ICON_Housing] Housing. [NEWLINE]After Guilds receive +1 [ICON_GreatArtist] Great Artist Point for each different Luxury resource you produce.</Text>
+		</Row> 
+		<Row Tag="LOC_TRAIT_CIVILIZATION_UNIT_MER_GOEDENDAG_NAME" Language="en_US">
+			<Text>Goedendag</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_CIVILIZATION_UNIT_MER_GOEDENDAG_DESCRIPTION" Language="en_US">
+			<Text>A unique land unit</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_MER_GOEDENDAG_NAME" Language="en_US">
+			<Text>Goedendag</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_MER_GOEDENDAG_DESCRIPTION" Language="en_US">
+			<Text>Flemish unique Melee unit. Receives +7 [ICON_Strength] Combat Strength against Mounted Units. </Text>
+		</Row>
+		<Row Tag="LOC_MER_GOEDENDAG_CAVALRY_STRENGTH_DESCRIPTION" Language="en_US">
+			<Text>+7 [ICON_Strength] Strength against Mounted. </Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_CIVILIZATION_BUILDING_MER_MARKTHALL_NAME" Language="en_US">
+			<Text>Markthall</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_CIVILIZATION_BUILDING_MER_MARKTHALL_DESCRIPTION" Language="en_US">
+			<Text>A unique building</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_MER_MARKTHALL_NAME" Language="en_US">
+			<Text>Markthall</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_MER_MARKTHALL_DESCRIPTION" Language="en_US">
+			<Text>Flemish unique Commercial Hub building. +1 [Icon_GreatWork_Sculpture][Icon_GreatWork_Portrait][Icon_GreatWork_Landscape][Icon_GreatWork_Religious] Great Work of Art Slot. Grants a copy of the Broadcloth Luxury Resource. During [ICON_GLORY_GOLDEN_AGE] Golden Ages yields [ICON_CULTURE] Culture equal to the district's adjacency bonus and grants a second copy of Broadcloth.</Text>
+		</Row>
+		<Row Tag="LOC_RESOURCE_MER_BROADCLOTH_NAME" Language="en_US">
+			<Text>Broadcloth</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_MER_FLANDERS_NAME" Language="en_US">
+			<Text>Flanders</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_MER_FLANDERS_DESCRIPTION" Language="en_US">
+			<Text>Flemish Empire</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_MER_FLANDERS_DESCRIPTION_JFD_CIVILIZATION" Language="en_US">
+			<Text>Flemish Civilization</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_MER_FLANDERS_ADJECTIVE"	  Language="en_US">
+			<Text>Flemish</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_MER_FLANDERS_1" Language="en_US">
+			<Text>Ghent</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_MER_FLANDERS_2" Language="en_US">
+			<Text>Bruges</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_MER_FLANDERS_3" Language="en_US">
+			<Text>Lille</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_MER_FLANDERS_4" Language="en_US">
+			<Text>Ypres</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_MER_FLANDERS_5" Language="en_US">
+			<Text>Aalst</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_MER_FLANDERS_6" Language="en_US">
+			<Text>Kortrijk</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_MER_FLANDERS_7" Language="en_US">
+			<Text>Douai</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_MER_FLANDERS_8" Language="en_US">
+			<Text>Dunkerque</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_MER_FLANDERS_9" Language="en_US">
+			<Text>Cassel</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_MER_FLANDERS_10" Language="en_US">
+			<Text>Sint Niklaas</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_MER_FLANDERS_11" Language="en_US">
+			<Text>Oudenaarde</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_MER_FLANDERS_12" Language="en_US">
+			<Text>Ostend</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_MER_FLANDERS_13" Language="en_US">
+			<Text>Roeselare</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_MER_FLANDERS_14" Language="en_US">
+			<Text>Tielt</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_MER_FLANDERS_15" Language="en_US">
+			<Text>Sluys</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_MER_FLANDERS_16" Language="en_US">
+			<Text>Eeklo</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_MER_FLANDERS_17" Language="en_US">
+			<Text>Dendermonde</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_MER_FLANDERS_18" Language="en_US">
+			<Text>Veurne</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_MER_FLANDERS_19" Language="en_US">
+			<Text>Diksmuide</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_MER_FLANDERS_20" Language="en_US">
+			<Text>Damme</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_MER_FLANDERS_21" Language="en_US">
+			<Text>Bergues</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_MER_FLANDERS_22" Language="en_US">
+			<Text>Furnes</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_MER_FLANDERS_23" Language="en_US">
+			<Text>Seclin</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_MER_FLANDERS_24" Language="en_US">
+			<Text>Torhout</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_MER_FLANDERS_25" Language="en_US">
+			<Text>Biervliet</Text>
+		</Row>
+		<!--Citizens-->
+		<Row Tag="LOC_CITIZEN_MER_FLANDERS_MALE_1" Language="en_US">
+			<Text>Francen</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_MER_FLANDERS_MALE_2" Language="en_US">
+			<Text>Hein</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_MER_FLANDERS_MALE_3" Language="en_US">
+			<Text>Isaac</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_MER_FLANDERS_MALE_4" Language="en_US">
+			<Text>Hannes</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_MER_FLANDERS_MALE_5" Language="en_US">
+			<Text>Micgielt</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_MER_FLANDERS_MALE_6" Language="en_US">
+			<Text>Pauels</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_MER_FLANDERS_MALE_7" Language="en_US">
+			<Text>Pauels</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_MER_FLANDERS_MALE_8" Language="en_US">
+			<Text>Flupken</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_MER_FLANDERS_MALE_9" Language="en_US">
+			<Text>Matthys</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_MER_FLANDERS_MALE_10" Language="en_US">
+			<Text>Roelf</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_MER_FLANDERS_FEMALE_1" Language="en_US">
+			<Text>Helene</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_MER_FLANDERS_FEMALE_2" Language="en_US">
+			<Text>Mayken</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_MER_FLANDERS_FEMALE_3" Language="en_US">
+			<Text>Clasina</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_MER_FLANDERS_FEMALE_4" Language="en_US">
+			<Text>Aaf</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_MER_FLANDERS_FEMALE_5" Language="en_US">
+			<Text>Aemilia</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_MER_FLANDERS_FEMALE_6" Language="en_US">
+			<Text>Else</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_MER_FLANDERS_FEMALE_7" Language="en_US">
+			<Text>Paulina</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_MER_FLANDERS_FEMALE_8" Language="en_US">
+			<Text>Natalie</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_MER_FLANDERS_FEMALE_9" Language="en_US">
+			<Text>Roos</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_MER_FLANDERS_FEMALE_10" Language="en_US">
+			<Text>Livina</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_MER_FLANDERS_MODERN_MALE_1" Language="en_US">
+			<Text>Charles</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_MER_FLANDERS_MODERN_MALE_2" Language="en_US">
+			<Text>Eugene</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_MER_FLANDERS_MODERN_MALE_3" Language="en_US">
+			<Text>Henry</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_MER_FLANDERS_MODERN_MALE_4" Language="en_US">
+			<Text>Julian</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_MER_FLANDERS_MODERN_MALE_5" Language="en_US">
+			<Text>Laurence</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_MER_FLANDERS_MODERN_MALE_6" Language="en_US">
+			<Text>Justin</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_MER_FLANDERS_MODERN_MALE_7" Language="en_US">
+			<Text>Gerald</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_MER_FLANDERS_MODERN_MALE_8" Language="en_US">
+			<Text>Leonard</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_MER_FLANDERS_MODERN_MALE_9" Language="en_US">
+			<Text>Daniel</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_MER_FLANDERS_MODERN_MALE_10" Language="en_US">
+			<Text>Martin</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_MER_FLANDERS_MODERN_FEMALE_1" Language="en_US">
+			<Text>Brigid</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_MER_FLANDERS_MODERN_FEMALE_2" Language="en_US">
+			<Text>Barbara</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_MER_FLANDERS_MODERN_FEMALE_3" Language="en_US">
+			<Text>Judith</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_MER_FLANDERS_MODERN_FEMALE_4" Language="en_US">
+			<Text>Louise</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_MER_FLANDERS_MODERN_FEMALE_5" Language="en_US">
+			<Text>Lily</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_MER_FLANDERS_MODERN_FEMALE_6" Language="en_US">
+			<Text>Sophie</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_MER_FLANDERS_MODERN_FEMALE_7" Language="en_US">
+			<Text>Margaret</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_MER_FLANDERS_MODERN_FEMALE_8" Language="en_US">
+			<Text>Susan</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_MER_FLANDERS_MODERN_FEMALE_9" Language="en_US">
+			<Text>Stephanie</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_MER_FLANDERS_MODERN_FEMALE_10" Language="en_US">
+			<Text>Julia</Text>
+		</Row>
+		<!--PLACES-->
+		<Row Tag="LOC_NAMED_LAKE_MER_DONKMEER_NAME" Language="en_US">
+			<Text>Donkmeer</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_LAKE_MER_LAKE_GENVAL_NAME" Language="en_US">
+			<Text>Lake Genval</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_LAKE_MER_HAZEWINKEL_NAME" Language="en_US">
+			<Text>Hazewinkel</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_RIVER_MER_LEIE_NAME" Language="en_US">
+			<Text>Leie</Text>
+		</Row>
+	</LocalizedText>
+</GameData>

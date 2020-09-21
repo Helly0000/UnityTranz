@@ -1,0 +1,649 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by Ed Beach (Firaxis Games) -->
+<GameData>
+	<LocalizedText>
+		<!--CIVILIZATION-->
+		<Row Tag="LOC_CIVILIZATION_ENIGMA_HAWAII_NAME" Language="en_US">
+			<Text>Hawaii</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_ENIGMA_HAWAII_DESCRIPTION" Language="en_US">
+			<Text>Hawaiian Empire</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_ENIGMA_HAWAII_ADJECTIVE" Language="en_US">
+			<Text>Hawaiian</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_ENIGMA_HAWAII_DESCRIPTION_JFD_CIVILIZATION" Language="en_US">
+			<Text>Hawaiian Civilization</Text>
+		</Row>
+		<!--Pedia-->
+		<Row Tag="LOC_CIVINFO_ENIGMA_HAWAII_LOCATION" Language="en_US">
+			<Text>Hawaiian Islands</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_ENIGMA_HAWAII_POPULATION" Language="en_US">
+			<Text>1,427,538</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_ENIGMA_HAWAII_SIZE" Language="en_US">
+			<Text>10,931 sq mi (28,311 km2)</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_ENIGMA_HAWAII_CAPITAL" Language="en_US">
+			<Text>Honolulu</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_ENIGMA_HAWAII_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>The ancient history of the Hawaiian isles is shrouded in mystery due to the fact that the Hawaiian peoples did not have a written language (like many other peoples who did not have a written language until very recently in their history – yet somehow they’re all able to recruit great writers). For this reason, the date of the initial settlement of Hawaii by Polynesian sojourners is unknown. Archaeologists estimate that it was settled sometime between 1219 and 1266 CE, though this is still somewhat disputed.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_ENIGMA_HAWAII_CHAPTER_HISTORY_PARA_2" Language="en_US">
+			<Text>Society in Ancient Hawaii (effectively any point before European contact in 1778) consisted of a fairly simple caste system. High and lesser chiefs who ruled with mana – a divine, magical power, though this simplifies it – were called Ali’i. Below them were the Kahuna, the diverse Priests who served many roles, conducted religious ceremonies at heiau, and communed with spirits. Maka’ainana were the class of commoners who supported the other two classes as families stuck to careers spanning across generations, and below them were Kauwa – slaves, war captives, criminals, and potentially even sacrifices-to-be. A system of apprenticeship existed so gifted children could learn a craft or a profession by assisting a kahuna (which was also an expert in a field). This effectively means that the Hawaiian religion effectively bound society together, as the leaders and experts in fields had mystical powers (pay attention to this fact for later).</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_ENIGMA_HAWAII_CHAPTER_HISTORY_PARA_3" Language="en_US">
+			<Text>The four largest islands – Hawai’i, Kaua’i, O’ahu, and Maui – were usually each ruled by their own high chief, the Ali’i Nui, with lower ranking subordinate chiefs ruling over smaller tracts of land divided based entirely on the wishes of the Ali’i Nui. These chiefs were belong to a number of Hawaiian dynasties, all interrelated and remembered in great detail through oral histories.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_ENIGMA_HAWAII_CHAPTER_HISTORY_PARA_4" Language="en_US">
+			<Text>Prior to European contact, the Japanese managed to make up to twelve successful voyages to Hawaii before European contact, with the first voyage being as early as 1258. Hawaiians had a number of iron knives that bore striking resemblance to Japanese ones. Also, as Japan had been infected with syphilis in 1512, and Japanese sailors made a mission to Hawaii after this, Hawaii was also fucked.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_ENIGMA_HAWAII_CHAPTER_HISTORY_PARA_5" Language="en_US">
+			<Text>European Contact was made in 1778, when British Captain James Cook landed at Kaua’i, then toured the remaining islands. Coincidentally, Cook’s ship resembled the emblem of the god Lono, and he happened to arrive during the season associated with that god. Due to this and a number of other bizarre coincidences, Cook was deified as an incarnation of the god Lono. Unfortunately for him, he tried to barter and then forcibly stole some wood that bordered a sacred ground in order to repair his ship. The chiefs were insulted, but Cook decided to take the wood anyways. Cook accused the Hawaiians of stealing a rowboat from his ship (which was later found to be unstolen, though the Hawaiians later stole a different rowboat), and Cook decided that the best way to get the natives to like him was to kidnap their high chief. Cook slapped a royal attendant, and got stabbed with a knife. Needless to say, Cook did not survive.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_ENIGMA_HAWAII_CHAPTER_HISTORY_PARA_6" Language="en_US">
+			<Text>In 1795, the Kingdom of Hawai’i was officially established under the House of Kamehameha, with the unification of the islands of Hawai’i, O’ahu, Maui, Moloka’i, and Lana’i – though Kamehameha only completed the conquest of all five islands in 1810, after 15 years of warfare. Kamehameha’s reign was revolutionary for Hawaii, and brought in sweeping reforms and westernizations that no other of the region had the power to execute. All these reforms “conveniently” resulted in more power for Kamehameha, but unfortunately eroded at the Hawaiian religion – the very same one that bound society together. Worse still, Hawaii was undergoing a crisis as population freefell from potentially 600,000 to just around 144,000 due to an epidemic of war, epidemics, abortion, and infanticide. However, Hawaii was still held up by trading sandalwood with Western merchants, on the way to China to sell the very same Sandalwood. The trade business made Hawaii very rich.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_ENIGMA_HAWAII_CHAPTER_HISTORY_PARA_7" Language="en_US">
+			<Text>In 1819, Kamehameha died, leading to the rise of Queen Ka’ahumanu, his favorite wife and Queen Regent for his heir, Liholiho. In reality, Ka’ahumanu used Liholiho as a puppet, and executed her own agenda. This amounted to the elimination of several prohibitions shackling women’s rights, but also continued to erode the Hawaiian religion. Ultimately, the religion was abolished entirely, and scored os missionaries arrived to Christianize the islands (though, they did help develop a written Hawaiian language, leading to high levels of literacy and also the ability to recruit great writers). A constitution of the nation was developed, and land was unfairly and permanently redistributed in 1848: 98% of the land was assigned to nobility, and the remainder went to the commoners. The elite nobles promoted the sugar industry in order to modernize the economy (the fact that they would become very rich was obviously just a coincidence). American sugar plantations were set up, and America became very financially invested in the Kingdom of Hawaii.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_ENIGMA_HAWAII_CHAPTER_HISTORY_PARA_8" Language="en_US">
+			<Text>As the population shrunk, so too did the army, and by 1848 what was once a mighty navy and army under Kamehameha was just a few hundred land-troops. Kamehameha III sought defensive treaties with both the United States and Britain after a French invasion sacked a defenceless Honolulu (along with a score of other incidents and affairs in which Hawaii was beaten up for its lunch money), but still Hawaii was at the mercy of international diplomacy.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_ENIGMA_HAWAII_CHAPTER_HISTORY_PARA_9" Language="en_US">
+			<Text>The Kamehameha Dynasty came to an end when Kamehameha V tried to make his wife, Bernice Pauahi Bishop, his heir. Bernice refused the crown, and thus Hawaii had to determine a new king. In a unanimous vote, William C. Lunalilo was elected to the throne in 1873… and died the next year without naming an heir either. This time, the election was nasty in which Queen Emma was opposed by David Kalakaua. The election descended into mudslinging and innuendo (and angry mobs), but eventually David Kalakaua was made the First King of the Kalakaua dynasty, and took precautions to name several heirs so that they would not have to go through this whole ordeal again.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_ENIGMA_HAWAII_CHAPTER_HISTORY_PARA_10" Language="en_US">
+			<Text>In 1887, a constitution was drafted, and an armed militia demanded that the king sign it. The Kingdom of Hawaii was hastily remade into a constitutional monarchy akin to the United Kingdom’s, and stripped the King of most of his powers. This “Bayonet Constitution” also allowed citizens to vote to elect a house of nobles, provided they possessed a large amount of land. Seeing as most land had been redistributed to only the elite, there were only a select few who got any say in this new government.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_ENIGMA_HAWAII_CHAPTER_HISTORY_PARA_11" Language="en_US">
+			<Text>Kalakaua died, and Lili’uokalani came to the throne amidst an economic crisis in 1891. Hawaiian exporters were hit with a tariff from US President McKinley, and much revenue was lost. Queen Lili’uokalani attempted to push through bills to aid this, such as a lottery and the sale of opium licenses, but ultimately she tried to restore the powers of the monarchy. In 1893, local citizens overthrew the Kingdom of Hawaii due to the economic pressure from the United States. From then to 1897, Hawaii was a republic, but was “willingly” Annexed by the United States in 1898, finally ending the nation started by Kamehameha the Great. While there were some attempts to return to independence, it remained a US territory.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_ENIGMA_HAWAII_CHAPTER_HISTORY_PARA_12" Language="en_US">
+			<Text>By 1941, Hawaii had become a naval base for the United States, but on December 7th 1941, Pearl Harbor was attacked by Imperial Japan. Hawaii was put on Martial Law until the end of the second world war, in which many served in the 442nd Regimental combat team. It was one of the most decorated in American history, and for that it helped found a Hawaiian identity again. Because of this, in 1954, the Democratic Party gained a foothold in Hawaii and lobbied relentlessly for statehood. Hawaii finally became the 50th US State on 21 August 1959.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_ENIGMA_HAWAII_CHAPTER_HISTORY_PARA_13" Language="en_US">
+			<Text>Many Hawaiians believed that the method that Hawaii came under US control was entirely illegal, and the 60s and 70s saw a renaissance of Hawaiian culture and nationalism – helped in part by one Elvis Presley. In 1993, on the 100th anniversary of the overthrow of the Kingdom of Hawaii, the United States drafted an apology resolution for the events of the century previous.</Text>
+		</Row>
+		<!--Trait-->
+		<Row Tag="LOC_TRAIT_CIVILIZATION_ENIGMA_KAHUNA_NAME" Language="en_US">
+			<Text>Kahuna</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_CIVILIZATION_ENIGMA_KAHUNA_DESCRIPTION" Language="en_US">
+			<Text>Gain a burst of [ICON_GREATPERSON] Great Person points when sending an [ICON_ENVOY] Envoy based on City-State type.  Expending a Great Person on a district grants a Specialist slot, up to a maximum of 3 times per district.</Text>
+		</Row>
+		<!--Cities-->
+		<Row Tag="LOC_CITY_NAME_ENIGMA_HAWAII_1" Language="en_US">
+			<Text>Kailua</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_ENIGMA_HAWAII_2" Language="en_US">
+			<Text>Honolulu</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_ENIGMA_HAWAII_3" Language="en_US">
+			<Text>Lāhainā</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_ENIGMA_HAWAII_4" Language="en_US">
+			<Text>Hilo</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_ENIGMA_HAWAII_5" Language="en_US">
+			<Text>Waikīkī</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_ENIGMA_HAWAII_6" Language="en_US">
+			<Text>Waipahu</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_ENIGMA_HAWAII_7" Language="en_US">
+			<Text>Kaneohe</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_ENIGMA_HAWAII_8" Language="en_US">
+			<Text>Wailuku</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_ENIGMA_HAWAII_9" Language="en_US">
+			<Text>Halawa</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_ENIGMA_HAWAII_10" Language="en_US">
+			<Text>Waipio</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_ENIGMA_HAWAII_11" Language="en_US">
+			<Text>ʻEwa</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_ENIGMA_HAWAII_12" Language="en_US">
+			<Text>Wahiawa</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_ENIGMA_HAWAII_13" Language="en_US">
+			<Text>Kaunakakai</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_ENIGMA_HAWAII_14" Language="en_US">
+			<Text>Olowalu</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_ENIGMA_HAWAII_15" Language="en_US">
+			<Text>Lihue</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_ENIGMA_HAWAII_16" Language="en_US">
+			<Text>Nānākuli</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_ENIGMA_HAWAII_17" Language="en_US">
+			<Text>Wailea</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_ENIGMA_HAWAII_18" Language="en_US">
+			<Text>Waimea</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_ENIGMA_HAWAII_19" Language="en_US">
+			<Text>Māili</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_ENIGMA_HAWAII_20" Language="en_US">
+			<Text>Makaha</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_ENIGMA_HAWAII_21" Language="en_US">
+			<Text>Laie</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_ENIGMA_HAWAII_22" Language="en_US">
+			<Text>He'eia</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_ENIGMA_HAWAII_23" Language="en_US">
+			<Text>Honokōhau</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_ENIGMA_HAWAII_24" Language="en_US">
+			<Text>Hanalei</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_ENIGMA_HAWAII_25" Language="en_US">
+			<Text>Kalaupapa</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_ENIGMA_HAWAII_26" Language="en_US">
+			<Text>Keaau</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_ENIGMA_HAWAII_27" Language="en_US">
+			<Text>Lahaina</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_ENIGMA_HAWAII_28" Language="en_US">
+			<Text>Ahuimanu</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_ENIGMA_HAWAII_29" Language="en_US">
+			<Text>Holualoa</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_ENIGMA_HAWAII_30" Language="en_US">
+			<Text>Makaha</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_ENIGMA_HAWAII_31" Language="en_US">
+			<Text>Haiku-Pauwela</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_ENIGMA_HAWAII_32" Language="en_US">
+			<Text>Pukalani</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_ENIGMA_HAWAII_33" Language="en_US">
+			<Text>Waikele</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_ENIGMA_HAWAII_34" Language="en_US">
+			<Text>Napili-Honokowai</Text>
+		</Row>
+		<!--Citizens-->
+		<Row Tag="LOC_CITIZEN_ENIGMA_HAWAII_MALE_1" Language="en_US">
+			<Text>Kaʻōleiokū</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_ENIGMA_HAWAII_MALE_2" Language="en_US">
+			<Text>Mataio</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_ENIGMA_HAWAII_MALE_3" Language="en_US">
+			<Text>Keanu</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_ENIGMA_HAWAII_MALE_4" Language="en_US">
+			<Text>Keaweaweʻulaokalani</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_ENIGMA_HAWAII_MALE_5" Language="en_US">
+			<Text>Paki</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_ENIGMA_HAWAII_MALE_6" Language="en_US">
+			<Text>Kalani-hele-maiiluna</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_ENIGMA_HAWAII_MALE_7" Language="en_US">
+			<Text>Kalaninuiamamao</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_ENIGMA_HAWAII_MALE_8" Language="en_US">
+			<Text>Keeaumoku</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_ENIGMA_HAWAII_MALE_9" Language="en_US">
+			<Text>Keawemauhili</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_ENIGMA_HAWAII_MALE_10" Language="en_US">
+			<Text>Kapulehu</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_ENIGMA_HAWAII_FEMALE_1" Language="en_US">
+			<Text>Lilo</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_ENIGMA_HAWAII_FEMALE_2" Language="en_US">
+			<Text>Peleuli</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_ENIGMA_HAWAII_FEMALE_3" Language="en_US">
+			<Text>Konia</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_ENIGMA_HAWAII_FEMALE_4" Language="en_US">
+			<Text>Kuini</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_ENIGMA_HAWAII_FEMALE_5" Language="en_US">
+			<Text>Keouawahine</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_ENIGMA_HAWAII_FEMALE_6" Language="en_US">
+			<Text>Kalola</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_ENIGMA_HAWAII_FEMALE_7" Language="en_US">
+			<Text>Kanealai</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_ENIGMA_HAWAII_FEMALE_8" Language="en_US">
+			<Text>Alapaiwahine</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_ENIGMA_HAWAII_FEMALE_9" Language="en_US">
+			<Text>Kamakaimoku</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_ENIGMA_HAWAII_FEMALE_10" Language="en_US">
+			<Text>Lonomaʻaikanaka</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_ENIGMA_HAWAII_MODERN_MALE_1" Language="en_US">
+			<Text>Kaʻōleiokū</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_ENIGMA_HAWAII_MODERN_MALE_2" Language="en_US">
+			<Text>Mataio</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_ENIGMA_HAWAII_MODERN_MALE_3" Language="en_US">
+			<Text>Keanu</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_ENIGMA_HAWAII_MODERN_MALE_4" Language="en_US">
+			<Text>Keaweaweʻulaokalani</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_ENIGMA_HAWAII_MODERN_MALE_5" Language="en_US">
+			<Text>Paki</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_ENIGMA_HAWAII_MODERN_MALE_6" Language="en_US">
+			<Text>Kalani-hele-maiiluna</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_ENIGMA_HAWAII_MODERN_MALE_7" Language="en_US">
+			<Text>Kalaninuiamamao</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_ENIGMA_HAWAII_MODERN_MALE_8" Language="en_US">
+			<Text>Keeaumoku</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_ENIGMA_HAWAII_MODERN_MALE_9" Language="en_US">
+			<Text>Keawemauhili</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_ENIGMA_HAWAII_MODERN_MALE_10" Language="en_US">
+			<Text>Kapulehu</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_ENIGMA_HAWAII_MODERN_FEMALE_1" Language="en_US">
+			<Text>Lilo</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_ENIGMA_HAWAII_MODERN_FEMALE_2" Language="en_US">
+			<Text>Peleuli</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_ENIGMA_HAWAII_MODERN_FEMALE_3" Language="en_US">
+			<Text>Konia</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_ENIGMA_HAWAII_MODERN_FEMALE_4" Language="en_US">
+			<Text>Kuini</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_ENIGMA_HAWAII_MODERN_FEMALE_5" Language="en_US">
+			<Text>Keouawahine</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_ENIGMA_HAWAII_MODERN_FEMALE_6" Language="en_US">
+			<Text>Kalola</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_ENIGMA_HAWAII_MODERN_FEMALE_7" Language="en_US">
+			<Text>Kanealai</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_ENIGMA_HAWAII_MODERN_FEMALE_8" Language="en_US">
+			<Text>Alapaiwahine</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_ENIGMA_HAWAII_MODERN_FEMALE_9" Language="en_US">
+			<Text>Kamakaimoku</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_ENIGMA_HAWAII_MODERN_FEMALE_10" Language="en_US">
+			<Text>Lonomaʻaikanaka</Text>
+		</Row>
+		<!--KAMEHAMEHA-->
+		-<Row Language="en_US" Tag="LOC_LEADER_ENIGMA_KAMEHAMEHA_NAME">
+			<Text>Kamehameha I</Text>
+		</Row>
+		<!--Agenda-->
+		-<Row Language="en_US" Tag="LOC_AGENDA_ENIGMA_LEAPING_MULLET_NAME">
+			<Text>Battle of the Leaping Mullet</Text>
+		</Row>
+		-<Row Language="en_US" Tag="LOC_AGENDA_ENIGMA_LEAPING_MULLET_DESCRIPTION">
+			<Text>Feels threatened by those who have strong loyalty, and displeased by those who have more [ICON_FAITH] Faith than he does.  Pleased by those who ignore city-states, and views those who have low loyalty as nonthreatening.</Text>
+		</Row>
+		-<Row Language="en_US" Tag="LOC_DIPLO_KUDO_LEADER_ENIGMA_LEAPING_MULLET_REASON_LOYALTY_HIGH">
+			<Text>(You have high loyalty.)</Text>
+		</Row>
+		-<Row Language="en_US" Tag="LOC_DIPLO_MODIFIER_AGENDA_ENIGMA_LEAPING_MULLET_LOYALTY_HIGH">
+			<Text>Your people cannot love you as much as mine do me.</Text>
+		</Row>
+		-<Row Language="en_US" Tag="LOC_DIPLO_KUDO_LEADER_ENIGMA_LEAPING_MULLET_REASON_LOYALTY_LOW">
+			<Text>(You have low loyalty.)</Text>
+		</Row>
+		-<Row Language="en_US" Tag="LOC_DIPLO_MODIFIER_AGENDA_ENIGMA_LEAPING_MULLET_LOYALTY_LOW">
+			<Text>I am glad that you see your status as a lesser ali'i.</Text>
+		</Row>
+		-<Row Language="en_US" Tag="LOC_DIPLO_KUDO_LEADER_ENIGMA_LEAPING_MULLET_REASON_FAITH">
+			<Text>(You have high faith.)</Text>
+		</Row>
+		-<Row Language="en_US" Tag="LOC_DIPLO_MODIFIER_AGENDA_ENIGMA_LEAPING_MULLET_FAITH">
+			<Text>Do not take my position with the gods for granted.</Text>
+		</Row>
+		-<Row Language="en_US" Tag="LOC_DIPLO_WARNING_LEADER_ENIGMA_LEAPING_MULLET_REASON_CITY_STATE">
+			<Text>(You ignore city-states.)</Text>
+		</Row>
+		-<Row Language="en_US" Tag="LOC_DIPLO_MODIFIER_AGENDA_ENIGMA_LEAPING_MULLET_CITY_STATE">
+			<Text>Those smaller nations are my place, not yours.</Text>
+		</Row>
+		<!--DOM-->
+		-<Row Language="en_US" Tag="LOC_LOADING_INFO_LEADER_ENIGMA_KAMEHAMEHA">
+			<Text>There is a prophecy of a great king, whose mana and might is to be unmatched in all the world. He will send out his men on canoes and boats, in the name of the gods of war and life. He will construct wondrous heiau without parallel, so that his kahuna may serve him and his people! His enemies will perish one after another, by spear and musket, yet no man, woman, nor child within his kingdom will be vulnerable to danger of any kind. Beyond the islands, beyond the oceans, and beyond the horizons his power will spread, without hindrance or halting. That legendary ali’i’s name is yours, King Kamehameha. Take up your spear and fulfill your destiny.</Text>
+		</Row>
+		<!--Traits-->
+		-<Row Language="en_US" Tag="LOC_TRAIT_LEADER_ENIGMA_SPLINTERED_PADDLE_NAME">
+			<Text>Law of the Splintered Paddle</Text>
+		</Row>
+		-<Row Language="en_US" Tag="LOC_TRAIT_LEADER_ENIGMA_SPLINTERED_PADDLE_DESCRIPTION">
+			<Text>Heiau provide +1 [ICON_GREATGENERAL] Great General point and Loyalty per adjacent District.  Expending a [ICON_GREATGENERAL] Great General grants +1 [ICON_GLORY_GOLDEN_AGE] Era Score, +2 if at peace.  Unlocks the Koa unique unit when they research the Diplomatic Service Civic.</Text>
+		</Row>
+		<!--Civilopedia-->
+		-<Row Language="en_US" Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_ENIGMA_KAMEHAMEHA_TITLE">
+			<Text>Kamehameha I</Text>
+		</Row>
+		-<Row Language="en_US" Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_ENIGMA_KAMEHAMEHA_SUBTITLE">
+			<Text>King of Hawaii</Text>
+		</Row>
+		-<Row Language="en_US" Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_ENIGMA_KAMEHAMEHA_QUOTE">
+			<Text></Text>
+		</Row>
+		-<Row Language="en_US" Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_ENIGMA_KAMEHAMEHA_CHAPTER_HISTORY_PARA_1">
+			<Text>Kamehameha the Great (full Hawaiian name: Kalani Paiʻea Wohi o Kaleikini Kealiʻikui Kamehameha o ʻIolani i Kaiwikapu kauʻi Ka Liholiho Kūnuiākea), was the first unifier of the Kingdom of Hawaii and its founder, and is undoubtably its foremost king. Ruling between 1782 and 1819, his reign served to quickly ready Hawaii for contact with European Imperialism and to let Hawaii make a grand debut on the world stage (right down to the on-point costuming).</Text>
+		</Row>
+		-<Row Language="en_US" Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_ENIGMA_KAMEHAMEHA_CHAPTER_HISTORY_PARA_2">
+			<Text>Like the islands themselves, Kamehameha’s origins are shrouded in mystery. His father, Keoua, died when Kamehameha was young, and his uncle an influential chief (and later the Ali’i Nui, high chief, where Ali’i means chief) of the Hawaiian Island of Hawaii (the big one). Even before his birth, prophecies decreed that Kamehameha would be a powerful usurper of great mana (physical and spiritual force of greatness), whose control would flow not just over the Islands of Hawaii but the entire Pacific Ocean – even far-flung Aotearoa. The previous Ali’i Nui attempted to have Kamehameha killed, but his mother secreted him away. He only returned to court once his uncle became the new Ali’i Nui and swore Kamehameha’s safety. By the time Kamehameha was fully grown, it was clear that he was indeed of great mana – he was seven feet tall and muscular, skilled, brilliant, pious, confident, and charismatic. He lifted the Naha Stone, an intensely heavy volcanic rock involved in the prophecy, which proved him even more dangerous.</Text>
+		</Row>
+		-<Row Language="en_US" Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_ENIGMA_KAMEHAMEHA_CHAPTER_HISTORY_PARA_3">
+			<Text>When Kamehameha’s uncle died, he bequeathed the kingship and the lion’s share of the kingdom to Kamehameha’s cousin - Kiwala’o, but gave Kamehameha a control of a valley as well as a prestigious religious office: the Guardianship of the War God Kuka’ilimoku. Kamehameha conducted a religious ritual at the heiau of Kuka’ilimoku – one that was reserved only for the highest Ali’i of the island. After his cousin’s younger brother (Keoua) attacked him, Kamehameha slew Kiwala’o on the battlefield and officially declared himself an Ali’i, an entered conflict to conquer the entire island of Hawaii.</Text>
+		</Row>
+		-<Row Language="en_US" Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_ENIGMA_KAMEHAMEHA_CHAPTER_HISTORY_PARA_4">
+			<Text>This went altogether poorly, at first. Losing many battles, he learned from his errors, and developed a number of techniques to ensure victory as time went on. Most notably he helped create the elite team of Koa warriors that functioned as shock soldiers. But more importantly, he made favorable relationships with American and British traders after the other islands shunned them (the result of a chain of violence called the Olowalu massacre). From those traders, he secured gunpowder weaponry, ammunition, and the formula for gunpowder. His two pet westerners, Isaac Davis and John Young, were married into the royal family and then were tasked to train Hawaiian soldiers in firearm use, maintenance, and repair. As a reward, Davis and Young both were treated like ali’I.</Text>
+		</Row>
+		-<Row Language="en_US" Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_ENIGMA_KAMEHAMEHA_CHAPTER_HISTORY_PARA_5">
+			<Text>Kamehameha used his new technological and military superiority to beat back his remaining cousin and rival, Keoua, and move against the ali’i of Maui, but Keoua took advantage of his absence and began a rebellion. Kamehameha was forced to retreat from Maui to deal with this uprising, and soundly defeated Keoua in a major victory. The rival ali’i fled from the battle with his routed army, but then in a display of coincidence bordering on divine favor, a volcano erupted and destroyed two thirds of Keoua’s army. It was not long afterwards that the last independent district ruler of the Island of Hawai’i lay dying on a beach from gunshot, having mutilated himself to spite Kamehameha (mutilated men were inappropriate sacrifices, so Kamehameha would not have the pride of sanctifying his newest heiau with Keoua’s mana).</Text>
+		</Row>
+		-<Row Language="en_US" Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_ENIGMA_KAMEHAMEHA_CHAPTER_HISTORY_PARA_6">
+			<Text>His flank secured, Kamehameha set sail in 1795 with 960 war canoes and 10,000 soldiers and very quickly captured both the islands of Maui and Moloka’i. All that remained was the island of O’ahu, which Kamehameha moved quickly to capture. He quickly forced the last enemy army back to Pali lookout, but one of his primary lieutenants defected. That very lieutenant helped the last enemy chief fortify the lookout, carving notches into the ridge to serve as gunports. Though he initially took heavy fire from these gunports, Kamehameha sent two divisions of Koa warriors to sneak behind the guns, surprising them! With the cannons lost, the remaining enemies fell into disarray and were cornered by Kamehameha’s forces. In a spectacular final battle named the Battle of Leaping Mullet, four hundred men were forced off a cliff into a thousand foot drop. There were only the islands of Kaua’i and Ni’ihau left, the ali’i of those islands became a vassal to Kamehameha in 1810, completing the unification of the islands and properly creating the Kingdom of Hawaii.</Text>
+		</Row>
+		-<Row Language="en_US" Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_ENIGMA_KAMEHAMEHA_CHAPTER_HISTORY_PARA_7">
+			<Text>From the period between 1795 and the final completion of the kingdom in 1810, Kamehameha executed a number of reforms. First and foremost, he declared the Law of Splintered Paddle - named for an incident where he attacked a pair of fishermen ten years previous, but they managed to knock him out by smashing an oar over his head. Kamehameha tracked them down now, but rather than executing them (as this was against kapu and punishable by death. In other words… a kaputal offence), he apologized and decreed that to harm any person laying in peace at the side of the road was kapu. This law remains upheld to this day in the Hawaiian State Constitution as the oldest existing humanitarian law. Through this, he wanted to end the system of warfare that had kept Hawaii divided in the past, consolidating his own power. Further, he redistributed land so that it could not be sold and that the districts were less self sufficient, adding more power to himself as ali’i would be unable to build a base to oppose him. He repaired the lands that were ravaged by war, and established a flourishing court to administer his lands.</Text>
+		</Row>
+		-<Row Language="en_US" Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_ENIGMA_KAMEHAMEHA_CHAPTER_HISTORY_PARA_8">
+			<Text>Kamehameha also encouraged trade with the outside world, as Hawaii became a stop on the run to China. Fortunately, Hawaii was rich in Sandalwood that could be sold for great profit in China, so the newborn Kingdom of Hawaii became very rich. Honolulu became a burgeoning harbor of service to westerners (though Kamehameha would become less open to these foreigners after a number of armed invasions/incidents – these seem to happen a lot…), and Kamehameha even sent a mission to far-off China.</Text>
+		</Row>
+		-<Row Language="en_US" Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_ENIGMA_KAMEHAMEHA_CHAPTER_HISTORY_PARA_9">
+			<Text>Contact with Europe had a downside though: as Kamehameha dressed in European Jeans and listened to European Pop Music, the religious laws began to be undone. While Kamehameha continued to protect the Hawaiian religion, the customs were continually eroded due to western interference. European intrigue continued to try and make its way into the Hawaiian court, and European diseases culled the local population. Corruption soared, farmers abandoned vital crops in favor of sugar and sandalwood, and Hawaiian society began to end.</Text>
+		</Row>
+		-<Row Language="en_US" Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_ENIGMA_KAMEHAMEHA_CHAPTER_HISTORY_PARA_10">
+			<Text>For all his reforms and for all his unbound mana, Kamehameha was still just a man. In 1819, he eventually died, and his body hidden in the mountain so none could steal his body. He never managed to control Aotearoa, or fulfill the prophecy. But his influence stretched farther than any other Hawaiian, beyond the islands and all the way to London and Washington. He is remembered as one of the greatest monarchs in the world, and one who tried to prepare Hawaii for its entrance into the world.</Text>
+		</Row>
+		-<Row Language="en_US" Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_ENIGMA_KAMEHAMEHA_CHAPTER_CAPSULE_BODY">
+			<Text>Who gives a shit</Text>
+		</Row>
+		-<Row Language="en_US" Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_ENIGMA_KAMEHAMEHA_CHAPTER_DETAILED_BODY">
+			<Text>Seriously</Text>
+		</Row>
+		<!--Diplomacy-->
+		<!--FIRST MEET-->
+		<!--First AI line-->
+		-<Row Language="en_US" Tag="LOC_DIPLO_FIRST_MEET_LEADER_ENIGMA_KAMEHAMEHA_ANY">
+			<Text>Hello, wayward traveler. I am Kamehameha of the Island of Hawai’i, and the lifter of the Naha stone. If you know the prophecies, then you’ll truly know what that means.</Text>
+		</Row>
+		<!--AI invitation to visit nearby City-->
+		-<Row Language="en_US" Tag="LOC_DIPLO_FIRST_MEET_VISIT_RECIPIENT_LEADER_ENIGMA_KAMEHAMEHA_ANY">
+			<Text>I invite you to come see a Heiau. Though you cannot enter, you may at least see it and speak with the Kahuna.</Text>
+		</Row>
+		<!--AI accepts Human invitation-->
+		-<Row Language="en_US" Tag="LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_POSITIVE_LEADER_ENIGMA_KAMEHAMEHA_ANY">
+			<Text>Wonderful.</Text>
+		</Row>
+		<!--AI invitation to exchange Capital Information-->
+		-<Row Language="en_US" Tag="LOC_DIPLO_FIRST_MEET_NO_MANS_INFO_EXCHANGE_LEADER_ENIGMA_KAMEHAMEHA_ANY">
+			<Text>I invite you to come see a Heiau. Though you cannot enter, you may at least see it and speak with the Kahuna.</Text>
+		</Row>
+		<!--GREETINGS-->
+		-<Row Language="en_US" Tag="LOC_DIPLO_GREETING_LEADER_ENIGMA_KAMEHAMEHA_ANY">
+			<Text>Aloha.</Text>
+		</Row>
+		<!--DELEGATION-->
+		<!--AI Accepts-->
+		-<Row Language="en_US" Tag="LOC_DIPLO_ACCEPT_DELEGATION_FROM_HUMAN_LEADER_ENIGMA_KAMEHAMEHA_ANY">
+			<Text>Your delegates shall be treated well in my royal court. So well that they may even stay!</Text>
+		</Row>
+		<!--AI Rejects-->
+		-<Row Language="en_US" Tag="LOC_DIPLO_REJECT_DELEGATION_FROM_HUMAN_LEADER_ENIGMA_KAMEHAMEHA_ANY">
+			<Text>I have no need for your people.</Text>
+		</Row>
+		<!--AI Requests -->
+		-<Row Language="en_US" Tag="LOC_DIPLO_DELEGATION_FROM_AI_LEADER_ENIGMA_KAMEHAMEHA_ANY">
+			<Text>I’ve sent you many samples of sandalwood and Haupia. Much like my kingdom, there is much more to them than meets the eye.</Text>
+		</Row>
+		<!--OPEN BORDERS-->
+		<!--AI accepts from human-->
+		-<Row Language="en_US" Tag="LOC_DIPLO_ACCEPT_OPEN_BORDERS_FROM_HUMAN_LEADER_ENIGMA_KAMEHAMEHA_ANY">
+			<Text>We take another step towards friendship with this.</Text>
+		</Row>
+		<!--AI rejects from human-->
+		-<Row Language="en_US" Tag="LOC_DIPLO_REJECT_OPEN_BORDERS_FROM_HUMAN_LEADER_ENIGMA_KAMEHAMEHA_ANY">
+			<Text>My lands shall remain closed to you.</Text>
+		</Row>
+		<!--AI requests from human-->
+		-<Row Language="en_US" Tag="LOC_DIPLO_OPEN_BORDERS_FROM_AI_LEADER_ENIGMA_KAMEHAMEHA_ANY">
+			<Text>I would be most pleased if we could send ships to eachothers’ harbors.</Text>
+		</Row>
+		<!--DECLARE FRIENDSHIP-->
+		<!--AI accepts from human-->
+		-<Row Language="en_US" Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_HUMAN_LEADER_ENIGMA_KAMEHAMEHA_ANY">
+			<Text>We stand united in arms and in hearts.</Text>
+		</Row>
+		<!--AI Rejects from human -->
+		-<Row Language="en_US" Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_HUMAN_LEADER_ENIGMA_KAMEHAMEHA_ANY">
+			<Text>Such a thing is beneath my station.</Text>
+		</Row>
+		<!--AI Requests friendship from human-->
+		-<Row Language="en_US" Tag="LOC_DIPLO_DECLARE_FRIEND_FROM_AI_LEADER_ENIGMA_KAMEHAMEHA_ANY">
+			<Text>I have great admiration for the way you lead. We should tell the world that we are indeed friends.</Text>
+		</Row>
+		<!--Human accepts AI requests, AI responds-->
+		-<Row Language="en_US" Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_ENIGMA_KAMEHAMEHA_ANY">
+			<Text>With this, I no longer walk alone on this path.</Text>
+		</Row>
+		<!--Human rejects AI requests, AI responds-->
+		-<Row Language="en_US" Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_ENIGMA_KAMEHAMEHA_ANY">
+			<Text>I don’t believe you know what you’re giving up.</Text>
+		</Row>
+		<!--ALLIANCE-->
+		<!--AI Requests an alliance from human-->
+		-<Row Language="en_US" Tag="LOC_DIPLO_MAKE_ALLIANCE_FROM_AI_LEADER_ENIGMA_KAMEHAMEHA_ANY">
+			<Text>A declaration of mutual defense and trust is in order, for I see you like one of my own kahuna.</Text>
+		</Row>
+		<!--KUDOS & WARNINGS-->
+		<!--AI Kudos-->
+		-<Row Language="en_US" Tag="LOC_DIPLO_KUDO_EXIT_LEADER_ENIGMA_KAMEHAMEHA_ANY">
+			<Text>Not all of us can be people of great mana, and you are an example to the common man.</Text>
+		</Row>
+		<!--AI Warnings-->
+		-<Row Language="en_US" Tag="LOC_DIPLO_WARNING_EXIT_LEADER_ENIGMA_KAMEHAMEHA_ANY">
+			<Text>The way you disregard kapu is disgusting and will not be tolerated.</Text>
+		</Row>
+		<!--AI warns player for border troops-->
+		-<Row Language="en_US" Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_LEADER_ENIGMA_KAMEHAMEHA_ANY">
+			<Text>I see your men on the horizon. State your business here or you’ll be seen off – alive or dead</Text>
+		</Row>
+		<!--TRADE-->
+		<!--AI Accepts Deal-->
+		-<Row Language="en_US" Tag="LOC_DIPLO_ACCEPT_MAKE_DEAL_FROM_AI_LEADER_ENIGMA_KAMEHAMEHA_ANY">
+			<Text>Expect a ship soon, bearing these goods you’ve asked for.</Text>
+		</Row>
+		<!--AI Rejects Deal-->
+		-<Row Language="en_US" Tag="LOC_DIPLO_REJECT_MAKE_DEAL_FROM_AI_LEADER_ENIGMA_KAMEHAMEHA_ANY">
+			<Text>I do not believe this will work.</Text>
+		</Row>
+		<!--DENOUNCE-->
+		<!--From Human-->
+		-<Row Language="en_US" Tag="LOC_DIPLO_DENOUNCE_FROM_HUMAN_LEADER_ENIGMA_KAMEHAMEHA_ANY">
+			<Text>People die for saying lesser things to an Ali’i.</Text>
+		</Row>
+		<!--From AI-->
+		-<Row Language="en_US" Tag="LOC_DIPLO_DENOUNCE_FROM_AI_LEADER_ENIGMA_KAMEHAMEHA_ANY">
+			<Text>Your kind is filth, sea scum, beneath all purpose, and incorrigible beyond all redemption! I hereby decree it kapu to do business with the likes of you.</Text>
+		</Row>
+		<!--Rationale-->
+		-<Row Language="en_US" Tag="LOC_DIPLO_DENOUNCE_REASON_FROM_AI_LEADER_ANY_REASON_ENIGMA_LEAPING_MULLET_LAGS_STANDING_ARMY">
+			<Text></Text>
+		</Row>
+		<!--DECLARE WAR-->
+		<!--Human Declares War-->
+		-<Row Language="en_US" Tag="LOC_DIPLO_DECLARE_WAR_FROM_HUMAN_LEADER_ENIGMA_KAMEHAMEHA_ANY">
+			<Text>I’ll take great pride in using your lifeblood to sanctify my newest heiau - the gods shall relish your death!</Text>
+		</Row>
+		<!--AI Declares War-->
+		-<Row Language="en_US" Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_ENIGMA_KAMEHAMEHA_ANY">
+			<Text>It was fated that I harvest your mana – I shall grow ever stronger, while you lie dying on the shore!</Text>
+		</Row>
+		<!--MAKE PEACE-->
+		<!--AI accepts from human-->
+		-<Row Language="en_US" Tag="LOC_DIPLO_MAKE_PEACE_AI_ACCEPT_DEAL_LEADER_ENIGMA_KAMEHAMEHA_ANY">
+			<Text>With this, there shall be no more strife between our peoples.</Text>
+		</Row>
+		<!--AI refuses human-->
+		-<Row Language="en_US" Tag="LOC_DIPLO_MAKE_PEACE_AI_REFUSE_DEAL_LEADER_ENIGMA_KAMEHAMEHA_ANY">
+			<Text>I would prefer to settle this in single combat.</Text>
+		</Row>
+		<!--AI requests from human-->
+		-<Row Language="en_US" Tag="LOC_DIPLO_MAKE_PEACE_FROM_AI_LEADER_ENIGMA_KAMEHAMEHA_ANY">
+			<Text>The time has come to broker a peace, so that we may attend to other matters.</Text>
+		</Row>
+		<!--DEFEAT-->
+		<!--AI is Defeated-->
+		-<Row Language="en_US" Tag="LOC_DIPLO_DEFEAT_FROM_AI_LEADER_ENIGMA_KAMEHAMEHA_ANY">
+			<Text>This isn’t the first time I’ve known defeat, but it looks to be the last. I only ask that you continue my righteous deeds. For my people and for yours.</Text>
+		</Row>
+		<!--Human is Defeated (will see this in hotseat)-->
+		-<Row Language="en_US" Tag="LOC_DIPLO_DEFEAT_FROM_HUMAN_LEADER_ENIGMA_KAMEHAMEHA_ANY">
+			<Text>All upstart kings will fall before my spear. How does it feel for your mana to flow into me?!</Text>
+		</Row>
+		<!--HEIAU-->
+		<Row Tag="LOC_DISTRICT_ENIGMA_HEIAU_NAME" Language="en_US">
+			<Text>Heiau</Text>
+		</Row>
+		<Row Tag="LOC_DISTRICT_ENIGMA_HEIAU_DESCRIPTION" Language="en_US">
+			<Text>Replaces the Holy Site.  Gains the yield of each adjacent speciality district equal to its adjacency bonus, as well as doubled [ICON_FAITH] Faith adjacencies if placed adjacent to the City Center.  Unlocks the Kapu Ku’ialua project.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_BUILDINGS_PAGE_DISTRICT_ENIGMA_HEIAU_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>While technically a Hawaiian temple, a heiau is really a wide class of holy site with diverse and flexible purposes. Some were used as hospitals, diplomatic neutral ground, offering spots, and in various other rituals. All heiau are large stone platforms, with various structures built on its purpose, and cult images depending on the gods associated with any given one. Plant and fish offerings were given at most heiau, but only the special class of luakini temple could have animal or even human sacrifices. Only Kahuna priests or chiefs were allowed on heiau, and the most major heiau would only allow the chief who ruled the entire island to enter.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_BUILDINGS_PAGE_DISTRICT_ENIGMA_HEIAU_CHAPTER_HISTORY_PARA_2" Language="en_US">
+			<Text>The Hawaiian religion, originating from other Pacific Islander belief systems, was a polytheistic pantheon with four prominent deities – Kane, Ku, Lono, and Kanaloa – but with many other gods, spirits, and guardian spirits. Kahuna, the priests of this religion, were a class of well educated and respected individuals that served the king and assisted the common people. They would often have common roles from healing to navigation to philosophizing (similar to the flexible nature of their temples). However, they were also granted the ability to speak with spirits. Some Hawaiians did not believe that Kahuna held any mystical powers at all, rather simply gifted with the ability to talk with the spirits and convince them to do things on behalf of the people.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_BUILDINGS_PAGE_DISTRICT_ENIGMA_HEIAU_CHAPTER_HISTORY_PARA_3" Language="en_US">
+			<Text>When the Hawaiian Religion was officially abolished, most Heiau either fell into disrepair or were outright destroyed to make way for fields of sugar cane. Hawaii was quickly Christianized, though some families continue to care for their remaining Heiau to this day.</Text>
+		</Row>
+		<!--KAPU KU'IALUA-->
+		-<Row Language="en_US" Tag="LOC_PROJECT_ENIGMA_KAPU_KUIALUA_NAME">
+			<Text>Kapu Ku'ialua</Text>
+		</Row>
+		-<Row Language="en_US" Tag="LOC_PROJECT_ENIGMA_KAPU_KUIALUA_SHORT_NAME">
+			<Text>Kapu Ku'ialua</Text>
+		</Row>
+		-<Row Language="en_US" Tag="LOC_PROJECT_ENIGMA_KAPU_KUIALUA_DESCRIPTION">
+			<Text>Unique Heiau project.  Grants [ICON_FAITH] Faith and [ICON_CULTURE] Culture while being produced, as well as a burst of the corresponding [ICON_GREATPERSON] Great Person point of adjacent districts.</Text>
+		</Row>
+		<!--KAIMILOA-->
+		<Row Tag="LOC_UNIT_ENIGMA_KAIMILOA_NAME" Language="en_US">
+			<Text>Kaimiloa</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_ENIGMA_KAIMILOA_DESCRIPTION" Language="en_US">
+			<Text>Replaces the Frigate.  May cross into foreign territory without open borders.  Grants +1 [ICON_ENVOY] Envoy point while within 2 tiles of a foreign City Center, +2 if in a Golden Age.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_ENIGMA_KAIMILOA_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>The HHMS Kaimiloa – meaning “One who Seeks The Horizon”, was the only ship of the Royal Hawaiian Navy. It was an exploration gunboat, manufactured in Britain and purchased by King Kalakaua for $20,000 (I guess it’s the 19th century equivalent of buying a muscle car to make yourself look cooler than you actually are). After being rigged up on 28 March 1887, and having twenty-four of its sixty-seven crew actually be Hawaiian, and with all of 4 small cannons and 4 Gatling guns, the Kaimiloa set off on a mission to seek an alliance with Samoa to form a Pacific Federation in an effort to counteract European Colonialism.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_ENIGMA_KAIMILOA_CHAPTER_HISTORY_PARA_2" Language="en_US">
+			<Text>Unfortunately, this nearly started a war with the German Empire, as they were looking to annex Samoa. While they did their best to build support with the Samoans through means ranging from throwing a Hawaiian musical concert to partaking in a drunken brawl, the situation with the Germans did not improve.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_ENIGMA_KAIMILOA_CHAPTER_HISTORY_PARA_3" Language="en_US">
+			<Text>After the 1887 Coup d’etat, the Steamship was ordered to return to Hawaii, but before they even managed to make it all the way home (on 23 September) the crew was disbanded (on 29 August) and the ship was decommissioned (30 August). The one and only voyage the HHMS Kaimiloa ever embarked on was a failed attempt to counteract European imperialism which consisted of throwing a concert, causing a drunken brawl, nearly starting a war with a major European power, and the entire crew unwittingly and unknowingly turning pirate – all over the course of around five months</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_ENIGMA_KAIMILOA_CHAPTER_HISTORY_PARA_4" Language="en_US">
+			<Text>Following this excellent adventure, the ship was sold for $2,800 (to remind you, nearly a tenth of the original price), and was used as a quarantine ship, then as transport around the Hawaiian Islands, then as spare parts by the sugar industry, and subsequently to transport coal and oil. Finally, after a long and bizarre history, the hull of the erstwhile flagship burned in 1910.</Text>
+		</Row>
+		<!--KOA-->
+		<Row Tag="LOC_UNIT_ENIGMA_KOA_NAME" Language="en_US">
+			<Text>Koa</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_ENIGMA_KOA_DESCRIPTION" Language="en_US">
+			<Text>Replaces the Pikeman.  Starts with experience based on the number of [ICON_GREATPERSON] Great People who have been expended in its city.  Gains doubled combat bonuses from Great Generals.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_ENIGMA_KOA_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Koa were an elite and highly-skilled class of Hawaiian warrior, named for the tree from which their weapons (a vast arsenal of battle tools, but the spear was preferred) were made. As they were elite warriors, they took part in much preparation for battles, shaving their entire body and oiling themselves to slip out of any grapple. Clothing was a mere loincloth, due to the hot climate and the need of maneuverability.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_ENIGMA_KOA_CHAPTER_HISTORY_PARA_2" Language="en_US">
+			<Text>Most vital to the Koa’s battle prowess was the martial art of Lua. It was specifically based on bone-breaking, joint-locks, grapples, and pressure point manipulations. It was also a highly flexible art, as it was expanded to allow the usage of various weapons (even European Firearms), battlefield strategy, and open ocean warfare. Only Koa warriors and nobility were given proper instruction of the art, though commoners were also instructed in basic concepts during times of war.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_ENIGMA_KOA_CHAPTER_HISTORY_PARA_3" Language="en_US">
+			<Text>The Koa aided Kamehameha in his unification of the Hawaiian Islands from 1782 to 1795, serving as shock troops that would disorient the enemy forces before the main host of infantry crushed the disorganized foes. Though Kamehameha lost many battles at first, eventually he achieved success, equipping the Koa and most of his armies with gunpowder weaponry, and succeeded in conquering all the islands of the Hawaiian Archipelago (except two, which later became his vassal bloodlessly). After this, only they could learn the art. To prevent the extinction of it, Kamehameha II established three schools to instruct new generations of Lua fighters, and so the art persists to this day.</Text>
+		</Row>
+		<!--KAHUNA-->
+		<Row Tag="LOC_BUILDING_ENIGMA_KAHUNA_NAME" Language="en_US">
+			<Text>Kahuna</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_ENIGMA_KAHUNA_DESCRIPTION" Language="en_US">
+			<Text>A specialist slot granted by a [ICON_GREATPERSON] Great Person.</Text>
+		</Row>
+		<!--MOD SUPPORT-->
+		<!--JFD Rule with Faith-->
+		<Row Tag="LOC_POLITICIAN_ENIGMA_HAWAII_MALE_1" Language="en_US">
+			<Text>Keōua</Text>
+		</Row>
+		<Row Tag="LOC_POLITICIAN_ENIGMA_HAWAII_MALE_2" Language="en_US">
+			<Text>Kahekili</Text>
+		</Row>
+		<Row Tag="LOC_POLITICIAN_ENIGMA_HAWAII_MALE_3" Language="en_US">
+			<Text>Alapaʻinui</Text>
+		</Row>
+		<Row Tag="LOC_POLITICIAN_ENIGMA_HAWAII_MALE_4" Language="en_US">
+			<Text>Kalaniʻōpuʻu</Text>
+		</Row>
+		<Row Tag="LOC_POLITICIAN_ENIGMA_HAWAII_MALE_5" Language="en_US">
+			<Text>Liholiho</Text>
+		</Row>
+		<Row Tag="LOC_POLITICIAN_ENIGMA_HAWAII_MALE_6" Language="en_US">
+			<Text>Kauikeaouli</Text>
+		</Row>
+		<Row Tag="LOC_POLITICIAN_ENIGMA_HAWAII_MALE_7" Language="en_US">
+			<Text>Alekanetero</Text>
+		</Row>
+		<Row Tag="LOC_POLITICIAN_ENIGMA_HAWAII_MALE_8" Language="en_US">
+			<Text>Albert Kamehameha</Text>
+		</Row>
+		<Row Tag="LOC_POLITICIAN_ENIGMA_HAWAII_MALE_9" Language="en_US">
+			<Text>Sanford</Text>
+		</Row>
+		<Row Tag="LOC_POLITICIAN_ENIGMA_HAWAII_MALE_10" Language="en_US">
+			<Text>Lunalilo</Text>
+		</Row>
+		<Row Tag="LOC_POLITICIAN_ENIGMA_HAWAII_MALE_11" Language="en_US">
+			<Text>Kīwalaʻō</Text>
+		</Row>
+		<Row Tag="LOC_POLITICIAN_ENIGMA_HAWAII_MALE_12" Language="en_US">
+			<Text>Keʻeaumoku</Text>
+		</Row>
+		<Row Tag="LOC_POLITICIAN_ENIGMA_HAWAII_MALE_13" Language="en_US">
+			<Text>Kamanawa</Text>
+		</Row>
+		<Row Tag="LOC_POLITICIAN_ENIGMA_HAWAII_FEMALE_1" Language="en_US">
+			<Text>Keaka</Text>
+		</Row>
+		<Row Tag="LOC_POLITICIAN_ENIGMA_HAWAII_FEMALE_2" Language="en_US">
+			<Text>Kaʻahumanu</Text>
+		</Row>
+	</LocalizedText>
+</GameData>

@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by Ed Beach (Firaxis Games) -->
+<GameData>
+	<LocalizedText>
+		<!--LEADER-->
+		<Row Tag="LOC_LEADER_MER_JOAN_NAME" Language="en_US">
+			<Text>Joan</Text>
+		</Row>
+		<!--Agenda-->
+		<Row Tag="LOC_AGENDA_MER_FOUNDRESS_NAME" Language="en_US">
+			<Text>Foundress</Text>
+		</Row>
+		<Row Tag="LOC_AGENDA_MER_FOUNDRESS_DESCRIPTION" Language="en_US">
+			<Text>Focuses on building up Faith and Districts, and likes those who do the same. Dislikes leaders that neglect faith and district construction.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_KUDOS_LEADER_MER_JOAN_REASON_GREAT_PEOPLE" Language="en_US">
+			<Text>(You have high Faith and plenty of Districts)</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MODIFIER_AGENDA_MER_FOUNDRESS_GREAT_PEOPLE" Language="en_US">
+			<Text>Joan is impressed by your economic investments and faithful practices.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_LEADER_MER_JOAN_REASON_NEIGHBOUR" Language="en_US">
+			<Text>(You are neglecting Faith and District construction.)</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MODIFIER_AGENDA_MER_FOUNDRESS_NEIGHBOUR" Language="en_US">
+			<Text>Joan thinks you need to construct more Districts and be more faithful.</Text>
+		</Row>
+		<!--DOM-->
+		<Row Tag="LOC_LOADING_INFO_LEADER_MER_JOAN" Language="en_US">
+			<Text>Joan, Countess of Flanders, your life has been spent working tirelessly for your people and your faith. Your charters and tax exemptions played a large role in the development of towns and cities, settlers and workers would travel for miles to come to Flanders and you would welcome them with open arms. Your faith in your god was second to none, having layed the foundations for many monastic orders to take root in Flanders and flourish. Now once more, Countess, Flanders needs your governance.</Text>
+		</Row>
+		<!--Traits-->
+		<Row Tag="LOC_TRAIT_LEADER_MER_COMITAL_CHARTERS_NAME" Language="en_US">
+			<Text>Comital Charters</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_LEADER_MER_COMITAL_CHARTERS_DESCRIPTION" Language="en_US">
+			<Text>+0.2 [ICON_Production] Production and -1 [ICON_Gold] Gold from each [ICON_Citizen] Citizen. [NEWLINE]+20% [ICON_Production] Production towards Civilian Units, Projects, and Holy Site, Commercial Hub, and Harbor Buildings.[NEWLINE]Tiles and Buildings cost 20% more [ICON_Gold] Gold to purchase.[NEWLINE]Can construct the Hospice Comtesse improvement after Civil Service.</Text>
+		</Row>
+		<!--Improvement-->
+		<Row Tag="LOC_TRAIT_CIVILIZATION_IMPROVEMENT_MER_HOSPICE_COMTESSE_NAME" Language="en_US">
+			<Text>Hospice Comtesse</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_CIVILIZATION_IMPROVEMENT_MER_HOSPICE_COMTESSE_DESCRIPTION" Language="en_US">
+			<Text>A unique improvement</Text>
+		</Row>
+		<Row Tag="LOC_IMPROVEMENT_MER_HOSPICE_COMTESSE_NAME" Language="en_US">
+			<Text>Hospice Comtesse</Text>
+		</Row>
+		<Row Tag="LOC_IMPROVEMENT_MER_HOSPICE_COMTESSE_DESCRIPTION" Language="en_US">
+			<Text>Flemish unique improvement when Joan is their leader.[NEWLINE]1 Per City. +2 [ICON_Faith], +1 [ICON_Housing] Housing, and +1 [ICON_Amenities] Amenity. +2 [ICON_Science] Science and +1 additional [ICON_Housing] Housing after Sanitation.[NEWLINE] Increases growth by 15% in this city.</Text>
+		</Row>
+		<!--Civilopedia-->
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_MER_JOAN_TITLE" Language="en_US">
+			<Text>Joan of Constantinople</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_MER_JOAN_SUBTITLE" Language="en_US">
+			<Text>Countess of Flanders</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_MER_JOAN_QUOTE" Language="en_US">
+			<Text>A woman's role, in society and the church, hold as much importance as any man.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_MER_JOAN_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Joan, often called Joan of Constantinople, ruled as Countess of Flanders and Hainaut from 1205 (at the young age of 6) until her death. She was the elder daughter of Baldwin IX, Count of Flanders and Hainaut, and Marie of Champagne.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_MER_JOAN_CHAPTER_HISTORY_PARA_2" Language="en_US">
+			<Text>Orphaned during the Fourth Crusade, Joan was raised in Paris under the tutelage of King Philip II of France. He arranged her marriage to Infante Ferdinand of Portugal in 1212. Ferdinand quickly turned against Philip, starting a war that ended with the defeat of Bouvines and his imprisonment. Joan then ruled her counties alone from the young age of 14. She faced the rivalry of her younger sister, Margaret, as well as the revolt of her domains – guided by a man who claimed to be her father. After the end of the war, Ferdinand was released but died soon after. Joan then married Thomas of Savoy. She died in 1244 at the Abbey of Marquette near Lille, having survived her only child, a daughter by Ferdinand. </Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_MER_JOAN_CHAPTER_HISTORY_PARA_3" Language="en_US">
+			<Text>'The Manessier's Continuation' (also called the Third Continuation), one of the novels of the 'Story of the Grail' was written for Joan, as well as the 'Life of St. Martha of Wauchier de Denain'. The first novel in Dutch, Van den vos Reynaerde, was written by a cleric of her court.  </Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_MER_JOAN_CHAPTER_CAPSULE_BODY" Language="en_US">
+			<Text>Joan's Flanders sacrifices Gold for development of her cities.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_MER_JOAN_CHAPTER_DETAILED_BODY" Language="en_US">
+			<Text>As Joan's Flanders will you want to focus your efforts on producing gold, to alleviate the negatives of her ability. The production bonuses will help with this.</Text>
+		</Row>
+		<!--Diplomacy-->
+		<!--FIRST MEET-->
+		<!--First AI line-->
+		<Row Tag="LOC_DIPLO_FIRST_MEET_LEADER_MER_JOAN_ANY" Language="en_US">
+			<Text>Greetings, I am Joan, the Countess of Flanders. Perhaps God willed us to meet?</Text>
+		</Row>
+		<!--AI invitation to visit nearby City-->
+		<Row Tag="LOC_DIPLO_FIRST_MEET_VISIT_RECIPIENT_LEADER_MER_JOAN_ANY" Language="en_US">
+			<Text>Our nearby city has seem great development as of late, you should come visit.</Text>
+		</Row>
+		<!--AI accepts Human invitation-->
+		<Row Tag="LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_POSITIVE_LEADER_MER_JOAN_ANY" Language="en_US">
+			<Text>I would be happy to accept.</Text>
+		</Row>
+		<!--AI invitation to exchange Capital Information-->
+		<Row Tag="LOC_DIPLO_FIRST_MEET_NO_MANS_INFO_EXCHANGE_LEADER_MER_JOAN_ANY" Language="en_US">
+			<Text>The land is to be shared and developed, an exchange of maps would do us well.</Text>
+		</Row>
+		<!--GREETINGS-->
+		<Row Tag="LOC_DIPLO_GREETING_LEADER_MER_JOAN_ANY" Language="en_US">
+			<Text>Welcome.</Text>
+		</Row>
+		<!--DELEGATION-->
+		<!--AI Accepts-->
+		<Row Tag="LOC_DIPLO_ACCEPT_DELEGATION_FROM_HUMAN_LEADER_MER_JOAN_ANY" Language="en_US">
+			<Text>Your delegation is most welcome in my court, they will be treated with respect.</Text>
+		</Row>
+		<!--AI Rejects-->
+		<Row Tag="LOC_DIPLO_REJECT_DELEGATION_FROM_HUMAN_LEADER_MER_JOAN_ANY" Language="en_US">
+			<Text>I can't accept.</Text>
+		</Row>
+		<!--AI Requests -->
+		<Row Tag="LOC_DIPLO_DELEGATION_FROM_AI_LEADER_MER_JOAN_ANY" Language="en_US">
+			<Text>I have sent a delegation from my court, they carry with them stories written by my own courtiers.</Text>
+		</Row>
+		<!--OPEN BORDERS-->
+		<!--AI accepts from human-->
+		<Row Tag="LOC_DIPLO_ACCEPT_OPEN_BORDERS_FROM_HUMAN_LEADER_MER_JOAN_ANY" Language="en_US">
+			<Text>This is acceptable, thank you.</Text>
+		</Row>
+		<!--AI rejects from human-->
+		<Row Tag="LOC_DIPLO_REJECT_OPEN_BORDERS_FROM_HUMAN_LEADER_MER_JOAN_ANY" Language="en_US">
+			<Text>Only my people may travel these lands. For now.</Text>
+		</Row>
+		<!--AI requests from human-->
+		<Row Tag="LOC_DIPLO_OPEN_BORDERS_FROM_AI_LEADER_MER_JOAN_ANY" Language="en_US">
+			<Text>I need access through your lands, perhaps we could come to a deal?</Text>
+		</Row>
+		<!--DECLARE FRIENDSHIP-->
+		<!--AI accepts from human-->
+		<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_HUMAN_LEADER_MER_JOAN_ANY" Language="en_US">
+			<Text>This is most wonderful news.</Text>
+		</Row>
+		<!--AI Rejects from human -->
+		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_HUMAN_LEADER_MER_JOAN_ANY" Language="en_US">
+			<Text>No, not right now.</Text>
+		</Row>
+		<!--AI Requests friendship from human-->
+		<Row Tag="LOC_DIPLO_DECLARE_FRIEND_FROM_AI_LEADER_MER_JOAN_ANY" Language="en_US">
+			<Text>I wish to offer up my friendship, and know that i do not lie, this is an honest request.</Text>
+		</Row>
+		<!--Human accepts AI requests, AI responds-->
+		<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_MER_JOAN_ANY" Language="en_US">
+			<Text>This is great news!</Text>
+		</Row>
+		<!--Human rejects AI requests, AI responds-->
+		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_MER_JOAN_ANY" Language="en_US">
+			<Text>Shameful.</Text>
+		</Row>
+		<!--ALLIANCE-->
+		<!--AI Requests an alliance from human-->
+		<Row Tag="LOC_DIPLO_MAKE_ALLIANCE_FROM_AI_LEADER_MER_JOAN_ANY" Language="en_US">
+			<Text>Our lands could flourish together.</Text>
+		</Row>
+		<!--KUDOS & WARNINGS-->
+		<!--AI Kudos-->
+		<Row Tag="LOC_DIPLO_KUDO_EXIT_LEADER_MER_JOAN_ANY" Language="en_US">
+			<Text>You have constructed monuments to faith, it is most impressive.</Text>
+		</Row>
+		<!--AI Warnings-->
+		<Row Tag="LOC_DIPLO_WARNING_EXIT_LEADER_MER_JOAN_ANY" Language="en_US">
+			<Text>Do you not aid your people? do they not need homes and work to keep busy? does faith not drive them?</Text>
+		</Row>
+		<!--AI warns player for border troops-->
+		<Row Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_LEADER_MER_JOAN_ANY" Language="en_US">
+			<Text>Flanders will stand strong against any threat, your bravado does nothing to shake us.</Text>
+		</Row>
+		<!--TRADE-->
+		<!--AI Accepts Deal-->
+		<Row Tag="LOC_DIPLO_ACCEPT_MAKE_DEAL_FROM_AI_LEADER_MER_JOAN_ANY" Language="en_US">
+			<Text>{LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_MER_JOAN_ANY}</Text>
+		</Row>
+		<!--AI Rejects Deal-->
+		<Row Tag="LOC_DIPLO_REJECT_MAKE_DEAL_FROM_AI_LEADER_MER_JOAN_ANY" Language="en_US">
+			<Text>{LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_MER_JOAN_ANY}</Text>
+		</Row>
+		<!--DENOUNCE-->
+		<!--From Human-->
+		<Row Tag="LOC_DIPLO_DENOUNCE_FROM_HUMAN_LEADER_MER_JOAN_ANY" Language="en_US">
+			<Text>I need only the lord's approval, and I do his good work.</Text>
+		</Row>
+		<!--From AI-->
+		<Row Tag="LOC_DIPLO_DENOUNCE_FROM_AI_LEADER_MER_JOAN_ANY" Language="en_US">
+			<Text>How can someone like you find themselves sat upon a throne? Even a demesne as pathetic as yours is not suited for your rule. (Denounces You)</Text>
+		</Row>
+		<!--DECLARE WAR-->
+		<!--Human Declares War-->
+		<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_HUMAN_LEADER_MER_JOAN_ANY" Language="en_US">
+			<Text>Such a waste.</Text>
+		</Row>
+		<!--AI Declares War-->
+		<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_MER_JOAN_ANY" Language="en_US">
+			<Text>I hate that it must come to this, but it was inevitable.</Text>
+		</Row>
+		<!--MAKE PEACE-->
+		<!--AI accepts from human-->
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_AI_ACCEPT_DEAL_LEADER_MER_JOAN_ANY" Language="en_US">
+			<Text>I am surprised you had the sense to request such a deal.</Text>
+		</Row>
+		<!--AI refuses human-->
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_AI_REFUSE_DEAL_LEADER_MER_JOAN_ANY" Language="en_US">
+			<Text>I do not bow under such little weight.</Text>
+		</Row>
+		<!--AI requests from human-->
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_FROM_AI_LEADER_MER_JOAN_ANY" Language="en_US">
+			<Text>This must come to an end, it is a waste of life.</Text>
+		</Row>
+		<!--DEFEAT-->
+		<!--AI is Defeated-->
+		<Row Tag="LOC_DIPLO_DEFEAT_FROM_AI_LEADER_MER_JOAN_ANY" Language="en_US">
+			<Text>I have lived a long life, all of it spent in service of the county. But all things come to an end. It is just a shame it came to an end at your hands.</Text>
+		</Row>
+		<!--Human is Defeated (will see this in hotseat)-->
+		<Row Tag="LOC_DIPLO_DEFEAT_FROM_HUMAN_LEADER_MER_JOAN_ANY" Language="en_US">
+			<Text>[LOC_DIPLO_DEFEAT_FROM_AI_LEADER_MER_JOAN_ANY]</Text>
+		</Row>
+		<!--MOD SUPPORT-->
+	</LocalizedText>
+</GameData>

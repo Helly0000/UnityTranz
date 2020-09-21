@@ -1,0 +1,246 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by Ed Beach (Firaxis Games) -->
+<GameData>
+	<LocalizedText>
+		<Row Tag="LOC_LEADER_MER_MARIA_THERESA_NAME" Language="en_US">
+			<Text>Maria Theresa</Text>
+		</Row>
+		<!--Traits-->
+		<Row Tag="LOC_TRAIT_LEADER_MER_THERESIAN_REFORM_NAME" Language="en_US">
+			<Text>Theresian Reforms</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_LEADER_MER_THERESIAN_REFORM_DESCRIPTION" Language="en_US">
+			<Text>Speciality Districts provide +1 [ICON_Housing] Housing when a District of that type already exists in the Capital. +20% [ICON_Production] Production towards Districts in cities with an [ICON_Governor] Established Governor and receive a free [ICON_Governor] Governor Title with The Enlightenment.</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_CIVILIZATION_MER_CROWNLANDS_NAME" Language="en_US">
+			<Text>Crownlands</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_CIVILIZATION_MER_CROWNLANDS_DESCRIPTION" Language="en_US">
+			<Text>Each [ICON_Governor] Established Governor grants +1 [ICON_Envoy] Influence Point per turn. When the borders of a City-State of whom you are Suzerain expand to a new tile, receive a sum of [ICON_GreatWriter] Great Writer, [ICON_GreatArtist] Artist, and [ICON_GreatMusician] Musician Points.</Text>
+		</Row> 
+		<Row Tag="LOC_TRAIT_CIVILIZATION_UNIT_MER_GRENZER_NAME" Language="en_US">
+			<Text>Grenzer</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_CIVILIZATION_UNIT_MER_GRENZER_DESCRIPTION" Language="en_US">
+			<Text>A unique land unit</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_MER_GRENZER_NAME" Language="en_US">
+			<Text>Grenzer</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_MER_GRENZER_DESCRIPTION" Language="en_US">
+			<Text>Austrian unique industrial era unit. Receives +7 [ICON_Strength] Combat Strength and earns 25% more experience when fighting in or adjacent to your territory. +1 Base [ICON_Movement] Movement.</Text>
+		</Row>
+		<Row Tag="LOC_MER_GRENZER_BORDER_STRENGTH_DESCRIPTION" Language="en_US">
+			<Text>+10 [ICON_Strength] Strength from fighting in or adjacent to your territory. </Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_CIVILIZATION_BUILDING_MER_COFFEE_HOUSE_NAME" Language="en_US">
+			<Text>Coffee House</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_CIVILIZATION_BUILDING_MER_COFFEE_HOUSE_DESCRIPTION" Language="en_US">
+			<Text>A unique building</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_MER_COFFEE_HOUSE_NAME" Language="en_US">
+			<Text>Coffee House</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_MER_COFFEE_HOUSE_DESCRIPTION" Language="en_US">
+			<Text>Austrian unique entertainment building, replacing the Zoo and available earlier. +2 [ICON_Culture] and +2 [ICON_Science] Science. Districts in this city provide +1 [ICON_GreatPerson] Great Person points of their type. </Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_MER_AUSTRIA_NAME" Language="en_US">
+			<Text>Austria</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_MER_AUSTRIA_DESCRIPTION" Language="en_US">
+			<Text>Austria</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_MER_AUSTRIA_DESCRIPTION_JFD_CIVILIZATION" Language="en_US">
+			<Text>Austrian Civilization</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_MER_AUSTRIA_ADJECTIVE"	  Language="en_US">
+			<Text>Austrian</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_MER_AUSTRIA_1" Language="en_US">
+			<Text>Vienna</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_MER_AUSTRIA_2" Language="en_US">
+			<Text>Graz</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_MER_AUSTRIA_3" Language="en_US">
+			<Text>Salzburg</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_MER_AUSTRIA_4" Language="en_US">
+			<Text>Innsbruck</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_MER_AUSTRIA_5" Language="en_US">
+			<Text>Linz</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_MER_AUSTRIA_6" Language="en_US">
+			<Text>Klagenfurt</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_MER_AUSTRIA_7" Language="en_US">
+			<Text>Sankt Pölten</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_MER_AUSTRIA_8" Language="en_US">
+			<Text>Krems</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_MER_AUSTRIA_9" Language="en_US">
+			<Text>Lienz</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_MER_AUSTRIA_10" Language="en_US">
+			<Text>Wiener Neustadt</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_MER_AUSTRIA_11" Language="en_US">
+			<Text>Melk</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_MER_AUSTRIA_12" Language="en_US">
+			<Text>Feldkirch</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_MER_AUSTRIA_13" Language="en_US">
+			<Text>Villach</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_MER_AUSTRIA_14" Language="en_US">
+			<Text>Bregenz</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_MER_AUSTRIA_15" Language="en_US">
+			<Text>Steyr</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_MER_AUSTRIA_16" Language="en_US">
+			<Text>Schwaz</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_MER_AUSTRIA_17" Language="en_US">
+			<Text>Eisenstadt</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_MER_AUSTRIA_18" Language="en_US">
+			<Text>Wels</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_MER_AUSTRIA_19" Language="en_US">
+			<Text>Sankt Veit an der Glan</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_MER_AUSTRIA_20" Language="en_US">
+			<Text>Judenburg</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_MER_AUSTRIA_21" Language="en_US">
+			<Text>Gurk</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_MER_AUSTRIA_22" Language="en_US">
+			<Text>Klosterneuburg</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_MER_AUSTRIA_23" Language="en_US">
+			<Text>Gmunden</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_MER_AUSTRIA_24" Language="en_US">
+			<Text>Leoben</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_MER_AUSTRIA_25" Language="en_US">
+			<Text>Kitzbühel</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_MER_AUSTRIA_26" Language="en_US">
+			<Text>Enns</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_MER_AUSTRIA_27" Language="en_US">
+			<Text>Dornbirn</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_MER_AUSTRIA_28" Language="en_US">
+			<Text>Friesach</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_MER_AUSTRIA_29" Language="en_US">
+			<Text>Gloggnitz</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_MER_AUSTRIA_30" Language="en_US">
+			<Text>Bruck an der Leitha</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_MER_AUSTRIA_31" Language="en_US">
+			<Text>Laxenburg</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_MER_AUSTRIA_32" Language="en_US">
+			<Text>Spittal an der Drau</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_MER_AUSTRIA_33" Language="en_US">
+			<Text>Seckau</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_MER_AUSTRIA_34" Language="en_US">
+			<Text>Mattersburg</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_MER_AUSTRIA_35" Language="en_US">
+			<Text>Wolfsberg</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_MER_AUSTRIA_36" Language="en_US">
+			<Text>Freistadt</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_MER_AUSTRIA_37" Language="en_US">
+			<Text>Bad Gastein</Text>
+		</Row>
+		<!--Citizens-->
+		<Row Tag="LOC_CITIZEN_MER_AUSTRIA_MALE_1" Language="en_US">
+			<Text>Lukas</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_MER_AUSTRIA_MALE_2" Language="en_US">
+			<Text>Tobias</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_MER_AUSTRIA_MALE_3" Language="en_US">
+			<Text>Moritz</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_MER_AUSTRIA_MALE_4" Language="en_US">
+			<Text>Jäger</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_MER_AUSTRIA_MALE_5" Language="en_US">
+			<Text>Erwin</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_MER_AUSTRIA_MALE_6" Language="en_US">
+			<Text>Sigmund</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_MER_AUSTRIA_MALE_7" Language="en_US">
+			<Text>Sebastian</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_MER_AUSTRIA_MALE_8" Language="en_US">
+			<Text>Ludwig</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_MER_AUSTRIA_MALE_9" Language="en_US">
+			<Text>Wolfgang</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_MER_AUSTRIA_MALE_10" Language="en_US">
+			<Text>Aberle</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_MER_AUSTRIA_FEMALE_1" Language="en_US">
+			<Text>Anna</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_MER_AUSTRIA_FEMALE_2" Language="en_US">
+			<Text>Carli</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_MER_AUSTRIA_FEMALE_3" Language="en_US">
+			<Text>Janica</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_MER_AUSTRIA_FEMALE_4" Language="en_US">
+			<Text>Laura</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_MER_AUSTRIA_FEMALE_5" Language="en_US">
+			<Text>Karla</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_MER_AUSTRIA_FEMALE_6" Language="en_US">
+			<Text>Therese</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_MER_AUSTRIA_FEMALE_7" Language="en_US">
+			<Text>Viveka</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_MER_AUSTRIA_FEMALE_8" Language="en_US">
+			<Text>Sophie</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_MER_AUSTRIA_FEMALE_9" Language="en_US">
+			<Text>Lisa</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_MER_AUSTRIA_FEMALE_10" Language="en_US">
+			<Text>Farahilde</Text>
+		</Row>
+		<!--Terrain Names-->
+		<Row Tag="LOC_NAMED_VOLCANO_AUSTRIA_NAME"	Language="en_US">
+			<Text>Riegersburg</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_MOUNTAIN_AUSTRIA_1_NAME"	Language="en_US">
+			<Text>Zillertal Alps</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_MOUNTAIN_AUSTRIA_2_NAME"	Language="en_US">
+			<Text>High Tauern</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_MOUNTAIN_AUSTRIA_3_NAME"	Language="en_US">
+			<Text>Ötztal Alps</Text>
+		</Row>
+	</LocalizedText>
+</GameData>

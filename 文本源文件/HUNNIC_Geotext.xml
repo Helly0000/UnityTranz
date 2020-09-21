@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- GameData1 -->
+<!-- Author: Gedemo -->
+<!-- DateCreated: 2/14/2019 7:44:24 PM -->
+<GameData>
+
+	<LocalizedText>
+
+		<Row Tag="LOC_NAMED_RIVER_TISZA_NAME"  Language="en_US">
+			<Text>Tisza</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_RIVER_KOROS_NAME"  Language="en_US">
+			<Text>Koros</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_RIVER_RABA_NAME"  Language="en_US">
+			<Text>Raba</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_RIVER_ZAGYVA_NAME"  Language="en_US">
+			<Text>Zagyva</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_RIVER_DRAVA_NAME"  Language="en_US">
+			<Text>Drava</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_MOUNTAIN_MATRA_NAME"  Language="en_US">
+			<Text>Matra</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_MOUNTAIN_BUKK_NAME"  Language="en_US">
+			<Text>Bukk</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_MOUNTAIN_BORZSONY_NAME"  Language="en_US">
+			<Text>Borzsony</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_MOUNTAIN_ZEMPLEN_NAME"  Language="en_US">
+			<Text>Zemplen</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_MOUNTAIN_KOSZEG_NAME"  Language="en_US">
+			<Text>Koszeg</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_VOLCANO_NAGY_EGED_NAME"  Language="en_US">
+			<Text>Nagy-Eged</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_VOLCANO_BADACSONY_NAME"  Language="en_US">
+			<Text>Badacsony</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_VOLCANO_CASTLE_OF_VERPELET_NAME"  Language="en_US">
+			<Text>Castle of Verpelet</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_VOLCANO_HEGYESTU_NAME"  Language="en_US">
+			<Text>Hegyestu</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_VOLCANO_SAG_HEGY_NAME"  Language="en_US">
+			<Text>Sag Hegy</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_DESERT_FULOPHAZA_NAME"  Language="en_US">
+			<Text>Fulophaza</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_DESERT_HALMAJUGRA_NAME"  Language="en_US">
+			<Text>Halmajugra</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_DESERT_ALDEBRO_NAME"  Language="en_US">
+			<Text>Aldebro</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_DESERT_BUKKABRANY_NAME"  Language="en_US">
+			<Text>Bukkabrany</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_DESERT_UJLORINCFALVA_NAME"  Language="en_US">
+			<Text>Ujlorincfalva</Text>
+		</Row>
+
+
+
+		<Row Tag="LOC_NAMED_RIVER_TISZA_NAME"  Language="fr_FR">
+			<Text>Tisza</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_RIVER_KOROS_NAME"  Language="fr_FR">
+			<Text>Koros</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_RIVER_RABA_NAME"  Language="fr_FR">
+			<Text>Raba</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_RIVER_ZAGYVA_NAME"  Language="fr_FR">
+			<Text>Zagyva</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_RIVER_DRAVA_NAME"  Language="fr_FR">
+			<Text>Drava</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_MOUNTAIN_MATRA_NAME"  Language="fr_FR">
+			<Text>Matra</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_MOUNTAIN_BUKK_NAME"  Language="fr_FR">
+			<Text>Bukk</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_MOUNTAIN_BORZSONY_NAME"  Language="fr_FR">
+			<Text>Borzsony</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_MOUNTAIN_ZEMPLEN_NAME"  Language="fr_FR">
+			<Text>Zemplen</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_MOUNTAIN_KOSZEG_NAME"  Language="fr_FR">
+			<Text>Koszeg</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_VOLCANO_NAGY_EGED_NAME"  Language="fr_FR">
+			<Text>Nagy-Eged</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_VOLCANO_BADACSONY_NAME"  Language="fr_FR">
+			<Text>Badacsony</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_VOLCANO_CASTLE_OF_VERPELET_NAME"  Language="fr_FR">
+			<Text>Castle of Verpelet</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_VOLCANO_HEGYESTU_NAME"  Language="fr_FR">
+			<Text>Hegyestu</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_VOLCANO_SAG_HEGY_NAME"  Language="fr_FR">
+			<Text>Sag Hegy</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_DESERT_FULOPHAZA_NAME"  Language="fr_FR">
+			<Text>Fulophaza</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_DESERT_HALMAJUGRA_NAME"  Language="fr_FR">
+			<Text>Halmajugra</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_DESERT_ALDEBRO_NAME"  Language="fr_FR">
+			<Text>Aldebro</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_DESERT_BUKKABRANY_NAME"  Language="fr_FR">
+			<Text>Bukkabrany</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_DESERT_UJLORINCFALVA_NAME"  Language="fr_FR">
+			<Text>Ujlorincfalva</Text>
+		</Row>
+	</LocalizedText>
+
+</GameData>

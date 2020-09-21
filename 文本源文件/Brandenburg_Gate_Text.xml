@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+    <EnglishText>
+        <Row Tag="LOC_BUILDING_BRANDENBURG_GATE_NAME">
+            <Text>Brandenburg Gate</Text>
+        </Row>
+        <Row Tag="LOC_BUILDING_BRANDENBURG_GATE_DESCRIPTION">
+            <Text>+25% combat experience for all land units trained in this city. 1 free Great General appears (if available). +3 Loyalty per turn for cities with a garrisoned unit (Expansions only). Requires a Military Academy in the City. Must be built adjacent to a City Center on Flat Grassland, Plains, Desert or Tundra tile.</Text>
+        </Row>
+        <Row Tag="LOC_BUILDING_BRANDENBURG_GATE_QUOTE">
+            <Text>"Pale Death beats equally at the poor man's gate and at the palaces of kings." – Horace</Text>
+        </Row>
+        <Row Tag="LOC_PEDIA_WONDERS_PAGE_BUILDING_BRANDENBURG_GATE_CHAPTER_HISTORY_PARA_1">
+            <Text>The Brandenburg Gate is the only surviving town gate of the city of Berlin. A beautiful "triumphal arch" constructed in the Greek style in 1788-91, it features many columns and is surmounted by the "Quadriga of Victory," a statue of a chariot drawn by four horses. It stands at the end of the avenue Unter den Linden.</Text>
+        </Row>
+        <Row Tag="LOC_PEDIA_WONDERS_PAGE_BUILDING_BRANDENBURG_GATE_CHAPTER_HISTORY_PARA_2">
+            <Text>After World War II, Berlin was partitioned between sections controlled by the Soviet Union, and the United States and its allies. The Berlin Wall was constructed by the Soviets to keep the two parts of the city separated. The Brandenburg Gate was in a sort of a "no-man's land" between the two factions, and from 1961-1989 neither side had access. The Gate was reopened in 1989 as part of the reunification of Berlin and Germany.</Text>
+        </Row>
+        <Row Tag="LOC_PEDIA_WONDERS_PAGE_BUILDING_BRANDENBURG_GATE_CHAPTER_HISTORY_PARA_3">
+            <Text>Today it stands as a proud symbol of the reunified city and country, and it is visited by tens of thousands of tourists from both east and west.</Text>
+        </Row>
+    </EnglishText>
+</GameData>

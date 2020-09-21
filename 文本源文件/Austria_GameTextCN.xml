@@ -1,0 +1,246 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by Ed Beach (Firaxis Games) -->
+<GameData>
+	<LocalizedText>
+		<Row Tag="LOC_LEADER_MER_MARIA_THERESA_NAME" Language="zh_Hans_CN">
+			<Text>玛丽娅·特蕾莎</Text>
+		</Row>
+		<!--Traits-->
+		<Row Tag="LOC_TRAIT_LEADER_MER_THERESIAN_REFORM_NAME" Language="zh_Hans_CN">
+			<Text>特蕾莎改革</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_LEADER_MER_THERESIAN_REFORM_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>专业化区域提供+1 [ICON_Housing] 住房（若该类型区域已存在于首都）。有 [ICON_Governor] 总督就职的城市建造区域时+20% [ICON_Production] 生产力。解锁市政“启蒙运动”后奖励1个 [ICON_Governor] 总督头衔。</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_CIVILIZATION_MER_CROWNLANDS_NAME" Language="zh_Hans_CN">
+			<Text>王冠领地</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_CIVILIZATION_MER_CROWNLANDS_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>每个有 [ICON_Governor] 总督就职的城市每回合+1 [ICON_Envoy] 影响力点数。每当一座城邦的边境向外扩张一格，若您是其宗主国，则可获得 [ICON_GreatWriter] 大作家、[ICON_GreatArtist] 大艺术家和 [ICON_GreatMusician] 大音乐家点数。</Text>
+		</Row> 
+		<Row Tag="LOC_TRAIT_CIVILIZATION_UNIT_MER_GRENZER_NAME" Language="zh_Hans_CN">
+			<Text>边防军</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_CIVILIZATION_UNIT_MER_GRENZER_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>一种特色陆地单位</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_MER_GRENZER_NAME" Language="zh_Hans_CN">
+			<Text>边防军</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_MER_GRENZER_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>奥地利特色工业时代近战单位。在帝国境内或在边境附近战斗时+7 [ICON_Strength] 战斗力，+25%战斗经验值。</Text>
+		</Row>
+		<Row Tag="LOC_MER_GRENZER_BORDER_STRENGTH_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>在帝国境内或在边境附近战斗时+7 [ICON_Strength] 战斗力，+25%战斗经验值。</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_CIVILIZATION_BUILDING_MER_COFFEE_HOUSE_NAME" Language="zh_Hans_CN">
+			<Text>咖啡馆</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_CIVILIZATION_BUILDING_MER_COFFEE_HOUSE_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>奥地利的特色建筑，取代动物园并且更早解锁。+2 [ICON_Culture] 文化值、+2 [ICON_Science] 科技值。该城市的区域额外+1各自类型的 [ICON_GreatPerson] 伟人点数。</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_MER_COFFEE_HOUSE_NAME" Language="zh_Hans_CN">
+			<Text>咖啡馆</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_MER_COFFEE_HOUSE_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>奥地利特色娱乐建筑，取代动物园并且更早解锁。+2 [ICON_Culture] 文化值、+2 [ICON_Science] 科技值。该城市的区域额外+1各自类型的 [ICON_GreatPerson] 伟人点数。</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_MER_AUSTRIA_NAME" Language="zh_Hans_CN">
+			<Text>奥地利</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_MER_AUSTRIA_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>奥地利</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_MER_AUSTRIA_DESCRIPTION_JFD_CIVILIZATION" Language="zh_Hans_CN">
+			<Text>奥地利文明</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_MER_AUSTRIA_ADJECTIVE"	  Language="zh_Hans_CN">
+			<Text>奥地利的</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_MER_AUSTRIA_1" Language="zh_Hans_CN">
+			<Text>维也纳</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_MER_AUSTRIA_2" Language="zh_Hans_CN">
+			<Text>格拉茨</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_MER_AUSTRIA_3" Language="zh_Hans_CN">
+			<Text>萨尔茨堡</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_MER_AUSTRIA_4" Language="zh_Hans_CN">
+			<Text>茵斯布鲁克</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_MER_AUSTRIA_5" Language="zh_Hans_CN">
+			<Text>林茨</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_MER_AUSTRIA_6" Language="zh_Hans_CN">
+			<Text>克拉根福特</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_MER_AUSTRIA_7" Language="zh_Hans_CN">
+			<Text>圣珀尔滕</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_MER_AUSTRIA_8" Language="zh_Hans_CN">
+			<Text>雷姆斯</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_MER_AUSTRIA_9" Language="zh_Hans_CN">
+			<Text>利恩茨</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_MER_AUSTRIA_10" Language="zh_Hans_CN">
+			<Text>维也纳新城</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_MER_AUSTRIA_11" Language="zh_Hans_CN">
+			<Text>梅尔克</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_MER_AUSTRIA_12" Language="zh_Hans_CN">
+			<Text>费尔德基希</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_MER_AUSTRIA_13" Language="zh_Hans_CN">
+			<Text>菲拉赫</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_MER_AUSTRIA_14" Language="zh_Hans_CN">
+			<Text>布雷根茨</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_MER_AUSTRIA_15" Language="zh_Hans_CN">
+			<Text>斯太尔</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_MER_AUSTRIA_16" Language="zh_Hans_CN">
+			<Text>施瓦茨</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_MER_AUSTRIA_17" Language="zh_Hans_CN">
+			<Text>艾森施塔特</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_MER_AUSTRIA_18" Language="zh_Hans_CN">
+			<Text>韦尔斯</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_MER_AUSTRIA_19" Language="zh_Hans_CN">
+			<Text>格兰河畔圣法伊特</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_MER_AUSTRIA_20" Language="zh_Hans_CN">
+			<Text>尤登堡</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_MER_AUSTRIA_21" Language="zh_Hans_CN">
+			<Text>古尔克</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_MER_AUSTRIA_22" Language="zh_Hans_CN">
+			<Text>克洛斯特新堡</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_MER_AUSTRIA_23" Language="zh_Hans_CN">
+			<Text>格蒙登</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_MER_AUSTRIA_24" Language="zh_Hans_CN">
+			<Text>莱奥本</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_MER_AUSTRIA_25" Language="zh_Hans_CN">
+			<Text>基茨比尔</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_MER_AUSTRIA_26" Language="zh_Hans_CN">
+			<Text>恩斯</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_MER_AUSTRIA_27" Language="zh_Hans_CN">
+			<Text>多恩比恩</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_MER_AUSTRIA_28" Language="zh_Hans_CN">
+			<Text>弗里萨赫</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_MER_AUSTRIA_29" Language="zh_Hans_CN">
+			<Text>格洛格尼茨</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_MER_AUSTRIA_30" Language="zh_Hans_CN">
+			<Text>莱塔河畔布鲁克</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_MER_AUSTRIA_31" Language="zh_Hans_CN">
+			<Text>拉克森堡</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_MER_AUSTRIA_32" Language="zh_Hans_CN">
+			<Text>德劳河畔施皮塔尔</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_MER_AUSTRIA_33" Language="zh_Hans_CN">
+			<Text>塞考</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_MER_AUSTRIA_34" Language="zh_Hans_CN">
+			<Text>马特斯堡</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_MER_AUSTRIA_35" Language="zh_Hans_CN">
+			<Text>沃尔夫斯贝格</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_MER_AUSTRIA_36" Language="zh_Hans_CN">
+			<Text>弗赖施塔特</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_MER_AUSTRIA_37" Language="zh_Hans_CN">
+			<Text>巴特加斯泰因</Text>
+		</Row>
+		<!--Citizens-->
+		<Row Tag="LOC_CITIZEN_MER_AUSTRIA_MALE_1" Language="zh_Hans_CN">
+			<Text>卢卡斯</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_MER_AUSTRIA_MALE_2" Language="zh_Hans_CN">
+			<Text>托拜厄斯</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_MER_AUSTRIA_MALE_3" Language="zh_Hans_CN">
+			<Text>莫里茨</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_MER_AUSTRIA_MALE_4" Language="zh_Hans_CN">
+			<Text>耶格尔</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_MER_AUSTRIA_MALE_5" Language="zh_Hans_CN">
+			<Text>埃尔文</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_MER_AUSTRIA_MALE_6" Language="zh_Hans_CN">
+			<Text>西格蒙德</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_MER_AUSTRIA_MALE_7" Language="zh_Hans_CN">
+			<Text>塞巴斯蒂安</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_MER_AUSTRIA_MALE_8" Language="zh_Hans_CN">
+			<Text>路德维希</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_MER_AUSTRIA_MALE_9" Language="zh_Hans_CN">
+			<Text>沃尔夫冈</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_MER_AUSTRIA_MALE_10" Language="zh_Hans_CN">
+			<Text>阿伯利</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_MER_AUSTRIA_FEMALE_1" Language="zh_Hans_CN">
+			<Text>安娜</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_MER_AUSTRIA_FEMALE_2" Language="zh_Hans_CN">
+			<Text>卡莉</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_MER_AUSTRIA_FEMALE_3" Language="zh_Hans_CN">
+			<Text>雅尼卡</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_MER_AUSTRIA_FEMALE_4" Language="zh_Hans_CN">
+			<Text>劳拉</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_MER_AUSTRIA_FEMALE_5" Language="zh_Hans_CN">
+			<Text>卡拉</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_MER_AUSTRIA_FEMALE_6" Language="zh_Hans_CN">
+			<Text>特丽丝</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_MER_AUSTRIA_FEMALE_7" Language="zh_Hans_CN">
+			<Text>维沃莎</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_MER_AUSTRIA_FEMALE_8" Language="zh_Hans_CN">
+			<Text>索菲</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_MER_AUSTRIA_FEMALE_9" Language="zh_Hans_CN">
+			<Text>莉萨</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_MER_AUSTRIA_FEMALE_10" Language="zh_Hans_CN">
+			<Text>法拉希尔德</Text>
+		</Row>
+		<!--Terrain Names-->
+		<Row Tag="LOC_NAMED_VOLCANO_AUSTRIA_NAME"	Language="zh_Hans_CN">
+			<Text>里格斯堡火山</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_MOUNTAIN_AUSTRIA_1_NAME"	Language="zh_Hans_CN">
+			<Text>齐勒塔尔阿尔卑斯山脉</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_MOUNTAIN_AUSTRIA_2_NAME"	Language="zh_Hans_CN">
+			<Text>高陶恩山脉</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_MOUNTAIN_AUSTRIA_3_NAME"	Language="zh_Hans_CN">
+			<Text>奥茨塔尔阿尔卑斯山脉</Text>
+		</Row>
+	</LocalizedText>
+</GameData>

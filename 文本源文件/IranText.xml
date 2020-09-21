@@ -1,0 +1,383 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by Ed Beach (Firaxis Games) -->
+<GameData>
+	<LocalizedText>
+		<!--CIVILIZATION-->
+		<Row Tag="LOC_CIVILIZATION_EMP_IRAN_NAME" Language="en_US">
+			<Text>Iran</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_EMP_IRAN_DESCRIPTION" Language="en_US">
+			<Text>Iranian Empire</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_EMP_IRAN_ADJECTIVE" Language="en_US">
+			<Text>Iranian</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_EMP_IRAN_DESCRIPTION_JFD_CIVILIZATION" Language="en_US">
+			<Text>Iranian Civilization</Text>
+		</Row>
+		<!--Pedia-->
+		<Row Tag="LOC_CIVINFO_EMP_IRAN_LOCATION" Language="en_US">
+			<Text>Middle East, Southwest Asia</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_EMP_IRAN_POPULATION" Language="en_US">
+			<Text>81.16 million</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_EMP_IRAN_SIZE" Language="en_US">
+			<Text>1.648 million sqkm (636,400 sqmi)</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_EMP_IRAN_CAPITAL" Language="en_US">
+			<Text>Tehran</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_EMP_IRAN_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>In the aftermath of the fall of the Sasanians, Iran saw influxes of a multitudes of peoples from Georgians to Turkmen to Arabs to Mongols. Ordinarily, a subjugated nation would have it's culture overwritten by it's dominators, but the Persian Culture proved pervasive enough to not only endure but to change the cultures of their overlords. The fledgeling Islamic empires adopted Persian courtly practices and philosophic principles. The Turkmen tribes saw themselves mutated in the Iranian practices, giving rise to Turco-Persian Tradition - a tradition that was commonplace not only through all of the Iranian Empires, but also the Seljuk, Ottoman, and Mamluk empires (a form of this persisting in the Republic of Turkey and the Islamic Republic of Iran). The Mongol invaders and the Timurids saw themselves renouncing their steppe way of life and becoming Iranian Kings. In a way, all of these foreigners were made to serve Persia, no matter how many Persians they massacred or how much woe they brought to the land.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_EMP_IRAN_CHAPTER_HISTORY_PARA_2" Language="en_US">
+			<Text>While Iran influenced its overlords - the Caliphates, the Ghaznavids, the Seljuks, the Khwarezmids, the Mongols, the Timurids, and the Koyunlu tribes - they were in turn permuted. Zoroastrianism was replaced by Sunni Islam (albeit very slowly). And Iran would not have a native rule again until 1501 with the establishment of the Safavid empire by Shah Ismail.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_EMP_IRAN_CHAPTER_HISTORY_PARA_3" Language="en_US">
+			<Text>Ismail hailed from a Turkmen tribe (part of the Qizilbash) and claimed direct descent from Hasan the Tall (also translated as Hasan the Long. Get your mind out of the gutter). His father, Sheikh Haydar, was the Grandmaster of the Safaviyya Sufi Order within the Twelver branch of Shi'a Islam. While the direct beliefs of the Twelvers are important for this, it is their practices that are. They believed, like all other Shi'a, that the first three caliphs stole the Caliphal office from the fourth Caliph: Ali, the son of Muhammad. The Safaviyya order also claimed direct descent from Muhammad (though that is likely a blatant lie) and therefore it was more than a little personal. In addition, their common practices were to curse the first three Caliphs (uhh...), destroy Sunni Mosques (wait...), defile Sunni graves (maybe you shouldn't...), And burn effigies of the first three Caliphs (GUYS WHAT). As such, Ismail grew up as a fanatic of Twelverism and made it his mission to destroy all of Sunni Islam.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_EMP_IRAN_CHAPTER_HISTORY_PARA_4" Language="en_US">
+			<Text>When Sheikh Haydar was killed during a siege against the Ak Koyunlu Turkmen (literally meaning "White Sheep" Turks. Turns out that when your people are shepherds, they tend to like sheep. Get your mind out of the gutter), Ismail embarked on a mission of vengeance against the Ak Koyunlu, utterly destroying them with the help of his Qizilbash tribesmen despite being outnumber. Seeing how easy it was to dominate northwestern Iran, he carried on conquering and destroying mosques along the way - the whole time being treated as an invincible demigod by his Qizilbash. He proclaimed himself the Shahanshah of Iran and the Shah of Azerbaijan in 1501, and additionally went on a campaign of transforming Iran from being 90% Sunni to totally Twelver Shia. It's telling that Iran remains a majority Twelver nation (albeit slightly more mellow, and much less likely to burn effigies) to this day.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_EMP_IRAN_CHAPTER_HISTORY_PARA_5" Language="en_US">
+			<Text>In 1512, Shah Ismail was finally defeated and retired to a life of miserable inebriation, but the Safavid dynasty that he founded managed to endure until 1736 despite this defeat. He was succeeded by his son, Tahmasp I, who enjoyed the longest reign of any Iranian Shah.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_EMP_IRAN_CHAPTER_HISTORY_PARA_6" Language="en_US">
+			<Text>When Tahmasp came to the throne, the empire was threatened by opponents inside and out: Ismail’s reliance on Qizilbash forces resulted in the entrenchment of a feuding Qizilbash nobility that sapped the central power of the Shah, and the glaring lack of a force that could stand up to gunpowder infantry. Speaking of which, the Ottomans were still a very hostile force on Iran’s border, and though Sultan Selim had died, his son was Suleiman the Lawgiver, and a lion in his own right. Not to mention the Uzbeks in the far east. More worryingly – when Tahmasp ascended the throne, he was a child at 10 years old, and was dueled over by those very Qizilbash Nobles for the right to be the regent and therefore control the country.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_EMP_IRAN_CHAPTER_HISTORY_PARA_7" Language="en_US">
+			<Text>After nine years of various Qizilbash being executed and taking out their personal issues on each other, and a 14 year old shah ordering the general massacre of an entire tribe, Tahmasp executed the last of his viziers that was plotting against him (his name was Husayn) and ascended the throne in his own right. Much of Tahmasp’s reign was international treaties, placating the Ottoman Empire through the Peace of Amasya and dividing the caucuses and the middle east between the two. He also founded a new force of soldiers – creatively named the “Third Force” - that would cut away at the power of the Qizilbash, enabling his successors to do away with them and establish a proper meritocratic kingdom (a new trend in those days). After properly fixing relations with the Ottoman and Mughal Empires, peaces that would last for 30 years, he also encouraged the rug industry in order to bolster the Iranian economy once more. This would be carried on by his successors, particularly Abbas the Great – replacing the powers of the Qizilbash with Ghulam (slaves) that made up the new positions. Most of these people came from the Caucuses, which would persist until the end of the Qajar dynasty. </Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_EMP_IRAN_CHAPTER_HISTORY_PARA_8" Language="en_US">
+			<Text>Unfortunately, most of these following monarchs were ineffectual, weak, and more interested in women and drink than in ruling Iran. The primary exception to this was Shah Abbas the Great, who became legendary for reasserting Iran’s power by defeating the Uzbeks and Ottomans, then by punishing disloyal Georgian provinces, and then dislodging the Portuguese from the Persian gulf. It was under him that Iran finally ascended to the status of a world power – equal in might to its Ottoman Archrival. Iran experienced a flourishing of architecture and fine arts under his reign, in addition to partnerships with the Dutch East India Company and diplomatic missions to the West (Not to mention is One-Uppage of Tahmasp’s Three Decade reign by having a Four Decade reign). This Safavid Renaissance would never be seen again following his reign. Following him (and his brightest successor – Abbas II in 1666), Safavid Iran would lose its newly-acquired world power status, and slip into a state of near-permanent decay.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_EMP_IRAN_CHAPTER_HISTORY_PARA_9" Language="en_US">
+			<Text>It would take nearly a hundred years of attrition before the Safavids were finally overthrown. Iran had to face the new Russian Empire to their North, and the ascendant Mughals in addition to their old enemies – the Uzbeks and the Ottomans. Astrakhan was lost, and the Mughals expanded into Afghanistan. To add insult to injury, the very same ties with the Dutch East India company were used to take control of Iranian trade routes (though Iranian Merchants did enter North and Central Europe because of it) and drain the Safavids of their crucial wealth. Raids were launched on all sides, but what truly ended the Safavids was a warlord named Nader Afshar.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_EMP_IRAN_CHAPTER_HISTORY_PARA_10" Language="en_US">
+			<Text>The Turkic Warlord from Khorasan (no relation), seemed a Second Alexander, and has since been deemed the Last Great Asian Conqueror. This is because he found every single ass to kick in the region, and then kicked them all. His rise to power over the region was meteoric, reasserting the power that Shah Ismail and Shah Abbas displayed centuries prior, being completely undefeated for the majority of his rule. Famously, he invaded the Mughal Empire to finance another war with the Ottomans and defeated the numerically superior Mughal army in under three hours. Then he sacked Delhi, and on the way back he easily conquered all the Uzbek khaganates. Nader singlehandedly defeated every single one of Iran’s rivals, until he came to Dagestan. An assassination attempt was made, and was followed by a number of pricey guerrilla wars. He began to lose battles and go mad and ill. Another assassination attempt meant he blinded his sons – disallowing them to rule Iran. He was finally assassinated in 1747, and Iran fell into chaos until 1796, as a number of dynasties (including the Zand dynasty) vied for power over Iran. After the last Zand king was defeated, the Safavids were briefly reinstated for the sole purpose of handing the Office of Shahanshah to the new Qajar dynasty.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_EMP_IRAN_CHAPTER_HISTORY_PARA_11" Language="en_US">
+			<Text>Under the Qajars, Iran briefly reasserted Iranian power over the Caucasus (which seems to be a trend – they’ll be trying again any day now), and faced off against the Russians. But this ended poorly for them as they lost these territories to the Russians after two losing wars. The ultimate consequence of this was a massive influx of Muslim refugees (terrifying, I know). A number of mass expulsions of Muslims into Turkey and Iran occurred throughout the Qajar period.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_EMP_IRAN_CHAPTER_HISTORY_PARA_12" Language="en_US">
+			<Text>At the same time, the Qajars were primarily concerned with reform and modernization, that in all truth they did quite poorly. A number of diplomatic missions were made to the west (again), while the government only barely avoided total bankruptcy through slashing budgets. Efforts were made to train administrators in modern techniques, as well as begin setting up education systems. However, these reforms angered various nobles who had been excluded, and so they formed a coalition against him and eventually succeeded in having Nasser al-Din Shah Qajar assassinated. The crown passed on, and the reform halted as the new shah took out more debt and self off more concessions in exchange for his lavish lifestyle.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_EMP_IRAN_CHAPTER_HISTORY_PARA_13" Language="en_US">
+			<Text>The Shah utterly failed to respond to this crisis, and in July of 1909, the Shah was forced to set up a parliament in a Constitutional Revolution. The discovery of oil in the nation the previous year became a point of contention in the United Kingdom and Imperial Russia’s Great Game, where the nation was divided into spheres of interest. The First World War saw the nation occupied by British, Ottomans, and Russian forces. Fortunately for the Iranians, two of those three occupiers collapsed into revolution by the end of the war, and the third one failed at setting up a protectorate in the region. A military coup was launched from a member of the Persian Cossack Brigade – Reza Shah Pahlavi – and a new dynasty came to power in Iran.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_EMP_IRAN_CHAPTER_HISTORY_PARA_14" Language="en_US">
+			<Text>Reza Shah’s sixteen year rule from 1925 to 1941 was characterized by sweeping reforms at a breakneck pace, but through the use of militarism and nationalism. Initially he branded himself as the Iranian Ataturk, setting up a secular authoritarian government. However, the corruption and oppression in place under his rule made Iran a police state. The new, secular laws angered much of the devout Muslims and clergy – going much farther than his Turkish example. Tension came to a brink in 1935, with riots being held in Mashhad. It was quelled by Imperial troops.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_EMP_IRAN_CHAPTER_HISTORY_PARA_15" Language="en_US">
+			<Text>After fears that Iran might be occupied during the Second World War, the Tehran Declaration as issued by the allied powers that it would remain free. Though the Soviets did not withdraw from Iran until 1946, this was largely respected. Some elections were held, but when the prime minister, Mohammed Mosaddeq, attempted to nationalize the British oil industry, there was a coup organized by the U.S. to remove him. IT was from that point until 1979 that  Iran was ruled as an Autocratic state, though it did initiate a series of reforms in another effort to modernize the country. This encited even more Islamic backlash, and a revolution was staged in 1979, where the Shah was overthrown and Iran was remade into an Islamic republic. Though it has made more moderate moves since then, it has remained one of the more extreme states of the world, subscribing to a very radical version of Islamic law. </Text>
+		</Row>
+		<!--Trait-->
+		<Row Tag="LOC_TRAIT_CIVILIZATION_EMP_LION_SUN_NAME" Language="en_US">
+			<Text>Order of Lion and Sun</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_CIVILIZATION_EMP_LION_SUN_DESCRIPTION" Language="en_US">
+			<Text>Gaining Governor Titles grants a burst of [ICON_FAITH] Faith and [ICON_CULTURE] Culture. Cities with established governors gain +5% [ICON_PRODUCTION] Production towards districts for every Title the governor has.</Text>
+		</Row>
+		<!--Cities-->
+		<Row Tag="LOC_CITY_NAME_EMP_IRAN_1" Language="en_US">
+			<Text>Tehran</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_EMP_IRAN_2" Language="en_US">
+			<Text>Shiraz</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_EMP_IRAN_3" Language="en_US">
+			<Text>Isfahan</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_EMP_IRAN_4" Language="en_US">
+			<Text>Tabriz</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_EMP_IRAN_5" Language="en_US">
+			<Text>Nishapur</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_EMP_IRAN_6" Language="en_US">
+			<Text>Maragheh</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_EMP_IRAN_7" Language="en_US">
+			<Text>Khorramabad</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_EMP_IRAN_8" Language="en_US">
+			<Text>Hamadan</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_EMP_IRAN_9" Language="en_US">
+			<Text>Bandar Abbas</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_EMP_IRAN_10" Language="en_US">
+			<Text>Mashhad</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_EMP_IRAN_11" Language="en_US">
+			<Text>Hormuz</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_EMP_IRAN_12" Language="en_US">
+			<Text>Kerman</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_EMP_IRAN_13" Language="en_US">
+			<Text>Kermanshah</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_EMP_IRAN_14" Language="en_US">
+			<Text>Qom</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_EMP_IRAN_15" Language="en_US">
+			<Text>Derbent</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_EMP_IRAN_16" Language="en_US">
+			<Text>Semnan</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_EMP_IRAN_17" Language="en_US">
+			<Text>Qazvin</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_EMP_IRAN_18" Language="en_US">
+			<Text>Ardabil</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_EMP_IRAN_19" Language="en_US">
+			<Text>Urmia</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_EMP_IRAN_20" Language="en_US">
+			<Text>Sari</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_EMP_IRAN_21" Language="en_US">
+			<Text>Herat</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_EMP_IRAN_22" Language="en_US">
+			<Text>Yazd</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_EMP_IRAN_23" Language="en_US">
+			<Text>Ghazni</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_EMP_IRAN_24" Language="en_US">
+			<Text>Gorgan</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_EMP_IRAN_25" Language="en_US">
+			<Text>Peshawar</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_EMP_IRAN_26" Language="en_US">
+			<Text>Rey</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_EMP_IRAN_27" Language="en_US">
+			<Text>Birjand</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_EMP_IRAN_28" Language="en_US">
+			<Text>Bukhara</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_EMP_IRAN_29" Language="en_US">
+			<Text>Merv</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_EMP_IRAN_30" Language="en_US">
+			<Text>Bam</Text>
+		</Row>
+		<!--Citizens-->
+		<Row Tag="LOC_CITIZEN_EMP_IRAN_MALE_1" Language="en_US">
+			<Text>Arash</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_EMP_IRAN_MALE_2" Language="en_US">
+			<Text>Behnam</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_EMP_IRAN_MALE_3" Language="en_US">
+			<Text>Darius</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_EMP_IRAN_MALE_4" Language="en_US">
+			<Text>Farzin</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_EMP_IRAN_MALE_5" Language="en_US">
+			<Text>Jahan</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_EMP_IRAN_MALE_6" Language="en_US">
+			<Text>Kaveh</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_EMP_IRAN_MALE_7" Language="en_US">
+			<Text>Mirza</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_EMP_IRAN_MALE_8" Language="en_US">
+			<Text>Navid</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_EMP_IRAN_MALE_9" Language="en_US">
+			<Text>Shahnaz</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_EMP_IRAN_MODERN_MALE_1" Language="en_US">
+			<Text>Bashir</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_EMP_IRAN_MODERN_MALE_2" Language="en_US">
+			<Text>Gilgamesh</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_EMP_IRAN_MODERN_MALE_3" Language="en_US">
+			<Text>Kourosh</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_EMP_IRAN_MODERN_MALE_4" Language="en_US">
+			<Text>Mazdak</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_EMP_IRAN_MODERN_MALE_5" Language="en_US">
+			<Text>Marduk</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_EMP_IRAN_MODERN_MALE_6" Language="en_US">
+			<Text>Marzaban</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_EMP_IRAN_MODERN_MALE_7" Language="en_US">
+			<Text>Parizad</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_EMP_IRAN_MODERN_MALE_8" Language="en_US">
+			<Text>Turan</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_EMP_IRAN_MODERN_MALE_9" Language="en_US">
+			<Text>Vahid</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_EMP_IRAN_MODERN_MALE_10" Language="en_US">
+			<Text>Zana</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_EMP_IRAN_FEMALE_1" Language="en_US">
+			<Text>Azar</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_EMP_IRAN_FEMALE_2" Language="en_US">
+			<Text>Esfir</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_EMP_IRAN_FEMALE_3" Language="en_US">
+			<Text>Gulshan</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_EMP_IRAN_FEMALE_4" Language="en_US">
+			<Text>Kohinoor</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_EMP_IRAN_FEMALE_5" Language="en_US">
+			<Text>Laleh</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_EMP_IRAN_FEMALE_6" Language="en_US">
+			<Text>Mahin</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_EMP_IRAN_FEMALE_7" Language="en_US">
+			<Text>Minu</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_EMP_IRAN_FEMALE_8" Language="en_US">
+			<Text>Rosana</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_EMP_IRAN_FEMALE_9" Language="en_US">
+			<Text>Shahrezad</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_EMP_IRAN_FEMALE_10" Language="en_US">
+			<Text>Zareen</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_EMP_IRAN_MODERN_FEMALE_1" Language="en_US">
+			<Text>Jasmin</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_EMP_IRAN_MODERN_FEMALE_2" Language="en_US">
+			<Text>Azar</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_EMP_IRAN_MODERN_FEMALE_3" Language="en_US">
+			<Text>Banu</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_EMP_IRAN_MODERN_FEMALE_4" Language="en_US">
+			<Text>Dunya</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_EMP_IRAN_MODERN_FEMALE_5" Language="en_US">
+			<Text>Farangis</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_EMP_IRAN_MODERN_FEMALE_6" Language="en_US">
+			<Text>Gordafarid</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_EMP_IRAN_MODERN_FEMALE_7" Language="en_US">
+			<Text>Kiana</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_EMP_IRAN_MODERN_FEMALE_8" Language="en_US">
+			<Text>Maryam</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_EMP_IRAN_MODERN_FEMALE_9" Language="en_US">
+			<Text>Parastu</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_EMP_IRAN_MODERN_FEMALE_10" Language="en_US">
+			<Text>Sepideh</Text>
+		</Row>
+		<!--RULE WITH FARTH-->
+		<Row Tag="LOC_POLITICIAN_EMP_IRAN_MALE_1" Language="en_US">
+			<Text>Jafar</Text>
+		</Row>
+		<Row Tag="LOC_POLITICIAN_EMP_IRAN_MALE_2" Language="en_US">
+			<Text>Husayn</Text>
+		</Row>
+		<Row Tag="LOC_POLITICIAN_EMP_IRAN_MALE_3" Language="en_US">
+			<Text>Jaberi</Text>
+		</Row>
+		<Row Tag="LOC_POLITICIAN_EMP_IRAN_MALE_4" Language="en_US">
+			<Text>Hatem</Text>
+		</Row>
+		<Row Tag="LOC_POLITICIAN_EMP_IRAN_MALE_5" Language="en_US">
+			<Text>Kalifa</Text>
+		</Row>
+		<Row Tag="LOC_POLITICIAN_EMP_IRAN_MALE_6" Language="en_US">
+			<Text>Taqi</Text>
+		</Row>
+		<Row Tag="LOC_POLITICIAN_EMP_IRAN_MALE_7" Language="en_US">
+			<Text>Mohammad</Text>
+		</Row>
+		<Row Tag="LOC_POLITICIAN_EMP_IRAN_MALE_8" Language="en_US">
+			<Text>Ali</Text>
+		</Row>
+		<Row Tag="LOC_POLITICIAN_EMP_IRAN_MALE_9" Language="en_US">
+			<Text>Zanganeh</Text>
+		</Row>
+		<Row Tag="LOC_POLITICIAN_EMP_IRAN_MALE_10" Language="en_US">
+			<Text>Ebrahim</Text>
+		</Row>
+		<Row Tag="LOC_POLITICIAN_EMP_IRAN_FEMALE_1" Language="en_US">
+			<Text>Farrokhroo</Text>
+		</Row>
+		<Row Tag="LOC_POLITICIAN_EMP_IRAN_FEMALE_2" Language="en_US">
+			<Text>Zahra</Text>
+		</Row>
+		<Row Tag="LOC_POLITICIAN_EMP_IRAN_FEMALE_3" Language="en_US">
+			<Text>Elaheh</Text>
+		</Row>
+		<Row Tag="LOC_POLITICIAN_EMP_IRAN_FEMALE_4" Language="en_US">
+			<Text>Mahsati</Text>
+		</Row>
+		<Row Tag="LOC_POLITICIAN_EMP_IRAN_FEMALE_5" Language="en_US">
+			<Text>Ashraf</Text>
+		</Row>
+		<!--DIVAN-->
+		<Row Tag="LOC_DISTRICT_EMP_DIVAN_NAME" Language="en_US">
+			<Text>Divan</Text>
+		</Row>
+		<Row Tag="LOC_DISTRICT_EMP_DIVAN_DESCRIPTION" Language="en_US">
+			<Text>Unique District unlocked at Civil Service.[NEWLINE][NEWLINE]Provides +4 Loyalty.  Yields +1 of the appropriate [ICON_GREATPERSON] Great Person point for adjacent Districts.  If constructed adjacent to at least 3 Districts, awards a Governor Title.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_DISTRICTS_PAGE_DISTRICT_EMP_DIVAN_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>A divan, originally a word used for army registrars and payrolls but later metonymed out seventeen degrees to mean specific high government offices (and later long, cushioned furniture), is a department or ministry run by council used by Islamic Empires. They had a variety of uses, originally mainly for bookkeeping and timekeeping, but made more elaborate during the Abbasid Caliphate. The growth of these councils came alongside the vizier, an officer used to coordinate the government that the divans helped to establish. During the Abbasid period, these divans were usually short-lived and would be used for very specific reasons. For example, the first main divan was a department to organize the division of confiscated properties from the Umayyads after the Abbasids overthrew them.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_DISTRICTS_PAGE_DISTRICT_EMP_DIVAN_CHAPTER_HISTORY_PARA_2" Language="en_US">
+			<Text>The laws overseen by the divan were extensions of Sharia and Kanun law, though it mostly considered administrative matters rather than actual civic lawmaking. </Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_DISTRICTS_PAGE_DISTRICT_EMP_DIVAN_CHAPTER_HISTORY_PARA_3" Language="en_US">
+			<Text>As time went on, the divans became more seated and more regional. The Seljuk period saw the Seljuk sultan often on campaign, so the Grand Vizier began to take over the more civic and religious duties of the state. For this, he created a Supreme Divan to oversee civic, military, and religious duties. This was then divided into chanceries, treasuries, judicial courts, religious courts, army offices, and even once a postal office. Local divans were also formed to oversee the provincial budget and defense, as well as management of taxation, land confiscation, redress of grievances, and religious endowments.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_DISTRICTS_PAGE_DISTRICT_EMP_DIVAN_CHAPTER_HISTORY_PARA_4" Language="en_US">
+			<Text>Seljuq sultans and Iranian Shahs tended to confiscate lands from nobles (the act of confiscation, of course, requiring divans. The regranting of land to other families also required divans) who were unable to pay their taxes (divans needed, of course, for collecting taxes for the state treasury, the army treasury, and the sultan’s personal treasury), leading to the aristocracies’ grasps on their lands being very unstable. In response, they would “donate” their holdings to nearby religious groups – the donations being called a waqf (and of course, the donations required the creation of yet more divans). This way, they were able to hold onto their holdings with less chance of their ruler (or their local divan) coming in and stealing it from them.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_DISTRICTS_PAGE_DISTRICT_EMP_DIVAN_CHAPTER_HISTORY_PARA_5" Language="en_US">
+			<Text>It was through this convoluted bureaucracy that the divan became nearly synonymous with byzantine meritocracy running a state – viziers upon viziers being necessary to oversee yet more viziers running the state. What resulted was a very thorough and robust form of government that served the Iranians deep into the modern era.</Text>
+		</Row>
+		<!--TOFANGCHI-->
+		<Row Tag="LOC_UNIT_EMP_TOFANGCHI_NAME" Language="en_US">
+			<Text>Tofangchi</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_EMP_TOFANGCHI_DESCRIPTION" Language="en_US">
+			<Text>Replaces the Musketman.  Ignores hill terrain cost. Gains +10% experience when trained per promotion the governor in its city has. Units adjacant to at least one Tofangchi gain +5 combat.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_EMP_TOFANGCHI_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Following the disastrous battle of Chaldiran, it became very clear that the Iranian army needed to move away from their ancient equestrian tradition and to a more modern gunpowder army. As a result, Shah Abbas created a force of musketeer called the Tofangchi (literally “Men armed with Tofang,” a light musket) out of their former forces of Ghulams. Approximately 12,000 of the 40,000 Ghulam soldiers were given muskets and therefore made into tofangchi, alongside a number of other military reforms such as the marginalization of Qizilbash tribesmen and the formation of an artillery corps. These tofangchi soldiers were made up of Georgian, Circassian, Armenian, and Turkic provincials, and became the new backbone of the Persian Army.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_EMP_TOFANGCHI_CHAPTER_HISTORY_PARA_2" Language="en_US">
+			<Text>A standard Tofangshi was equipped with a standard flintlock musket, similar to European models, as well as a long dagger known as a Khanjar and a Shamshir. In close combat, the shamshirs and the Khanars would be used with brutal success. They were additional dressed in blue tunics and red trousers, and a tall hat.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_EMP_TOFANGCHI_CHAPTER_HISTORY_PARA_3" Language="en_US">
+			<Text>While the Safavid dynasty is remembered in the west as part of the Trio of Gunpowder Empires, this is an oversimplification. In reality, Iran’s gunpowder forces were the weakest of those among the major Islamic empires, with the tofangchi being inferior to Ottoman Janissaries and the Iranian Artillery being inferior to that of the Mughals (the Iranians were incapable of making artillery without European assistance, and therefore the artillery corps was the weakest of the branches of their army). The Iranians usually considered the infantry to be secondary to the cavalry. Nevertheless, it was through commitment that Iran managed to make something of the tofangchi, using their bureaucratic skill to ensure that the cream of the crop, as they say, always rose to the top.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_EMP_TOFANGCHI_CHAPTER_HISTORY_PARA_4" Language="en_US">
+			<Text>During the reign of Nader, the best of the Tofangchi would be promoted to leading their whole regiment, and to join the corps of Jazayerchi – men with a much heavier caliber musket. It was only during Nader’s reign that the reforms of Abbas were completed and the Iranian Tofangchi finally became a force to be reckoned with.</Text>
+		</Row>
+		<Row Tag="LOC_EMP_TOFANGCHI_BUDDYBONUS" Language="en_US">
+			<Text>Support from Tofangchi</Text>
+		</Row>
+	</LocalizedText>
+</GameData>

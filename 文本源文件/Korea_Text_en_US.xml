@@ -1,0 +1,277 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<LocalizedText>
+		<Row Tag="LOC_LEADER_CONS_GUNGYE_NAME" Language="en_US">
+			<Text>Gungye</Text>
+		</Row>
+		<Row Tag="LOC_LEADER_CONS_SEJONG_NAME" Language="en_US">
+			<Text>Sejong</Text>
+		</Row>
+
+		<Row Tag="LOC_TRAIT_LEADER_CONS_GUNGYE_NAME" Language="en_US">
+			<Text>Monk Revolution</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_LEADER_CONS_GUNGYE_DESCRIPTION" Language="en_US">
+			<Text>Builds Holy Site districts in half the time. Warrior Monks get +7 [ICON_Strength] Strength, earns more experience from combat and +7 [ICON_GreatGeneral] Great General points for killing units. Receives an Warrior Monks each time he finishes a Encampment or Holy Site district. Warrior Monks can only be received if player has founded a religion or if there is a majority religion for this player or city. Religion unit get +7 [ICON_Religion] Religious Strength and discount on [ICON_Faith] Faith purchases when During the Golden Age.</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_CONS_GUNGYE_WARRIOR_MONK_INCREASE_STRENGTH_NAME" Language="en_US">
+			<Text>Gungye's Mace</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_CONS_GUNGYE_WARRIOR_MONK_INCREASE_STRENGTH_DESCRIPTION" Language="en_US">
+			<Text>+{1_Amount} [ICON_Strength] Combat Strength.</Text>
+		</Row>
+		<Row Tag="LOC_MOD_CONS_GUNGYE_WARRIOR_MONK_INCREASE_STRENGTH_DESCRIPTION" Language="en_US">
+			<Text>+{1_Amount} Combat Strength </Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_CONS_GUNGYE_GOLDEN_AGE_INCREASE_RELIGIOUS_BUFF_NAME" Language="en_US">
+			<Text>Gungye's Law Staff</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_CONS_GUNGYE_GOLDEN_AGE_INCREASE_RELIGIOUS_BUFF_DESCRIPTION" Language="en_US">
+			<Text>During the Golden Age, +7 [ICON_Religion] Religious Combat Strength.</Text>
+		</Row>
+		<Row Tag="LOC_MOD_CONS_GUNGYE_GOLDEN_AGE_INCREASE_RELIGIOUS_BUFF_DESCRIPTION" Language="en_US">
+			<Text>+{1_Amount} Religious Combat Strength during the Golden Age</Text>
+		</Row>
+		
+		<Row Tag="LOC_TRAIT_LEADER_CONS_SEJONG_NAME" Language="en_US">
+			<Text>Wisdom of the Ancestors</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_LEADER_CONS_SEJONG_DESCRIPTION" Language="en_US">
+			<Text>Library gets 2 Great Work slots, which can hold anything. +1 All Yield per District.</Text>
+		</Row>
+
+		<Row Tag="LOC_AGENDA_CONS_GUNGYE_NAME" Language="en_US">
+			<Text>Saint Kingdom of Eastern Buddhist</Text>
+		</Row>
+		<Row Tag="LOC_AGENDA_CONS_GUNGYE_DESCRIPTION" Language="en_US">
+			<Text>Likes civilization which has weak military and focus on [ICON_Faith] Faith. Hates anyone trying to spread another religion in his empire. Does not mind warmonger penalty.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_KUDO_LEADER_CONS_GUNGYE_REASON_LIKE_HIGH_FAITH_LOW_MILITARY" Language="en_US">
+			<Text>(Your Empire is faithful but weakness. He has an eye on your Empire!)</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_LEADER_CONS_GUNGYE_REASON_HATE_DIFFERENT_RELIGION" Language="en_US">
+			<Text>(He perceives your empire as a evil things that must be exterminated.)</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MOD_CONS_GUNGYE_LIKE_HIGH_FAITH_LOW_MILITARY" Language="en_US">
+			<Text>Gungye is pleased with your devout civilization and small standing army</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MOD_CONS_GUNGYE_HATE_DIFFERENT_RELIGION" Language="en_US">
+			<Text>Gungye is furious your religion is present in his empire</Text>
+		</Row>
+		<!--
+		<Row Tag="LOC_AGENDA_CONS_MADNESS_MONK_NAME" Language="en_US">
+			<Text>Madness Monk</Text>
+		</Row>
+		<Row Tag="LOC_AGENDA_CONS_MADNESS_MONK_DESCRIPTION" Language="en_US">
+			<Text>HE IS MADNESS</Text>
+		</Row>
+		-->
+		<Row Tag="LOC_AGENDA_CONS_SEJONG_NAME" Language="en_US">
+			<Text>Enjoying Together with People</Text>
+		</Row>
+		<Row Tag="LOC_AGENDA_CONS_SEJONG_DESCRIPTION" Language="en_US">
+			<Text>Will focus on Population and Science, while trying to acquire as many Great Works as possible. Likes civilizations with high [ICON_Culture] Culture and [ICON_Science] Science, Dislike civilizaion that have a strong in military but weak in [ICON_Culture] Culture and [ICON_Science] Science.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_KUDO_LEADER_CONS_SEJONG_REASON_HIGH_HAPPINESS_CULTURE" Language="en_US">
+			<Text>(You are strong in Science and Culture.)</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_LEADER_CONS_SEJONG_REASON_LOW_HAPPINESS_CULTURE" Language="en_US">
+			<Text>(You are strong in military but not in Science and Culture.)</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MOD_CONS_SEJONG_LIKE_HIGH_HAPPINESS_CULTURE" Language="en_US">
+			<Text>Sejong is pleased with your Science and Culture</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MOD_CONS_SEJONG_HATE_HIGH_MILITARY_LOW_HAPPINESS_CULTURE" Language="en_US">
+			<Text>Sejong is furious your strong in military but not in Science and Culture</Text>
+		</Row>
+
+		<!-- Civilization City Names-->
+		<Row Tag="LOC_LEADER_CONS_GUNGYE_CITY_1" Language="en_US">
+			<Text>Songak</Text>
+		</Row>
+
+		<!-- Leader DOM text. -->
+		<Row Tag="LOC_LOADING_INFO_LEADER_CONS_GUNGYE" Language="en_US">
+			<Text>People! How long waiting me, maitreya! And how long I have waited sadly until today to see you? But don't be afraid from now on! I came down for the human world, and now I am in front of you. I will protect you and lead to the Paradise in Heaven! I will achieve what Shakyamuni could not!</Text>
+		</Row>
+		<Row Tag="LOC_LOADING_INFO_LEADER_CONS_SEJONG" Language="en_US">
+			<Text>Greetings to you, exalted King Sejong the Great, servant to the people and protector of the Choson Dynasty. Your glorious vision of prosperity and overwhelming benevolence towards the common man made you the most beloved of all Korean kings. From the earliest days of your reign, the efforts you took to provide a fair and just society for all were surpassed only by the technological advancements spurred onwards by your unquenched thirst for knowledge. Guided by your wisdom, the scholars of the Jade Hall developed Korea's first written language, Hangul, bringing the light of literature and science to the masses after centuries of literary darkness.</Text>
+		</Row>
+
+		<!-- Leader Quotes -->
+		<Row Tag="LOC_LEADER_CONS_GUNGYE_QUOTE" Language="en_US">
+			<Text>Follow me, i will show you Eternal Happiness in real paradise of Buddhism!</Text>
+		</Row>
+		<Row Tag="LOC_LEADER_CONS_SEJONG_QUOTE" Language="en_US">
+			<Text>The speech of our country, being different from those of China, cannot be expressed with Chinese characters. Therefore, there are many people, simple commoners, despite wanting to have their say, who are unable to fulfill their desire. Finding this pitiful, I am creating a new twenty-eight characters, no more than to make it convenient for all people to easily learn and use them every day.</Text>
+		</Row>
+
+		<!-- Leader specific pedia text. -->
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_CONS_GUNGYE_CHAPTER_CAPSULE_BODY" Language="en_US">
+			<Text>Gungye pursues faith and military development. He tries to spread religion to surrounding civilizations, but if any civilization are in doubt, he will declare war on them.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_CONS_GUNGYE_CHAPTER_DETAILED_BODY" Language="en_US">
+			<Text>Korea receives [ICON_Culture] Culture and [ICON_Science] Science immediately when recruiting or patronizing a [ICON_GreatPerson] Great Person. This gives real output so it can be give a bonus to any situation irrespective of [ICON_TechBoosted] Eurekas or [ICON_CivicBoosted] Inspirations. Gungye can earn [ICON_Faith] faith by killing his enemy, so he can quickly add beliefs to own Religion or patronize a [ICON_GreatPerson] Great Person. Also he can raise the effectiveness of war by getting Great general points by spreading religion that he follows.</Text>
+		</Row>
+
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_CONS_SEJONG_CHAPTER_CAPSULE_BODY" Language="en_US">
+			<Text>Sejong pursues Culture and Science development. He will focus on Population and Science, while trying to acquire as many Great Works as possible.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_CONS_SEJONG_CHAPTER_DETAILED_BODY" Language="en_US">
+			<Text>Korea receives [ICON_Culture] Culture and [ICON_Science] Science immediately when recruiting or patronizing a [ICON_GreatPerson] Great Person. Sejong's Library gives additional +1 [ICON_Science] Science, +1 [ICON_Culture] Culture, +1 [ICON_GreatWork_Writing] Great Work of Writing Slot and +1 [ICON_GreatWriter] Great Writer Point.</Text>
+		</Row>
+		
+		<!-- Leader specific historical text. -->
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_CONS_GUNGYE_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>At the time, the monarch of Silla was Queen Jinseong , who was the third and the last female head of state in Korean history. Queen Jinseong was a powerless ruler and the government was largely corrupted by interventions of royal family members and rampant bribery among members of the royal court. The corrupt government continuously exploited the peasants and farmers, and after a year of famine, massively raised taxes in 889 which led to many revolts and rebellions. Local aristocrats, called hojok emerged as de facto rulers of many provinces, with the attention of government concentrated on suppression of rebellion and their own power struggles. Among the rebel leaders and local aristocrats, Gi Hwon and Yang Gil gained the most power.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_CONS_GUNGYE_CHAPTER_HISTORY_PARA_2" Language="en_US">
+			<Text>Gung Ye first joined the troops of Gi Hwon in 891 but left shortly after as Gi Hwon did not fully trust him. Gung Ye joined Yang Gil's rebellion force in 892, and became leading general of the rebel forces by defeating the local Silla army and other rebel groups. Most local aristocrats of Myeongju and Paeseo, including Wang Gun, submitted to his force, making him even more powerful than his master Yang Gil. Silla, after nearly a millennium as a centralized kingdom was quickly declining, and Gung Ye instigated his own rebellion in present-day Kaesŏng in 898. After turning against his master, Yang Gil, He eventually defeated and subjugated him and other local lords in central Korea to proclaim himself king of Hugoguryeo in 901.With his rival Gyeon Hwon's Hubaekje taking control of the peninsula's southwest, he opened up the Later Three Kingdoms period of Korean History, a reference to the so-called Three Kingdoms period of Korea, several centuries earlier.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_CONS_GUNGYE_CHAPTER_HISTORY_PARA_3" Language="en_US">
+			<Text>Gung Ye changed the country's name to Majin in 904, and moved the capital to Cheorwon in the following year. Since Cheorwon was a fortress located in a mountainous area, he moved people from the populous city of Cheongju and expanded his rule into the Chungcheong region, taking control of almost two-thirds of the land once controlled by Silla. In the same year Gung Ye took over Pyeongyang and called for total destruction of the state of Silla. Searching for a better way to unite his citizens, he wanted a more potent unifying theology. Therefore, around 905, he turned to religion. He decided what was needed to unite people under his power was religious faith, and using his previous occupation as a Buddhist monk, he referred to himself as Maitreya Buddha, who came to the world to guide and save the suffering people from all hardship. He changed the name of his kingdom to Taebong in 911. In his later days, it is recorded that Gung Ye started to suffer from paranoia. He accused many arbitrarily of treason and sentenced anyone who opposed him to death, including Kang, one of his wives, and his two sons. As a result, in 918 four of his own top generals – Hong Yu, Bae Hyeongyeong, Shin Sunggyeom and Bok Jigyeom – overthrew Taebong and enthroned [COLOR_RED]Wang Geon[ENDCOLOR](founder and first King of the Goryeo-Called Korea- Dynasty), one of Gung Ye's followers and the previous chief minister, of his nation, as king. Gung Ye is said to have escaped the palace, but was killed shortly thereafter either by a soldier or by peasants who mistook him for a thief. Soon thereafter, the Goryeo dynasty was proclaimed, and Wang Geon went on to defeat the rivaling Silla and Hubaekje to reunite the three kingdoms in 936.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_CONS_GUNGYE_CHAPTER_HISTORY_PARA_4" Language="en_US">
+			<Text>Even though Gung Ye was not able to keep his rule and achieve the reunification of the Korean peninsula under his rule, many scholars today are attempting to review the true character of Gung Ye. Historical records regarding Gung Ye are negative, since many historians during the Goryeo Dynasty tried to justify the coup by Wang Geon that dethroned Gung Ye, in order to give legitimacy to the dynasty. However, even after the founding of Goryeo, many people rejected the rule of Wang Geon and rebelled against the newly formed dynasty; some even voluntarily defected to Gyeon Hwon's Hubaekje. It can be assumed that many people, even after the coup that crowned Wang Geon, favored the rule of Gung Ye and that he was not a total despot as described in history. Some scholars explain Gung Ye's self-proclamation as Buddha as an attempt to strengthen his power, since he, as a royal family member of Silla, had no influence over powerful local landlords and merchants, so he tried to use the power of religion in order to keep his rule, which did not prove to be effective. Some people even think that Gungye is the actual founder of the Goryeo Dynasty.</Text>
+		</Row>
+
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_CONS_SEJONG_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Born on May 7th, 1397, Sejong was the third son of King Taejong of the Choson Dynasty. Said to have been an exceptional student and avid reader at an early age, Sejong was named Crown Prince at age 16. At age 21, Sejong ascended to the throne, and his impact on Korean life and the kingdom's political structure would be immediate.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_CONS_SEJONG_CHAPTER_HISTORY_PARA_2" Language="en_US">
+			<Text>Sejong is perhaps most famously known for his introduction of the Korean written language, Hangul.  The "Chiphyonjon," or "Hall of Worthies," established in 1420, was a collective of noted scholars selected by the king himself. Initially created as an institute of research, the Chiphyonjon would eventually be tasked with the creation of a Korean alphabet to aid the common people in their understanding of the Korean language.  Until this time, Korea had relied on the Chinese "Hanja" script, incorporated into the Korean dialect, for all written works. However, this script was not widely understood by the masses, and Sejong sought to change this trend of illiteracy.[NEWLINE][NEWLINE]Originally known as "Hunminjeongeum," literally meaning "The Correct Sounds for the Instruction of the People," this native Korean script would usher in a new era of literacy and understanding for the common citizens of Korea. First published in 1446, it would be several years before the new script found wide acceptance. To this day, October 9th, the original date of publication, is celebrated as "Hangul Day" throughout South Korea. </Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_CONS_SEJONG_CHAPTER_HISTORY_PARA_3" Language="en_US">
+			<Text>Sejong's legacy is one of great benevolence, led by his strong belief that all people were worthy of his respect, not only the subjects within his kingdom, but even the so-called "barbarian tribes" scattered throughout Asia. The standard by which he measured his own success as a leader was the happiness and prosperity of his people, their welfare being his highest priority. As king, Sejong would provide surplus food supplies to the poor and elderly, and frequently abolished taxes on farmers and occasionally entire provinces that had experienced hardships due to weather or poor crop yields. Sejong was also known for inviting the elderly to banquets in their honor, regardless of the rank or social status of those attending. </Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_CONS_SEJONG_CHAPTER_HISTORY_PARA_4" Language="en_US">
+			<Text>Sejong mandated a number of improvements to the Korean justice system in order to provide fair trials and reasonable punishments for the convicted. Sejong believed it was unjust to hold citizens accountable for violating the law without ensuring they were provided a means to understand the laws they had broken. Despite the reluctance of his ministers, Sejong ordered the entirety of the Korean legal code be put on public display, for all to see.[NEWLINE][NEWLINE]Sejong also opposed the death penalty, and informed judges that it was not to be used unless absolutely necessary. His implementation of "The Law of Three Appeals" allowed the accused up to three appeals to the king, ensuring they were provided with an opportunity to speak on their own behalf.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_CONS_SEJONG_CHAPTER_HISTORY_PARA_5" Language="en_US">
+			<Text>Under Sejong, Korea began the development of various early gunpowder weapons, most famously the "Hwach'a," or "Fire Vehicle." Specifically designed as an anti-infantry weapon, the Hwach'a was a wheeled platform capable of launching dozens of gunpowder-propelled arrows across the battlefield. Although limited in use during Sejong's time, the Hwach'a would become a crucial defensive weapon throughout the Korean peninsula for centuries to come. During the Battle of Haengju in 1593, three thousand Korean soldiers repelled an invading Japanese force of over 30,000 by successfully utilizing the Hwach'a, inflicting over 10,000 casualities.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_CONS_SEJONG_CHAPTER_HISTORY_PARA_6" Language="en_US">
+			<Text>In old age, Sejong is said to have continued his involvement in daily routines and government affairs, despite going blind and developing diabetes, which would be the eventual cause of his death on May 18, 1450. Sejong is remembered in history for his wise, noble, and compassionate leadership that spurred amazing advances in science and technology, and led to a revolution in the cultural development of the Korean people for centuries to come.</Text>
+		</Row>
+
+		<!-- Leader Dialog -->
+		<Row Tag="LOC_DIPLO_FIRST_MEET_LEADER_CONS_GUNGYE_ANY" Language="en_US">
+			<Text>I am Maitreya, came for save the People. This world will become buddhist pure land by me!</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_VISIT_RECIPIENT_LEADER_CONS_GUNGYE_ANY" Language="en_US">
+			<Text>Our fortress is nearby. All The people live frugally and obey to me in there. Are you willing to pay attention to Maitreya Buddhism?</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_POSITIVE_LEADER_CONS_GUNGYE_ANY" Language="en_US">
+			<Text>So be it.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_HUMAN_LEADER_CONS_GUNGYE_ANY" Language="en_US">
+			<Text>Indeed.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_HUMAN_LEADER_CONS_GUNGYE_ANY" Language="en_US">
+			<Text>No.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DECLARE_FRIEND_FROM_AI_LEADER_CONS_GUNGYE_ANY" Language="en_US">
+			<Text>Follow me, i will show you Eternal Happiness in real paradise of Buddhism!</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_CONS_GUNGYE_ANY" Language="en_US">
+			<Text>OM MANI PAD ME HUM</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_CONS_GUNGYE_ANY" Language="en_US">
+			<Text>What? i requested set up the Great Buddhist sanctuary and called the standout templers to hold a Buddhist ceremony. But nobody answered???</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_HUMAN_LEADER_CONS_GUNGYE_ANY" Language="en_US">
+			<Text>Do not worried. I will kill you soon! hue hue hue..</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_CONS_GUNGYE_ANY" Language="en_US">
+			<Text>I am reading your whole mind and i notice only Evil thing! That bastard is Devil! Kill that now. Kill that!</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DEFEAT_FROM_AI_LEADER_CONS_GUNGYE_ANY" Language="en_US">
+			<Text>Do you know how wrong your thoughts push it in so many people to suffering and death?</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_DELEGATION_FROM_HUMAN_LEADER_CONS_GUNGYE_ANY" Language="en_US">
+			<Text>Come to here. This place is central of the Buddhist world.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_DELEGATION_FROM_HUMAN_LEADER_CONS_GUNGYE_ANY" Language="en_US">
+			<Text>Now he is muttering over the devil's dirty mouth!</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DELEGATION_FROM_AI_LEADER_CONS_GUNGYE_ANY" Language="en_US">
+			<Text>I have been watch for a while now, and I have seen it as a Gwansimbeob. What is Gwansimbeob? It is way of reading your think through the my mind. (He want to send Delegation to your Civilization.)</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DENOUNCE_FROM_HUMAN_LEADER_CONS_GUNGYE_ANY" Language="en_US">
+			<Text>Keep on, you Evil thing.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DENOUNCE_FROM_AI_LEADER_CONS_GUNGYE_ANY" Language="en_US">
+			<Text>I, the Maitreya want to run, but why you shitty stupids don't come after me! Can you understand what i am saying? I said understand, you fool!(Denounce)</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DEFEAT_FROM_HUMAN_LEADER_CONS_GUNGYE_ANY" Language="en_US">
+			<Text>Do you know how wrong your thoughts push it in so many people to suffering and death?</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_NO_MANS_INFO_EXCHANGE_LEADER_CONS_GUNGYE_ANY" Language="en_US">
+			<Text>Songak is beautiful place and it is eligible to become center of Maitreya world. How about your territory?</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_GREETING_LEADER_CONS_GUNGYE_ANY" Language="en_US">
+			<Text>Om Mani Pad Me Hum.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_AI_ACCEPT_DEAL_LEADER_CONS_GUNGYE_ANY" Language="en_US">
+			<Text>Then, good. This war end for now.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_AI_REFUSE_DEAL_LEADER_CONS_GUNGYE_ANY" Language="en_US">
+			<Text>Crush their mouth to the iron mace!</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_FROM_AI_LEADER_CONS_GUNGYE_ANY" Language="en_US">
+			<Text>Great. Your grit is beautiful that you stand till the end.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_OPEN_BORDERS_FROM_HUMAN_LEADER_CONS_GUNGYE_ANY" Language="en_US">
+			<Text>If your people want, It can't be helped.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_OPEN_BORDERS_FROM_HUMAN_LEADER_CONS_GUNGYE_ANY" Language="en_US">
+			<Text>Speak more!</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_OPEN_BORDERS_FROM_AI_LEADER_CONS_GUNGYE_ANY" Language="en_US">
+			<Text>Do not get entangled in my Gwansimbeob. Or your life will finish.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_LEADER_CONS_GUNGYE_ANY" Language="en_US">
+			<Text>Ofcourse! Devil intervene everywhere and everytime in the good and holy days!</Text>
+		</Row>
+
+		<Row Tag="LOC_DIPLO_KUDO_EXIT_LEADER_CONS_GUNGYE_ANY" Language="en_US">
+			<Text>Give all of their own to Maitreya! And I will show you paradise through that!</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_EXIT_LEADER_CONS_GUNGYE_ANY" Language="en_US">
+			<Text>How dare you disturbance me when i am doing Gwansimbeob, you ediot! How dare you!</Text>
+		</Row>
+		<!--
+		<Row Tag="LOC_DIPLO_KUDO_2_EXIT_LEADER_CONS_GUNGYE_ANY" Language="en_US">
+			<Text>Om mani pad me hum.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_KUDO_2_LEADER_CONS_GUNGYE_REASON_MADNESS_MONK" Language="en_US">
+			<Text>(his Saying cannot understanded. Maybe he has madness.)</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_2_EXIT_LEADER_CONS_GUNGYE_ANY" Language="en_US">
+			<Text>There is no way only bloodshed for ignorants. I will remind you of stupidity.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_2_LEADER_CONS_GUNGYE_REASON_MADNESS_MONK" Language="en_US">
+			<Text>(He is crazy. There is nothing negotiable!)</Text>
+		</Row>
+		-->
+		<Row Tag="LOC_DIPLO_FIRST_MEET_LEADER_CONS_SEJONG_ANY" Language="en_US">
+			<Text>Welcome to the fair court of Korea, honored stranger.  I am Sejong, enlightened leader of these, my mighty people.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_POSITIVE_LEADER_CONS_SEJONG_ANY" Language="en_US">
+			<Text>So be it.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_HUMAN_LEADER_CONS_SEJONG_ANY" Language="en_US">
+			<Text>Very Well.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_HUMAN_LEADER_CONS_SEJONG_ANY" Language="en_US">
+			<Text>I must refuse.</Text>
+		</Row>
+
+		<Row Tag="LOC_DIPLO_KUDO_EXIT_LEADER_CONS_SEJONG_ANY" Language="en_US">
+			<Text>Yours is a society to emulate. Arts, sciences… what don’t you have?</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_EXIT_LEADER_CONS_SEJONG_ANY" Language="en_US">
+			<Text>Your people are starved for knowledge and beauty, and yet you ignore science and art. Why?</Text>
+		</Row>
+	</LocalizedText>
+</GameData>

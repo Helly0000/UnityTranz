@@ -1,0 +1,280 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Kawad I / Text-->
+<GameData>
+	<LocalizedText>
+		<!--LEADER-->
+		<Row Tag="LOC_LEADER_CVS_KAWAD_I_NAME" Language="en_US">
+			<Text>Kawad I</Text>
+		</Row>
+
+		<!--DOM-->
+		<Row Tag="LOC_LOADING_INFO_LEADER_CVS_KAWAD_I" Language="en_US">
+			<Text>Stop at nothing, Kawad I. Too long have the clergy and grandees strong-armed the throne. No more. Undermine their power through cunning and religion, then use your reclaimed authority to institute economic and administrative reforms that will better the empire. What you achieve here will clear a path through which your heir will achieve greatness. For Iran, for Khosrow, by any means necessary.</Text>
+		</Row>
+
+		<!--Civilopedia-->
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_CVS_KAWAD_I_TITLE" Language="en_US">
+			<Text>Kawad I</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_CVS_KAWAD_I_SUBTITLE" Language="en_US">
+			<Text>Kay</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_CVS_KAWAD_I_QUOTE" Language="en_US">
+			<Text>
+				"Who here will do the bidding of the throne, and with his efforts make my wealth his own?" — The Shahnameh by Abolqasem Ferdowsi
+			</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_CVS_KAWAD_I_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>
+				Kawad I ascended the throne at the end of the fifth century, during a period in which the Persian monarch's power had been considerably reduced by the clergy and courtiers. What's more, the empire had been forced to make tributary payments to the Hephthalites to the east. By time his rule had come to an end, the throne and the empire had their standing improved considerably.
+			</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_CVS_KAWAD_I_CHAPTER_HISTORY_PARA_2" Language="en_US">
+			<Text>
+				Kawad I could be described as machiavellian; his cunning would undermine the authority of those manipulating the throne. The principal player in his schemes was Mazdak, a Zoroastrian priest who preached an egalitarian social system. The reforms brought about by the Mazdakite movement—namely, the sharing of wealth, women, and property—would level the upper classes and make the king more appealing and accessible to the masses. Whether Kawad I believed in his message cannot be determined, but he certainly used it to his advantage.
+			</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_CVS_KAWAD_I_CHAPTER_HISTORY_PARA_3" Language="en_US">
+			<Text>
+				The nobility and priests would not go down quietly, however. Their power had not been curbed enough to prevent retaliation. Near the end of the fifth century, Kawad I was imprisoned in the Prison of Oblivion, and his brother Zamasp, an anti-Mazdakite, was brought to the throne. Kawad I would not be brought to heel. Freed by his sister, he absconded to Hephthalite territory. There, he entreated the Hephthalite king for aid, and together with a considerable Hephthalite force, marched on and recaptured the throne.
+			</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_CVS_KAWAD_I_CHAPTER_HISTORY_PARA_4" Language="en_US">
+			<Text>With the authority of the King of Kings reclaimed, Kawad I was free to institute the economic and political reforms that are often credited to his son, Khosrow I.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_CVS_KAWAD_I_CHAPTER_HISTORY_PARA_5" Language="en_US">
+			<Text>The office of the "Protector of the Poor and Judge" was created to look after the poor and those in dire straits. The military, previously under one spahbed or general, was quadripartitioned. This change allowed the generals overseeing the four quarters to better address the multiple fronts on which the Sassanids were usually challenged: Rome to the west, the Hephthalites to the east, the Armenians to the north, and the Arabs to the south.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_CVS_KAWAD_I_CHAPTER_HISTORY_PARA_6" Language="en_US">
+			<Text>
+				Kawad I would go on to have a cadastral survey performed. This would prove to be a boon to both the administration and farmers. Rather than taxes being calculated on a per harvest basis, properties would be taxed based on factors such as the size of the land and type of crop. This allowed the administration to operate on a more visible, predictable budget, and addressed the issue of crops going bad while waiting to be harvested for the purpose of calculating taxes.
+			</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_CVS_KAWAD_I_CHAPTER_HISTORY_PARA_7" Language="en_US">
+			<Text>
+				While the Hephthalites that had long harried the empire were in decline, the western front wasn't nearly as quiet. Kawad I would gather his host and advance on Armenia. The reason for this has been explained as either Kawad I owing money to the Hephthalites, which would stride contrary to their decline, or to a general unhappiness with the Romans being unwilling to help with the defense against the Huns. Whatever the case, Kawad would capture Theodosiopolis and Martyropolis. From there, he advanced westward, where he besieged and took Amida in Mesopotamia. His subsequent battles further west would prove to be a mixed bag, which would lead to peace negotiations favorable to the Sassanids.
+			</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_CVS_KAWAD_I_CHAPTER_HISTORY_PARA_8" Language="en_US">
+			<Text>
+				Roughly two decades later, Kawad would once again find reason for war. The Iberian king Gourgenes sided with the Romans because Kawad was trying to impose Zoroastrianism on his subjects. The shift threatened Sassanid control over the area, which served as an important buffer state and regular point of contention between Iran and Rome. Mesopotamia would serve as the main theater for the war between Kawad, his Arab allies, and the Byzantine Emperor Justin's forces under Belisarius. Generally, the campaigns here had no clear winner.
+			</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_CVS_KAWAD_I_CHAPTER_HISTORY_PARA_9" Language="en_US">
+			<Text>
+				Kawad I faced resistance from the moment he ascended to the throne. From within and without, the odds were against him. But through wit and more than a little boldness, he was able to restore the throne to a position of power. In that, he was free to leverage reforms that resulted in a Sassanid political revival, bettered the empire, and laid the groundwork from which his son would prosper.
+			</Text>
+		</Row>
+		<!--Diplomacy-->
+		<!--FIRST MEET-->
+		<!--First AI line-->
+		<Row Tag="LOC_DIPLO_FIRST_MEET_LEADER_CVS_KAWAD_I_ANY" Language="en_US">
+			<Text>Ēr-kaš. Salutations. You stand before Kawad I, whose visage is brightened by khwarrah, whose lineage can be traced to the Kayanids of legend.</Text>
+		</Row>
+		<!--AI invitation to visit nearby City-->
+		<Row Tag="LOC_DIPLO_FIRST_MEET_VISIT_RECIPIENT_LEADER_CVS_KAWAD_I_ANY" Language="en_US">
+			<Text>Let's retire to my nearby city, where we can escape the heat with a goblet of iced yogurt. If you'd prefer something harder, I recommend distillate of date.</Text>
+		</Row>
+		<!--AI accepts Human invitation-->
+		<Row Tag="LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_POSITIVE_LEADER_CVS_KAWAD_I_ANY" Language="en_US">
+			<Text>Right behind you.</Text>
+		</Row>
+		<!--AI invitation to exchange Capital Information-->
+		<Row Tag="LOC_DIPLO_FIRST_MEET_NO_MANS_INFO_EXCHANGE_LEADER_CVS_KAWAD_I_ANY" Language="en_US">
+			<Text>With Tirgan in full swing, the capital calls. Ctesiphon will be alive with music, so let your guard down. Treat yourself to saffron rice pudding; enjoy the thrill of the wrestling arena. You'll return our hospitality, yes?</Text>
+		</Row>
+
+		<!--GREETINGS-->
+		<Row Tag="LOC_DIPLO_GREETING_LEADER_CVS_KAWAD_I_ANY" Language="en_US">
+			<Text>Something on your mind?</Text>
+		</Row>
+
+		<!--DELEGATION-->
+		<!--AI Accepts-->
+		<Row Tag="LOC_DIPLO_ACCEPT_DELEGATION_FROM_HUMAN_LEADER_CVS_KAWAD_I_ANY" Language="en_US">
+			<Text>I'll have a welcome party prepared to intercept your delegation.</Text>
+		</Row>
+		<!--AI Rejects-->
+		<Row Tag="LOC_DIPLO_REJECT_DELEGATION_FROM_HUMAN_LEADER_CVS_KAWAD_I_ANY" Language="en_US">
+			<Text>I'm embroiled in internal matters at the moment. Another time.</Text>
+		</Row>
+		<!--AI Requests -->
+		<Row Tag="LOC_DIPLO_DELEGATION_FROM_AI_LEADER_CVS_KAWAD_I_ANY" Language="en_US">
+			<Text>I offer a delegation laden with astrological and astronomical texts—and for leisure, backgammon: a board game rooted in Zoroastrian cosmology.</Text>
+		</Row>
+
+		<!--OPEN BORDERS-->
+		<!--AI accepts from human-->
+		<Row Tag="LOC_DIPLO_ACCEPT_OPEN_BORDERS_FROM_HUMAN_LEADER_CVS_KAWAD_I_ANY" Language="en_US">
+			<Text>Your people are welcome to explore, though I cannot promise they'll leave.</Text>
+		</Row>
+		<!--AI rejects from human-->
+		<Row Tag="LOC_DIPLO_REJECT_OPEN_BORDERS_FROM_HUMAN_LEADER_CVS_KAWAD_I_ANY" Language="en_US">
+			<Text>That won't do. I went through all that effort building these walls.</Text>
+		</Row>
+		<!--AI requests from human-->
+		<Row Tag="LOC_DIPLO_OPEN_BORDERS_FROM_AI_LEADER_CVS_KAWAD_I_ANY" Language="en_US">
+			<Text>Allow my wayfarers and merchants the freedom to enter your land so that we may better exchange knowledge, culture, and, most importantly, currency.</Text>
+		</Row>
+
+		<!--DECLARE FRIENDSHIP-->
+		<!--AI accepts from human-->
+		<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_HUMAN_LEADER_CVS_KAWAD_I_ANY" Language="en_US">
+			<Text>It is as they say, keep your friends close, and your... Never mind that. Wine?</Text>
+		</Row>
+		<!--AI Rejects from human -->
+		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_HUMAN_LEADER_CVS_KAWAD_I_ANY" Language="en_US">
+			<Text>You don't yet have the rapport for friendship.</Text>
+		</Row>
+		<!--AI Requests friendship from human-->
+		<Row Tag="LOC_DIPLO_DECLARE_FRIEND_FROM_AI_LEADER_CVS_KAWAD_I_ANY" Language="en_US">
+			<Text>The line between friend and foe is as nuanced as the nightingale's song. Shall we listen, and see where it takes us?</Text>
+		</Row>
+		<!--Human accepts AI requests, AI responds-->
+		<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_CVS_KAWAD_I_ANY" Language="en_US">
+			<Text>All according to plan.</Text>
+		</Row>
+		<!--Human rejects AI requests, AI responds-->
+		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_CVS_KAWAD_I_ANY" Language="en_US">
+			<Text>Hmm.</Text>
+		</Row>
+
+		<!--ALLIANCE-->
+		<!--AI Requests an alliance from human-->
+		<Row Tag="LOC_DIPLO_MAKE_ALLIANCE_FROM_AI_LEADER_CVS_KAWAD_I_ANY" Language="en_US">
+			<Text>Alliances are like an onager. Bringing the right one to a siege will secure victory. The wrong one will make you look like an ass. Let's make ours the former.</Text>
+		</Row>
+		<!--AI warns player for border troops-->
+		<Row Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_LEADER_CVS_KAWAD_I_ANY" Language="en_US">
+			<Text>Your troops are welcome to loiter along my borders so long as you're content with them spending the rest of their lives there.</Text>
+		</Row>
+
+		<!--TRADE-->
+		<!--AI Accepts Deal-->
+		<Row Tag="LOC_DIPLO_ACCEPT_MAKE_DEAL_FROM_AI_LEADER_CVS_KAWAD_I_ANY" Language="en_US">
+			<Text>Let's do this again sometime.</Text>
+		</Row>
+		<!--AI Rejects Deal-->
+		<Row Tag="LOC_DIPLO_REJECT_MAKE_DEAL_FROM_AI_LEADER_CVS_KAWAD_I_ANY" Language="en_US">
+			<Text>Do you take me for a fool?</Text>
+		</Row>
+
+		<!--DENOUNCE-->
+		<!--From Human-->
+		<Row Tag="LOC_DIPLO_DENOUNCE_FROM_HUMAN_LEADER_CVS_KAWAD_I_ANY" Language="en_US">
+			<Text>You deserve a bed of a hollowed-out tree filled with honey.</Text>
+		</Row>
+		<!--From AI-->
+		<Row Tag="LOC_DIPLO_DENOUNCE_FROM_AI_LEADER_CVS_KAWAD_I_ANY" Language="en_US">
+			<Text>I would sooner toil under the thousand-year tyranny of Dahag, that terrible vermin-filled evil, than suffer your existence. (Denounces You.)</Text>
+		</Row>
+
+		<!--DECLARE WAR-->
+		<!--Human Declares War-->
+		<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_HUMAN_LEADER_CVS_KAWAD_I_ANY" Language="en_US">
+			<Text>Don't drape the lion over your horse before you've slain it. Who are you to approach me with talk of war when I've plotted and maneuvered since first we met?</Text>
+		</Row>
+		<!--AI Declares War-->
+		<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_CVS_KAWAD_I_ANY" Language="en_US">
+			<Text>Not even the senmurw's feather can save you now.</Text>
+		</Row>
+
+		<!--MAKE PEACE-->
+		<!--AI accepts from human-->
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_AI_ACCEPT_DEAL_LEADER_CVS_KAWAD_I_ANY" Language="en_US">
+			<Text>An armistice it is.</Text>
+		</Row>
+		<!--AI refuses human-->
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_AI_REFUSE_DEAL_LEADER_CVS_KAWAD_I_ANY" Language="en_US">
+			<Text>Yield? Does the lion yield when the prey is in its jaws?</Text>
+		</Row>
+		<!--AI requests from human-->
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_FROM_AI_LEADER_CVS_KAWAD_I_ANY" Language="en_US">
+			<Text>Let's discuss terms. I've prepared a pavilion so that we may contain further bloodshed.</Text>
+		</Row>
+
+		<!--DEFEAT-->
+		<!--AI is Defeated-->
+		<Row Tag="LOC_DIPLO_DEFEAT_FROM_AI_LEADER_CVS_KAWAD_I_ANY" Language="en_US">
+			<Text>All this world is a tale we hear; men's evil, and their glory, disappear. Though I fall, you need not fear; by guile, and with certainty, your end is near.</Text>
+		</Row>
+		<!--Human is Defeated (will see this in hotseat)-->
+		<Row Tag="LOC_DIPLO_DEFEAT_FROM_HUMAN_LEADER_CVS_KAWAD_I_ANY" Language="en_US">
+			<Text>All this world is a tale we hear; men's evil, and their glory, disappear. Though I fall, you need not fear; by guile, and with certainty, your end is near.</Text>
+		</Row>
+
+		<!--AGENDA-->
+		<Row Tag="LOC_AGENDA_CVS_TTBAM_NAME" Language="en_US">
+			<Text>The Throne, By Any Means</Text>
+		</Row>
+		<Row Tag="LOC_AGENDA_CVS_TTBAM_DESCRIPTION" Language="en_US">
+			<Text>Favors espionage, and loathes it when directed at him. Looks favorably on those who exploit faith.</Text>
+		</Row>
+
+		<!--KUDOS & WARNINGS-->
+		<Row Tag="LOC_DIPLO_KUDO_LEADER_CVS_KAWAD_I_REASON_HIGH_FAITH" Language="en_US">
+			<Text>(Your faith generation is satisfactory.)</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MODIFIER_CVS_TTBAM_HIGH_FAITH" Language="en_US">
+			<Text>Kawad I favors those who exploit faith.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_LEADER_CVS_KAWAD_I_REASON_LOW_FAITH" Language="en_US">
+			<Text>(Your faith generation is insufficient.)</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MODIFIER_CVS_TTBAM_LOW_FAITH" Language="en_US">
+			<Text>Kawad I disapproves of those with little faith.</Text>
+		</Row>
+
+		<Row Tag="LOC_DIPLO_KUDO_LEADER_CVS_KAWAD_I_REASON_HAS_SPIED'" Language="en_US">
+			<Text>(You've spied on Kawad I.)</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MODIFIER_CVS_TTBAM_HAS_SPIED" Language="en_US">
+			<Text>Kawad I is wary of your clandestine measures.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_KUDO_LEADER_CVS_KAWAD_I_REASON_HAS_NOT_SPIED'" Language="en_US">
+			<Text>(You haven't spied on Kawad I.)</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MODIFIER_CVS_TTBAM_HAS_NOT_SPIED" Language="en_US">
+			<Text>Kawad I favors those who send their spies elsewhere.</Text>
+		</Row>
+
+		<!--AI Kudos-->
+		<Row Tag="LOC_DIPLO_KUDO_EXIT_LEADER_CVS_KAWAD_I_ANY" Language="en_US">
+			<Text>If fortune favors the faithful, survival favors the cunning. You do well in embracing the former, and in leaving the latter to me.</Text>
+		</Row>
+		<!--AI Warnings-->
+		<Row Tag="LOC_DIPLO_WARNING_EXIT_LEADER_CVS_KAWAD_I_ANY" Language="en_US">
+			<Text>Without faith, the night is tenebrous. With ill-advised espionage, your empire untenable. Take heed, or you are not long for this world.</Text>
+		</Row>
+
+		<!--Leader Traits-->
+		<Row Tag="LOC_TRAIT_LEADER_CVS_KAWAD_I_TTBAM_NAME" Language="en_US">
+			<Text>The Mazdakite Subterfuge</Text>
+		</Row>
+
+		<Row Tag="LOC_TRAIT_LEADER_CVS_KAWAD_I_TTBAM_DESCRIPTION" Language="en_US">
+			<Text>Receive a spy after founding a [ICON_Religion] Religion, and may purchase spies with [ICON_Faith] Faith.</Text>
+		</Row>
+
+		<Row Tag="LOC_TRAIT_LEADER_CVS_KAWAD_I_TTBAM_EXPAC1_DESCRIPTION" Language="en_US">
+			<Text>Receive a spy after founding a [ICON_Religion] Religion, and may purchase spies with [ICON_Faith] Faith. Succeeding in an offensive spy mission earns +1 [ICON_GLORY_GOLDEN_AGE] Era Score.</Text>
+		</Row>
+
+		<Row Tag="LOC_TRAIT_LEADER_CVS_KAWAD_I_TTBAM_EXPAC2_DESCRIPTION" Language="en_US">
+			<Text>Receive a spy after founding a [ICON_Religion] Religion, and may purchase spies with [ICON_Faith] Faith. Succeeding in an offensive spy mission earns +1 [ICON_GLORY_GOLDEN_AGE] Era Score.</Text>
+		</Row>
+
+		<!--Amargar-->
+		<Row Tag="LOC_IMPROVEMENT_CVS_AMARGAR_NAME" Language="en_US">
+			<Text>Āmārgarestan</Text>
+		</Row>
+		<Row Tag="LOC_IMPROVEMENT_CVS_AMARGAR_DESCRIPTION" Language="en_US">
+			<Text>Yields +2 [ICON_Gold] Gold, and an additional +1 [ICON_Food] Food for each distinct adjacent improvement type. Unlocks with the Currency technology.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_IMPROVEMENTS_PAGE_IMPROVEMENT_CVS_AMARGAR_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>
+				The Āmārgar was a position that must have been center to Kawad's economic and administrative reforms. Charged with tax collection, matters of real estate, and property evaluation, the Āmārgar would have overseen the implementation and upkeep of said reforms. Currency, or currency substitutes, were entrusted to their care before moving on to the central administration. An Āmārgarestan roughly translates to Office of the Āmārgar.
+			</Text>
+		</Row>
+	</LocalizedText>
+</GameData>
