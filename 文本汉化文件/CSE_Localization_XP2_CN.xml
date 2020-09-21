@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- CSE_Localization_XP2_CN -->
+<!-- Author: Clear8Sky -->
+<!-- DateCreated: 5/17/2020 10:22:56 PM -->
+<GameData>
+	<LocalizedText>
+		<!--CSE模组文本的汉化-->
+		<!--领事城邦的更新-->
+		<Replace Tag="LOC_CSE_CONSULAR_TRAIT_SMALL_INFLUENCE_BONUS" Language="zh_Hans_CN">
+			<Text>[ICON_CAPITAL] 首都+2点 [ICON_FAVOR] 外交支持。</Text>
+		</Replace>
+		<Replace Tag="LOC_CSE_CONSULAR_TRAIT_MEDIUM_INFLUENCE_BONUS" Language="zh_Hans_CN">
+			<Text>任意一阶市政广场建筑+2点 [ICON_FAVOR] 外交支持。</Text>
+		</Replace>
+		<Replace Tag="LOC_CSE_CONSULAR_TRAIT_LARGE_INFLUENCE_BONUS" Language="zh_Hans_CN">
+			<Text>任意二阶市政广场建筑+2点 [ICON_FAVOR] 外交支持。</Text>
+		</Replace>
+		<Replace Tag="LOC_CSE_CONSULAR_TRAIT_LARGEST_INFLUENCE_BONUS" Language="zh_Hans_CN">
+			<Text>任意三阶市政广场建筑+2点 [ICON_FAVOR] 外交支持。</Text>
+		</Replace>
+		<Replace Tag="LOC_CSE_CONSULAR_TRAIT_NAME" Language="zh_Hans_CN">
+			<Text>{LOC_CITY_STATES_TYPE_CSE_CONSULAR}城邦</Text>
+		</Replace>
+		<Replace Tag="LOC_CSE_CONSULAR_TRAIT_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>{LOC_MINOR_CIV_SMALL_INFLUENCE_ENVOYS} {LOC_CSE_CONSULAR_TRAIT_SMALL_INFLUENCE_BONUS}[NEWLINE]{LOC_MINOR_CIV_MEDIUM_INFLUENCE_ENVOYS} {LOC_CSE_CONSULAR_TRAIT_MEDIUM_INFLUENCE_BONUS}[NEWLINE]{LOC_MINOR_CIV_LARGE_INFLUENCE_ENVOYS} {LOC_CSE_CONSULAR_TRAIT_LARGE_INFLUENCE_BONUS}[NEWLINE]{LOC_MINOR_CIV_LARGEST_INFLUENCE_ENVOYS} {LOC_CSE_CONSULAR_TRAIT_LARGEST_INFLUENCE_BONUS}</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CITYSTATES_PAGEGROUP_CSE_CONSULAR_NAME" Language="zh_Hans_CN">
+			<Text>{LOC_CITY_STATES_TYPE_CSE_CONSULAR}</Text>
+		</Replace>
+		<!--匈牙利议会大厦更新-->
+		<Replace Tag="LOC_C8S_CSE_BUILDING_ORSZAGHAZ_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>每回合从结盟的城邦中+1 [ICON_FAVOR] 外交支持。[NEWLINE][NEWLINE]必须修建在河边。</Text>
+		</Replace>
+	</LocalizedText>
+</GameData>

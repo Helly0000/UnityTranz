@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- CSE_Localization_XP1_CN -->
+<!-- Author: Clear8Sky -->
+<!-- DateCreated: 5/17/2020 10:22:46 PM -->
+<GameData>
+	<LocalizedText>
+		<!--CSE模组文本的汉化-->
+		<!--原版农业城邦更新-->
+		<Replace Tag="LOC_CSE_AGRICULTURAL_TRAIT_LARGEST_INFLUENCE_BONUS" Language="zh_Hans_CN">
+			<Text>每个食品市场或购物市场+2 [ICON_FOOD] 食物。</Text>
+		</Replace>
+		<!--领事城邦-->
+		<Row Tag="LOC_CITY_STATES_TYPE_CSE_CONSULAR" Language="zh_Hans_CN">
+			<Text>领事</Text>
+		</Row>
+		<Row Tag="LOC_CSE_CONSULAR_TRAIT_SMALL_INFLUENCE_BONUS" Language="zh_Hans_CN">
+			<Text>首都+2 [ICON_PressureUp] 忠诚度压力。</Text>
+		</Row>
+		<Row Tag="LOC_CSE_CONSULAR_TRAIT_MEDIUM_INFLUENCE_BONUS" Language="zh_Hans_CN">
+			<Text>每个城市+2忠诚度。</Text>
+		</Row>
+		<Row Tag="LOC_CSE_CONSULAR_TRAIT_LARGE_INFLUENCE_BONUS" Language="zh_Hans_CN">
+			<Text>每个城市+2 [ICON_PressureUp] 忠诚度压力。</Text>
+		</Row>
+		<Row Tag="LOC_CSE_CONSULAR_TRAIT_LARGEST_INFLUENCE_BONUS" Language="zh_Hans_CN">
+			<Text>每个有 [ICON_GOVERNOR] 总督任职的城市+2 [ICON_PressureUp] 忠诚度压力。</Text>
+		</Row>
+		<Row Tag="LOC_CSE_CONSULAR_TRAIT_NAME" Language="zh_Hans_CN">
+			<Text>{LOC_CITY_STATES_TYPE_CSE_CONSULAR}城邦</Text>
+		</Row>
+		<Row Tag="LOC_CSE_CONSULAR_TRAIT_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>{LOC_MINOR_CIV_SMALL_INFLUENCE_ENVOYS} {LOC_CSE_CONSULAR_TRAIT_SMALL_INFLUENCE_BONUS}[NEWLINE]{LOC_MINOR_CIV_MEDIUM_INFLUENCE_ENVOYS} {LOC_CSE_CONSULAR_TRAIT_MEDIUM_INFLUENCE_BONUS}[NEWLINE]{LOC_MINOR_CIV_LARGE_INFLUENCE_ENVOYS} {LOC_CSE_CONSULAR_TRAIT_LARGE_INFLUENCE_BONUS}[NEWLINE]{LOC_MINOR_CIV_LARGEST_INFLUENCE_ENVOYS} {LOC_CSE_CONSULAR_TRAIT_LARGEST_INFLUENCE_BONUS}</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CITYSTATES_PAGEGROUP_CSE_CONSULAR_NAME" Language="zh_Hans_CN">
+			<Text>{LOC_CITY_STATES_TYPE_CSE_CONSULAR}</Text>
+		</Row>
+		<!--原版娱乐城邦更新-->
+		<Replace Tag="LOC_CSE_ENTERTAINMENT_TRAIT_SMALL_INFLUENCE_BONUS" Language="zh_Hans_CN">
+			<Text>[ICON_CAPITAL] 首都+1 [ICON_AMENITIES] 宜居度。</Text>
+		</Replace>
+		<Replace Tag="LOC_CSE_ENTERTAINMENT_TRAIT_MEDIUM_INFLUENCE_BONUS" Language="zh_Hans_CN">
+			<Text>每个竞技场或摩天轮+1 [ICON_AMENITIES] 宜居度。</Text>
+		</Replace>
+		<Replace Tag="LOC_CSE_ENTERTAINMENT_TRAIT_LARGE_INFLUENCE_BONUS" Language="zh_Hans_CN">
+			<Text>每个动物园或水族馆+1 [ICON_AMENITIES] 宜居度。</Text>
+		</Replace>
+		<Replace Tag="LOC_CSE_ENTERTAINMENT_TRAIT_LARGEST_INFLUENCE_BONUS" Language="zh_Hans_CN">
+			<Text>每个体育场或水上运动中心+1 [ICON_AMENITIES] 宜居度。</Text>
+		</Replace>
+	</LocalizedText>
+</GameData>

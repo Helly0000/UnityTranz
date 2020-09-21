@@ -1,0 +1,607 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- CVS_Sassanid_LocalizationCN -->
+<!-- Author: 春 -->
+<!-- DateCreated: 5/27/2020 0:10:06 AM -->
+<GameData>
+	<LocalizedText>
+		<!--CIVILIZATION-->
+		<Row Tag="LOC_CIVILIZATION_CVS_SASANIAN_NAME" Language="zh_Hans_CN">
+			<Text>萨珊</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_CVS_SASANIAN_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>萨珊帝国</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_CVS_SASANIAN_ADJECTIVE" Language="zh_Hans_CN">
+			<Text>萨珊的</Text>
+		</Row>
+		<!--Pedia-->
+		<Row Tag="LOC_CIVINFO_CVS_SASANIAN_LOCATION" Language="zh_Hans_CN">
+			<Text>亚洲和非洲</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_CVS_SASANIAN_POPULATION" Language="zh_Hans_CN">
+			<Text>鼠疫之前约2100万；鼠疫之后约1300万。</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_CVS_SASANIAN_SIZE" Language="zh_Hans_CN">
+			<Text>约350万平方公里（约140万平方英里）</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_CVS_SASANIAN_CAPITAL" Language="zh_Hans_CN">
+			<Text>泰西封</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_CVS_SASANIAN_CHAPTER_HISTORY_PARA_1" Language="zh_Hans_CN">
+			<Text>【译者注：正在翻译，这也太多了草……】[NEWLINE][NEWLINE]The Sassanid Empire first began in Persis, under a nobleman in the court of the local ruler by the name of Pabag. While the rise of the Sassanid Empire is often attributed to Ardashir I, and surely owed its success to his achievements, numismatic evidence points to its beginning under his father, Pabag, and brother, Shapur. In its nascency, this rebellion was focused on Persis, which was under the rule of a Gozihr at the time. Ardashir would take the reins of this rebellion, and from there go on to subjugate or unite the territories belonging to the Parthian yoke, culminating in the defeat of Parthian leader Ardawan IV and his brother and rival Walakhsh VI.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_CVS_SASANIAN_CHAPTER_HISTORY_PARA_2" Language="zh_Hans_CN">
+			<Text>After a series of clashes with the Roman empire, Ardashir would appoint his son, Shapur I, as co-regent, and eventually abdicate. Shapur would continue the conquests of his father, both in the east and the west. There followed an increase in the imperial apparatus, though that would not reach its peak until centuries later. It was during Shapur's reign that Armenia would become a point of contention between Rome and the Sassanids—one which would persist for centuries. Shapur would go on to make a name for himself in defeating Gordianus III, forcing Philip the Arab into a humiliating treaty, and capturing and imprisoning Emperor Valerian. So monumental were these accomplishments, especially by one ruler, that Shapur would have them immortalized in a rock relief and inscription at Naqsh-e Rostam. This marked a return of Iranian military power and influence in Mesopotamia. In only a few decades, the Sassanids were able to secure their own realm and disrupt and change the politics of their larger region.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_CVS_SASANIAN_CHAPTER_HISTORY_PARA_3" Language="zh_Hans_CN">
+			<Text>During the early empire, rock reliefs were a common artistic and cultural production of royal propaganda and image. These reliefs, mainly investiture or triumphal, were carved into cliffs, hills, and grottoes throughout the Iranian heartland. It should be noted that reliefs such as Shapur's that depict victory over Roman adversaries were there for more than the glory of the King of Kings: they were meant to demonstrate the arrival of the Sassanid power within the political world of the time. The Sassanids were agents of change.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_CVS_SASANIAN_CHAPTER_HISTORY_PARA_4" Language="zh_Hans_CN">
+			<Text>There followed several Kings of Kings until Bahram II, whose reign included the rise of the influential priest Kerdir (first seen during the reign of Shapur I), and the execution of the prophet Mani (of Manichaeism) by Bahram. In this, Zoroastrianism contributed to the identity of the Sassanids, and went on to affect to the sociocultural world of Eranshahr so deeply that it endured well beyond their demise. The Sassanids would adopt Zoroastrianism as their official administrative religion, but Christianity, Judaism, and Buddhism continued to be practiced in the realm for the rest of its history. Bahram's mostly peaceful reign allowed him to exert influence over the Kushans to the east, though he did have to quell several internal conflicts: chiefly, a rebellion by his brother.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_CVS_SASANIAN_CHAPTER_HISTORY_PARA_5" Language="zh_Hans_CN">
+			<Text>Bahram III was installed on the throne through a conspiracy, but was soon deposed by Bahram II's heir apparent, Narseh (the heir apparent tended to function as the king of Armenia until it was his time to rule). Perhaps the most important event during Narseh's reign was the adoption of Christianity in Armenia, which would only throw cinnamon in the flames of hostility between Rome and Iran. During his reign, the Kushanshahs would emerge in the east as a sort of Sassanid suzerain, and while the exact relationship is inscrutable, it was clear that the Kushanshahs had a significant role under the Kings of Kings. The succession of Hormizd II was mainly involved with continued hostility over Armenia</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_CVS_SASANIAN_CHAPTER_HISTORY_PARA_6" Language="zh_Hans_CN">
+			<Text>Shapur II, the longest reigning Sassanid monarch, is said to have been crowned while still in his mother's womb. When he came of age, Shapur brought a swift, brutal end to the Arab invasions to the south, which would earn him the epithet "He Who Pierces Shoulders". To the east, he was charged with fighting off the Chionites, and though he managed to thwart their invasion, the Kushano-Sassanid cadet branch would be lost to an autonomous state, possibly Kidarite. In the western theater, Shapur successfully repelled a Roman campaign. The resulting peace treaty placed Nisibis, a border city crucial to defense and trade, under Sassanid control. Shapur's rule was not strictly one of military conflict, however. During his time, Shapur brought stability to the empire, partly due to the dissolution of vassal kingdoms. This granted the King of Kings considerable power, and further centralized the Sassanid machine. An image of the King of Kings as princeps over other kings was replaced by one of a central ruler of an ancient order, further established by the codification of the Avesta and the legendary Kayanid kings from which Shapur II and subsequent leaders would claim lineage.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_CVS_SASANIAN_CHAPTER_HISTORY_PARA_7" Language="zh_Hans_CN">
+			<Text>Ardashir II succeeded his brother Shapur II, probably as a result of an agreement with his brother, and perhaps due to his valor in combat. His would be a rule during which the nobility was purged in an attempt to control their power, which resulted in his removal from the throne. Shapur III, son of II, did not last long: a symptom of the rising authority of the nobles, who had him killed by collapsing his tent. Wahram IV's short rule would be curtailed by the nobles same as his predecessors. This pattern would come to an end with his son (or perhaps brother) Yazdgerd I.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_CVS_SASANIAN_CHAPTER_HISTORY_PARA_8" Language="zh_Hans_CN">
+			<Text>"The Sinful One", as Yazdgerd came to be known, was likely an epithet owed to his many strong-willed qualities: chiefly, that he did not kowtow to the nobility and priests. Less so, his religious tolerance. His intransigence restored the throne's place in the empire at the expense of those who conspired behind it. One event worth noting during his reign is the request by Emperor Arcadius to adopt his son, the future Theodosios II, as his foster son. While he avoided the wrath of the conspirators he extirpated, Yazdgerd would instead meet his demise in a tragicomic manner by a kick from his horse.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_CVS_SASANIAN_CHAPTER_HISTORY_PARA_9" Language="zh_Hans_CN">
+			<Text>Bahram V, raised in the court of al-Hira, would achieve a great deal during his time. He began by rallying his Arab benefactors behind a march on the capital to secure the throne against a usurper. Bahram is said to have enjoyed musicians and the hunt, qualities which have been highly romanticized in Classical Persian literature. If his epithet Gur, meaning "onager", is any indication, there is presumably some truth to these tales. His would be a period of prosperity and cultural emergence, during which minstrels were imported, taxes were allayed, and the Iranian people were at ease.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_CVS_SASANIAN_CHAPTER_HISTORY_PARA_10" Language="zh_Hans_CN">
+			<Text>Unlike his namesake and grandfather, Yazdgerd II did not tolerate Christianity—not in Armenia at least. In a play to regain influence and control over Armenia, Yazdgerd and his vizier attempted to forcefully reconvert Armenians to Zoroastrianism. The rebellion this provoked was squashed, and Persarmenia was henceforth governed directly by the Sassanid court. Of note is the title "Kay", which Yazdgerd began minting on his coins. This signalled a shift in Sassanid ideology away from the King of (many) Kings and more toward a divinely, or at least religiously, ordained Great King.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_CVS_SASANIAN_CHAPTER_HISTORY_PARA_11" Language="zh_Hans_CN">
+			<Text>With the death of Yazdgerd II there followed a power struggle between his heirs Hormizd II and Peroz, of whom the latter would emerge triumphant. The disarray caused by this struggle would give Caucasian Iberia the opportunity to gain its independence, and would weaken the eastern bulwark to an attack by the Hephthalites. Peroz would, however, pacify Caucasian Albania, and reach an understanding with the Eastern Roman Empire for defense of the Caucasus from invaders. This manifested as an annual payment from Rome for the upkeep of the Gate of Darband, which eventually led to a great deal of turbulence in future relations between the empires.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_CVS_SASANIAN_CHAPTER_HISTORY_PARA_12" Language="zh_Hans_CN">
+			<Text>Unfortunately for Peroz, his campaigns against the Hephthalites to the east were woefully unsuccessful, and culminated in his capture. As a consequence, the Sassanids were forced to cede territory, leave Prince Kawad as a hostage, and pay tribute. This dismal situation was made worse when, during a subsequent campaign to free Kawad, Peroz was killed and his army obliterated. Left in a bad way, the Sassanids had their work cut out for them.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_CVS_SASANIAN_CHAPTER_HISTORY_PARA_13" Language="zh_Hans_CN">
+			<Text>Relief would not come in the form of Walash, brother of Peroz, whose short reign did nothing for the empty treasury. Salvation would be found instead in the prince who had been left with the Hephthalites. Kawad I inherited a throne burdened with damaged credibility, a drained treasury, and to make matters worse, the Hephthalites continued to help themselves to Sassanid territory.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_CVS_SASANIAN_CHAPTER_HISTORY_PARA_14" Language="zh_Hans_CN">
+			<Text>Kawad earned for himself a reputation of infamy among the courtiers and clergy. In his attempts to undermine their conspiracies and institute radical reforms, he invited their ire and his imprisonment. During his two-year incarceration, the grandees installed on the throne a brother of Kawad's by the name of Zamasp—transgressions that would not go unpunished. Kawad escaped to his former hosts, the Hephthalites, and with their aid marched on the capital to remove Zamasp peacefully and reclaim his crown.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_CVS_SASANIAN_CHAPTER_HISTORY_PARA_15" Language="zh_Hans_CN">
+			<Text>Kawad's second reign proved to be of monumental importance to the characteristics of the empire and the region. He would curtail Roman fortifications in Dara, near the border with Nisibis, besiege Amida, put down a rebellion in Armenia, demand resumed payments for the defense of the Caucasus passes, and in so doing re-establish the might and credibility of the Sassanid military. His sociopolitical reforms, many of which were attributed to his son, restructured the tax system, reorganized the clerical administration, reformed the nobility, and quadripartitioned the military. What's more, Kawad would, through an upstart Zoroastrian sect, inflict upon the courtiers and clergy a heavy blow that restored authority to the throne. Disputes with Rome over Lazica led to a war that persisted into the rule of his son.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_CVS_SASANIAN_CHAPTER_HISTORY_PARA_16" Language="zh_Hans_CN">
+			<Text>When Khosrow I succeeded his father, the Sassanid Empire was enjoying a period of stability thanks to a redoubtable military and reinvigorated treasury. Khosrow is said to have killed Mazdak and his followers, paving the way for a standard state Zoroastrianism to follow. Remembered as a wise and just ruler, Khosrow is perhaps the most renowned King of Kings in both Persian and Arabic sources. He went on to continue and strengthen the reforms of his father, and press the war with the Romans to a favorable end. With hostilities ceased, Khosrow set his sights on the Hephthalites: too long had they encroached upon the domain of the Sassanids. By way of an alliance with the Gok-Turks, he carved up their empire, effectively replacing one threat to the east with another.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_CVS_SASANIAN_CHAPTER_HISTORY_PARA_17" Language="zh_Hans_CN">
+			<Text>Hormizd IV achieved little, though he sought to expand the reforms of his forebears. This and his lack of focus on military matters eventually led to a palace coup, which placed his son, Khosrow II on the throne. His would prove to be a tumultuous succession, contested by an acclaimed general by the name of Bahram Chobin. Bahram Chobin ran Khosrow II out of the empire and claimed the crown by force, thus becoming the first non-Sassanid to rule. That Bahram could accomplish as much spoke to the rising prestige and influence of the military and the noble families to which these generals belonged.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_CVS_SASANIAN_CHAPTER_HISTORY_PARA_18" Language="zh_Hans_CN">
+			<Text>Khosrow II fled to the Eastern Roman Empire where he entreated Emperor Maurice for aid, who obliged, though with principally Armenian forces. Khosrow drove Bahram from Ctesiphon and into the realm of the Gok-Turks. Naturally, this led to peace with Rome. Khosrow then dealt with those who had a hand in the assassination of his father, though it is possible he played a tacit part in the deed. Khosrow II would bring to heel a second rebellion, after which he would take the time to consolidate his power.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_CVS_SASANIAN_CHAPTER_HISTORY_PARA_19" Language="zh_Hans_CN">
+			<Text>The murder of Emperor Maurice soon gave Khosrow II leave to initiate a campaign against the Eastern Roman Empire, claiming the presence of Maurice's son Theodosius in his court as justification. This campaign would be far and above the most successful of all Sassanid ventures, resulting in the fall of Syria, Palestine, and Egypt. Khosrow would in fact go as far as laying siege to Constantinople. Internal disputes over a protracted war combined with a formidable counteroffensive by Heraclius resulted in a reversal of fortunes for the Sassanids. Court intrigue further weakened the empire, which allowed the Romans to not only retake all territories Khosrow had gained, but press into Sassanid borders. This was reason enough for Khosrow II to be removed in a palace coup and replaced by his son Kawad II.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_CVS_SASANIAN_CHAPTER_HISTORY_PARA_20" Language="zh_Hans_CN">
+			<Text>What followed was a period of interregnum, chaos, and regicide, which would be further aggravated by the Plague of Shireye. Kawad II's short reign was followed by his son, Ardashir III, who in turn was removed from the throne by Shahrbaraz, a Sassanid commander. Shahrbaraz was then thwarted by Boran with the help of one of the Parthian Houses. This restored the throne, if fleetingly, to Sassanid blood, for Boran was a daughter of Khosrow II. Her reign was marked by a period of consolidation of imperial power and endeavors to rebuild the empire. Boran minted coins in the form of her father, and sought to restore his image. Both Boran and her sister Azarmigduxt, who was also installed on the throne, were deposed by a Sassanid general, which further demonstrates the growing power of military commanders. The empire would cycle through other claimants before finally reaching a period of relative stability under Yazdgerd III.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_CVS_SASANIAN_CHAPTER_HISTORY_PARA_21" Language="zh_Hans_CN">
+			<Text>But this stability was too little too late. Yazdgerd III was faced with the Muslim horde. While the Sassanids fought tooth and nail, their fate had been sealed in the decades leading up to their demise. The Muslim armies simply capitalized, securing victories in Qadisiyya and Ctesiphon, and forcing Yazdgerd to flee to the east, province by province, to rouse support against the invaders. Eventually, his dwindling forces were defeated. Tradition has it that Yazdgerd was slain in 651 by a miller who didn't recognize the King of Kings. </Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_CVS_SASANIAN_CHAPTER_HISTORY_PARA_22" Language="zh_Hans_CN">
+			<Text>Yazdgerd III's sons would continue east to the court of Chinese Emperor Gaozang, where they were recognized as holders of the Persian throne-in-exile, and given command in Sistan. A failed attempt to retake Iran in the early eight century marked the final vestige of Sassanid history.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_CVS_SASANIAN_CHAPTER_HISTORY_PARA_23" Language="zh_Hans_CN">
+			<Text>— The Historical Context section above is a paraphrased version of content in From Oxus to Euphrates: The World of Late Antique Iran by Touraj Daryaee and Khodadad Rezakhani.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_CVS_SASANIAN_CHAPTER_CAPSULE_BODY" Language="zh_Hans_CN">
+			<Text>【译者注：正在翻译……】[NEWLINE][NEWLINE]The Sassanid Empire stretched from the Euphrates in the West to Central Asia in the East. Through a combination of strength of arms and tolerance, Sassanian Iran brought swathes of land into its fold. There, by harnessing cultures and ideas from both within and without, the empire nurtured the arts and sciences. It glowed with an appreciation for court, religion, king, and nature—often finding unity in depictions of the Royal Hunt. Many of the well-travelled tales of One Thousand and One Nights first graced the lips of storytellers in Sassanian Iran's thriving and magical folktales. The empire's military conquests scored heavy blows on many fronts: from the Eastern Roman Empire to the Caucasus, from Arabia to Sogdiana, its armies commanded respect. A mighty yet often unsung player in ancient history, Sassanian Iran commanded an indelible place both in contemporary times, and in the world we live in today.</Text>
+		</Row>
+
+		<!--Trait-->
+		<Row Tag="LOC_TRAIT_CIVILIZATION_CVS_SASANIAN_UA_NAME" Language="zh_Hans_CN">
+			<Text>《列王纪》</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_CIVILIZATION_CVS_SASANIAN_UA_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>专业化区域产出+1 [ICON_GreatPerson] 伟人点数（若该类型区域已存在于 [ICON_Capital] 首都附近）。[ICON_Capital] 首都训练军事单位的速度+20%。</Text>
+		</Row>
+
+		<Row Tag="LOC_TRAIT_CIVILIZATION_CVS_SASANIAN_UA_EXPAC1_NAME" Language="zh_Hans_CN">
+			<Text>《列王纪》</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_CIVILIZATION_CVS_SASANIAN_UA_EXPAC1_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>专业化区域产出+1 [ICON_GreatPerson] 伟人点数（若已有该类型区域相邻于市政广场）。市政广场所在城市训练军事单位的速度+20%。</Text>
+		</Row>
+		
+		<Row Tag="LOC_TRAIT_CIVILIZATION_CVS_SASANIAN_UA_EXPAC2_NAME" Language="zh_Hans_CN">
+			<Text>《列王纪》</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_CIVILIZATION_CVS_SASANIAN_UA_EXPAC2_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>专业化区域产出+1 [ICON_GreatPerson] 伟人点数（若已有该类型区域相邻于市政广场）。市政广场所在城市训练军事单位的速度+20%；市政广场建筑建造完成后，会在周围单元格生成道路，其范围和等级取决于市政广场的建筑等级。</Text>
+		</Row>
+
+		<!--Citizens-->
+		<Row Tag="LOC_CITIZEN_CVS_SASANIAN_MALE_1" Language="zh_Hans_CN">
+			<Text>提尔达德</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_CVS_SASANIAN_MALE_2" Language="zh_Hans_CN">
+			<Text>居什乃斯波</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_CVS_SASANIAN_MALE_3" Language="zh_Hans_CN">
+			<Text>乌祖尔格米尔</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_CVS_SASANIAN_MALE_4" Language="zh_Hans_CN">
+			<Text>米尔法尔</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_CVS_SASANIAN_MALE_5" Language="zh_Hans_CN">
+			<Text>拉赫什</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_CVS_SASANIAN_MALE_6" Language="zh_Hans_CN">
+			<Text>瓦拉什</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_CVS_SASANIAN_MALE_7" Language="zh_Hans_CN">
+			<Text>库玛弗拉特</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_CVS_SASANIAN_MALE_8" Language="zh_Hans_CN">
+			<Text>扎扬</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_CVS_SASANIAN_MALE_9" Language="zh_Hans_CN">
+			<Text>曼齐克</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_CVS_SASANIAN_MALE_10" Language="zh_Hans_CN">
+			<Text>萨桑</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_CVS_SASANIAN_MODERN_MALE_1" Language="zh_Hans_CN">
+			<Text>法尔博德</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_CVS_SASANIAN_MODERN_MALE_2" Language="zh_Hans_CN">
+			<Text>阿拉什</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_CVS_SASANIAN_MODERN_MALE_3" Language="zh_Hans_CN">
+			<Text>卡维</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_CVS_SASANIAN_MODERN_MALE_4" Language="zh_Hans_CN">
+			<Text>图拉杰</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_CVS_SASANIAN_MODERN_MALE_5" Language="zh_Hans_CN">
+			<Text>巴巴克</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_CVS_SASANIAN_MODERN_MALE_6" Language="zh_Hans_CN">
+			<Text>阿尔达希尔</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_CVS_SASANIAN_MODERN_MALE_7" Language="zh_Hans_CN">
+			<Text>马兹达克</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_CVS_SASANIAN_MODERN_MALE_8" Language="zh_Hans_CN">
+			<Text>霍达德</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_CVS_SASANIAN_MODERN_MALE_9" Language="zh_Hans_CN">
+			<Text>卑路斯</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_CVS_SASANIAN_MODERN_MALE_10" Language="zh_Hans_CN">
+			<Text>马兹班</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_CVS_SASANIAN_FEMALE_1" Language="zh_Hans_CN">
+			<Text>阿杜尔·阿娜希特</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_CVS_SASANIAN_FEMALE_2" Language="zh_Hans_CN">
+			<Text>丁娜可</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_CVS_SASANIAN_FEMALE_3" Language="zh_Hans_CN">
+			<Text>阿什塔杜克</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_CVS_SASANIAN_FEMALE_4" Language="zh_Hans_CN">
+			<Text>沙兰</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_CVS_SASANIAN_FEMALE_5" Language="zh_Hans_CN">
+			<Text>阿诺沙克</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_CVS_SASANIAN_FEMALE_6" Language="zh_Hans_CN">
+			<Text>巴拉达杜克</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_CVS_SASANIAN_FEMALE_7" Language="zh_Hans_CN">
+			<Text>茹德·杜克塔克</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_CVS_SASANIAN_FEMALE_8" Language="zh_Hans_CN">
+			<Text>露达可</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_CVS_SASANIAN_FEMALE_9" Language="zh_Hans_CN">
+			<Text>蜜洛德</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_CVS_SASANIAN_FEMALE_10" Language="zh_Hans_CN">
+			<Text>兹鲁昂杜可</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_CVS_SASANIAN_MODERN_FEMALE_1" Language="zh_Hans_CN">
+			<Text>帕凡娜</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_CVS_SASANIAN_MODERN_FEMALE_2" Language="zh_Hans_CN">
+			<Text>阿娜希塔</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_CVS_SASANIAN_MODERN_FEMALE_3" Language="zh_Hans_CN">
+			<Text>阿莎德</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_CVS_SASANIAN_MODERN_FEMALE_4" Language="zh_Hans_CN">
+			<Text>塔尔莎</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_CVS_SASANIAN_MODERN_FEMALE_5" Language="zh_Hans_CN">
+			<Text>梅尔甘</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_CVS_SASANIAN_MODERN_FEMALE_6" Language="zh_Hans_CN">
+			<Text>帕拉迪丝</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_CVS_SASANIAN_MODERN_FEMALE_7" Language="zh_Hans_CN">
+			<Text>霍尔希</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_CVS_SASANIAN_MODERN_FEMALE_8" Language="zh_Hans_CN">
+			<Text>罗克珊娜</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_CVS_SASANIAN_MODERN_FEMALE_9" Language="zh_Hans_CN">
+			<Text>希琳</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_CVS_SASANIAN_MODERN_FEMALE_10" Language="zh_Hans_CN">
+			<Text>阿丝塔</Text>
+		</Row>
+
+		<!--Aswar-->
+		<Row Tag="LOC_TRAIT_CIVILIZATION_UNIT_CVS_ASWAR_NAME" Language="zh_Hans_CN">
+			<Text>萨珊复合骑兵</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_CIVILIZATION_UNIT_CVS_ASWAR_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>萨珊中世纪特色单位，单位类型为复合骑兵，拥有独特的强化路线。攻击后可以移动，防御远程攻击时的 [ICON_Strength] 战斗力更高。由市政“封建主义”解锁。</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_CVS_ASWAR_NAME" Language="zh_Hans_CN">
+			<Text>萨珊复合骑兵</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_CVS_ASWAR_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>萨珊中世纪特色单位，单位类型为复合骑兵，拥有独特的强化路线。攻击后可以移动，防御远程攻击时的 [ICON_Strength] 战斗力更高。由市政“封建主义”解锁。</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_CVS_ASWAR_RANGEDDEFENSE_PREVIEW_TEXT" Language="zh_Hans_CN">
+			<Text>+7 [ICON_Strength] 战斗力 防御远程攻击</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_CVS_ASWAR_CHAPTER_CAPSULE_BODY" Language="zh_Hans_CN">
+			<Text>萨珊复合骑兵结合了重骑兵和轻骑兵的特点，拥有一个混合的强化路线。</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_CVS_ASWAR_CHAPTER_HISTORY_PARA_1" Language="zh_Hans_CN">
+			<Text>【译者注：正在翻译……】[NEWLINE][NEWLINE]Aswārān were the quintessential unit in the Sassanid army—the backbone of its military might and battlefield maneuvering. While the Sassanids did rely on multifarious support and auxiliary troops, the Aswārān were the elite cavalry for which they would be known.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_CVS_ASWAR_CHAPTER_HISTORY_PARA_2" Language="zh_Hans_CN">
+			<Text>These cavalry units were versatile, and evolved over time in response to both technology and their enemies. Perhaps the most iconic trappings of the Aswārān are their mail armor and their pike (often confused with a lance). The former is somewhat misleading, as Aswārān wore a combination of several armor types. In addition to mail, they wore metal plates sewn into surcoats, breastplates, corselets, laminated leg and arm defense, and at times, scale—all to great effect. Their horses would sometimes have plate in the front (and only in the front to ease their load) with scale elsewhere. The pike was typically held with two arms at waist level, and reputedly capable of skewering two men at a time.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_CVS_ASWAR_CHAPTER_HISTORY_PARA_3" Language="zh_Hans_CN">
+			<Text>Aswārān weren't only tanks with pikes; they were trained to adapt. The required equiment for an Aswār was a lengthy list indeed: helm, hauberk*, breastplate, mail, gauntlet, girdle, thigh guards, lance (pike), sword, spear, battle axe**, mace**, bow case with two bows and two strings, quiver with thirty arrows, two extra bow strings fastened to the back of their helm, and a choice of lasso or slingshot. *Hauberk may have meant neck and shoulder armor. Typically, Aswārān carried either an axe or a mace.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_CVS_ASWAR_CHAPTER_HISTORY_PARA_4" Language="zh_Hans_CN">
+			<Text>Aswārān were a force to be reckoned with on the battlefield, and commanded quite the presence. They were often used in wave maneuvers that made the most of their mobility and intimidation. One such strategy involved a line of charging Aswārān that would put the enemy on guard. They would break off at the last second, and the feint would be immediately followed by a line of heavy infantry. Another involved rotating waves of archers (perhaps cavalry) and Aswārān. The Aswārān would rush in, bunching up the enemy to make easier targets for the archers, who would loose their salvo then break off. This kept the enemy on their heels for the next line of Aswārān, and so on and so forth.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_CVS_ASWAR_CHAPTER_HISTORY_PARA_5" Language="zh_Hans_CN">
+			<Text>What's more, Aswārān didn't belong to a homogenous entity. The most famous were the Zhayedan (Immortals), which numbered 10,000. Oftentimes, Zhayedan were held in reserve for crucial stages in battle or to secure a breakthrough. More prestigious were the Pushtighban (Royal Guard), which numbered about 1,000. These were the Aswārān who had distinguished themselves in battle, and were known to have saved the king of kings on several occasions. The bulk of the Aswārān—those who were neither Immortals nor Royal Guard—generally accounted for only a portion of the Sassanid army, though there were historical exceptions. Within that bulk, Aswārān units fought under banners and a system of heraldry.</Text>
+		</Row>
+
+		<!--Hunting Park-->
+		<Row Tag="LOC_DISTRICT_CVS_HUNTINGPARK_NAME" Language="zh_Hans_CN">
+			<Text>狩猎场</Text>
+		</Row>
+		<Row Tag="LOC_DISTRICT_CVS_HUNTINGPARK_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>萨珊的特色区域。若存在地貌与狩猎场相邻，则该种地貌可为狩猎场所在城市中的专业化区域提供少量邻接加成。城市+1 [ICON_Amenities] 宜居度，解锁萨珊特色项目——皇家狩猎。</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_CIVILIZATION_DISTRICT_CVS_HUNTINGPARK_NAME" Language="zh_Hans_CN">
+			<Text>狩猎场</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_CIVILIZATION_DISTRICT_CVS_HUNTINGPARK_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>萨珊的特色区域。若存在地貌与狩猎场相邻，则该种地貌可为狩猎场所在城市中的专业化区域提供少量邻接加成。城市+1 [ICON_Amenities] 宜居度，解锁萨珊特色项目——皇家狩猎。</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_DISTRICTS_PAGE_DISTRICT_CVS_HUNTINGPARK_CHAPTER_HISTORY_PARA_1" Language="zh_Hans_CN">
+			<Text>【译者注：正在翻译……】[NEWLINE][NEWLINE]The Wiškar was a supposed hunting ground, walled and stocked with all manner of flora and fauna. The hunt itself was a long-lived tradition in Iranian culture; it was said that a man who went neither hunting nor fighting was worthless.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_DISTRICTS_PAGE_DISTRICT_CVS_HUNTINGPARK_CHAPTER_HISTORY_PARA_2" Language="zh_Hans_CN">
+			<Text>Sassanid hunting parties were grand affairs that involved a veritable army. One need only look to the grotto of Khosrow II at Taq-e Bostan. In the national epic, the Shahnameh, Khosrow's hunt was said to have involved the following: 300 steeds with golden caparisons, 1,160 servants with javelins, 1,040 more wearing brocade over mail, and carrying a sword and staff; 500 falconers bearing sparrowhawks, goshawks, and royal falcons; 300 horsemen, the cheetah-keeper with his 70 tame lions and leopards in golden harnesses and muzzles, and 800 hounds on golden leashes; 200 minstrels wearing gold and riding camels; 500 camels bearing seats, tents, pavillions, and a portable stable; 300 princes, each wearing golden, jewel-embellished armbands and belts; 200 slaves carring censers that burned aloeswood and ambergris; 200 servants with narcissus and saffron; and finally 100 water-bearers to sprinkle the road ahead of the considerable retinue to prevent the dust from rising.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_DISTRICTS_PAGE_DISTRICT_CVS_HUNTINGPARK_CHAPTER_HISTORY_PARA_3" Language="zh_Hans_CN">
+			<Text>The importance of these hunting parties can be seen in the surfeit of representations, especially when contrasted with the relative dearth of extant Sassanid art. Rock reliefs, seals, wall motifs, and metalwork all depicted the king, or the king and his entourage, participating in the hunt.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_DISTRICTS_PAGE_DISTRICT_CVS_HUNTINGPARK_CHAPTER_HISTORY_PARA_4" Language="zh_Hans_CN">
+			<Text>Kings of kings could find more than mere prestige in the hunt.  The idea of supernatural valor was attached to the act, so in performing feats in the hunt Kings of kings drew parallels between themselves and divinities.</Text>
+		</Row>
+		<!--Hunting Park Adjacencies-->
+		<Row Tag="LOC_CVS_HUNTINGPARK_ADJ_NATURALWONDER" Language="zh_Hans_CN">
+			<Text>+{1_num} [ICON_Culture] 文化值 来自邻接 {1_Num : plural 1? Natural Wonder; other?Natural Wonders;}</Text>
+		</Row>
+		<Row Tag="LOC_CVS_HUNTINGPARK_ADJ_FEATURE_FOREST" Language="zh_Hans_CN">
+			<Text>+{1_num} [ICON_Culture] 文化值 来自邻接 森林</Text>
+		</Row>
+		<Row Tag="LOC_CVS_HUNTINGPARK_ADJ_FEATURE_OASIS" Language="zh_Hans_CN">
+			<Text>+{1_num} [ICON_Culture] 文化值 来自邻接 绿洲</Text>
+		</Row>
+		<Row Tag="LOC_CVS_HUNTINGPARK_ADJ_FEATURE_RAINFOREST" Language="zh_Hans_CN">
+			<Text>+{1_num} [ICON_Culture] 文化值 来自邻接 雨林</Text>
+		</Row>
+		<Row Tag="LOC_CVS_HUNTINGPARK_ADJ_FEATURE_ICE" Language="zh_Hans_CN">
+			<Text>+{1_num} [ICON_Culture] 文化值 来自邻接 冰</Text>
+		</Row>
+		<Row Tag="LOC_CVS_HUNTINGPARK_ADJ_FEATURE_MARSH" Language="zh_Hans_CN">
+			<Text>+{1_num} [ICON_Culture] 文化值 来自邻接 沼泽</Text>
+		</Row>
+		<Row Tag="LOC_CVS_HUNTINGPARK_ADJ_FEATURE_REEF" Language="zh_Hans_CN">
+			<Text>+{1_num} [ICON_Culture] 文化值 来自邻接 礁石</Text>
+		</Row>
+		<!--Expac Features-->
+		<Row Tag="LOC_CVS_HUNTINGPARK_ADJ_FEATURE_FLOODPLAINS" Language="zh_Hans_CN">
+			<Text>+{1_num} [ICON_Culture] 文化值 来自邻接 泛滥平原</Text>
+		</Row>
+		<Row Tag="LOC_CVS_HUNTINGPARK_ADJ_FEATURE_FLOODPLAINS_GRASSLAND" Language="zh_Hans_CN">
+			<Text>+{1_num} [ICON_Culture] 文化值 来自邻接 草原泛滥平原</Text>
+		</Row>
+		<Row Tag="LOC_CVS_HUNTINGPARK_ADJ_FEATURE_FLOODPLAINS_GRASSLAND_PLAINS" Language="zh_Hans_CN">
+			<Text>+{1_num} [ICON_Culture] 文化值 来自邻接 平原泛滥平原</Text>
+		</Row>
+		<Row Tag="LOC_CVS_HUNTINGPARK_ADJ_FEATURE_VOLCANO" Language="zh_Hans_CN">
+			<Text>+{1_num} [ICON_Culture] 文化值 来自邻接 火山</Text>
+		</Row>
+		<Row Tag="LOC_CVS_HUNTINGPARK_ADJ_FEATURE_VOLCANIC_SOIL" Language="zh_Hans_CN">
+			<Text>+{1_num} [ICON_Culture] 文化值 来自邻接 火山土</Text>
+		</Row>
+		<Row Tag="LOC_CVS_HUNTINGPARK_ADJ_FEATURE_GEOTHERMAL_FISSURE" Language="zh_Hans_CN">
+			<Text>+{1_num} [ICON_Culture] 文化值 来自邻接 地热裂缝</Text>
+		</Row>
+		<!--Hunting Park Granted Adjacencies-->
+			<!--Science-->
+		<Row Tag="LOC_CVS_HUNTINGPARK_SCIENCE_GRANTED_FROM_FEATURE_FOREST" Language="zh_Hans_CN">
+			<Text>+{1_num} [ICON_Science] 科技值 来自邻接 森林</Text>
+		</Row>
+		<Row Tag="LOC_CVS_HUNTINGPARK_SCIENCE_GRANTED_FROM_FEATURE_REEF" Language="zh_Hans_CN">
+			<Text>+{1_num} [ICON_Science] 科技值 来自邻接 {1_Num : plural 1? Reef; other?Reefs;}</Text>
+		</Row>
+		<Row Tag="LOC_CVS_HUNTINGPARK_SCIENCE_GRANTED_FROM_FEATURE_ICE" Language="zh_Hans_CN">
+			<Text>+{1_num} [ICON_Science] 科技值 来自邻接 {1_Num : plural 1? Ice; other?Ice;}</Text>
+		</Row>
+		<Row Tag="LOC_CVS_HUNTINGPARK_SCIENCE_GRANTED_FROM_FEATURE_OASIS" Language="zh_Hans_CN">
+			<Text>+{1_num} [ICON_Science] 科技值 来自邻接 {1_Num : plural 1? Oasis; other?Oases;}</Text>
+		</Row>
+		<Row Tag="LOC_CVS_HUNTINGPARK_SCIENCE_GRANTED_FROM_FEATURE_MARSH" Language="zh_Hans_CN">
+			<Text>+{1_num} [ICON_Science] 科技值 来自邻接 {1_Num : plural 1? Marsh; other?Marshes;}</Text>
+		</Row>
+			<!--Faith-->
+		<Row Tag="LOC_CVS_HUNTINGPARK_FAITH_GRANTED_FROM_FEATURE_JUNGLE" Language="zh_Hans_CN">
+			<Text>+{1_num} [ICON_Faith] 信仰值 来自邻接 {1_Num : plural 1? Rainforest; other?Rainforest;}</Text>
+		</Row>
+		<Row Tag="LOC_CVS_HUNTINGPARK_FAITH_GRANTED_FROM_FEATURE_REEF" Language="zh_Hans_CN">
+			<Text>+{1_num} [ICON_Faith] 信仰值 来自邻接 {1_Num : plural 1? Reef; other?Reefs;}</Text>
+		</Row>
+		<Row Tag="LOC_CVS_HUNTINGPARK_FAITH_GRANTED_FROM_FEATURE_ICE" Language="zh_Hans_CN">
+			<Text>+{1_num} [ICON_Faith] 信仰值 来自邻接 {1_Num : plural 1? Ice; other?Ice;}</Text>
+		</Row>
+		<Row Tag="LOC_CVS_HUNTINGPARK_FAITH_GRANTED_FROM_FEATURE_OASIS" Language="zh_Hans_CN">
+			<Text>+{1_num} [ICON_Faith] 信仰值 来自邻接 {1_Num : plural 1? Oasis; other?Oases;}</Text>
+		</Row>
+		<Row Tag="LOC_CVS_HUNTINGPARK_FAITH_GRANTED_FROM_FEATURE_MARSH" Language="zh_Hans_CN">
+			<Text>+{1_num} [ICON_Faith] 信仰值 来自邻接 {1_Num : plural 1? Marsh; other?Marshes;}</Text>
+		</Row>
+			<!--Culture-->
+		<Row Tag="LOC_CVS_HUNTINGPARK_CULTURE_GRANTED_FROM_FEATURE_JUNGLE" Language="zh_Hans_CN">
+			<Text>+{1_num} [ICON_Culture] 文化值 来自邻接 {1_Num : plural 1? Rainforest; other?Rainforest;}</Text>
+		</Row>
+		<Row Tag="LOC_CVS_HUNTINGPARK_CULTURE_GRANTED_FROM_FEATURE_REEF" Language="zh_Hans_CN">
+			<Text>+{1_num} [ICON_Culture] 文化值 来自邻接 {1_Num : plural 1? Reef; other?Reefs;}</Text>
+		</Row>
+		<Row Tag="LOC_CVS_HUNTINGPARK_CULTURE_GRANTED_FROM_FEATURE_ICE" Language="zh_Hans_CN">
+			<Text>+{1_num} [ICON_Culture] 文化值 来自邻接 {1_Num : plural 1? Ice; other?Ice;}</Text>
+		</Row>
+		<Row Tag="LOC_CVS_HUNTINGPARK_CULTURE_GRANTED_FROM_FEATURE_OASIS" Language="zh_Hans_CN">
+			<Text>+{1_num} [ICON_Culture] 文化值 来自邻接 {1_Num : plural 1? Oasis; other?Oases;}</Text>
+		</Row>
+		<Row Tag="LOC_CVS_HUNTINGPARK_CULTURE_GRANTED_FROM_FEATURE_MARSH" Language="zh_Hans_CN">
+			<Text>+{1_num} [ICON_Culture] 文化值 来自邻接 {1_Num : plural 1? Marsh; other?Marshes;}</Text>
+		</Row>
+		<Row Tag="LOC_CVS_HUNTINGPARK_CULTURE_GRANTED_FROM_FEATURE_FOREST" Language="zh_Hans_CN">
+			<Text>+{1_num} [ICON_Culture] 文化值 来自邻接 森林</Text>
+		</Row>
+			<!--Production-->
+		<Row Tag="LOC_CVS_HUNTINGPARK_PRODUCTION_GRANTED_FROM_FEATURE_JUNGLE" Language="zh_Hans_CN">
+			<Text>+{1_num} [ICON_Production] 生产力 来自邻接 {1_Num : plural 1? Rainforest; other?Rainforest;}</Text>
+		</Row>
+		<Row Tag="LOC_CVS_HUNTINGPARK_PRODUCTION_GRANTED_FROM_FEATURE_REEF" Language="zh_Hans_CN">
+			<Text>+{1_num} [ICON_Production] 生产力 来自邻接 {1_Num : plural 1? Reef; other?Reefs;}</Text>
+		</Row>
+		<Row Tag="LOC_CVS_HUNTINGPARK_PRODUCTION_GRANTED_FROM_FEATURE_ICE" Language="zh_Hans_CN">
+			<Text>+{1_num} [ICON_Production] 生产力 来自邻接 {1_Num : plural 1? Ice; other?Ice;}</Text>
+		</Row>
+		<Row Tag="LOC_CVS_HUNTINGPARK_PRODUCTION_GRANTED_FROM_FEATURE_OASIS" Language="zh_Hans_CN">
+			<Text>+{1_num} [ICON_Production] 生产力 来自邻接 {1_Num : plural 1? Oasis; other?Oases;}</Text>
+		</Row>
+		<Row Tag="LOC_CVS_HUNTINGPARK_PRODUCTION_GRANTED_FROM_FEATURE_MARSH" Language="zh_Hans_CN">
+			<Text>+{1_num} [ICON_Production] 生产力 来自邻接 {1_Num : plural 1? Marsh; other?Marshes;}</Text>
+		</Row>
+		<Row Tag="LOC_CVS_HUNTINGPARK_PRODUCTION_GRANTED_FROM_FEATURE_FOREST" Language="zh_Hans_CN">
+			<Text>+{1_num} [ICON_Production] 生产力 来自邻接 森林</Text>
+		</Row>
+			<!--Gold-->
+		<Row Tag="LOC_CVS_HUNTINGPARK_GOLD_GRANTED_FROM_FEATURE_JUNGLE" Language="zh_Hans_CN">
+			<Text>+{1_num} [ICON_Gold] 金币 来自邻接 {1_Num : plural 1? Rainforest; other?Rainforest;}</Text>
+		</Row>
+		<Row Tag="LOC_CVS_HUNTINGPARK_GOLD_GRANTED_FROM_FEATURE_REEF" Language="zh_Hans_CN">
+			<Text>+{1_num} [ICON_Gold] 金币 来自邻接 {1_Num : plural 1? Reef; other?Reefs;}</Text>
+		</Row>
+		<Row Tag="LOC_CVS_HUNTINGPARK_GOLD_GRANTED_FROM_FEATURE_ICE" Language="zh_Hans_CN">
+			<Text>+{1_num} [ICON_Gold] 金币 来自邻接 {1_Num : plural 1? Ice; other?Ice;}</Text>
+		</Row>
+		<Row Tag="LOC_CVS_HUNTINGPARK_GOLD_GRANTED_FROM_FEATURE_OASIS" Language="zh_Hans_CN">
+			<Text>+{1_num} [ICON_Gold] 金币 来自邻接 {1_Num : plural 1? Oasis; other?Oases;}</Text>
+		</Row>
+		<Row Tag="LOC_CVS_HUNTINGPARK_GOLD_GRANTED_FROM_FEATURE_MARSH" Language="zh_Hans_CN">
+			<Text>+{1_num} [ICON_Gold] 金币 来自邻接 {1_Num : plural 1? Marsh; other?Marshes;}</Text>
+		</Row>
+		<Row Tag="LOC_CVS_HUNTINGPARK_GOLD_GRANTED_FROM_FEATURE_FOREST" Language="zh_Hans_CN">
+			<Text>+{1_num} [ICON_Gold] 金币 来自邻接 森林</Text>
+		</Row>
+
+		<!--Royal Hunt Project-->
+		<Row Tag="LOC_PROJECT_CVS_ROYALHUNT_NAME" Language="zh_Hans_CN">
+			<Text>皇家狩猎</Text>
+		</Row>
+		<Row Tag="LOC_PROJECT_CVS_ROYALHUNT_SHORTNAME" Language="zh_Hans_CN">
+			<Text>皇家狩猎</Text>
+		</Row>
+		<Row Tag="LOC_PROJECT_CVS_ROYALHUNT_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>萨珊特色项目。项目完成时，在 [ICON_Capital] 首都获得一个随机的单位，包括来自其他领袖或文明的特色单位。项目进行时+1 [ICON_Amenities] 宜居度。</Text>
+		</Row>
+
+		<!--Composite Cavalary Promotions-->
+		<Row Tag="LOC_PROMOTION_CLASS_CVS_ASWAR_NAME" Language="zh_Hans_CN">
+			<Text>复合骑兵</Text>
+		</Row>
+			<!--Tier 1-->
+		<Row Tag="LOC_PROMOTION_CVS_TIER_1_HEAVY_NAME" Language="zh_Hans_CN">
+			<Text>角鞍</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_CVS_TIER_1_LIGHT_NAME" Language="zh_Hans_CN">
+			<Text>机动</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_CVS_TIER_1_HEAVY_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>与驻扎单位战斗时+10 [ICON_Strength] 战斗力。</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_CVS_TIER_1_LIGHT_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>与抗骑兵单位战斗时+5 [ICON_Strength] 战斗力。</Text>
+		</Row>
+			<!--Tier 2-->
+		<Row Tag="LOC_PROMOTION_CVS_TIER_2_HEAVY_NAME" Language="zh_Hans_CN">
+			<Text>风暴肆虐</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_CVS_TIER_2_LIGHT_NAME" Language="zh_Hans_CN">
+			<Text>掠夺</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_CVS_TIER_2_HEAVY_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>双倍夹击加成。</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_CVS_TIER_2_LIGHT_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>掠夺只消耗1点 [ICON_Movement] 移动力。</Text>
+		</Row>
+			<!--Tier 3-->
+		<Row Tag="LOC_PROMOTION_CVS_TIER_3_HEAVY_NAME" Language="zh_Hans_CN">
+			<Text>铁炉</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_CVS_TIER_3_LIGHT_NAME" Language="zh_Hans_CN">
+			<Text>前哨战</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_CVS_TIER_3_HEAVY_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>与重骑兵和抗骑兵单位战斗时+7 [ICON_Strength] 战斗力。</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_CVS_TIER_3_LIGHT_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>回合开始时若位于平坦地形，则+2 [ICON_Movement] 移动力。</Text>
+		</Row>
+			<!--Tier 4-->
+		<Row Tag="LOC_PROMOTION_CVS_TIER_4_HEAVYLIGHT_NAME" Language="zh_Hans_CN">
+			<Text>尼萨种马</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_CVS_TIER_4_HEAVYLIGHT_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>如果 [ICON_Movement] 移动力允许，每回合可额外攻击一次。</Text>
+		</Row>
+		<!--City List-->
+		<Row Tag="LOC_CITY_NAME_SC_GUNDESHAPUR" Language="zh_Hans_CN">
+			<Text>贡德沙普尔</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SC_ARBELA" Language="zh_Hans_CN">
+			<Text>阿贝拉</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SC_GOR" Language="zh_Hans_CN">
+			<Text>固尔</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SC_ISFAHAN" Language="zh_Hans_CN">
+			<Text>伊斯法罕</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SC_NISHAPUR" Language="zh_Hans_CN">
+			<Text>尼沙普</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SC_MERV" Language="zh_Hans_CN">
+			<Text>梅尔夫</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SC_DERBENT" Language="zh_Hans_CN">
+			<Text>杰尔宾特</Text>
+		</Row>
+		<Replace Tag="LOC_CITY_NAME_GANZAK" Language="zh_Hans_CN"> <!--Already exists @ Persia-->
+			<Text>甘扎克</Text>
+		</Replace>
+		<Row Tag="LOC_CITY_NAME_SC_NUSAYBIN" Language="zh_Hans_CN">
+			<Text>努赛宾</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SC_KIRKUK" Language="zh_Hans_CN">
+			<Text>基尔库克</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SC_RASHT" Language="zh_Hans_CN">
+			<Text>雷什特</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SC_ZRANG" Language="zh_Hans_CN">
+			<Text>兹朗</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SC_VAHMAN_ARDASHIR" Language="zh_Hans_CN">
+			<Text>瓦赫曼-阿尔达希尔</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SC_GURGAN" Language="zh_Hans_CN">
+			<Text>戈尔甘</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SC_SHIRAGAN" Language="zh_Hans_CN">
+			<Text>西拉干</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SC_HERAT" Language="zh_Hans_CN">
+			<Text>赫拉特</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SC_AMOL" Language="zh_Hans_CN">
+			<Text>阿莫勒</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SC_DVIN" Language="zh_Hans_CN">
+			<Text>德芬</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SC_PARTAV" Language="zh_Hans_CN">
+			<Text>帕塔夫</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SC_TBILISI" Language="zh_Hans_CN">
+			<Text>第比利斯</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SC_SHUSHTAR" Language="zh_Hans_CN">
+			<Text>舒什塔尔</Text>
+		</Row>
+		<Replace Tag="LOC_CITY_NAME_ISTAKHR" Language="zh_Hans_CN"> <!--Already exists @ Persia-->
+			<Text>伊斯塔克尔</Text>
+		</Replace>
+		<Row Tag="LOC_CITY_NAME_SC_SIRAF" Language="zh_Hans_CN">
+			<Text>尸罗夫</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SC_DARABGERD" Language="zh_Hans_CN">
+			<Text>德拉歌德</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SC_BUSHEHR" Language="zh_Hans_CN">
+			<Text>布什尔</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SC_BISHAPUR" Language="zh_Hans_CN">
+			<Text>比沙普尔</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SC_ARTEMITA" Language="zh_Hans_CN">
+			<Text>阿泰米塔</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SC_PEROZ_SHAPUR" Language="zh_Hans_CN">
+			<Text>卑路斯-沙普尔</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SC_REV_ARDASHIR" Language="zh_Hans_CN">
+			<Text>雷夫-阿尔达希尔</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SC_QESHM" Language="zh_Hans_CN">
+			<Text>格什姆</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SC_KAPUL" Language="zh_Hans_CN">
+			<Text>卡普尔</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SC_SURA" Language="zh_Hans_CN">
+			<Text>苏拉</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SC_ERAN_ASAN_KAR_KAWAD" Language="zh_Hans_CN">
+			<Text>伊兰-阿桑-卡瓦德</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SC_WEH_AZ_AMID_KAWAD" Language="zh_Hans_CN">
+			<Text>韦赫-阿扎-阿米德卡瓦德</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SC_CTESIPHON" Language="zh_Hans_CN">
+			<Text>泰西封</Text>
+		</Row>
+	</LocalizedText>
+</GameData>

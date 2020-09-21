@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!-- Suk Resources_Localization_CN -->
+<!-- Author: Clear8Sky -->
+<!-- DateCreated: 3/13/2020 5:11:34 PM -->
+<GameData>
+	<LocalizedText>
+		<Row Tag="LOC_RESOURCE_SUK_CHEESE_NAME" Language="zh_Hans_CN">
+			<Text>奶酪</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_RESOURCES_PAGE_RESOURCE_SUK_CHEESE_CHAPTER_HISTORY_PARA_1" Language="zh_Hans_CN">
+			<Text>奶酪是一种从牛奶中提取的食物，它的风味、质地与形式多种多样。数百种来自不同国家的奶酪被生产出来，而它们的样式、质地与口味取决于牛奶的来源（包括动物的饮食）、是否经过巴氏杀菌、乳脂含量、细菌和霉菌作用，以及加工和老化的影响。香草、香料或木烟可用作其调味品，许多奶酪的黄色和红色是通过添加红木制成的，如莱斯特红奶酪。其他成分也可以添加到一些奶酪中，如黑胡椒、大蒜、韭菜或小红莓等。</Text>
+		</Row>
+		<Row Tag="LOC_RESOURCE_SUK_CAMEL_NAME" Language="zh_Hans_CN">
+			<Text>骆驼</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_RESOURCES_PAGE_RESOURCE_SUK_CAMEL_CHAPTER_HISTORY_PARA_1" Language="zh_Hans_CN">
+			<Text>阿拉伯骆驼已经被驯化了大约3500年，一直作为驮畜而被饲养。它们运载重物一天最多能走25英里。一些文明根据骆驼的数量来判断一个人的财富，今天，世界上几乎所有的骆驼都是家畜。它们被发现于北非和亚洲西南部，现已被引进澳大利亚。</Text>
+		</Row>
+		<Row Tag="LOC_RESOURCE_SUK_OBSIDIAN_NAME" Language="zh_Hans_CN">
+			<Text>黑曜石</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_RESOURCES_PAGE_RESOURCE_SUK_OBSIDIAN_CHAPTER_HISTORY_PARA_1" Language="zh_Hans_CN">
+			<Text>黑曜石是火山爆发时形成的一种天然琉璃，它具有普通玻璃的所有基本物理性质。黑曜石是中美洲人日常生活与宗教仪式高度整合化的一部分，其广泛和多样的用途或许是该地区缺乏冶金工艺的一个重要原因。这种材料价值很高，从武器到珠宝，它无所不包。</Text>
+		</Row>
+		<Row Tag="LOC_RESOURCE_GOLD_NAME" Language="zh_Hans_CN">
+			<Text>黄金</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_RESOURCES_PAGE_RESOURCE_GOLD_CHAPTER_HISTORY_PARA_1" Language="zh_Hans_CN">
+			<Text>黄金是一种柔软、有光泽的塑性金属，在历史上一直被男性和女性所珍视。它是一种稀有金属，它的稀有性大大增加了它的价值。尽管黄金有一些工业和医疗上的用途，但主要还是用作铸币或装饰，装饰珠宝、杯子、器皿以及超级富豪和权贵的坐便器。</Text>
+		</Row>
+		<Row Tag="LOC_RESOURCE_SUK_SHARK_NAME" Language="zh_Hans_CN">
+			<Text>鲨鱼</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_RESOURCES_PAGE_RESOURCE_SUK_SHARK_CHAPTER_HISTORY_PARA_1" Language="zh_Hans_CN">
+			<Text>从尤卡坦半岛到太平洋岛屿，鲨鱼在许多沿海社会的起源神话中起着主导作用。随着人类深入海洋进行贸易和探索，致命的鲨鱼遭遇便成为航海传说的一部分。事实上，鲨鱼才是那些需要“驱人剂”的动物：因为比起鲨鱼袭击人类，人类反而更可能捕食它们。在中国，一餐鲨鱼翅汤长久以来是身份的象征。在冰岛，发酵鲨鱼肉是一道用格陵兰鲨鱼制成的国菜。鲨鱼肉在澳大利亚很受欢迎，在那里它被称为薄鱼片。鲨鱼肉几个世纪以来一直是蛋白质的重要来源，在东非和印度洋岛屿上已成为贸易产品。</Text>
+		</Row>
+		<Row Tag="LOC_RESOURCE_DLV_BISON_NAME" Language="zh_Hans_CN">
+			<Text>野牛</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_RESOURCES_PAGE_RESOURCE_DLV_BISON_CHAPTER_HISTORY_PARA_1" Language="zh_Hans_CN">
+			<Text>在大平原上成群生活的北美洲野牛，曾是许多土著部落的肉、筋、皮和骨等生存必需品的主要来源。在19世纪末北美野牛曾被美国人猎杀至濒临灭绝，好在近几十年来，在联邦和州政府野生动物保护计划的作用下，野牛种群又重现生机。</Text>
+		</Row>
+	</LocalizedText>
+</GameData>

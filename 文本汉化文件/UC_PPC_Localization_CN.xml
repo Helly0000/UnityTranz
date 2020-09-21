@@ -1,0 +1,84 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!-- UC_PPC_Localization_CN -->
+<!-- Author: Clear8Sky -->
+<!-- DateCreated: 3/27/2020 2:19:49 PM -->
+<GameData>
+	<LocalizedText>
+		
+		<!-- 文明百科条目：综述介绍文本 -->		<!-- 与UC_UPB_Localization_CN内相同，故这里注释掉 -->
+		<!--<Replace Tag="LOC_PEDIA_CONCEPTS_PAGEGROUP_JNR_URBANCOMPLEXITY_NAME" Language="zh_Hans_CN">
+			<Text>城市复杂性</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CONCEPTS_PAGE_JNR_UC_INTRODUCTION_CHAPTER_CONTENT_TITLE" Language="zh_Hans_CN">
+			<Text>介绍</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CONCEPTS_PAGE_JNR_UC_INTRODUCTION_CHAPTER_CONTENT_PARA_1" Language="zh_Hans_CN">
+			<Text>“城市复杂性”是一个模组系列，旨在更深入地建设与发展您的城市，同时在真实性与游戏性之间取得平衡。在启用这一系列模组后，选择要建造的区域和建筑不再是一件简单的小事，不再像从既定的建造顺序中依次打勾那样容易。相反，适当考虑当地环境及其他部分因素，如周围邻接的加成、可利用的地形、城市中其他已有的区域，等等，这会为您带来很大的回报。</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CONCEPTS_PAGE_JNR_UC_INTRODUCTION_CHAPTER_CONTENT_PARA_2" Language="zh_Hans_CN">
+			<Text>亲爱的玩家，</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CONCEPTS_PAGE_JNR_UC_INTRODUCTION_CHAPTER_CONTENT_PARA_3" Language="zh_Hans_CN">
+			<Text>文明百科中的以下页面将作为引导，带您了解“城市复杂性”系列模组的大致内容。请认真阅读这些文字，并留意哪些特性是可利用的以及如何利用的。</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CONCEPTS_PAGE_JNR_UC_INTRODUCTION_CHAPTER_CONTENT_PARA_4" Language="zh_Hans_CN">
+			<Text>随时欢迎反馈。请不要犹豫来和我交流您的思考、想法与建议。[NEWLINE]我希望我的模组能为您游玩文明VI平添几分乐趣，并能让您用新的方式去建设您的帝国。祝您玩得开心，也愿您能经受住时间的考验，最终获得胜利！</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CONCEPTS_PAGE_JNR_UC_INTRODUCTION_CHAPTER_CONTENT_PARA_5" Language="zh_Hans_CN">
+			<Text>模组作者：JNR，[NEWLINE]文本翻译：Clear8Sky。</Text>
+		</Replace>-->
+		
+		<!-- PPC 文本 -->
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_JNR_UC_POWER_CHAPTER_JNRPPCBASE_TITLE" Language="zh_Hans_CN">
+			<Text>累增功耗</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_JNR_UC_POWER_CHAPTER_JNRPPCBASE_PARA_1" Language="zh_Hans_CN">
+			<Text>强化电能！——“累增功耗”彻底改变了“风起云涌”中游戏后期的 [ICON_Power] 电力系统。为您的城市充足 [ICON_Power] 供电将变得尤为重要，而因此带来的收益也将倍增。建筑初期的 [ICON_Power] 电力需求略微降低，但随着您科技的不断发展需求将逐渐提高，因此要提前做好准备。[ICON_PowerInsufficient] 电力不足的城市将会遭受更多负面影响，且其幸福度会随着时代发展逐步下降。提前规划好想要建造的建筑，以确保您能为其提供足够的 [ICON_Power] 电力。（即使您足够聪明，也要提醒一句：由于AI在提前计划方面有一个难以解决的缺陷，故本模组让他们的城市免费获得+5 [ICON_Power] 电力以作为补偿。）</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_JNR_UC_POWER_CHAPTER_JNRPPCBASE_PARA_2" Language="zh_Hans_CN">
+			<Text>为了避免对游戏内建筑原描述文本的更改，以下部分将提供此模组中所有功能的概述，以便您在需要时查找。这些章节说明了哪些建筑需要 [ICON_Power] 电力，供电所能带来的收益，以及当您的城市 [ICON_PowerInsufficient] 供电不足时的负面影响。</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_JNR_UC_POWER_CHAPTER_JNRPPCREQUIRED_TITLE" Language="zh_Hans_CN">
+			<Text>电力需求的更改</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_JNR_UC_POWER_CHAPTER_JNRPPCREQUIRED_PARA_1" Language="zh_Hans_CN">
+			<Text>[ICON_Bullet]解锁“工业化”科技后，您所有城市将消耗1点 [ICON_Power] 电力；解锁“电力”科技后将变为消耗2点 [ICON_Power] 电力。</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_JNR_UC_POWER_CHAPTER_JNRPPCREQUIRED_PARA_2" Language="zh_Hans_CN">
+			<Text>[ICON_Bullet]解锁“电力”科技后，区域的次高阶建筑将消耗1点 [ICON_Power] 电力。[NEWLINE][ICON_Bullet]区域的最高阶建筑默认便消耗1点 [ICON_Power] 电力。[NEWLINE][ICON_Bullet]解锁原子能时代任一科技后，区域的最高阶建筑将额外消耗1点 [ICON_Power] 电力。[NEWLINE][ICON_Bullet]解锁信息时代任一科技后，区域的最高阶建筑将再额外消耗1点 [ICON_Power] 电力。[NEWLINE][ICON_Bullet]解锁未来时代任一科技后，区域的最高阶建筑将再额外消耗1点 [ICON_Power] 电力。[NEWLINE][ICON_Bullet]在判定 [ICON_DISTRICT_INDUSTRIAL_ZONE] 工业区的最高阶与次高阶建筑时，将忽略发电厂。[NEWLINE][ICON_Bullet][ICON_DISTRICT_ENTERTAINMENT] 娱乐中心的最高阶建筑默认便消耗2点 [ICON_Power] 电力，但其电力需求不会随时代发展而增加。[NEWLINE][ICON_Bullet]以上机制不对 [ICON_DISTRICT_HOLYSITE] 圣地生效。</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_JNR_UC_POWER_CHAPTER_JNRPPCREQUIRED_PARA_3" Language="zh_Hans_CN">
+			<Text>[ICON_Bullet]解锁“电脑”科技后，[ICON_DISTRICT_MBANZA] 社区和 [ICON_DISTRICT_BATH] 水渠将消耗1点 [ICON_Power] 电力。</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_JNR_UC_POWER_CHAPTER_JNRPPCREQUIRED_PARA_4" Language="zh_Hans_CN">
+			<Text>[ICON_Bullet]AI所操控的城市（包括城邦）免费获得+5 [ICON_Power] 电力。</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_JNR_UC_POWER_CHAPTER_JNRPPCBENEFITS_TITLE" Language="zh_Hans_CN">
+			<Text>电力充足城市的收益</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_JNR_UC_POWER_CHAPTER_JNRPPCBENEFITS_PARA_1" Language="zh_Hans_CN">
+			<Text>除了避免受到负面影响这一因素，电力充足的城市还能获得额外收益。</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_JNR_UC_POWER_CHAPTER_JNRPPCBENEFITS_PARA_2" Language="zh_Hans_CN">
+			<Text>[ICON_Bullet]区域内的建筑每消耗一点 [ICON_Power] 电力，就提供+2各自类型的产出（对于 [ICON_GOLD] 金币产出则提供+3）。</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_JNR_UC_POWER_CHAPTER_JNRPPCBENEFITS_PARA_3" Language="zh_Hans_CN">
+			<Text>[ICON_Bullet]解锁“电力”科技且供电充足时，[ICON_DISTRICT_ENTERTAINMENT] 娱乐中心的次高阶建筑将为其所！在！城！市！提供+1 [ICON_Amenities] 宜居度。[NEWLINE][ICON_Bullet][ICON_DISTRICT_ENTERTAINMENT] 娱乐中心的最高阶建筑默认便为6格内的所有城市提供+1 [ICON_Amenities] 宜居度。[NEWLINE][ICON_Bullet]解锁信息时代任一科技且供电充足时，[ICON_DISTRICT_ENTERTAINMENT] 娱乐中心的最高阶建筑将为其所！在！城！市！提供+1 [ICON_Amenities] 宜居度。[NEWLINE][ICON_Bullet]解锁未来时代任一科技后，那些仅为所在城市提供的 [ICON_Amenities] 宜居度加成也将辐射至6格内的所有城市。</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_JNR_UC_POWER_CHAPTER_JNRPPCBENEFITS_PARA_4" Language="zh_Hans_CN">
+			<Text>[ICON_Bullet]解锁“电脑”科技且供电充足时，每个社区和水渠各提供+2 [ICON_Production] 生产力。</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_JNR_UC_POWER_CHAPTER_JNRPPCBENEFITS_PARA_5" Language="zh_Hans_CN">
+			<Text>供电充足的最高阶区域建筑可提供+1 [ICON_GreatPerson] 对应类型的伟人点数。[NEWLINE][ICON_DISTRICT_ACROPOLIS] 剧院广场的最高阶建筑将为所有文化类伟人（[ICON_GreatWriter]、[ICON_GreatArtist]、[ICON_GreatMusician]）提供+1 [ICON_GreatPerson] 伟人点数。[NEWLINE]军用航空港建筑将提供+1 [ICON_GreatGeneral] 大将军点数，民用航空港建筑将提供+1 [ICON_GreatEngineer] 大工程师点数。</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_JNR_UC_POWER_CHAPTER_JNRPPCPENALTIES_TITLE" Language="zh_Hans_CN">
+			<Text>供电不足城市的负面影响</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_JNR_UC_POWER_CHAPTER_JNRPPCPENALTIES_PARA_1" Language="zh_Hans_CN">
+			<Text>电力在现代社会是基本必需品。随着您的文明在科技上不断攀升，您的人民对稳定充足的 [ICON_Power] 电力供给的需求也越来越迫切。若没能满足电力需求使得城市陷入 [ICON_PowerInsufficient] 供电不足的状态时，将会导致以下负面影响：</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_JNR_UC_POWER_CHAPTER_JNRPPCPENALTIES_PARA_2" Language="zh_Hans_CN">
+			<Text>[ICON_Bullet]解锁“电脑”科技或信息时代任一科技后，[ICON_PowerInsufficient] 供电不足的城市每回合所有 [ICON_GreatPerson] 伟人点数的获取量-75%。[NEWLINE][ICON_Bullet]解锁现代任一科技后，[ICON_PowerInsufficient] 供电不足的城市来自娱乐设施的 [ICON_Amenities] 宜居度-1。[NEWLINE][ICON_Bullet]解锁原子能时代任一科技后，[ICON_PowerInsufficient] 供电不足的城市来自娱乐设施的 [ICON_Amenities] 宜居度-2。[NEWLINE][ICON_Bullet]解锁信息时代任一科技后，[ICON_PowerInsufficient] 供电不足的城市来自娱乐设施的 [ICON_Amenities] 宜居度-3。[NEWLINE][ICON_Bullet]解锁未来时代任一科技后，[ICON_PowerInsufficient] 供电不足的城市来自娱乐设施的 [ICON_Amenities] 宜居度-4。</Text>
+		</Row>
+	</LocalizedText>
+</GameData>

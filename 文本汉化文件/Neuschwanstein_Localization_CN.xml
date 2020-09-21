@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!-- Neuschwanstein_Localization_CN -->
+<!-- Author: 春 -->
+<!-- DateCreated: 4/1/2020 10:58:14 AM -->
+<GameData>
+	<LocalizedText>
+		<Row Tag="LOC_BUILDING_NEUSCHWANSTEIN_NAME" Language="zh_Hans_CN">
+			<Text>新天鹅城堡</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_NEUSCHWANSTEIN_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>任何建有中世纪或文艺复兴城墙的城市+2 [ICON_Culture] 文化值、+2 [ICON_Gold] 金币、+1 [ICON_Amenities] 宜居度。必须建造在靠近山脉的丘陵上。</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_NEUSCHWANSTEIN_QUOTE" Language="zh_Hans_CN">	<!--待润色-->
+			<Text>选址是所能找到的当中风景最美丽的，圣洁而不可亵渎，一座配得起神圣朋友的圣所，他们给这个世界带来超度和真正的赐福。[NEWLINE]——巴伐利亚国王路德维希二世</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_WONDERS_PAGE_BUILDING_NEUSCHWANSTEIN_CHAPTER_HISTORY_PARA_1" Language="zh_Hans_CN">
+			<Text>新天鹅堡是一座19世纪的仿罗马式风格的宫殿，矗立在高天鹅堡之上的崎岖山麓中，就在德国巴伐利亚西南部菲森小镇附近。在作曲家理查德·瓦格纳隐退后，巴伐利亚国王路德维希二世为了纪念理查德·瓦格纳而建造了这座宫殿。路德维希用自己的私人财产以及大量的借贷来支付兴建宫殿的费用，而并非动用巴伐利亚的公共财政。直到1886年国王去世，这座城堡都是作为他的私人住宅。在他死后不久城堡就面向公众开放了。从那时起，超过6100万人参观了新天鹅堡。每年有30多万人来这里旅游观光，在夏天，每日的旅客达6000人。</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_WONDERS_PAGE_BUILDING_NEUSCHWANSTEIN_CHAPTER_HISTORY_PARA_2" Language="zh_Hans_CN">
+			<Text></Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_WONDERS_PAGE_BUILDING_NEUSCHWANSTEIN_CHAPTER_HISTORY_PARA_3" Language="zh_Hans_CN">
+			<Text></Text>
+		</Row>
+	</LocalizedText>
+</GameData>

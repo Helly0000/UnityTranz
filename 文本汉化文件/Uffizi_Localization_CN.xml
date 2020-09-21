@@ -1,0 +1,89 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!-- Uffizi_Localization_CN -->
+<!-- Author: 春 -->
+<!-- DateCreated: 4/1/2020 11:15:27 AM -->
+<GameData>
+	<LocalizedText>
+		<Row Tag="LOC_BUILDING_UFFIZI_NAME" Language="zh_Hans_CN">
+			<Text>乌菲齐美术馆</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_UFFIZI_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>建成时，可免费获得一位 [ICON_GreatArtist] 大艺术家。提供3个 [ICON_GreatWork_Landscape] 艺术巨作槽位。任何拥有艺术博物馆的城市+1 [ICON_Culture] 文化值。必须建造在靠近市中心的平坦草原或平原上。需要银行（商业中心）。</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_UFFIZI_QUOTE" Language="zh_Hans_CN">
+			<Text>所有这一切都令我极其满足，因为这一切不仅仅是为了上帝的荣耀，同样也是为了纪念我自身。[NEWLINE]——科西莫·德·美第奇</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_WONDERS_PAGE_BUILDING_UFFIZI_CHAPTER_HISTORY_PARA_1" Language="zh_Hans_CN">
+			<Text>乌菲兹美术馆最早是作为佛罗伦萨行政长官办公室而兴建的。它建于1560-1581年间，位于意大利的乌菲兹。乌菲兹美术馆是世界上最古老和最著名的美术中心，内部放满了意大利文艺复兴时期的精美画作，现在的它同时也是许多珍贵古董、雕塑和超过100000件绘画的家。1574年，乌菲兹美术馆尚未完成的最顶层被改造为放置美蒂奇家族收藏的大量文艺的地方。在随后的几十年中，建筑的其余楼层也接受了改造，变为美术馆和储藏室。按瓦萨里的话，艺术家们，诸如达芬奇和米开朗基罗，“为了美、艺术和娱乐”而聚集在这里。</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_WONDERS_PAGE_BUILDING_UFFIZI_CHAPTER_HISTORY_PARA_2" Language="zh_Hans_CN">
+			<Text></Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_WONDERS_PAGE_BUILDING_UFFIZI_CHAPTER_HISTORY_PARA_3" Language="zh_Hans_CN">
+			<Text></Text>
+		</Row>
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_CWON_BOTTICELLI_NAME" Language="zh_Hans_CN">
+			<Text>桑德罗·波提切利</Text>
+		</Row>
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_CWON_RAPHAEL_NAME" Language="zh_Hans_CN">
+			<Text>拉斐尔</Text>
+		</Row>
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_CWON_CARAVAGGIO_NAME" Language="zh_Hans_CN">
+			<Text>卡拉瓦乔</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_CWON_RAPHAEL_CHAPTER_HISTORY_PARA_1" Language="zh_Hans_CN">
+			<Text>【译者注：正在翻译……】[NEWLINE][NEWLINE]Raffaello Sanzio da Urbino  (1483 – April 6, 1520), known as Raphael, was an Italian painter and architect of the High Renaissance. His work is admired for its clarity of form, ease of composition, and visual achievement of the Neoplatonic ideal of human grandeur. Together with Michelangelo and Leonardo da Vinci, he forms the traditional trinity of great masters of that period.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_CWON_RAPHAEL_CHAPTER_HISTORY_PARA_2" Language="zh_Hans_CN">
+			<Text>Raphael was enormously productive, running an unusually large workshop and, despite his death at 37, leaving a large body of work. Many of his works are found in the Vatican Palace, where the frescoed Raphael Rooms were the central, and the largest, work of his career. The best known work is The School of Athens in the Vatican Stanza della Segnatura. After his early years in Rome, much of his work was executed by his workshop from his drawings, with considerable loss of quality. He was extremely influential in his lifetime, though outside Rome his work was mostly known from his collaborative printmaking.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_CWON_RAPHAEL_CHAPTER_HISTORY_PARA_3" Language="zh_Hans_CN">
+			<Text>After his death, the influence of his great rival Michelangelo was more widespread until the 18th and 19th centuries, when Raphael's more serene and harmonious qualities were again regarded as the highest models. His career falls naturally into three phases and three styles, first described by Giorgio Vasari: his early years in Umbria, then a period of about four years (1504–1508) absorbing the artistic traditions of Florence, followed by his last hectic and triumphant twelve years in Rome, working for two Popes and their close associates.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_CWON_BOTTICELLI_CHAPTER_HISTORY_PARA_1" Language="zh_Hans_CN">
+			<Text>【译者注：正在翻译……】[NEWLINE][NEWLINE]Alessandro di Mariano di Vanni Filipepi (c.1445 – May 17, 1510), known as Sandro Botticelli , was an Italian painter of the Early Renaissance. He belonged to the Florentine School under the patronage of Lorenzo de' Medici, a movement that Giorgio Vasari would characterize less than a hundred years later in his Vita of Botticelli as a "golden age". Botticelli's posthumous reputation suffered until the late 19th century; since then, his work has been seen to represent the linear grace of Early Renaissance painting.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_CWON_BOTTICELLI_CHAPTER_HISTORY_PARA_2" Language="zh_Hans_CN">
+			<Text>As well as the small number of mythological subjects which are his best known works today, he painted a wide range of religious subjects and also some portraits. He and his workshop were especially known for their Madonna and Childs, many in the round tondo shape. Botticelli's best-known works are The Birth of Venus and Primavera, both in the Uffizi in Florence. He lived all his life in the same neighbourhood of Florence, with probably his only significant time elsewhere the months he spent painting in Pisa in 1474 and the Sistine Chapel in Rome in 1481–82.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_CWON_BOTTICELLI_CHAPTER_HISTORY_PARA_3" Language="zh_Hans_CN">
+			<Text>Only one of his paintings is dated, though others can be dated from other records with varying degrees of certainty, and the development of his style traced with confidence. He was an independent master for all the 1470s, growing in mastery and reputation, and the 1480s were his most successful decade, when all his large mythological paintings were done, and many of his best Madonnas. By the 1490s his style became more personal and to some extent mannered, and he could be seen as moving in a direction opposite to that of Leonardo da Vinci (seven years his junior) and a new generation of painters creating the High Renaissance style as Botticelli returned in some ways to the Gothic style.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_CWON_CARAVAGGIO_CHAPTER_HISTORY_PARA_1" Language="zh_Hans_CN">
+			<Text>【译者注：正在翻译……】[NEWLINE][NEWLINE]Michelangelo Merisi da Caravaggio (28 September 1571 – 18 July 1610) was an Italian painter active in Rome, Naples, Malta, and Sicily from the early 1590s to 1610. His paintings combine a realistic observation of the human state, both physical and emotional, with a dramatic use of lighting, which had a formative influence on Baroque painting.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_CWON_CARAVAGGIO_CHAPTER_HISTORY_PARA_2" Language="zh_Hans_CN">
+			<Text>Caravaggio employed close physical observation with a dramatic use of chiaroscuro that came to be known as tenebrism. He made the technique a dominant stylistic element, darkening shadows and transfixing subjects in bright shafts of light. Caravaggio vividly expressed crucial moments and scenes, often featuring violent struggles, torture and death. He worked rapidly, with live models, preferring to forgo drawings and work directly onto the canvas. His influence on the new Baroque style that emerged from Mannerism was profound. It can be seen directly or indirectly in the work of Peter Paul Rubens, Jusepe de Ribera, Gian Lorenzo Bernini, and Rembrandt, and artists in the following generation heavily under his influence were called the "Caravaggisti" or "Caravagesques", as well as tenebrists or tenebrosi ("shadowists").</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_CWON_CARAVAGGIO_CHAPTER_HISTORY_PARA_3" Language="zh_Hans_CN">
+			<Text>Caravaggio trained as a painter in Milan before moving in his twenties to Rome. He developed a considerable name as an artist, and as a violent, touchy and provocative man. A brawl led to a death sentence for murder and forced him to flee to Naples. There he again established himself as one of the most prominent Italian painters of his generation. He traveled in 1607 to Malta and on to Sicily, and pursued a papal pardon for his sentence. In 1609 he returned to Naples, where he was involved in a violent clash; his face was disfigured and rumours of his death circulated. Questions about his mental state arose from his erratic and bizarre behavior. He died in 1610 under uncertain circumstances while on his way from Naples to Rome. Reports stated that he died of a fever, but suggestions have been made that he was murdered or that he died of lead poisoning.</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_CWON_RAPHAEL_1_NAME" Language="zh_Hans_CN">
+			<Text>《西斯廷圣母》</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_CWON_RAPHAEL_2_NAME" Language="zh_Hans_CN">
+			<Text>《基督显圣》</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_CWON_RAPHAEL_3_NAME" Language="zh_Hans_CN">
+			<Text>《披纱巾的少女》</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_CWON_BOTTICELLI_1_NAME" Language="zh_Hans_CN">
+			<Text>《维纳斯的诞生》</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_CWON_BOTTICELLI_2_NAME" Language="zh_Hans_CN">
+			<Text>《三博士朝圣》</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_CWON_BOTTICELLI_3_NAME" Language="zh_Hans_CN">
+			<Text>《春》</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_CWON_CARAVAGGIO_1_NAME" Language="zh_Hans_CN">
+			<Text>《以马忤斯的晚餐》</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_CWON_CARAVAGGIO_2_NAME" Language="zh_Hans_CN">
+			<Text>《美杜莎》</Text>
+			</Row>
+		<Row Tag="LOC_GREATWORK_CWON_CARAVAGGIO_3_NAME" Language="zh_Hans_CN">
+			<Text>《圣·托马斯的探试》</Text>
+		</Row>
+	</LocalizedText>
+</GameData>

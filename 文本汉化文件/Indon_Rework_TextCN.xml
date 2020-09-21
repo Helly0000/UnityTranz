@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Indon_Rework_TextCN -->
+<!-- Author: 春 -->
+<!-- DateCreated: 5/29/2020 11:33:06 PM -->
+<GameData>
+	<LocalizedText>
+		<Row Tag="LOC_TRAIT_CIVILIZATION_LIME_INDON_NAGARAKRETAGAMA_NAME" Language="zh_Hans_CN">
+			<Text>三佛齐的遗赠</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_CIVILIZATION_LIME_INDON_NAGARAKRETAGAMA_DESC" Language="zh_Hans_CN">
+			<Text>拥有商业中心的城市获得一个额外的区域 [ICON_Citizen] 公民槽位。每个奢侈品资源为国际贸易路线提供+2 [ICON_Gold] 金币。通往城邦的贸易路线产出+50%。</Text>
+		</Row>
+		
+		<Row Tag="LOC_UNIT_LIME_INDON_JONG_DESC" Language="zh_Hans_CN">
+			<Text>印度尼西亚特色中世纪海军单位，替代护卫舰。+1 [ICON_Movement] 移动力。由市政“雇佣兵”解锁，略微强大。每有一级 [ICON_Promotion] 强化，则每回合+1 [ICON_Envoy] 影响力点数。</Text>  <!--放着备用 [ICON_InfluencePerTurn] -->
+		</Row>
+		<Row Tag="LOC_IMPROVEMENT_LIME_KAMPUNG_DESC" Language="zh_Hans_CN">
+			<Text>解锁建造者建在印度尼西亚特色改良设施甘榜屋的能力。[NEWLINE][NEWLINE]+1 [ICON_Production] 生产力、+1 [ICON_Housing] 住房。相邻每个渔船+1 [ICON_Food] 食物，相邻每个礁石+1 [ICON_Culture] 文化值。解锁科技“飞行”后相邻每个渔船+1 [ICON_Tourism] 旅游业绩；解锁科技“批量生产”后+1 [ICON_Housing] 住房；解锁市政“土木工程”后+1 [ICON_Production] 生产力。必须建造在海岸地形上。</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_LEADER_LIME_INDON_GITARJA_DESC" Language="zh_Hans_CN">
+			<Text>招募 [ICON_GreatAdmiral] 海军统帅或 [ICON_GreatGeneral] 大将军可奖励1个 [ICON_Governor] 总督头衔。海军单位从海战胜利中获得+2 [ICON_GreatAdmiral] 海军统帅点数。拥有特色专属总督，首相加查·玛达。</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_AGENDA_LIME_INDON_GITARJA_NAME" Language="zh_Hans_CN">
+			<Text>沙登之过</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNOR_THE_MAHAPATIH_NAME" Language="zh_Hans_CN">
+			<Text>加查·玛达</Text>
+		</Row>
+		
+		<Row Tag="LOC_GOVERNOR_THE_MAHAPATIH_DESC" Language="zh_Hans_CN">
+			<Text>杰出而务实的印度尼西亚首相加查·玛达发誓：在统一世界之前，决不品尝任何香料！他的专长是巧妙地结合征服和外交——在合适的时机，利用属国、领导军队对文明实施残酷统治。同时，努力带来文化与财富的黄金时代。</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNOR_THE_MAHAPATIH_TITLE" Language="zh_Hans_CN">
+			<Text>首相</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNOR_THE_MAHAPATIH_SHORT_TITLE" Language="zh_Hans_CN">
+			<Text>首相</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNOR_PROMOTION_PALAPA_OATH_NAME" Language="zh_Hans_CN">
+			<Text>帕拉帕誓言</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNOR_PROMOTION_PALAPA_OATH_DESC" Language="zh_Hans_CN">
+			<Text>该城市的奢侈品资源+2 [ICON_Production] 生产力。该城市训练的单位+25%战斗经验值。</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNOR_PROMOTION_BHAYANGKARA_NAME" Language="zh_Hans_CN">
+			<Text>巴杨卡拉</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNOR_PROMOTION_BHAYANGKARA_DESC" Language="zh_Hans_CN">
+			<Text>该城市忠诚度始终为满。所在市中心3格范围内的单位晋升所需 [ICON_Gold] 金币和资源降低50%。</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNOR_PROMOTION_MANCANEGARA_NAME" Language="zh_Hans_CN">
+			<Text>属国</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNOR_PROMOTION_MANCANEGARA_DESC" Language="zh_Hans_CN">
+			<Text>向该城邦派遣2位 [ICON_Envoy] 使者。所在市中心6格范围内的单位上船与登陆无需额外消耗 [ICON_Movement] 移动力。</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNOR_PROMOTION_ELEPHANT_GENERAL_NAME" Language="zh_Hans_CN">
+			<Text>大象将军</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNOR_PROMOTION_ELEPHANT_GENERAL_DESC" Language="zh_Hans_CN">
+			<Text>5格范围内的单位+2 [ICON_Movement] 移动力、+5 [ICON_Strength] 战斗力。</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNOR_PROMOTION_UPARAJA_NAME" Language="zh_Hans_CN">
+			<Text>副王</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNOR_PROMOTION_UPARAJA_DESC" Language="zh_Hans_CN">
+			<Text>征用该城邦单位-25% [ICON_Gold] 金币费用。所在市中心6格范围内的征用单位可从战斗胜利中获得+2 [ICON_GreatGeneral] 大将军点数。</Text>
+		</Row>
+		
+		<Row Tag="LOC_GOVERNOR_PROMOTION_AN_OATH_FULFILLED_NAME" Language="zh_Hans_CN">
+			<Text>誓言的履行</Text>
+		</Row>
+		
+		<Row Tag="LOC_GOVERNOR_PROMOTION_AN_OATH_FULFILLED_DESC" Language="zh_Hans_CN">
+			<Text>该城市的每个 [ICON_Citizen] 公民+2 [ICON_Culture] 文化值，所在市中心6格范围内被您攻占的城市+10% [ICON_Tourism] 旅游业绩。若该城市为 [ICON_Capital] 原始首都，则每个 [ICON_Citizen] 公民额外+2 [ICON_Culture] 文化值，所在市中心10格范围内被您攻占的城市+10% [ICON_Tourism] 旅游业绩。</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_PAGE_GOVERNOR_THE_MAHAPATIH_CHAPTER_HISTORY_PARA_1" Language="zh_Hans_CN">
+			<Text>“加查·玛达”意为大象将军，作为印尼民族英雄和爱国主义的象征，14世纪时他作为首相的这段岁月是印尼历史上最强大的时期。有关他幼年和成长经历的记录存留很少，只知道他出生于平民家庭，靠着机智狡猾上位，并且在战场上心狠手辣。作为一个国王侍卫，他帮助镇压了叛乱，从此步入了统治阶层，最终登上首相宝座。加查·玛达领导满者伯夷盛极一时，兼并了许多周围的岛国，奠定了现代印尼的版图。</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_PAGE_GOVERNOR_THE_MAHAPATIH_CHAPTER_HISTORY_PARA_2" Language="zh_Hans_CN">
+			<Text>加查·玛达最早出现在历史中是在他的成年时代，作为国王查耶纳卡拉（1309-1328在位）的侍卫队长。期间，满者伯夷官员古蒂反叛并控制了都城，加查·玛达知悉了阴谋，护送国王躲到了临近的城市巴丹德尔。在确保国王的安全以后，加查玛达假传国王已死的谣言，瓦解的叛军的斗志，同时组织了军队一举夺回了首都，助国王复位。加查·玛达发现军队对国王的死讯非常吃惊，古蒂也因此失去了军队的支持，其在镇压中丧生，而加查·玛达也因在这次事件中出色的表现也得到奖赏。</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_PAGE_GOVERNOR_THE_MAHAPATIH_CHAPTER_HISTORY_PARA_3" Language="zh_Hans_CN">
+			<Text>根据传说，若干年后加查·玛达被国王抢了老婆，他怀恨在心，撺唆一个曾经支持古蒂的御医趁给国王看病的时候将其谋害，得逞后又卸磨杀驴。不管真相如何，查耶纳卡拉死后，他的拖油瓶妹妹翠布瓦娜·维贾亚通加登上王位，立志扩张国土。加查·玛达深受女王信任，1329年，他被任命为“麻喏巴歇巴迪”（首相）。权柄在握的加查·玛达也将自己的命运同国家联系在一起，把目光瞄准了国家的边疆。他在流传于世演绎出许多版本的帕拉帕誓言中说到，假如我无法征服所有已知的岛屿，我就不会品尝水果香料和凡间的享乐。</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_PAGE_GOVERNOR_THE_MAHAPATIH_CHAPTER_HISTORY_PARA_4" Language="zh_Hans_CN">
+			<Text>1331年，加查·玛达前往位于东爪哇的萨登镇压叛乱，凯旋而归不久后，就开始着手征服周边的岛屿。1343年，巴厘和龙目最先被收入囊中。他为了人民的荣耀而战，逐步攻占各个王国与部落，地区和城市，包括了位于巨港的佛教国家三佛齐和西苏门答腊的一些小王国，扶植了一个满者伯夷的王公作为附庸。随后大象将军又让印尼最早的伊斯兰国家苏木都剌臣服，接着，他在两年间又征服了6个王国与城市，包括海峡对岸的淡马锡（今新加坡）。</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_PAGE_GOVERNOR_THE_MAHAPATIH_CHAPTER_HISTORY_PARA_5" Language="zh_Hans_CN">
+			<Text>1350年，特丽布瓦娜将王位传给了他儿子哈奄·武禄，他也是满者伯夷历史上最伟大的国王。他统治的印尼达到了史上最大的版图，包括了整个印尼群岛,商业和文化艺术也繁荣发展。国王让他的首相全权负责政事，自己则醉心于发展艺术和科技。加查·玛达在国王的支持下为帝国征服了12个小王国，有些甚至远至今马来西亚和菲律宾南部。</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_PAGE_GOVERNOR_THE_MAHAPATIH_CHAPTER_HISTORY_PARA_6" Language="zh_Hans_CN">
+			<Text>1357年，加查·玛达已经打下了近十个岛屿，他发现他面临着一个强劲的对手，仅存的几个独立王国之一——位于西爪哇的巽他。尽管双方已决定让巽他公主和武禄王联姻，加查·玛达仍然在寻求吞并巽他的办法。加查·玛达坚持巽他公主只能做武禄王的妾而不是王后，以此激怒巽他。在布巴特镇的婚礼上，双方的协商从争吵变成了打斗，加查·玛达和他的士兵杀害了巽他王室和王室卫队。过激的鲁莽行为损害了加查·玛达的形象，廷臣们指责他嗜血且残忍，国王也因此剥夺了他的头衔权力和荣誉。这个帝国最有权力的人物在东爪哇孤独度过余生，约在1363年默默死去。</Text>
+		</Row>
+	</LocalizedText>
+</GameData>

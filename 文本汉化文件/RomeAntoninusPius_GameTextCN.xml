@@ -1,0 +1,233 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- RomeAntoninusPius_GameTextCN -->
+<!-- Author: 春 -->
+<!-- DateCreated: 5/20/2020 3:10:06 PM -->
+<GameData>
+	<LocalizedText>
+		<!--MOD-->
+		<Row Tag="LOC_MOD_JFD_ROME_ANTONINUS_PIUS_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>------------------------------------[NEWLINE]领袖名称 -- 安东尼·庇护[NEWLINE][NEWLINE]领袖特性 - 恪尽职守[NEWLINE]当前政体的一个军事政策槽位转变为经济政策槽位。不与任何文明交战时，建造学院、圣地和剧院广场加快20%速度。可建造特色建筑哈德良神庙。[NEWLINE][NEWLINE]特色建筑 - 哈德良神庙[NEWLINE]安东尼·庇护作为领袖时的特色建筑，取代纪念碑。产出 [ICON_FAITH] 信仰值和 [ICON_GREATGENERAL] 大将军点数。城市拥有学院、军营或剧院广场时+1 [ICON_AMENITIES] 宜居度。[NEWLINE][NEWLINE]领袖议程 - 怡然宁静[NEWLINE]努力维护和平，并尽可能多地建造学院、圣地和剧院广场。喜欢不构成威胁的文明，不喜欢忽视人民幸福的战争狂。</Text>
+		</Row>
+		<!--LEADER-->
+		<Row Tag="LOC_LEADER_JFD_ANTONINUS_PIUS_NAME" Language="zh_Hans_CN">
+			<Text>安东尼·庇护</Text>
+		</Row>
+		<!--Agenda-->
+		<Row Tag="LOC_AGENDA_JFD_EQUANIMITY_NAME" Language="zh_Hans_CN">
+			<Text>怡然宁静</Text>
+		</Row>
+		<Row Tag="LOC_AGENDA_JFD_EQUANIMITY_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>努力维护和平，并尽可能多地建造学院、圣地和剧院广场。喜欢不构成威胁的文明，不喜欢忽视人民幸福的战争狂。</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_LEADER_JFD_ANTONINUS_PIUS_REASON_LAGS_HAPPINESS" Language="zh_Hans_CN">
+			<Text>（您的幸福指数很低）</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MODIFIER_AGENDA_JFD_EQUANIMITY_LAGS_HAPPINESS" Language="zh_Hans_CN">
+			<Text>安东尼·庇护对你忽视人民的幸福感到沮丧。</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_KUDO_LEADER_JFD_ANTONINUS_PIUS_REASON_LAGS_STANDING_ARMY" Language="zh_Hans_CN">
+			<Text>（您的常备军很弱小）</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MODIFIER_AGENDA_JFD_EQUANIMITY_LAGS_STANDING_ARMY" Language="zh_Hans_CN">
+			<Text>安东尼·庇护很高兴你没有对罗马构成威胁。</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_LEADER_JFD_ANTONINUS_PIUS_REASON_WARMONGER" Language="zh_Hans_CN">
+			<Text>（您是个战争狂）</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MODIFIER_AGENDA_JFD_EQUANIMITY_WARMONGER" Language="zh_Hans_CN">
+			<Text>安东尼·庇护感受到了你好战的危险。</Text>
+		</Row>
+		<!--DOM-->
+		<Row Tag="LOC_LOADING_INFO_LEADER_JFD_ANTONINUS_PIUS" Language="zh_Hans_CN">
+			<Text>安东尼·庇护，伟大的罗马皇帝。你们的前辈取得了许多伟大的成就，但他们现在正面临威胁。战争和暴力有可能彻底摧毁罗马人的传统。如果你想保留罗马的遗产，你必须摈弃祖先的战争政策，高举和平和虔诚的旗帜。</Text>
+		</Row>
+		<!--Traits-->
+		<Row Tag="LOC_TRAIT_LEADER_JFD_DUTIFUL_AFFECTION_NAME" Language="zh_Hans_CN">
+			<Text>恪尽职守</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_LEADER_JFD_DUTIFUL_AFFECTION_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>当前政体的一个军事政策槽位转变为经济政策槽位。不与任何文明交战时，建造学院、圣地和剧院广场加快20%速度。可建造特色建筑哈德良神庙。</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_LEADER_JFD_DUTIFUL_AFFECTION_DESCRIPTION_RWF" Language="zh_Hans_CN">
+			<Text>当前政体的一个军事政策槽位转变为经济政策槽位。不与任何文明交战时，建造学院、圣地和剧院广场加快20%速度。可建造特色建筑哈德良神庙。</Text>
+		</Row>
+		<!--Civilopedia-->
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_JFD_ANTONINUS_PIUS_TITLE" Language="zh_Hans_CN">
+			<Text>安东尼·庇护</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_JFD_ANTONINUS_PIUS_SUBTITLE" Language="zh_Hans_CN">
+			<Text>罗马皇帝</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_JFD_ANTONINUS_PIUS_QUOTE" Language="zh_Hans_CN">
+			<Text>将今天当做你所期盼的明天去度过，将昨天当做你所期盼的今天去生活。</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_JFD_ANTONINUS_PIUS_CHAPTER_HISTORY_PARA_1" Language="zh_Hans_CN">
+			<Text>【译者注：正在翻译，这也太多了草……】[NEWLINE][NEWLINE]Antoninus Pius was Roman emperor from 138 to 161 CE. When Roman Emperor Hadrian died on July 10, 138 CE, he left, as did his predecessors, an adopted son as his successor, Antoninus Pius. Antoninus - whose last name means dutiful - was a just and compassionate man, well-liked and respected by the common people as well as those in government. For the next 23 years his reign (second only in length to Augustus) would be one of relative peace, assuring him a place among the Five Good Emperors.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_JFD_ANTONINUS_PIUS_CHAPTER_HISTORY_PARA_2" Language="zh_Hans_CN">
+			<Text>In actuality Antoninus Pius was not Hadrian’s initial choice; he wasn’t even his second. In 136 CE, with Hadrian in failing health and on the verge of suicide, he realized that without sons of his own his only option was to adopt. He chose a consul, Lucius Ceionius Commodus, as his heir. The newly adopted Lucius was immediately dispatched to Pannonia to serve as governor but unfortunately for both men, Lucius died of tuberculosis in January of 138 CE. Hadrian was at a crossroad. While he wanted the much younger Marcus Aurelius (he was only 16) to succeed him, the dying emperor realized Marcus was far too young and chose instead the highly valued and elderly Antoninus who was thought to be “safe” until the young Marcus matured.[NEWLINE][NEWLINE]To everyone’s surprise not only did Antoninus live a lot longer than anyone expected, but he also proved to be a capable, if not dedicated, emperor. In the words of the historian Cassius Dio, “Antoninus is said to have been of an enquiring mind and not to have held aloof from careful investigation of even small and commonplace matters.” He added, “Antoninus is admitted by all to have been noble and good, neither oppressive to the Christians nor severe to any of his other subjects...”[NEWLINE][NEWLINE]Although his family originally came from southern Gaul, Antoninus Pius was born in Lanuvium, 20 miles south of Rome, on September 19, 86 CE as Titus Aurelius Fulvus Boinus Arrius Antoninus, a name he shared with his father. His mother was Arria Fadilla, daughter of two-time consul Arrius Antoninus. Both his father and paternal grandfather had served as consuls. The young Antoninus was raised on a large estate at Lorium, first by his paternal grandfather and later by his maternal grandfather. The property he inherited - where he would later build a palace - made him extremely rich and even though he had no military experience, he ably served as consul, praetor, and quaestor, as well as governor in Asia Minor from 135 to 136 CE.[NEWLINE][NEWLINE]Little information about Antoninus and his time in power has survived. Most of what is known comes from his biographer Julius Capitolinus who wrote,[NEWLINE][NEWLINE]“In personal appearance he was strikingly handsome, in natural talents brilliant, in temperament kindly; he was aristocratic in countenance and calm in nature, a singularly gifted speaker and an elegant scholar, conspicuously thrifty, a conscientious landholder, gentle, generous, and mindful of other’s rights. He possessed all these qualities, moreover, in the proper mean and without ostentation, and, in fine, was praiseworthy in every way and, in the minds of all good men."[NEWLINE][NEWLINE]On January 24, 138 CE Emperor Hadrian announced that he intended to adopt the 51 year old Antoninus as his son and heir, and on February 28, 138 CE the adoption took place. The adoption, however, came with a “condition.”. Capitolinus wrote,[NEWLINE][NEWLINE]"The manner of his adoption, they say, was somewhat thus: At any rate, when Hadrian announced a desire to adopt him, he was given time for deciding whether he wanted to be adopted. This condition was attached to his adoption, that as Hadrian took Antoninus as his son, so he in turn should take Marcus Antoninus, his wife’s nephew, and Lucius Verus."[NEWLINE][NEWLINE]This dual ceremony allowed Marcus to be groomed as Antoninus’s successor. Later, Marcus’s claim to the throne became even more secure when he married Antoninus’s daughter and only surviving child, Faustina the Younger.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_JFD_ANTONINUS_PIUS_CHAPTER_HISTORY_PARA_3" Language="zh_Hans_CN">
+			<Text>On July 10, 138 CE the even-tempered Antoninus Pius assumed the reins of the Roman Empire with the assumption that he would simply carry on the policies of Hadrian. Although the reason behind his last name varies, “Pius” was a name given to him by the Senate supposedly because of his loyalty to the memory of Hadrian. One of his first priorities was to have his “father” Hadrian deified, something the Senate reluctantly approved. While there were minor disturbances in Mauretania, Germany, and Egypt, he trusted his commanders to handle the situation and he never left the safety of Rome (some believe it was too expensive to leave), ruling instead from the city or his estate.[NEWLINE][NEWLINE]As expected he carried on many of Hadrian’s policies; however, Antoninus still left his imprint on the city and empire. He insisted that the administration of the law be fair and impartial, even freeing many of the men the former emperor had imprisoned (he convinced the Senate that this had been Hadrian’s wish). Trade and commerce flourished and his strict control of finances allowed for a state surplus by the time of his death. His one extravagance was the celebration of the 900th anniversary of Rome. He completed many of Hadrian’s construction projects and he built monuments which included the Temple of the Deified Hadrian and, in memory of his wife, the Temple of the Deified Faustina. He also repaired many public buildings, including the decaying Colosseum. In Scotland, Hadrian’s Wall was abandoned and a new one, the Antonine Wall, was built 40 miles to the north from the Firth of Clyde to the Firth of Forth - this wall would later be abandoned and the Roman’s would retreat to Hadrian’s Wall. His biographer wrote, “He gave largess to the people, and, in addition, a donation to the soldiers….Besides all this, he helped many communities to erect new buildings and to restore the old." On March 9, 161 CE Antonius died of a fever, supposedly after a meal of Alpine cheese. His reign would be remembered as one of relative peace. He was laid to rest in Hadrian’s Mausoleum next to his wife and sons. The reins of power were handed over to his adopted sons Marcus Aurelius and Lucius Verus.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_JFD_ANTONINUS_PIUS_CHAPTER_CAPSULE_BODY" Language="zh_Hans_CN">
+			<Text>罗马是一个您可以依仗的文明，可以推动继续发展直至成为游戏中最大的帝国。安东尼·庇护以虔诚的信仰来尊崇他的先祖。</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_JFD_ANTONINUS_PIUS_CHAPTER_DETAILED_BODY" Language="zh_Hans_CN">
+			<Text>罗马意欲快速将城市快速落成，而后在完成科技“工程”的过程中不断加速扩张。随着“工程”的解锁，浴场可以在罗马的城市中建造，城市将快速发展（，并在安东尼·庇护额外宜居度的加成下快速扩张）。罗马的“条条大路通罗马”能力可从城市网中给予罗马稳定的收入（从帝国境内城市驶向国外的 [ICON_TradeRoute] 贸易路线应良好运作；而不是所有 [ICON_TradeRoute] 贸易路线都为国内贸易）。尽管所有这些扩张将会导致冲突，但此时可能恰好是罗马军团解锁的时候。罗马军团建造古罗马堡垒要先于其他文明两个时代。有效利用这些加成是维系其庞大而强盛的帝国的关键。</Text>
+		</Row>
+		<!--Diplomacy-->
+		<!--FIRST MEET-->
+		<!--First AI line-->		
+		<Row Tag="LOC_DIPLO_FIRST_MEET_LEADER_JFD_ANTONINUS_PIUS_ANY" Language="zh_Hans_CN">
+			<Text>嘿，我是安东尼·庇护，欢迎来到罗马。</Text>
+		</Row>
+		<!--AI invitation to visit nearby City-->
+		<Row Tag="LOC_DIPLO_FIRST_MEET_VISIT_RECIPIENT_LEADER_JFD_ANTONINUS_PIUS_ANY" Language="zh_Hans_CN">
+			<Text>我欢迎你，并邀请你来罗马做客。</Text>
+		</Row>
+		<!--AI accepts Human invitation-->
+		<Row Tag="LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_POSITIVE_LEADER_JFD_ANTONINUS_PIUS_ANY" Language="zh_Hans_CN">
+			<Text>很好。</Text>
+		</Row>
+		<!--AI invitation to exchange Capital Information-->
+		<Row Tag="LOC_DIPLO_FIRST_MEET_NO_MANS_INFO_EXCHANGE_LEADER_JFD_ANTONINUS_PIUS_ANY" Language="zh_Hans_CN">
+			<Text>为了我们两国人民的利益，我建议交换一下各自首都的情况。</Text>
+		</Row>
+		<!--GREETINGS-->
+		<Row Tag="LOC_DIPLO_GREETING_LEADER_JFD_ANTONINUS_PIUS_ANY" Language="zh_Hans_CN">
+			<Text>你好吗？</Text>
+		</Row>
+		<!--DELEGATION-->
+		<!--AI Accepts-->
+		<Row Tag="LOC_DIPLO_ACCEPT_DELEGATION_FROM_HUMAN_LEADER_JFD_ANTONINUS_PIUS_ANY" Language="zh_Hans_CN">
+			<Text>我已接见了你的代表团，我希望这能为我们带来和平。</Text>
+		</Row>
+		<!--AI Rejects-->
+		<Row Tag="LOC_DIPLO_REJECT_DELEGATION_FROM_HUMAN_LEADER_JFD_ANTONINUS_PIUS_ANY" Language="zh_Hans_CN">
+			<Text>现在我还不能接受你的代表团。</Text>
+		</Row>
+		<!--AI Requests-->
+		<Row Tag="LOC_DIPLO_DELEGATION_FROM_AI_LEADER_JFD_ANTONINUS_PIUS_ANY" Language="zh_Hans_CN">
+			<Text>我已派代表团前往贵国首都，希望我们两个帝国之间实现和平。</Text>
+		</Row>
+		<!--OPEN BORDERS-->
+		<!--AI accepts from human-->
+		<Row Tag="LOC_DIPLO_ACCEPT_OPEN_BORDERS_FROM_HUMAN_LEADER_JFD_ANTONINUS_PIUS_ANY" Language="zh_Hans_CN">
+			<Text>我同意。</Text>
+		</Row>
+		<!--AI rejects from human-->
+		<Row Tag="LOC_DIPLO_REJECT_OPEN_BORDERS_FROM_HUMAN_LEADER_JFD_ANTONINUS_PIUS_ANY" Language="zh_Hans_CN">
+			<Text>我不能同意。这将对罗马有害。</Text>
+		</Row>
+		<!--AI requests from human-->
+		<Row Tag="LOC_DIPLO_OPEN_BORDERS_FROM_AI_LEADER_JFD_ANTONINUS_PIUS_ANY" Language="zh_Hans_CN">
+			<Text>我建议我们交换开放边界协定，让我们的人民在两个帝国之间自由往来。</Text>
+		</Row>
+		<!--DECLARE FRIENDSHIP-->
+		<!--AI accepts from human-->
+		<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_HUMAN_LEADER_JFD_ANTONINUS_PIUS_ANY" Language="zh_Hans_CN">
+			<Text>就这么定了。</Text>
+		</Row>
+		<!--AI Rejects from human-->
+		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_HUMAN_LEADER_JFD_ANTONINUS_PIUS_ANY" Language="zh_Hans_CN">
+			<Text>不。这一点我不能接受。</Text>
+		</Row>
+		<!--AI Requests friendship from human-->
+		<Row Tag="LOC_DIPLO_DECLARE_FRIEND_FROM_AI_LEADER_JFD_ANTONINUS_PIUS_ANY" Language="zh_Hans_CN">
+			<Text>我请求你和我一起向世界宣布我们的友谊。</Text>
+		</Row>
+		<!--Human accepts AI requests, AI responds-->
+		<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_JFD_ANTONINUS_PIUS_ANY" Language="zh_Hans_CN">
+			<Text>太好了。</Text>
+		</Row>
+		<!--Human rejects AI requests, AI responds-->
+		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_JFD_ANTONINUS_PIUS_ANY" Language="zh_Hans_CN">
+			<Text>我不能容忍这种事。</Text>
+		</Row>
+		<!--ALLIANCE-->
+		<!--AI Requests an alliance from human-->
+		<Row Tag="LOC_DIPLO_MAKE_ALLIANCE_FROM_AI_LEADER_JFD_ANTONINUS_PIUS_ANY" Language="zh_Hans_CN">
+			<Text>我所获得的和平是暂时的。我寻求盟友把这座神殿建在更坚固的土地上。</Text>
+		</Row>
+		<!--KUDOS & WARNINGS-->	
+		<!--AI Kudos-->
+		<Row Tag="LOC_DIPLO_KUDO_EXIT_LEADER_JFD_ANTONINUS_PIUS_ANY" Language="zh_Hans_CN">
+			<Text>愿我们两个帝国之间的和平能永远维持。</Text>
+		</Row>
+		<!--AI Warnings-->
+		<Row Tag="LOC_DIPLO_WARNING_EXIT_LEADER_JFD_ANTONINUS_PIUS_ANY" Language="zh_Hans_CN">
+			<Text>我已经厌倦了你的杀戮。</Text>
+		</Row>
+		<!--AI warns player for border troops-->
+		<Row Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_LEADER_JFD_ANTONINUS_PIUS_ANY" Language="zh_Hans_CN">
+			<Text>我不想打仗，请将你们的军队撤出我的边境。</Text>
+		</Row>
+		<!--TRADE-->
+		<!--AI Accepts Deal-->
+		<Row Tag="LOC_DIPLO_ACCEPT_MAKE_DEAL_FROM_AI_LEADER_JFD_ANTONINUS_PIUS_ANY" Language="zh_Hans_CN">
+			<Text>{LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_JFD_ANTONINUS_PIUS_ANY}</Text>
+		</Row>
+		<!-- AI Rejects Deal -->
+		<Row Tag="LOC_DIPLO_REJECT_MAKE_DEAL_FROM_AI_LEADER_JFD_ANTONINUS_PIUS_ANY" Language="zh_Hans_CN">
+			<Text>{LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_JFD_ANTONINUS_PIUS_ANY}</Text>
+		</Row>
+		<!--DENOUNCE-->
+		<!--From Human-->
+		<Row Tag="LOC_DIPLO_DENOUNCE_FROM_HUMAN_LEADER_JFD_ANTONINUS_PIUS_ANY" Language="zh_Hans_CN">
+			<Text>我不明白这对你有什么好处。</Text>
+		</Row>
+		<!--From AI-->
+		<Row Tag="LOC_DIPLO_DENOUNCE_FROM_AI_LEADER_JFD_ANTONINUS_PIUS_ANY" Language="zh_Hans_CN">
+			<Text>我和我的人民对你很失望。[NEWLINE]（谴责你）</Text>
+		</Row>
+		<!--Rationale-->
+		<Row Tag="LOC_DIPLO_DENOUNCE_REASON_FROM_AI_LEADER_ANY_REASON_JFD_EQUANIMITY_LAGS_HAPPINESS" Language="zh_Hans_CN">
+			<Text>（您的幸福指数很低）</Text>
+		</Row>	
+		<Row Tag="LOC_DIPLO_DENOUNCE_REASON_FROM_AI_LEADER_ANY_REASON_JFD_EQUANIMITY_WARMONGER" Language="zh_Hans_CN">
+			<Text>（您是个战争狂）</Text>
+		</Row>	
+		<!--DECLARE WAR-->
+		<!--Human Declares War-->
+		<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_HUMAN_LEADER_JFD_ANTONINUS_PIUS_ANY" Language="zh_Hans_CN">
+			<Text>让人遗憾，我将会战胜你，恢复世界的和平。</Text>
+		</Row>
+		<!--AI Declares War-->
+		<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_JFD_ANTONINUS_PIUS_ANY" Language="zh_Hans_CN">
+			<Text>我不喜欢战争，但我会尽我所能确保和平。</Text>
+		</Row>
+		<!--MAKE PEACE-->
+		<!--AI accepts from human-->
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_AI_ACCEPT_DEAL_LEADER_JFD_ANTONINUS_PIUS_ANY" Language="zh_Hans_CN">
+			<Text>我同意。是时候结束我们的战斗了。</Text>
+		</Row>
+		<!--AI refuses human-->
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_AI_REFUSE_DEAL_LEADER_JFD_ANTONINUS_PIUS_ANY" Language="zh_Hans_CN">
+			<Text>我不能逃避我的责任。这一次不会有和平。</Text>
+		</Row>
+		<!--AI requests from human-->
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_FROM_AI_LEADER_JFD_ANTONINUS_PIUS_ANY" Language="zh_Hans_CN">
+			<Text>我不喜欢战争，所以祈求和平。</Text>
+		</Row>
+		<!--DEFEAT-->
+		<!--AI is Defeated-->
+		<Row Tag="LOC_DIPLO_DEFEAT_FROM_AI_LEADER_JFD_ANTONINUS_PIUS_ANY" Language="zh_Hans_CN">
+			<Text>罗马现在灭亡了。文明世界的光明恐怕永远消失了。</Text>
+		</Row>
+		<!--Human is Defeated (will see this in hotseat)-->
+		<Row Tag="LOC_DIPLO_DEFEAT_FROM_HUMAN_LEADER_JFD_ANTONINUS_PIUS_ANY" Language="zh_Hans_CN">
+			<Text>{LOC_DIPLO_DEFEAT_FROM_AI_LEADER_JFD_ANTONINUS_PIUS_ANY}</Text>
+		</Row>
+		<!--TEMPLE OF HADRIAN-->
+		<Row Tag="LOC_BUILDING_JFD_TEMPLE_HADRIAN_NAME" Language="zh_Hans_CN">
+			<Text>哈德良神庙</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_JFD_TEMPLE_HADRIAN_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>安东尼·庇护作为领袖时的特色建筑，取代纪念碑。产出 [ICON_FAITH] 信仰值和 [ICON_GREATGENERAL] 大将军点数。城市拥有学院、军营或剧院广场时+1 [ICON_AMENITIES] 宜居度。[NEWLINE][NEWLINE]每回合提供+1忠诚度，如果城市的忠诚度已满，则额外提供+1 [ICON_CULTURE] 文化值。</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_BUILDINGS_PAGE_BUILDING_JFD_TEMPLE_HADRIAN_CHAPTER_HISTORY_PARA_1" Language="zh_Hans_CN">
+			<Text>【译者注：正在翻译……】[NEWLINE][NEWLINE]The Temple of Hadrian is a temple to the deified Hadrian on the Campus Martius in Rome, Italy, built by his adoptive son and successor Antoninus Pius in 145 and now incorporated into a later building in the Piazza di Pietra. It was once erroneously known as the Temple of Neptune.</Text>
+		</Row>
+	</LocalizedText>
+</GameData>

@@ -1,0 +1,80 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!-- Globe_Theatre_Localization_CN -->
+<!-- Author: 春 -->
+<!-- DateCreated: 4/1/2020 11:03:37 AM -->
+<GameData>
+	<LocalizedText>
+		<Row Tag="LOC_BUILDING_GLOBE_THEATRE_NAME" Language="zh_Hans_CN">
+			<Text>环球剧场</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_GLOBE_THEATRE_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>所有拥有古罗马剧场的城市+1 [ICON_Amenities] 宜居度。提供2个 [ICON_GreatWork_Writing] 著作巨作槽位。建成时，该城市可免费获得一位 [ICON_GreatWriter] 大作家（如果有可获得的话）。必须建造在邻河的草原、平原和冻土上。</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_GLOBE_THEATRE_QUOTE" Language="zh_Hans_CN">
+			<Text>大人，可否请您找个地方好好安顿这班优伶？请你给我听清了，不得怠慢他们；因为他们是这个时代的缩影：宁可死后得到一首拙劣的墓志铭，也不要生前遭受他们恶评。[NEWLINE]——《哈姆雷特》第二幕，第二场</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_WONDERS_PAGE_BUILDING_GLOBE_THEATRE_CHAPTER_HISTORY_PARA_1" Language="zh_Hans_CN">
+			<Text>最初的环球剧场由威廉·莎士比亚所共同持有股份的宫内大臣剧团于1599年建造于伦敦的少女街，环球剧场包含了一些当时很先进的创新之处。</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_WONDERS_PAGE_BUILDING_GLOBE_THEATRE_CHAPTER_HISTORY_PARA_2" Language="zh_Hans_CN">
+			<Text>1613年环球剧场在表演《亨利八世》的时候，木质的屋顶被大炮点燃，剧场被焚毁。1614年剧场被重建，之后一直使用到1642年被清教徒关闭为止。虽然环球剧场的具体样子目前已不为人知，资料记载它有三层，是一个环形露天剧场，直径大概100英尺，能坐下300观众。</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_WONDERS_PAGE_BUILDING_GLOBE_THEATRE_CHAPTER_HISTORY_PARA_3" Language="zh_Hans_CN">
+			<Text>演出台有43英尺宽，27英尺深，离地5英尺，因此可容下一些地板暗门。</Text>
+		</Row>
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_CWON_DANTE_NAME" Language="zh_Hans_CN">
+			<Text>但丁·阿利吉耶里</Text>
+		</Row>
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_CWON_JOHN_DONNE_NAME" Language="zh_Hans_CN">
+			<Text>约翰·邓恩</Text>
+		</Row>
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_CWON_MOLIERE_NAME" Language="zh_Hans_CN">
+			<Text>莫里哀</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_CWON_JOHN_DONNE_CHAPTER_HISTORY_PARA_1" Language="zh_Hans_CN">
+			<Text>约翰·邓恩（1572年1月22日- 1631年3月31日）是一名英国诗人和英国国教的牧师。他被认为是玄学派诗人的杰出代表。他的作品以强烈的感官刺激风格而著称，包括十四行诗、爱情诗、宗教诗、拉丁文翻译、警句、挽歌、歌谣、讽刺诗和布道。他的诗歌以其生动的语言和独创性的比喻而闻名，尤其是与同时代的诗歌相比。邓恩的风格特征是突兀的开场、各种矛盾、讽刺和错乱。这些特征，以及他经常戏剧性的或日常的演讲韵律，都是对传统的伊丽莎白时代诗歌的反抗，也是对矫揉造作的欧洲巴洛克风格在英语中的改编。他早期的事业以包含庞大的英国社会知识的诗歌为标志，并且他对这些知识进行了尖锐的批判。邓恩诗歌中的另一个重要主题是宗教真实信仰，这是他花了很多时间思考和探讨并加以理论化的东西。他既撰写世俗诗，也写情欲和爱情诗。他尤其以别出心裁的玄学而著称。尽管他受过良好教育以及拥有诗歌天赋，但他还是在贫穷中度过了几年，主要依赖于富裕的朋友。他把求学期间以及毕业后继承的大部分财产都花在女人、文学、休闲和旅游上。1601年，邓恩秘密地和安摩尔结婚并和她生了12个孩子。1615年，他被任命为执事，之后成为圣公会牧师，尽管他不愿意接受圣职，仅仅是出于国王的命令。1621年，他被任命为伦敦圣保罗大教堂的主持牧师。他还在1601年和1614年担任国会议员。</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_CWON_DANTE_CHAPTER_HISTORY_PARA_1" Language="zh_Hans_CN">
+			<Text>Durante di Alighiero degli Alighieri，通常称其笔名但丁·阿利吉耶里（1265-1321），是中世纪晚期的意大利诗人。他的《神曲》原名《喜剧》，后来乔万尼·薄伽丘将其冠上《神曲》之名，被广泛认为是中世纪最重要的诗歌和最伟大的意大利语文学作品。在中世纪，大多数的诗歌都是用拉丁文写的，因此只有受过最优质的教育的人才能读懂。然而，但丁在《论俗语》中支持在文学作品中使用方言。他甚至使用了托斯卡纳方言来写作《新生》（1295）和《神曲》，这种非传统的选择为后来重要的意大利作家彼特拉克和薄伽丘开创了先例。</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_CWON_MOLIERE_CHAPTER_HISTORY_PARA_1" Language="zh_Hans_CN">
+			<Text>让·巴蒂斯特·波克兰，更为人所熟知的是其艺名莫里哀（1622年1月15日受洗；1673年2月17日逝世），是法国剧作家、演员和诗人，被广泛认为是法语世界和世界文学中最伟大的作家之一。他现存的作品包括喜剧、滑稽剧、悲喜剧、芭蕾舞喜剧等。他的喜剧被翻译成了当今的每一种主要语言，在法兰西喜剧院演出的次数比当今任何其他剧作家都要多。他的影响是如此巨大，以至于法语常常被称为“莫里哀的语言”。</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_CWON_JOHN_DONNE_1_NAME" Language="zh_Hans_CN">
+			<Text>《突发事件的祷告》</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_CWON_JOHN_DONNE_2_NAME" Language="zh_Hans_CN">
+			<Text>《歌与十四行诗》</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_CWON_DANTE_2_NAME" Language="zh_Hans_CN">
+			<Text>《天堂》</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_CWON_DANTE_1_NAME" Language="zh_Hans_CN">
+			<Text>《地狱》</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_CWON_MOLIERE_1_NAME" Language="zh_Hans_CN">
+			<Text>《恨世者》</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_CWON_MOLIERE_2_NAME" Language="zh_Hans_CN">
+			<Text>《伪君子》</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_CWON_JOHN_DONNE_1_QUOTE" Language="zh_Hans_CN">
+			<Text>没有谁是一座孤岛，在大海里独距；每个人都像一块小小的泥土，连接成整个陆地。如果有一块泥土被海水冲刷，欧洲就会失去一角，这如同一座山岬，也如同一座庄园，无论是你的还是你朋友的。无论谁死了，都是我的一部分在死去，因为我包含在人类这个概念里。因此，不要问丧钟为谁而鸣，丧钟为你而鸣。</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_CWON_JOHN_DONNE_2_QUOTE" Language="zh_Hans_CN">
+			<Text>如果不能因爱而生，我们可以因爱而死，如果不适应坟墓和灵车，我们的传奇，可以适应诗句；如果缺乏一段由我们证实的编年史，我们将在商籁体那动人的地盘上建立；一口精致的瓮缸变成最伟大的灰烬，连着半英亩坟地，凭借这些赞美诗，一切都将证明我们因爱情被册封为圣。</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_CWON_DANTE_2_QUOTE" Language="zh_Hans_CN">
+			<Text>在这里，力量辜负了我崇高的想象力，但到现在为止，我的愿望和意志还没有实现。</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_CWON_DANTE_1_QUOTE" Language="zh_Hans_CN">
+			<Text>当白色的阳光照射时，寒冷的夜晚把小小的花儿弯折成一团，它们的茎干就笔直地开着，我也是这样，用尽我的力气。</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_CWON_MOLIERE_1_QUOTE" Language="zh_Hans_CN">
+			<Text>如果每个人都有正直的品格，如果每颗心都公正、坦率、友善，那么其他一切美德都几乎没用了，因为它们的主要目的就是使我们能耐心忍受别人的不公。</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_CWON_MOLIERE_2_QUOTE" Language="zh_Hans_CN">
+			<Text>言行一致的人总是第一个遭受攻击。</Text>
+		</Row>
+	</LocalizedText>
+</GameData>

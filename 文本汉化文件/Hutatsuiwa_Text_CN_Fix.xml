@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!-- Hutatsuiwa_Text_CN_Fix -->
+<!-- Author: Clear8Sky -->
+<!-- DateCreated: 4/7/2020 11:08:44 AM -->
+<GameData>
+	<LocalizedText>
+		<Replace Tag="LOC_CIVILIZATION_TANUKI_ADJECTIVE" Language="zh_Hans_CN">
+			<Text>狸猫帝国的</Text>
+		</Replace>
+		<Replace Tag="LOC_TEN_TRANSFORMATIONS_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>从现有领袖中随机获取一个领袖能力。[NEWLINE]注：随机性极强，哪怕每次读档都会重随机，下同。</Text>
+		</Replace>
+		<Replace Tag="LOC_FROLICKING_ANIMALS_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>从现有文明中随机获取一个文明能力。</Text>
+		</Replace>
+		<Replace Tag="LOC_GARDEN_OF_FLOWERS_AND_BIRDS_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>获取一个随机的特色建筑或区域以及一个随机的特色改良设施。</Text>
+		</Replace>
+		<Replace Tag="LOC_INFINITE_TANUKI_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>从现有特色单位中随机获取两个作为其特色单位。</Text>
+		</Replace>
+		<Replace Tag="LOC_LOADING_INFO_LEADER_HUTATSUIWA" Language="zh_Hans_CN">
+			<Text>绝无仅有的外来妖怪 -- 二岩 猯藏。赌脸的时候到了，做好重开的准备吧！</Text>
+		</Replace>
+		<Replace Tag="LOC_LEADER_HUTATSUIWA_QUOTE" Language="zh_Hans_CN">
+			<Text>你能识破我的变化么？</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_FIRST_MEET_LEADER_HUTATSUIWA_ANY" Language="zh_Hans_CN">
+			<Text>你吼哇！我是二岩 猯藏~</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_FIRST_MEET_VISIT_RECIPIENT_LEADER_HUTATSUIWA_ANY" Language="zh_Hans_CN">
+			<Text>欢迎来到我的狸猫帝国！！</Text>
+		</Replace>
+	</LocalizedText>
+</GameData>

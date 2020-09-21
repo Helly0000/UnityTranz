@@ -1,0 +1,130 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!-- UC_GP_Localization_CN -->
+<!-- Author: Clear8Sky -->
+<!-- DateCreated: 3/26/2020 11:51:16 PM -->
+<GameData>
+	<LocalizedText>
+		<!-- 建筑与项目描述 -->
+		<Row Tag="LOC_PROJECT_JNR_GOV_CAPITAL_MOVE_NAME" Language="zh_Hans_CN">
+			<Text>迁都（唯一）</Text>
+		</Row>
+		<Row Tag="LOC_PROJECT_JNR_GOV_CAPITAL_MOVE_SHORT_NAME" Language="zh_Hans_CN">
+			<Text>迁都（唯一）</Text>
+		</Row>
+		<Row Tag="LOC_PROJECT_JNR_GOV_CAPITAL_MOVE_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>当项目完成时，您文明的 [ICON_Capital] 首都将迁至该城市。该项目仅能完成一次。</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_GOV_JNR_MOCC_NAME" Language="zh_Hans_CN">
+			<Text>军事行动指挥中心</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_GOV_JNR_MOCC_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>+1军事政策槽位。[NEWLINE][NEWLINE]所有空中战斗单位+3 [ICON_Movement] 移动力、+2 [ICON_Range] 射程。[NEWLINE]特种部队若与机械化步兵相邻，则防御时+15 [ICON_Strength] 战斗力；若与直升飞机相邻，则攻击时+150%夹击加成。[NEWLINE]所有陆地单位+5生命值。[NEWLINE]当无人机驻扎于市中心或在市中心旁时，该城市每回合+3忠诚度。[NEWLINE][NEWLINE]奖励一个 [Icon_Governor] 总督头衔。</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_GOV_JNR_PROPAGANDA_NAME" Language="zh_Hans_CN">
+			<Text>真理研究学会</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_GOV_JNR_PROPAGANDA_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>+1经济政策槽位。[NEWLINE][NEWLINE]本国的摇滚乐队无需开放其边境即可进入别国领土。[NEWLINE]您招募的所有摇滚乐队可自动获得宗教摇滚的晋升，而您为其自选的晋升则作为二次晋升仍然保留。[NEWLINE]所有宗教单位可伪装，且无视区域控制。[NEWLINE]您所有城市每回合+2忠诚度。[NEWLINE][NEWLINE]奖励一个 [Icon_Governor] 总督头衔。</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_GOV_JNR_DIPLOMACY_NAME" Language="zh_Hans_CN">
+			<Text>世界议会地方总部</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_GOV_JNR_DIPLOMACY_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>+1外交政策槽位。[NEWLINE][NEWLINE]已就任且至少有4次升级的总督可提供+4 [ICON_Favor] 外交支持。[NEWLINE]当您在世界议会上赢得一次外交决议且奖励您外交胜利点数时，返还您25%所消耗的 [ICON_Favor] 外交支持点数。[NEWLINE]奖励您1点外交胜利点数。[NEWLINE][NEWLINE]奖励一个 [Icon_Governor] 总督头衔。</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_GOV_JNR_DIPLOMACY_US_NAME" Language="zh_Hans_CN">
+			<Text>世界议会全球总部</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_GOV_JNR_DIPLOMACY_US_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>美国特色建筑。[NEWLINE][NEWLINE]+1通配符槽位。[NEWLINE][NEWLINE]已就任且至少有4次升级的总督可提供+4 [ICON_Favor] 外交支持。[NEWLINE]当您在世界议会上赢得一次外交决议且奖励您外交胜利点数时，返还您25%所消耗的 [ICON_Favor] 外交支持点数。[NEWLINE]奖励您1点外交胜利点数。[NEWLINE][NEWLINE]奖励一个 [Icon_Governor] 总督头衔。</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_JNR_CORPORATE_LIBERTARIANISM_NAME" Language="zh_Hans_CN">
+			<Text>团体自由意志主义遗产</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_JNR_DIGITAL_DEMOCRACY_NAME" Language="zh_Hans_CN">
+			<Text>数字化民主遗产</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_JNR_SYNTHETIC_TECHNOCRACY_NAME" Language="zh_Hans_CN">
+			<Text>合成专家统治遗产</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_JNR_GOV_MOCC_AIRCRAFT_NAME" Language="zh_Hans_CN">
+			<Text>空中加油</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_JNR_GOV_MOCC_AIRCRAFT_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>+3 [ICON_Movement] 移动力、+2 [ICON_Range] 射程。</Text>
+		</Row>
+		<Row Tag="LOC_DISTRICT_GOVERNMENT_DESCRIPTION_JNR_UC" Language="zh_Hans_CN">
+			<Text>为纪念所选政体而在帝国中建造的区域。使此城每回合的忠诚度+8、使相邻区域获得的相邻加成+1。[NEWLINE]奖励1个 [Icon_Governor] 总督头衔。[NEWLINE]建造完成时可触发一次文化炸弹。[NEWLINE][NEWLINE][ICON_Bullet]拥有一阶市政广场建筑时：解锁项目“迁都”，可将 [ICON_Capital] 首都迁至有市政广场的城市，但前！提！是！该城市与原首都同处一块大陆。[NEWLINE][ICON_Bullet]拥有二阶市政广场建筑时：所有城市训练开拓者时+50% [ICON_Production] 生产力。[NEWLINE][ICON_Bullet]拥有三阶市政广场建筑时：所有城市领土扩张速度+200%，且购买单元格时节省50%费用。</Text>
+		</Row>
+		
+		<!-- 文明百科条目：综述介绍文本 -->		<!-- 与UC_UPB_Localization_CN内相同，故这里注释掉 -->
+		<!--<Replace Tag="LOC_PEDIA_CONCEPTS_PAGEGROUP_JNR_URBANCOMPLEXITY_NAME" Language="zh_Hans_CN">
+			<Text>城市复杂性</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CONCEPTS_PAGE_JNR_UC_INTRODUCTION_CHAPTER_CONTENT_TITLE" Language="zh_Hans_CN">
+			<Text>介绍</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CONCEPTS_PAGE_JNR_UC_INTRODUCTION_CHAPTER_CONTENT_PARA_1" Language="zh_Hans_CN">
+			<Text>“城市复杂性”是一个模组系列，旨在更深入地建设与发展您的城市，同时在真实性与游戏性之间取得平衡。在启用这一系列模组后，选择要建造的区域和建筑不再是一件简单的小事，不再像从既定的建造顺序中依次打勾那样容易。相反，适当考虑当地环境及其他部分因素，如周围邻接的加成、可利用的地形、城市中其他已有的区域，等等，这会为您带来很大的回报。</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CONCEPTS_PAGE_JNR_UC_INTRODUCTION_CHAPTER_CONTENT_PARA_2" Language="zh_Hans_CN">
+			<Text>亲爱的玩家，</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CONCEPTS_PAGE_JNR_UC_INTRODUCTION_CHAPTER_CONTENT_PARA_3" Language="zh_Hans_CN">
+			<Text>文明百科中的以下页面将作为引导，带您了解“城市复杂性”系列模组的大致内容。请认真阅读这些文字，并留意哪些特性是可利用的以及如何利用的。</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CONCEPTS_PAGE_JNR_UC_INTRODUCTION_CHAPTER_CONTENT_PARA_4" Language="zh_Hans_CN">
+			<Text>随时欢迎反馈。请不要犹豫来和我交流您的思考、想法与建议。[NEWLINE]我希望我的模组能为您游玩文明VI平添几分乐趣，并能让您用新的方式去建设您的帝国。祝您玩得开心，也愿您能经受住时间的考验，最终获得胜利！</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CONCEPTS_PAGE_JNR_UC_INTRODUCTION_CHAPTER_CONTENT_PARA_5" Language="zh_Hans_CN">
+			<Text>模组作者：JNR，[NEWLINE]文本翻译：Clear8Sky。</Text>
+		</Replace>-->
+		
+		<!-- 文明百科条目：XPGOV文本 -->
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_JNR_UC_XPGOV_CHAPTER_JNRGPBASE_TITLE" Language="zh_Hans_CN">
+			<Text>市政广场扩展</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_JNR_UC_XPGOV_CHAPTER_JNRGPBASE_PARA_1" Language="zh_Hans_CN">
+			<Text>“市政广场扩展”为市政广场添加了新的特性与建筑，包括全新的四阶市政广场建筑，这些建筑不仅能为未来时代政体提供遗产政策，而且其本身也具有强大的加成效果。低阶市政广场建筑的加成效果得到小幅度加强，可凭借其先进的政治机构来帮助您更快地发展您的帝国。</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_JNR_UC_XPGOV_CHAPTER_JNRGPT123_TITLE" Language="zh_Hans_CN">
+			<Text>关于加强的描述</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_JNR_UC_XPGOV_CHAPTER_JNRGPT123_PARA_1" Language="zh_Hans_CN">
+			<Text>一阶市政广场建筑[NEWLINE]加强：将 [ICON_Capital] 首都迁至市政广场所在城市[NEWLINE]描述：当市政广场内至少有一座建筑时，您可以通过完成一个项目来将您的首都迁至这座有市政广场的城市。仅限于目标城市与原首都同处一块大陆的情况（以避免对殖民主义机制造成削弱）。另外，该项目仅能完成一次，因此若您的新首都被占领了，您将无法通过在其他某个城市再次完成此项目来避免别的玩家获得统治胜利。请谨慎完成此项目，尽可能确保新首都易守难攻，同时别忘了考虑城邦对首都的一阶加成效果。记住，当您的首都转移时，首都市中心的宫殿及其提供的住房与宜居度加成将一并被转移。</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_JNR_UC_XPGOV_CHAPTER_JNRGPT123_PARA_2" Language="zh_Hans_CN">
+			<Text>二阶市政广场建筑[NEWLINE]加强：训练开拓者时+50% [ICON_PRODUCTION] 生产力。[NEWLINE]描述：当市政广场内至少有两座建筑时，您的所有城市在训练开拓者时都将+50%生产力。因为当游戏进行到此建筑建成时，初期探索阶段已经基本结束。故此加强效果可帮助您更加迅速地在无主领域中建立您的城市，也将促使玩家之间因领土扩张而发生冲突甚至战争。当帝国发展到达巅峰时，领土扩张速度应该由您从其他文明手中夺取城市的能力来决定，而非您的城市能以多块的速度训练开拓者。</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_JNR_UC_XPGOV_CHAPTER_JNRGPT123_PARA_3" Language="zh_Hans_CN">
+			<Text>三阶市政广场建筑[NEWLINE]加强：领土扩张速度+200%，购买单元格将节省50% [ICON_GOLD] 费用。[NEWLINE]描述：当市政广场内至少有三座建筑时，您的所有城市将更快地扩张其领土，不论是自主扩张还是玩家手动购买。此加强效果体现了您现代政府行政能力的提高与现代法律的完善，让您有能力要求更多的土地归于帝国麾下。帝国内兴起的民族主义将会是争取更多领土的不竭动力。[NEWLINE][NEWLINE]四阶市政广场建筑[NEWLINE]加强：市政发展到信息时代的文明可建造三种新的市政广场建筑。他们各自可为信息时代政体提供一个政策，而其他政体则必须提前启用才可激活这些政策。另外，每座建筑可额外提供一个政策槽位（槽位类型取决于您所建造的建筑），并且还会奖励一个 [Icon_Governor] 总督头衔。最后，这些建筑可各自提供与某种胜利方式相关联的特色加成效果，以下是这些效果的详细描述。</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_JNR_UC_XPGOV_CHAPTER_JNRGPMOCC_TITLE" Language="zh_Hans_CN">
+			<Text>{LOC_BUILDING_GOV_JNR_MOCC_NAME}</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_JNR_UC_XPGOV_CHAPTER_JNRGPMOCC_PARA_1" Language="zh_Hans_CN">
+			<Text>军事行动指挥中心（MOCC）将为您的军队进行全球作战准备。在这里，联合兵种作战得到加强。让您的特种部队与其他战斗单位一同作战，可使其 [ICON_Strength] 战斗力与信息时代的单位保持一致。增加您空中单位的 [ICON_Movement] 航程与 [ICON_Range] 射程来更有效地对末日机甲造成打击。空中侦查的无人机将使得您的对手向您进攻时有更多的顾虑。</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_JNR_UC_XPGOV_CHAPTER_JNRGPMOCC_PARA_2" Language="zh_Hans_CN">
+			<Text>加成效果：[NEWLINE][NEWLINE]{LOC_BUILDING_GOV_JNR_MOCC_DESCRIPTION}</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_JNR_UC_XPGOV_CHAPTER_JNRGPPROP_TITLE" Language="zh_Hans_CN">
+			<Text>{LOC_BUILDING_GOV_JNR_PROPAGANDA_NAME}</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_JNR_UC_XPGOV_CHAPTER_JNRGPPROP_PARA_1" Language="zh_Hans_CN">
+			<Text>在瞬息万变的通信世界里，许多真理可以在同一时刻传播于社会之中。在全球范围内建立网络真理研究学会将有助于您能获得比他人更加完善的真理。通过交流各国文化、开展语言课程、招募艺术大师以及向世界各地分派神职人员等方式，向他人展示您文明的荣耀。淡化现实界限以取得统治地位。</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_JNR_UC_XPGOV_CHAPTER_JNRGPPROP_PARA_2" Language="zh_Hans_CN">
+			<Text>加成效果：[NEWLINE][NEWLINE]{LOC_BUILDING_GOV_JNR_PROPAGANDA_DESCRIPTION}</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_JNR_UC_XPGOV_CHAPTER_JNRGPWCHQ_TITLE" Language="zh_Hans_CN">
+			<Text>世界议会总部</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_JNR_UC_XPGOV_CHAPTER_JNRGPWCHQ_PARA_1" Language="zh_Hans_CN">
+			<Text>世界议会地区总部（WCHQ-R）可将您带入国际合作的全球格局中。向国家发展机构及其他国际组织提供合作办事处，以表明贵国政府对世界共同繁荣与和平所做的贡献。</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_JNR_UC_XPGOV_CHAPTER_JNRGPWCHQ_PARA_2" Language="zh_Hans_CN">
+			<Text>加成效果：[NEWLINE][NEWLINE]{LOC_BUILDING_GOV_JNR_DIPLOMACY_DESCRIPTION}[NEWLINE][NEWLINE]由于“开国元勋”的特色能力，美国的世界议会总部建筑将改为获得+1通配符槽位。因此，美国将通过特色建筑“世界议会全球总部”来体现这一特点，其加成效果为：[NEWLINE][NEWLINE]{LOC_BUILDING_GOV_JNR_DIPLOMACY_US_DESCRIPTION}</Text>
+		</Row>
+	</LocalizedText>
+</GameData>

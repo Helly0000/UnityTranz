@@ -1,0 +1,517 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!-- Morocco_GameTextCN -->
+<!-- Author: 春 -->
+<!-- DateCreated: 5/29/2020 11:33:06 AM -->
+<GameData>
+	<LocalizedText>
+		<!--CIVILIZATION-->
+		<Row Tag="LOC_BUILDING_GEDEMO_MEDINA_NAME" Language="zh_Hans_CN">
+			<Text>麦地那</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_GEDEMO_MEDINA_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>摩洛哥特色建筑。完成科技“砌砖”解锁。提供+2 [ICON_HOUSING] 住房，每个相邻的商业中心+3 [ICON_GOLD] 金币。从古典时代起，每进入一个新时代+2 [ICON_CULTURE] 文化值。</Text>
+		</Row>
+		<Row Tag="LOC_IMPROVEMENT_GEDEMO_KASBAH_NAME" Language="zh_Hans_CN">
+			<Text>卡斯巴哈</Text>
+		</Row>
+		<Row Tag="LOC_IMPROVEMENT_GEDEMO_KASBAH_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>完成市政“封建主义”，可解锁建造者建造摩洛哥特色改良设施卡斯巴哈的能力。 [NEWLINE][NEWLINE]+2 [ICON_FOOD] 食物、+2 [ICON_GOLD] 金币、+1 [ICON_HOUSING] 住房。与卡斯巴哈相邻的单元格+1 [ICON_CULTURE] 文化值。不能建造在另一个卡斯巴哈旁边。[NEWLINE][NEWLINE]驻扎于卡斯巴哈的单位防御时+4 [ICON_STRENGTH] 战斗力。</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_BUILDINGS_PAGE_BUILDING_GEDEMO_MEDINA_CHAPTER_HISTORY_PARA_1" Language="zh_Hans_CN">
+			<Text>“麦地那”一词在阿拉伯语中的意思是城市或城镇，麦地那是北非部分地区的特色区域，特点是街道狭窄、车流稀少、商业繁忙。</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_IMPROVEMENTS_PAGE_IMPROVEMENT_GEDEMO_KASBAH_CHAPTER_HISTORY_PARA_1" Language="zh_Hans_CN">
+			<Text>卡斯巴哈是一种封闭的堡垒或要塞，是当地领导者居住的地方，也是城市遭受攻击时的防御地点。</Text>
+		</Row>
+		
+		<Row Tag="LOC_CIVILIZATION_GEDEMO_MOROCCO_NAME" Language="zh_Hans_CN">
+			<Text>摩洛哥</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_GEDEMO_MOROCCO_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>摩洛哥帝国</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_GEDEMO_MOROCCO_ADJECTIVE" Language="zh_Hans_CN">
+			<Text>摩洛哥的</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_GEDEMO_MOROCCO_DESCRIPTION_GEDEMO_CIVILIZATION" Language="zh_Hans_CN">
+			<Text>摩洛哥</Text>
+		</Row>
+		<!--Pedia-->
+		<Row Tag="LOC_CIVINFO_GEDEMO_MOROCCO_LOCATION" Language="zh_Hans_CN">
+			<Text>北非</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_GEDEMO_MOROCCO_POPULATION" Language="zh_Hans_CN">
+			<Text>约3431万4130人</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_GEDEMO_MOROCCO_SIZE" Language="zh_Hans_CN">
+			<Text>约27万4460平方英里（44万6550平方公里）</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_GEDEMO_MOROCCO_CAPITAL" Language="zh_Hans_CN">
+			<Text>马拉喀什</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_GEDEMO_MOROCCO_CHAPTER_HISTORY_PARA_1" Language="zh_Hans_CN">
+			<Text>包括摩洛哥在内的这块土地数十万年来一直是人类的家园。在埃塞俄比亚发现了距今16万年前的早期智人的化石。在公元前6000年到公元前3000年之间，马格里布地区出现了一个新石器时期的文明，那时的气候没有现在这么干旱。这个文明发展成了后来的柏柏尔人。公元前2000年左右，随着农业拓展，阿特拉斯山脉的山麓丘陵地带和大西洋沿岸地区产生了一种语言，柏柏尔语。</Text>
+		</Row>
+
+		<!--Cities-->
+		<Row Tag="LOC_CITY_NAME_GEDEMO_MOROCCO_1" Language="zh_Hans_CN">
+			<Text>马拉喀什</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_GEDEMO_MOROCCO_2" Language="zh_Hans_CN">
+			<Text>菲斯</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_GEDEMO_MOROCCO_3" Language="zh_Hans_CN">
+			<Text>丹吉尔</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_GEDEMO_MOROCCO_4" Language="zh_Hans_CN">
+			<Text>卡萨布兰卡</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_GEDEMO_MOROCCO_5" Language="zh_Hans_CN">
+			<Text>拉巴特</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_GEDEMO_MOROCCO_6" Language="zh_Hans_CN">
+			<Text>萨累</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_GEDEMO_MOROCCO_7" Language="zh_Hans_CN">
+			<Text>梅克内斯</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_GEDEMO_MOROCCO_8" Language="zh_Hans_CN">
+			<Text>乌季达</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_GEDEMO_MOROCCO_9" Language="zh_Hans_CN">
+			<Text>盖尼特拉</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_GEDEMO_MOROCCO_10" Language="zh_Hans_CN">
+			<Text>阿加迪尔</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_GEDEMO_MOROCCO_11" Language="zh_Hans_CN">
+			<Text>得土安</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_GEDEMO_MOROCCO_12" Language="zh_Hans_CN">
+			<Text>特马拉</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_GEDEMO_MOROCCO_13" Language="zh_Hans_CN">
+			<Text>萨菲</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_GEDEMO_MOROCCO_14" Language="zh_Hans_CN">
+			<Text>穆罕默迪耶</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_GEDEMO_MOROCCO_15" Language="zh_Hans_CN">
+			<Text>胡里卜盖</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_GEDEMO_MOROCCO_16" Language="zh_Hans_CN">
+			<Text>贾迪达</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_GEDEMO_MOROCCO_17" Language="zh_Hans_CN">
+			<Text>贝尼迈拉勒</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_GEDEMO_MOROCCO_18" Language="zh_Hans_CN">
+			<Text>艾蒂梅洛尔</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_GEDEMO_MOROCCO_19" Language="zh_Hans_CN">
+			<Text>纳祖尔</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_GEDEMO_MOROCCO_20" Language="zh_Hans_CN">
+			<Text>达尔穆阿扎</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_GEDEMO_MOROCCO_21" Language="zh_Hans_CN">
+			<Text>塔扎</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_GEDEMO_MOROCCO_22" Language="zh_Hans_CN">
+			<Text>塞塔特</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_GEDEMO_MOROCCO_23" Language="zh_Hans_CN">
+			<Text>拜赖希德</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_GEDEMO_MOROCCO_24" Language="zh_Hans_CN">
+			<Text>海米萨特</Text>
+		</Row>
+
+		<!--Citizens-->
+		<Row Tag="LOC_CITIZEN_GEDEMO_MOROCCO_MALE_1" Language="zh_Hans_CN">
+			<Text>穆罕默德</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_GEDEMO_MOROCCO_MALE_2" Language="zh_Hans_CN">
+			<Text>里达</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_GEDEMO_MOROCCO_MALE_3" Language="zh_Hans_CN">
+			<Text>阿布多</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_GEDEMO_MOROCCO_MALE_4" Language="zh_Hans_CN">
+			<Text>拉希德</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_GEDEMO_MOROCCO_MALE_5" Language="zh_Hans_CN">
+			<Text>萨拉赫</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_GEDEMO_MOROCCO_MALE_6" Language="zh_Hans_CN">
+			<Text>拜德尔</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_GEDEMO_MOROCCO_MALE_7" Language="zh_Hans_CN">
+			<Text>舒凯里</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_GEDEMO_MOROCCO_MALE_8" Language="zh_Hans_CN">
+			<Text>德瑞斯</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_GEDEMO_MOROCCO_MALE_9" Language="zh_Hans_CN">
+			<Text>法里</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_GEDEMO_MOROCCO_MALE_10" Language="zh_Hans_CN">
+			<Text>胡阿里</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_GEDEMO_MOROCCO_FEMALE_1" Language="zh_Hans_CN">
+			<Text>阿苏梅</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_GEDEMO_MOROCCO_FEMALE_2" Language="zh_Hans_CN">
+			<Text>法蒂玛</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_GEDEMO_MOROCCO_FEMALE_3" Language="zh_Hans_CN">
+			<Text>诺哈</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_GEDEMO_MOROCCO_FEMALE_4" Language="zh_Hans_CN">
+			<Text>吉塔</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_GEDEMO_MOROCCO_FEMALE_5" Language="zh_Hans_CN">
+			<Text>伊内丝</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_GEDEMO_MOROCCO_FEMALE_6" Language="zh_Hans_CN">
+			<Text>奥茜卡</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_GEDEMO_MOROCCO_FEMALE_7" Language="zh_Hans_CN">
+			<Text>达莉拉</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_GEDEMO_MOROCCO_FEMALE_8" Language="zh_Hans_CN">
+			<Text>艾尔达乌娅</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_GEDEMO_MOROCCO_FEMALE_9" Language="zh_Hans_CN">
+			<Text>法蒂娅</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_GEDEMO_MOROCCO_FEMALE_10" Language="zh_Hans_CN">
+			<Text>哈利玛</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_GEDEMO_MOROCCO_MODERN_MALE_1" Language="zh_Hans_CN">
+			<Text>汉姆扎</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_GEDEMO_MOROCCO_MODERN_MALE_2" Language="zh_Hans_CN">
+			<Text>奥马尔</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_GEDEMO_MOROCCO_MODERN_MALE_3" Language="zh_Hans_CN">
+			<Text>梅迪</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_GEDEMO_MOROCCO_MODERN_MALE_4" Language="zh_Hans_CN">
+			<Text>阿尤布</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_GEDEMO_MOROCCO_MODERN_MALE_5" Language="zh_Hans_CN">
+			<Text>卡里姆</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_GEDEMO_MOROCCO_MODERN_MALE_6" Language="zh_Hans_CN">
+			<Text>贾利勒</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_GEDEMO_MOROCCO_MODERN_MALE_7" Language="zh_Hans_CN">
+			<Text>马苏德</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_GEDEMO_MOROCCO_MODERN_MALE_8" Language="zh_Hans_CN">
+			<Text>纳吉</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_GEDEMO_MOROCCO_MODERN_MALE_9" Language="zh_Hans_CN">
+			<Text>内姆</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_GEDEMO_MOROCCO_MODERN_MALE_10" Language="zh_Hans_CN">
+			<Text>那比尔</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_GEDEMO_MOROCCO_MODERN_FEMALE_1" Language="zh_Hans_CN">
+			<Text>艾雅</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_GEDEMO_MOROCCO_MODERN_FEMALE_2" Language="zh_Hans_CN">
+			<Text>雅斯敏</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_GEDEMO_MOROCCO_MODERN_FEMALE_3" Language="zh_Hans_CN">
+			<Text>纳迪娅</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_GEDEMO_MOROCCO_MODERN_FEMALE_4" Language="zh_Hans_CN">
+			<Text>法蒂</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_GEDEMO_MOROCCO_MODERN_FEMALE_5" Language="zh_Hans_CN">
+			<Text>法拉</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_GEDEMO_MOROCCO_MODERN_FEMALE_6" Language="zh_Hans_CN">
+			<Text>卡蒂雅</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_GEDEMO_MOROCCO_MODERN_FEMALE_7" Language="zh_Hans_CN">
+			<Text>玛珍</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_GEDEMO_MOROCCO_MODERN_FEMALE_8" Language="zh_Hans_CN">
+			<Text>纳茜拉</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_GEDEMO_MOROCCO_MODERN_FEMALE_9" Language="zh_Hans_CN">
+			<Text>哈希达</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_GEDEMO_MOROCCO_MODERN_FEMALE_10" Language="zh_Hans_CN">
+			<Text>陶菲卡</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_C15_COLONY_NAMES_INEZGANE" Language="zh_Hans_CN">
+			<Text>伊奈兹甘</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_C15_COLONY_NAMES_LARACHE" Language="zh_Hans_CN">
+			<Text>拉腊什</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_C15_COLONY_NAMES_KSAREL" Language="zh_Hans_CN">
+			<Text>凯比尔堡</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_C15_COLONY_NAMES_YOUSSOUFIA" Language="zh_Hans_CN">
+			<Text>尤素菲耶</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_C15_COLONY_NAMES_MHAMID" Language="zh_Hans_CN">
+			<Text>迈哈米德</Text>
+		</Row>
+
+		<!--MOD SUPPORT-->
+		<!--JFD Rule with Faith-->
+		<Row Tag="LOC_CIVILIZATION_GEDEMO_MOROCCO_DESCRIPTION_JFD_CIVILIZATION" Language="zh_Hans_CN">
+			<Text>摩洛哥文明</Text>
+		</Row>
+		
+		<!--LEADER-->
+		<Row Tag="LOC_LEADER_GEDEMO_ALMANSUR" Language="zh_Hans_CN">
+			<Text>艾哈迈德·曼苏尔</Text>
+		</Row>
+
+		<!--DOM-->
+		<Row Tag="LOC_LOADING_INFO_LEADER_GEDEMO_ALMANSUR" Language="zh_Hans_CN">
+			<Text>伟大的萨阿迪王朝苏丹艾哈迈德·曼苏尔，摩洛哥人民等待着您的领导。众所周知，您擅长谈判与外交技巧，因为您善于辞令的关系而缔结了新的联盟，在过去的数十年来确保您国家与人民的主权。但如果对方不同意好好交谈的话，您也是一位成功的征服者。您带领摩洛哥军队在战场上取得胜利，同时大幅扩张您的帝国领土。睿智且备受尊崇的苏丹，人民期待您的领导。您能在外交技巧与对手匹敌，或者选择用武力与之交手吗？您曾经伟大的王国渴望昔日的辉煌，您能建起一个经得住时间考验的文明吗？ </Text>
+		</Row>
+
+		<!--Civilopedia-->
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_GEDEMO_ALMANSUR_TITLE" Language="zh_Hans_CN">
+			<Text>苏丹</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_GEDEMO_ALMANSUR_SUBTITLE" Language="zh_Hans_CN">
+			<Text>萨阿迪</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_GEDEMO_ALMANSUR_QUOTE" Language="zh_Hans_CN">
+			<Text>我是一个具有渊博伊斯兰学识的人，书籍、书法和数学爱好者，也是秘密文献鉴赏家和学术爱好者。</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_GEDEMO_ALMANSUR_CHAPTER_HISTORY_PARA_1" Language="zh_Hans_CN">
+			<Text>艾哈迈德·曼苏尔是北非历史上最有影响力的领袖之一，他对摩洛哥的未来发展有着极其深远的影响。公元16世纪，艾哈迈德·曼苏尔成为了萨阿迪王朝的第六任苏丹，他以其机智狡猾的外交手腕而闻名于世。正是在他的影响下，摩洛哥成为了文艺复兴时期世界舞台上的重要一员。</Text>
+		</Row>
+
+		<!--Diplomacy-->
+		<!--FIRST MEET-->
+		<!--First AI line-->
+		<Row Tag="LOC_DIPLO_FIRST_MEET_LEADER_GEDEMO_ALMANSUR_ANY" Language="zh_Hans_CN">
+			<Text>我是艾哈迈德·曼苏尔，很高兴见到你。</Text>
+		</Row>
+		<!--AI invitation to visit nearby City-->
+		<Row Tag="LOC_DIPLO_FIRST_MEET_VISIT_RECIPIENT_LEADER_GEDEMO_ALMANSUR_ANY" Language="zh_Hans_CN">
+			<Text>你想参观一下我们美丽的城市吗？</Text>
+		</Row>
+		<!--AI accepts Human invitation-->
+		<Row Tag="LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_POSITIVE_LEADER_GEDEMO_ALMANSUR_ANY" Language="zh_Hans_CN">
+			<Text>谢谢你。</Text>
+		</Row>
+		<!--AI invitation to exchange Capital Information-->
+		<Row Tag="LOC_DIPLO_FIRST_MEET_NO_MANS_INFO_EXCHANGE_LEADER_GEDEMO_ALMANSUR_ANY" Language="zh_Hans_CN">
+			<Text>让我们分享首都的信息。</Text>
+		</Row>
+		<!--GREETINGS-->
+		<Row Tag="LOC_DIPLO_GREETING_LEADER_GEDEMO_ALMANSUR_ANY" Language="zh_Hans_CN">
+			<Text>你好！什么风把你吹来了，朋友？</Text>
+		</Row>
+		<!--DELEGATION-->
+		<!--AI Accepts-->
+		<Row Tag="LOC_DIPLO_ACCEPT_DELEGATION_FROM_HUMAN_LEADER_GEDEMO_ALMANSUR_ANY" Language="zh_Hans_CN">
+			<Text>谢谢你，朋友。</Text>
+		</Row>
+		<!--AI Rejects-->
+		<Row Tag="LOC_DIPLO_REJECT_DELEGATION_FROM_HUMAN_LEADER_GEDEMO_ALMANSUR_ANY" Language="zh_Hans_CN">
+			<Text>也许下次吧？</Text>
+		</Row>
+		<!--AI Requests -->
+		<Row Tag="LOC_DIPLO_DELEGATION_FROM_AI_LEADER_GEDEMO_ALMANSUR_ANY" Language="zh_Hans_CN">
+			<Text>我已派遣了使者到你们的首都，如果你能款待他们，我将不胜荣幸。</Text>
+		</Row>
+		<!--OPEN BORDERS-->
+		<!--AI accepts from human-->
+		<Row Tag="LOC_DIPLO_ACCEPT_OPEN_BORDERS_FROM_HUMAN_LEADER_GEDEMO_ALMANSUR_ANY" Language="zh_Hans_CN">
+			<Text>就这样吧。</Text>
+		</Row>
+		<!--AI rejects from human-->
+		<Row Tag="LOC_DIPLO_REJECT_OPEN_BORDERS_FROM_HUMAN_LEADER_GEDEMO_ALMANSUR_ANY" Language="zh_Hans_CN">
+			<Text>我现在不能同意。</Text>
+		</Row>
+		<!--AI requests from human-->
+		<Row Tag="LOC_DIPLO_OPEN_BORDERS_FROM_AI_LEADER_GEDEMO_ALMANSUR_ANY" Language="zh_Hans_CN">
+			<Text>我们可以通过你的领土吗？</Text>
+		</Row>
+		<!--DECLARE FRIENDSHIP-->
+		<!--AI accepts from human-->
+		<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_HUMAN_LEADER_GEDEMO_ALMANSUR_ANY" Language="zh_Hans_CN">
+			<Text>好极！</Text>
+		</Row>
+		<!--AI Rejects from human -->
+		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_HUMAN_LEADER_GEDEMO_ALMANSUR_ANY" Language="zh_Hans_CN">
+			<Text>抱歉，我现在不能同意。</Text>
+		</Row>
+		<!--AI Requests friendship from human-->
+		<Row Tag="LOC_DIPLO_DECLARE_FRIEND_FROM_AI_LEADER_GEDEMO_ALMANSUR_ANY" Language="zh_Hans_CN">
+			<Text>让我们向世界宣告我们的友谊。</Text>
+		</Row>
+		<!--Human accepts AI requests, AI responds-->
+		<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_GEDEMO_ALMANSUR_ANY" Language="zh_Hans_CN">
+			<Text>谢谢你。</Text>
+		</Row>
+		<!--Human rejects AI requests, AI responds-->
+		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_GEDEMO_ALMANSUR_ANY" Language="zh_Hans_CN">
+			<Text>噢。也许下次吧。</Text>
+		</Row>
+		<!--ALLIANCE-->
+		<!--AI Requests an alliance from human-->
+		<Row Tag="LOC_DIPLO_MAKE_ALLIANCE_FROM_AI_LEADER_GEDEMO_ALMANSUR_ANY" Language="zh_Hans_CN">
+			<Text>来吧，让我们将友谊铸造成更伟大的事物。</Text>
+		</Row>
+		<!--KUDOS & WARNINGS-->
+		<!--AI Kudos-->
+		<Row Tag="LOC_DIPLO_KUDO_EXIT_LEADER_GEDEMO_ALMANSUR_ANY" Language="zh_Hans_CN">
+			<Text>好，很好……</Text>
+		</Row>
+		<!--AI Warnings-->
+		<Row Tag="LOC_DIPLO_WARNING_EXIT_LEADER_GEDEMO_ALMANSUR_ANY" Language="zh_Hans_CN">
+			<Text>不要以为你的所作所为没有被注意到。</Text>
+		</Row>
+		<!--AI warns player for border troops-->
+		<Row Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_LEADER_GEDEMO_ALMANSUR_ANY" Language="zh_Hans_CN">
+			<Text>我希望你们边境上的军队不是为了来恐吓我。</Text>
+		</Row>
+		<!--TRADE-->
+		<!--AI Accepts Deal-->
+		<Row Tag="LOC_DIPLO_ACCEPT_MAKE_DEAL_FROM_AI_LEADER_GEDEMO_ALMANSUR_ANY" Language="zh_Hans_CN">
+			<Text>非常好。</Text>
+		</Row>
+		<!--AI Rejects Deal-->
+		<Row Tag="LOC_DIPLO_REJECT_MAKE_DEAL_FROM_AI_LEADER_GEDEMO_ALMANSUR_ANY" Language="zh_Hans_CN">
+			<Text>...</Text>
+		</Row>
+		<!--DENOUNCE-->
+		<!--From Human-->
+		<Row Tag="LOC_DIPLO_DENOUNCE_FROM_HUMAN_LEADER_GEDEMO_ALMANSUR_ANY" Language="zh_Hans_CN">
+			<Text>朋友……这样吗？</Text>
+		</Row>
+		<!--From AI-->
+		<Row Tag="LOC_DIPLO_DENOUNCE_FROM_AI_LEADER_GEDEMO_ALMANSUR_ANY" Language="zh_Hans_CN">
+			<Text>看到你堕落到如此地步……我真是痛心。[NEWLINE]（谴责你）</Text>
+		</Row>
+		<!--DECLARE WAR-->
+		<!--Human Declares War-->
+		<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_HUMAN_LEADER_GEDEMO_ALMANSUR_ANY" Language="zh_Hans_CN">
+			<Text>你若希望，我们必不退缩。</Text>
+		</Row>
+		<!--AI Declares War-->
+		<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_GEDEMO_ALMANSUR_ANY" Language="zh_Hans_CN">
+			<Text>适可而止吧。现在是你为自己的罪责承担责任的时候了。</Text>
+		</Row>
+		<!--MAKE PEACE-->
+		<!--AI accepts from human-->
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_AI_ACCEPT_DEAL_LEADER_GEDEMO_ALMANSUR_ANY" Language="zh_Hans_CN">
+			<Text>终于和平了。</Text>
+		</Row>
+		<!--AI refuses human-->
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_AI_REFUSE_DEAL_LEADER_GEDEMO_ALMANSUR_ANY" Language="zh_Hans_CN">
+			<Text>和平时刻尚未到来。</Text>
+		</Row>
+		<!--AI requests from human-->
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_FROM_AI_LEADER_GEDEMO_ALMANSUR_ANY" Language="zh_Hans_CN">
+			<Text>请让我们结束这场可怕的冲突。</Text>
+		</Row>
+		<!--DEFEAT-->
+		<!--AI is Defeated-->
+		<Row Tag="LOC_DIPLO_DEFEAT_FROM_AI_LEADER_GEDEMO_ALMANSUR_ANY" Language="zh_Hans_CN">
+			<Text>在腐败中，保持廉洁体系是有好处的。</Text>
+		</Row>
+		<!--Human is Defeated (will see this in hotseat)-->
+		<Row Tag="LOC_DIPLO_DEFEAT_FROM_HUMAN_LEADER_GEDEMO_ALMANSUR_ANY" Language="zh_Hans_CN">
+			<Text>[LOC_DIPLO_DEFEAT_FROM_AI_LEADER_GEDEMO_ALMANSUR_ANY]</Text>
+		</Row>
+
+		<!--Traits-->
+		<Row Tag="LOC_TRAIT_LEADER_GEDEMO_ALMANSUR_LTRAIT_NAME" Language="zh_Hans_CN">
+			<Text>励精图治</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_LEADER_GEDEMO_ALMANSUR_LTRAIT_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>放置 [ICON_DISTRICT_COMMERCIAL_HUB] 商业中心时获得50点 [ICON_CULTURE] 文化值；当 [ICON_DISTRICT_COMMERCIAL_HUB] 商业中心建造完成时，免费获得1个商人单位。</Text>
+		</Row>
+
+		<Row Tag="LOC_TRAIT_CIVILIZATION_GEDEMO_MOROCCO_CIV_TRAIT_NAME" Language="zh_Hans_CN">
+			<Text>非洲门户</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_CIVILIZATION_GEDEMO_MOROCCO_CIV_TRAIT_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>国际 [ICON_TradeRoute] 贸易路线产出+1 [ICON_PRODUCTION] 生产力，中世纪时提升至+2 [ICON_PRODUCTION] 生产力，现代时提升至+3 [ICON_PRODUCTION] 生产力。</Text>
+		</Row>
+
+		<Row Tag="LOC_AGENDA_GEDEMO_ALMANSUR_NAME" Language="zh_Hans_CN">
+			<Text>虚妄哈里发</Text>
+		</Row>
+		<Row Tag="LOC_AGENDA_GEDEMO_ALMANSUR_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>试图拥有最高的每回合收入。尊重其他高收入的文明。</Text>
+		</Row>
+		
+		<Row Tag="LOC_NAMED_RIVER_LOUKKOS_NAME"  Language="zh_Hans_CN">
+			<Text>卢克科斯河</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_RIVER_SEBU_NAME"  Language="zh_Hans_CN">
+			<Text>塞布河</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_RIVER_DRAA_NAME"  Language="zh_Hans_CN">
+			<Text>德拉河</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_RIVER_SOUS_NAME"  Language="zh_Hans_CN">
+			<Text>苏斯河</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_RIVER_TENSIFT_NAME"  Language="zh_Hans_CN">
+			<Text>坦西夫特河</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_MOUNTAIN_JBEL_SAGHRO_NAME"  Language="zh_Hans_CN">
+			<Text>杰贝尔·萨赫罗山</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_MOUNTAIN_TOUBKAL_NAME"  Language="zh_Hans_CN">
+			<Text>图卜卡勒山</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_MOUNTAIN_JBEL_BOU_NAME"  Language="zh_Hans_CN">
+			<Text>杰贝尔·布纳瑟山</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_MOUNTAIN_IGHIL_NAME"  Language="zh_Hans_CN">
+			<Text>姆贡山</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_MOUNTAIN_RIF_NAME"  Language="zh_Hans_CN">
+			<Text>里夫山</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_VOLCANO_HEBRI_NAME"  Language="zh_Hans_CN">
+			<Text>杰贝尔·希伯来火山</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_VOLCANO_KOUDIATE_NAME"  Language="zh_Hans_CN">
+			<Text>杰贝尔·埃尔·考迪亚特火山</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_VOLCANO_OUTGUI_NAME"  Language="zh_Hans_CN">
+			<Text>杰贝尔·奥吉火山</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_VOLCANO_TAMARRAKOIT_NAME"  Language="zh_Hans_CN">
+			<Text>杰贝尔·塔马拉科特火山</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_VOLCANO_SIRWA_NAME"  Language="zh_Hans_CN">
+			<Text>杰贝尔·希尔瓦火山</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_DESERT_CHEBBI_NAME"  Language="zh_Hans_CN">
+			<Text>丘比沙丘</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_DESERT_CHEGAGA_NAME"  Language="zh_Hans_CN">
+			<Text>查嘉嘉沙丘</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_DESERT_TINFOU_NAME"  Language="zh_Hans_CN">
+			<Text>汀弗沙丘</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_DESERT_YOUDI_NAME"  Language="zh_Hans_CN">
+			<Text>埃尔·尤迪沙漠</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_DESERT_SMAR_NAME"  Language="zh_Hans_CN">
+			<Text>斯玛沙漠</Text>
+		</Row>
+	</LocalizedText>
+</GameData>

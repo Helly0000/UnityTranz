@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!-- Sukritact's Ngorongoro Crater_Localization_CN -->
+<!-- Author: Clear8Sky -->
+<!-- DateCreated: 3/13/2020 6:19:56 PM -->
+<GameData>
+	<LocalizedText>
+		<Row Tag="LOC_FEATURE_SUK_NGORONGORO_CRATER_NAME" Language="zh_Hans_CN">
+			<Text>恩戈罗恩戈罗火山口</Text>
+		</Row>
+		<Row Tag="LOC_FEATURE_SUK_NGORONGORO_CRATER_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>占3个单元格的自然奇观。提供+2 [ICON_FOOD] 食物、+2 [ICON_SCIENCE] 科技值。相邻魅力在“迷人的”及以上的单元格，在未被改良时可获得+1 [ICON_GOLD] 金币、+1 [ICON_SCIENCE] 科技值；被改良后则变为+1 [ICON_Culture] 文化值。</Text>
+		</Row>
+		<Row Tag="LOC_FEATURE_SUK_NGORONGORO_CRATER_QUOTE" Language="zh_Hans_CN">
+			<Text>“没人敢说自己能永远定居于某处；只有群山，能岿然不动，安于此地。”[NEWLINE]– 马赛谚语</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_FEATURES_PAGE_FEATURE_SUK_NGORONGORO_CRATER_CHAPTER_HISTORY_PARA_1" Language="zh_Hans_CN">
+			<Text>恩戈罗恩戈罗火山口是世界上最大的完整火山口，风景优美，野生动物群集，是地球上最伟大的自然奇观之一。火山口及其周围地区生活着大约25000只大型动物，栖息着一系列濒危物种，如黑犀牛、非洲野狗、非洲金猫和近500种鸟类。[NEWLINE]它是地球上最大的动物迁徙地之一：每年有超过100万头角马、7.2万匹斑马、3万只汤普森瞪羚和格兰特瞪羚迁入或迁离火山口。[NEWLINE]火山口是面积更大的恩戈罗恩戈罗自然保护区的一部分。该保护区于1959年建立，是一片多用地区域，野生动物在此与实行传统牲畜放牧的半游牧马赛牧民共存。</Text>
+		</Row>
+	</LocalizedText>
+</GameData>

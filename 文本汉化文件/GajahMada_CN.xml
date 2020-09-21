@@ -1,0 +1,249 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- GajahMada_CN -->
+<!-- Author: 春 -->
+<!-- DateCreated: 5/29/2020 11:33:06 AM -->
+<GameData>
+	<LocalizedText>
+		<Replace Language="zh_Hans_CN" Tag="LOC_LEADER_CVS_GAJAH_MADA_NAME">
+			<Text>加查·玛达</Text>
+		</Replace>
+		<Replace Language="zh_Hans_CN" Tag="LOC_TRAIT_LEADER_CVS_GAJAH_MADA_UA_NAME">
+			<Text>帕拉帕誓言</Text>
+		</Replace>
+		<Replace Language="zh_Hans_CN" Tag="LOC_TRAIT_LEADER_CVS_GAJAH_MADA_UA_DESCRIPTION">
+			<Text>军事单位在您 [ICON_Capital] 首都所在大陆进攻区域时+5 [ICON_Strength] 战斗力。你每个在首都所在大陆建立的城市为宫殿提供+1 [ICON_Food] 食物，每个在首都所在大陆攻占的城市为宫殿提供+1 [ICON_Production] 生产力。</Text>
+		</Replace>
+
+				<!--DOM-->
+				<Row Tag="LOC_LOADING_INFO_LEADER_CVS_GAJAH_MADA" Language="zh_Hans_CN">
+					<Text>荣耀与你同在，伟大的英雄加查·玛达，满者伯夷的首相，马来群岛的统一者。你在战场上的那些光辉事迹，只有你那个发誓要将遥远的印度尼西亚群岛统一起来的传奇故事才能与之媲美。你的人民渴望一个能给他们带来繁荣的强大领袖，所以，请你为他们带去繁荣吧！实现你的誓言，将马来群岛永远置于你的文明的光辉之下！</Text>
+				</Row>
+
+				<!--Civilopedia-->
+				<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_CVS_GAJAH_MADA_TITLE" Language="zh_Hans_CN">
+					<Text>加查·玛达</Text>
+				</Row>
+				<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_CVS_GAJAH_MADA_SUBTITLE" Language="zh_Hans_CN">
+					<Text>满者伯夷帝国首相</Text>
+				</Row>
+				<Row Tag="LOC_PEDIA_LEADERS_PAGE_CVS_GAJAH_MADA_QUOTE" Language="zh_Hans_CN">
+					<Text>如果我成功征服了努山达拉，那我将打破我的斋戒。如果莪仑、塞兰岛、丹绒普拉、哈鲁、彭亨、多姆波、巴厘岛、巽他古陆、巨港以及淡马锡，悉数被征服，那我将打破我的斋戒。</Text>
+				</Row>
+				<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_CVS_GAJAH_MADA_CHAPTER_HISTORY_PARA_1" Language="zh_Hans_CN">
+					<Text>“加查·玛达”意为大象将军，作为印尼民族英雄和爱国主义的象征，14世纪时他作为首相的这段岁月是印尼历史上最强大的时期。有关他幼年和成长经历的记录存留很少，只知道他出生于平民家庭，靠着机智狡猾上位，并且在战场上心狠手辣。作为一个国王侍卫，他帮助镇压了叛乱，从此步入了统治阶层，最终登上首相宝座。加查·玛达领导满者伯夷盛极一时，兼并了许多周围的岛国，奠定了现代印尼的版图。</Text>
+				</Row>
+				<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_CVS_GAJAH_MADA_CHAPTER_HISTORY_PARA_2" Language="zh_Hans_CN">
+					<Text>加查·玛达最早出现在历史中是在他的成年时代，作为国王查耶纳卡拉（1309-1328在位）的侍卫队长。期间，满者伯夷官员古蒂反叛并控制了都城，加查·玛达知悉了阴谋，护送国王躲到了临近的城市巴丹德尔。在确保国王的安全以后，加查玛达假传国王已死的谣言，瓦解的叛军的斗志，同时组织了军队一举夺回了首都，助国王复位。加查·玛达发现军队对国王的死讯非常吃惊，古蒂也因此失去了军队的支持，其在镇压中丧生，而加查·玛达也因在这次事件中出色的表现也得到奖赏。</Text>
+				</Row>
+				<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_CVS_GAJAH_MADA_CHAPTER_HISTORY_PARA_3" Language="zh_Hans_CN">
+					<Text>根据传说，若干年后加查·玛达被国王抢了老婆，他怀恨在心，撺唆一个曾经支持古蒂的御医趁给国王看病的时候将其谋害，得逞后又卸磨杀驴。不管真相如何，查耶纳卡拉死后，他的拖油瓶妹妹翠布瓦娜·维贾亚通加登上王位，立志扩张国土。加查·玛达深受女王信任，1329年，他被任命为“麻喏巴歇巴迪”（首相）。权柄在握的加查·玛达也将自己的命运同国家联系在一起，把目光瞄准了国家的边疆。他在流传于世演绎出许多版本的帕拉帕誓言中说到，假如我无法征服所有已知的岛屿，我就不会品尝水果香料和凡间的享乐。</Text>
+				</Row>
+				<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_CVS_GAJAH_MADA_CHAPTER_HISTORY_PARA_4" Language="zh_Hans_CN">
+					<Text>1331年，加查·玛达前往位于东爪哇的萨登镇压叛乱，凯旋而归不久后，就开始着手征服周边的岛屿。1343年，巴厘和龙目最先被收入囊中。他为了人民的荣耀而战，逐步攻占各个王国与部落，地区和城市，包括了位于巨港的佛教国家三佛齐和西苏门答腊的一些小王国，扶植了一个满者伯夷的王公作为附庸。随后大象将军又让印尼最早的伊斯兰国家苏木都剌臣服，接着，他在两年间又征服了6个王国与城市，包括海峡对岸的淡马锡（今新加坡）。</Text>
+				</Row>
+				<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_CVS_GAJAH_MADA_CHAPTER_HISTORY_PARA_5" Language="zh_Hans_CN">
+					<Text>1350年，特里布瓦娜将王位传给了她的儿子哈奄·武禄，他也是满者伯夷历史上最伟大的国王。他统治的印尼达到了史上最大的版图，包括了整个印尼群岛,商业和文化艺术也繁荣发展。国王让他的首相全权负责政事，自己则醉心于发展艺术和科技。加查·玛达在国王的支持下为帝国征服了12个小王国，有些甚至远至今马来西亚和菲律宾南部。</Text>
+				</Row>
+				<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_CVS_GAJAH_MADA_CHAPTER_HISTORY_PARA_6" Language="zh_Hans_CN">
+					<Text>1357年，加查·玛达已经打下了近十个岛屿，他发现他面临着一个强劲的对手，仅存的几个独立王国之一——位于西爪哇的巽他。尽管双方已决定让巽他公主和武禄王联姻，加查·玛达仍然在寻求吞并巽他的办法。加查·玛达坚持巽他公主只能做武禄王的妾而不是王后，以此激怒巽他。在布巴特镇的婚礼上，双方的协商从争吵变成了打斗，加查·玛达和他的士兵杀害了巽他王室和王室卫队。</Text>
+				</Row>
+				<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_CVS_GAJAH_MADA_CHAPTER_HISTORY_PARA_7" Language="zh_Hans_CN">
+					<Text>过激的鲁莽行为损害了加查·玛达的形象，廷臣们指责他嗜血且残忍，国王也因此剥夺了他的头衔权力和荣誉。这个帝国最有权力的人物在东爪哇孤独度过余生，约在1363年默默死去。</Text>
+				</Row>
+				<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_CVS_GAJAH_MADA_CHAPTER_HISTORY_PARA_8" Language="zh_Hans_CN">
+					<Text>在现代印尼，加查·玛达被当作一个英雄人物，印尼民族荣耀和爱国主义的象征。加查·玛达是激励人们从平凡走向伟大的榜样。他是印尼人民反抗日本和荷兰统治，追求独立的精神支柱。他古往今来第一次统合了印尼诸岛的传奇经历，和对人民与国王的忠诚奉献精神一起被历史铭记。</Text>
+				</Row>
+
+				<!--Diplomacy-->
+				<!--FIRST MEET-->
+				<!--First AI line-->
+				<Row Tag="LOC_DIPLO_FIRST_MEET_LEADER_CVS_GAJAH_MADA_ANY" Language="zh_Hans_CN">
+					<Text>在你面前的是伟大的战士和首相，马来群岛的加查·玛达，你有什么要说的？</Text>
+				</Row>
+				<!--AI invitation to visit nearby City-->
+				<Row Tag="LOC_DIPLO_FIRST_MEET_VISIT_RECIPIENT_LEADER_CVS_GAJAH_MADA_ANY" Language="zh_Hans_CN">
+					<Text>满者伯夷拥有大马来群岛的所有重要岛屿——你愿意来参观它们其中的一颗明珠吗？</Text>
+				</Row>
+				<!--AI accepts Human invitation-->
+				<Row Tag="LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_POSITIVE_LEADER_CVS_GAJAH_MADA_ANY" Language="zh_Hans_CN">
+					<Text>同意。</Text>
+				</Row>
+				<!--AI invitation to exchange Capital Information-->
+				<Row Tag="LOC_DIPLO_FIRST_MEET_NO_MANS_INFO_EXCHANGE_LEADER_CVS_GAJAH_MADA_ANY" Language="zh_Hans_CN">
+					<Text>满者伯夷的宫殿以华丽与宏伟闻名。你的呢？我肯定它没有我们的好，但我还是想见识一下。你说呢？</Text>
+				</Row>
+
+				<!--GREETINGS-->
+				<Row Tag="LOC_DIPLO_GREETING_LEADER_CVS_GAJAH_MADA_ANY" Language="zh_Hans_CN">
+					<Text>说吧。</Text>
+				</Row>
+
+				<!--DELEGATION-->
+				<!--AI Accepts-->
+				<Row Tag="LOC_DIPLO_ACCEPT_DELEGATION_FROM_HUMAN_LEADER_CVS_GAJAH_MADA_ANY" Language="zh_Hans_CN">
+					<Text>很好，他们将在皇宫里受到接见——就是那栋红砖墙的房子，不会找不到的。</Text>
+				</Row>
+				<!--AI Rejects-->
+				<Row Tag="LOC_DIPLO_REJECT_DELEGATION_FROM_HUMAN_LEADER_CVS_GAJAH_MADA_ANY" Language="zh_Hans_CN">
+					<Text>除非他们是来宣誓效忠于满者伯夷的，否则我们不欢迎他们。</Text>
+				</Row>
+				<!--AI Requests -->
+				<Row Tag="LOC_DIPLO_DELEGATION_FROM_AI_LEADER_CVS_GAJAH_MADA_ANY" Language="zh_Hans_CN">
+					<Text>伟大的满者伯夷的使者渴望与你们分享我们最盛情的祝福：丰富的染料、耀眼的宝石和醉人的香料，这不过是我们王国财富的一小部分。</Text>
+				</Row>
+
+				<!--OPEN BORDERS-->
+				<!--AI accepts from human-->
+				<Row Tag="LOC_DIPLO_ACCEPT_OPEN_BORDERS_FROM_HUMAN_LEADER_CVS_GAJAH_MADA_ANY" Language="zh_Hans_CN">
+					<Text>马来的10000个岛屿——以及它们之间数不清的海洋，为你们敞开大门。</Text>
+				</Row>
+				<!--AI rejects from human-->
+				<Row Tag="LOC_DIPLO_REJECT_OPEN_BORDERS_FROM_HUMAN_LEADER_CVS_GAJAH_MADA_ANY" Language="zh_Hans_CN">
+					<Text>来的话你的船会触礁的。</Text>
+				</Row>
+				<!--AI requests from human-->
+				<Row Tag="LOC_DIPLO_OPEN_BORDERS_FROM_AI_LEADER_CVS_GAJAH_MADA_ANY" Language="zh_Hans_CN">
+					<Text>海洋跟满者伯夷一样广阔无垠。你愿意让我们进入你宣称的水域和陆地吗？</Text>
+				</Row>
+
+				<!--DECLARE FRIENDSHIP-->
+				<!--AI accepts from human-->
+				<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_HUMAN_LEADER_CVS_GAJAH_MADA_ANY" Language="zh_Hans_CN">
+					<Text>聪明的政治家从不会拒绝建立一个审慎伙伴关系的机会。</Text>
+				</Row>
+				<!--AI Rejects from human -->
+				<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_HUMAN_LEADER_CVS_GAJAH_MADA_ANY" Language="zh_Hans_CN">
+					<Text>哈！我做梦也没想过这个！</Text>
+				</Row>
+				<!--AI Requests friendship from human-->
+				<Row Tag="LOC_DIPLO_DECLARE_FRIEND_FROM_AI_LEADER_CVS_GAJAH_MADA_ANY" Language="zh_Hans_CN">
+					<Text>有些人是首相征服的对象，有些人是首相的朋友。我们给你机会成为后一种。</Text>
+				</Row>
+				<!--Human accepts AI requests, AI responds-->
+				<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_CVS_GAJAH_MADA_ANY" Language="zh_Hans_CN">
+					<Text>好极了。</Text>
+				</Row>
+				<!--Human rejects AI requests, AI responds-->
+				<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_CVS_GAJAH_MADA_ANY" Language="zh_Hans_CN">
+					<Text>你迟早会后悔的。</Text>
+				</Row>
+
+				<!--ALLIANCE-->
+				<!--AI Requests an alliance from human-->
+				<Row Tag="LOC_DIPLO_MAKE_ALLIANCE_FROM_AI_LEADER_CVS_GAJAH_MADA_ANY" Language="zh_Hans_CN">
+					<Text>马来的岛屿共同组成了大马来的力量。想象一下，如果我们两国结盟，将会衍生多伟大的力量！</Text>
+				</Row>
+				<!--AI warns player for border troops-->
+				<Row Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_LEADER_CVS_GAJAH_MADA_ANY" Language="zh_Hans_CN">
+					<Text>你的军队无法在马来群岛藏身。马上把他们撤走，否则他们会永远沉于马来群岛的海浪之下。</Text>
+				</Row>
+
+				<!--TRADE-->
+				<!--AI Accepts Deal-->
+				<Row Tag="LOC_DIPLO_ACCEPT_MAKE_DEAL_FROM_AI_LEADER_CVS_GAJAH_MADA_ANY" Language="zh_Hans_CN">
+					<Text>可以接受。</Text>
+				</Row>
+				<!--AI Rejects Deal-->
+				<Row Tag="LOC_DIPLO_REJECT_MAKE_DEAL_FROM_AI_LEADER_CVS_GAJAH_MADA_ANY" Language="zh_Hans_CN">
+					<Text>这是什么鬼扯的交易？！</Text>
+				</Row>
+
+				<!--DENOUNCE-->
+				<!--From Human-->
+				<Row Tag="LOC_DIPLO_DENOUNCE_FROM_HUMAN_LEADER_CVS_GAJAH_MADA_ANY" Language="zh_Hans_CN">
+					<Text>我为正义的满者伯夷效力，但很显然，你的目的要邪恶得多……</Text>
+				</Row>
+				<!--From AI-->
+				<Row Tag="LOC_DIPLO_DENOUNCE_FROM_AI_LEADER_CVS_GAJAH_MADA_ANY" Language="zh_Hans_CN">
+					<Text>我为正义的满者伯夷效力，但很显然，你的目的要邪恶得多……[NEWLINE]（谴责你）</Text>
+				</Row>
+
+				<!--DECLARE WAR-->
+				<!--Human Declares War-->
+				<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_HUMAN_LEADER_CVS_GAJAH_MADA_ANY" Language="zh_Hans_CN">
+					<Text>大胆！你真是个傻瓜，竟把别人看得那么弱小，以为自己能够打败满者伯夷。</Text>
+				</Row>
+				<!--AI Declares War-->
+				<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_CVS_GAJAH_MADA_ANY" Language="zh_Hans_CN">
+					<Text>别介意，你的领土对满者伯夷来说是很好的补充，如果我不去征服它们，那就是我的失职。</Text>
+				</Row>
+
+				<!--MAKE PEACE-->
+				<!--AI accepts from human-->
+				<Row Tag="LOC_DIPLO_MAKE_PEACE_AI_ACCEPT_DEAL_LEADER_CVS_GAJAH_MADA_ANY" Language="zh_Hans_CN">
+					<Text>由此，马来群岛的海水又恢复了平静，我很感激。</Text>
+				</Row>
+				<!--AI refuses human-->
+				<Row Tag="LOC_DIPLO_MAKE_PEACE_AI_REFUSE_DEAL_LEADER_CVS_GAJAH_MADA_ANY" Language="zh_Hans_CN">
+					<Text>这么容易就投降了？我们还没完呢！</Text>
+				</Row>
+				<!--AI requests from human-->
+				<Row Tag="LOC_DIPLO_MAKE_PEACE_FROM_AI_LEADER_CVS_GAJAH_MADA_ANY" Language="zh_Hans_CN">
+					<Text>让我们停止争斗吧，你说呢？</Text>
+				</Row>
+
+				<!--DEFEAT-->
+				<!--AI is Defeated-->
+				<Row Tag="LOC_DIPLO_DEFEAT_FROM_AI_LEADER_CVS_GAJAH_MADA_ANY" Language="zh_Hans_CN">
+					<Text>你也许打败了我，但你永远无法摧毁满者伯夷的精神。这就是马来人民不朽的伟大！</Text>
+				</Row>
+				<!--Human is Defeated (will see this in hotseat)-->
+				<Row Tag="LOC_DIPLO_DEFEAT_FROM_HUMAN_LEADER_CVS_GAJAH_MADA_ANY" Language="zh_Hans_CN">
+					<Text>你也许打败了我，但你永远无法摧毁满者伯夷的精神。这就是马来人民不朽的伟大！</Text>
+				</Row>
+
+
+				<!--LEADER AGENDA-->
+				<Row Tag="LOC_AGENDA_CVS_GAJAH_MADA_NAME" Language="zh_Hans_CN">
+					<Text>爪哇史颂</Text>
+				</Row>
+				<Row Tag="LOC_AGENDA_CVS_GAJAH_MADA_DESCRIPTION" Language="zh_Hans_CN">
+					<Text>加查·玛达寻求征服他的首都大陆，但欣赏向他发送贸易路线的人。</Text>
+				</Row>
+
+				<Row Tag="LOC_DIPLO_KUDO_LEADER_CVS_GAJAH_MADA_REASON_HOME" Language="zh_Hans_CN">
+					<Text>（您处于相同大陆）</Text>
+				</Row>
+				<Row Tag="LOC_DIPLO_MODIFIER_CVS_GAJAH_MADA_HOME" Language="zh_Hans_CN">
+					<Text>加查·玛达寻求统治这片大陆。</Text>
+				</Row>
+
+				<Row Tag="LOC_DIPLO_KUDO_LEADER_CVS_GAJAH_MADA_REASON_TRADE" Language="zh_Hans_CN">
+					<Text>（你与加查·玛达有贸易往来）</Text>
+				</Row>
+				<Row Tag="LOC_DIPLO_MODIFIER_CVS_GAJAH_MADA_TRADE" Language="zh_Hans_CN">
+					<Text>加查·玛达喜欢与他进行贸易的人。</Text>
+				</Row>
+
+				<!--AI Kudos-->
+				<Row Tag="LOC_DIPLO_KUDO_EXIT_LEADER_CVS_GAJAH_MADA_ANY" Language="zh_Hans_CN">
+					<Text>你的商人和财富繁荣了我的人民，作为回报，你可以品尝马来的慷慨。我自己不享用这些美食，但我不会拒绝为我们送了的财富。</Text>
+				</Row>
+				<!--AI Warnings-->
+				<Row Tag="LOC_DIPLO_WARNING_EXIT_LEADER_CVS_GAJAH_MADA_ANY" Language="zh_Hans_CN">
+					<Text>我发誓要让马来的所有土地统一在满者伯夷的旗帜下，然而你现在却在这里，不过我相信我们很快就会解决这个问题。</Text>
+				</Row>
+
+		<!-- Unit Ability -->
+		<Replace Tag="LOC_ABILITY_CVS_GAJA_MADAH_UA_PREVIEW_TEXT" Language="zh_Hans_CN">
+			<Text>在 [ICON_Capital] 首都所在大陆进攻区域时+5 [ICON_Strength] 战斗力。</Text>
+		</Replace>
+		
+		<!-- Unique Unit -->
+		<Row Tag="LOC_UNIT_CVS_GAJAH_MADA_UU_NAME" Language="zh_Hans_CN">
+			<Text>塞班</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_CVS_GAJAH_MADA_UU_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>加查·玛达作为领袖时的中世纪特色远程单位，取代弩手。攻击海军和上船单位时增加 [ICON_Ranged] 远程战斗力。</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_CVS_GAJA_MADAH_UU_ATKMOD_PREVIEW_TEXT" Language="zh_Hans_CN">
+			<Text>攻击海军和上船单位时+10 [ICON_Ranged] 远程战斗力。</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_CVS_GAJAH_MADA_UU_CHAPTER_HISTORY_PARA_1" Language="zh_Hans_CN">
+			<Text>【译者注：正在翻译……】[NEWLINE][NEWLINE]A Cetbang, also known as a Bedil or Caok, was a type of cannon use by the Majapahit Empire and other states in modern-day Indonesia. It was a form of breach-loading cannon, usually made from bronze or - in the sixteenth century - iron. Cetbangs varied in size from one to three meters in length, depending on where they were mounted, usually on ships or in fortresses. They were often employed in repelling attacks by pirates, mounted on swivel guns for ease of aiming in a variety of directions. Cetbangs were also occasionally decorated with ornamentation, such as depicting its mouth as that of a Naga serpent.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_CVS_GAJAH_MADA_UU_CHAPTER_HISTORY_PARA_2" Language="zh_Hans_CN">
+			<Text>Cannon technology was introduced to the Majapahit during Kublai Khan's invasion of Java in 1293. The Majapahit then pioneered the manufacture and mass deployment of gunpowder weapons in the region over the course of the next century, particularly during the tenure of Mahapatih (Prime Minister) Gajah Mada in the mid-fourteenth century. By the sixteenth century, production of Cetbangs had become so well refined that even the Portuguese believed them to be of excellent craftsmanship. Cetbangs and other similar gunpowder weapons remained in use for centuries after the collapse of the Majapahit Empire as common weapons aboard the many merchant ships throughout the archipelago, protecting the vast wealth and valuable goods of Nusantara.</Text>
+		</Row>
+	</LocalizedText>
+</GameData>

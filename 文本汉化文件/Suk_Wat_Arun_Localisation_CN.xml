@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!-- Suk_Wat_Arun_Localisation_CN -->
+<!-- Author: Clear8Sky -->
+<!-- DateCreated: 4/1/2020 1:12:06 PM -->
+<GameData>
+	<LocalizedText>
+		<Row Tag="LOC_BUILDING_SUK_WAT_ARUN_NAME" Language="zh_Hans_CN">
+			<Text>郑王庙</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_SUK_WAT_ARUN_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>临近河流的城市+2 [ICON_Housing] 住房，临近该奇观的区域+2 [ICON_Food] 食物。必须沿河而建。</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_WONDERS_PAGE_BUILDING_SUK_WAT_ARUN_CHAPTER_HISTORY_PARA_1" Language="zh_Hans_CN">
+			<Text>【译者注：正在翻译...】[NEWLINE][NEWLINE]Wat Arun, or the Temple of Dawn, is a Buddhist temple on the bank of the Chao Phraya river in Bangkok. A temple had existed at the site of Wat Arun since the time of the Ayutthaya Kingdom. It was then known as Wat Makok, after the village of Bang Makok in which it was situated. According to the historian Prince Damrong Rajanubhab, the temple was shown in French maps during the reign of King Narai (1656–1688), thus it is known to have existed by that date, although the precise date of the temple's founding is unsure. The temple was renamed Wat Chaeng by King Taksin when he established his new capital of Thonburi near the temple, following the fall of Ayutthaya. It is believed that Taksin vowed to restore the temple after passing it at dawn. The temple enshrined the Emerald Buddha image before it was transferred to Wat Phra Kaew on the river's eastern bank in 1785. The temple was located in grounds of the royal palace during Taksin's reign, before his successor, Rama I, moved the palace to the other side of the river. It was abandoned, for a period of time, until Rama II restored the temple and extended the pagoda to 70m. The view of the temple at night or at sunset is perhaps one of the most iconic views of Bangkok.</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_SUK_WAT_ARUN_QUOTE" Language="zh_Hans_CN">
+			<Text>午夜时分，乘上船，到达此处；恰逢月光浴于金云之中。月耀之下，黎明寺，光彩夺目。我忍住泪流，在这绝景之中。——[NEWLINE]顺通铺</Text>
+		</Row>
+	</LocalizedText>
+</GameData>

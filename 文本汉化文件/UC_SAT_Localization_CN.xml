@@ -1,0 +1,171 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!-- UC_SAT_Localization_CN -->
+<!-- Author: Clear8Sky；Flactine -->
+<!-- DateCreated: 3/27/2020 4:47:35 PM -->
+<GameData>
+	<LocalizedText>
+		<Replace Tag="LOC_C8S_SAT_POWER_REQUIREMENT_MISC" Language="zh_Hans_CN">
+			<Text>杂项耗电</Text>
+		</Replace>
+		<Replace Tag="LOC_C8S_SAT_HUD_POPUP_PROJECT_CREATED_TITLE" Language="zh_Hans_CN">
+			<Text>太空项目已经完成！</Text>
+		</Replace>
+		
+		<Row Tag="LOC_PROJECT_LAUNCH_EARTH_SATELLITE_DESCRIPTION_JNR_UC" Language="zh_Hans_CN">
+			<Text>把一颗小卫星送入轨道的太空竞赛项目。标志着科技胜利的第一步。[NEWLINE][NEWLINE]奖励+100 [ICON_GreatScientist] 大科学家点数、+100 [ICON_GreatEngineer] 大工程师点数。</Text>
+		</Row>
+		<Row Tag="LOC_PROJECT_LAUNCH_EARTH_SATELLITE_POPUP_JNR_UC" Language="zh_Hans_CN">
+			<Text>您成功地将一颗卫星发射进了轨道！大科学家与大工程师将会纷至沓来，标志着科技胜利的第一步。</Text>
+		</Row>
+		<Row Tag="LOC_PROJECT_JNR_SATELLITE_OBSERVATION_NAME" Language="zh_Hans_CN">
+			<Text>发射观测卫星</Text>
+		</Row>
+		<Row Tag="LOC_PROJECT_JNR_SATELLITE_OBSERVATION_SHORT_NAME" Language="zh_Hans_CN">
+			<Text>发射观测卫星</Text>
+		</Row>
+		<Row Tag="LOC_PROJECT_JNR_SATELLITE_OBSERVATION_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>把一个地球观测卫星星座送入轨道的航天项目。[NEWLINE][NEWLINE]揭示了世界上还未被探索的角落的地形地貌。[NEWLINE][NEWLINE]需要“卫星”科技。</Text>
+		</Row>
+		<Row Tag="LOC_PROJECT_JNR_SATELLITE_OBSERVATION_POPUP" Language="zh_Hans_CN">
+			<Text>您成功地将一个地球观测卫星星座发射进了轨道！揭示了世界上还未被探索的角落的地形地貌。</Text>
+		</Row>
+		<Row Tag="LOC_PROJECT_JNR_SATELLITE_ESPIONAGE_NAME" Language="zh_Hans_CN">
+			<Text>发射间谍卫星</Text>
+		</Row>
+		<Row Tag="LOC_PROJECT_JNR_SATELLITE_ESPIONAGE_SHORT_NAME" Language="zh_Hans_CN">
+			<Text>发射间谍卫星</Text>
+		</Row>
+		<Row Tag="LOC_PROJECT_JNR_SATELLITE_ESPIONAGE_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>把一个间谍机密卫星星座送入轨道的航天项目。[NEWLINE][NEWLINE]+1外交能见度等级。[NEWLINE]己方间谍执行进攻性任务时+1等级。[NEWLINE][NEWLINE]需要“卫星”科技。[NEWLINE]需要您帝国境内有三阶市政广场建筑。[NEWLINE]建造需要30点 [ICON_RESOURCE_ALUMINUM] 铝。</Text>
+		</Row>
+		<Row Tag="LOC_PROJECT_JNR_SATELLITE_ESPIONAGE_POPUP" Language="zh_Hans_CN">
+			<Text>您成功地将一个间谍机密卫星星座发射进了轨道！您的外交官和间谍将获得来自间谍卫星提供的情报。</Text>
+		</Row>
+		<Row Tag="LOC_PROJECT_JNR_SATELLITE_MILITARY_NAME" Language="zh_Hans_CN">
+			<Text>发射军事卫星</Text>
+		</Row>
+		<Row Tag="LOC_PROJECT_JNR_SATELLITE_MILITARY_SHORT_NAME" Language="zh_Hans_CN">
+			<Text>发射军事卫星</Text>
+		</Row>
+		<Row Tag="LOC_PROJECT_JNR_SATELLITE_MILITARY_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>把一个军事支援卫星星座送入轨道的航天项目。[NEWLINE][NEWLINE]所有单位获得+3 [ICON_Strength] 战斗力。[NEWLINE][NEWLINE]需要“卫星”科技。[NEWLINE]需要您帝国境内至少有3座三阶军营建筑。[NEWLINE]建造需要30点 [ICON_RESOURCE_ALUMINUM] 铝。</Text>
+		</Row>
+		<Row Tag="LOC_PROJECT_JNR_SATELLITE_MILITARY_POPUP" Language="zh_Hans_CN">
+			<Text>您成功地将一个军事支援卫星星座发射进了轨道！步入了信息化战争时代，军事卫星为您的所有部队提供了技术支持。</Text>
+		</Row>
+		<Row Tag="LOC_PROJECT_JNR_SATELLITE_NAVIGATION_NAME" Language="zh_Hans_CN">
+			<Text>发射导航卫星</Text>
+		</Row>
+		<Row Tag="LOC_PROJECT_JNR_SATELLITE_NAVIGATION_SHORT_NAME" Language="zh_Hans_CN">
+			<Text>发射导航卫星</Text>
+		</Row>
+		<Row Tag="LOC_PROJECT_JNR_SATELLITE_NAVIGATION_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>把一个海洋导航卫星星座送入轨道的航天项目。[NEWLINE][NEWLINE]所有海军单位和上船单位获得+1 [ICON_Movement] 移动力。[NEWLINE]对不同大陆之间的 [ICON_TradeRoute] 贸易路线提供加成：当该路线去往其他文明时可获得+4 [ICON_Gold] 金币；当该路线往返于您不同城市之间时获得+2 [ICON_Production] 生产力。[NEWLINE][NEWLINE]需要“卫星”科技。[NEWLINE]需要您帝国境内至少有3座三阶港口建筑。[NEWLINE]建造需要30点 [ICON_RESOURCE_ALUMINUM] 铝。</Text>
+		</Row>
+		<Row Tag="LOC_PROJECT_JNR_SATELLITE_NAVIGATION_POPUP" Language="zh_Hans_CN">
+			<Text>您成功地将一个海洋导航卫星星座发射进了轨道！在导航卫星的指引下，海军和运输船只将会航行得更远，洲际贸易也将更加繁荣。</Text>
+		</Row>
+		<Row Tag="LOC_PROJECT_JNR_SATELLITE_WEATHER_NAME" Language="zh_Hans_CN">
+			<Text>发射气候卫星</Text>
+		</Row>
+		<Row Tag="LOC_PROJECT_JNR_SATELLITE_WEATHER_SHORT_NAME" Language="zh_Hans_CN">
+			<Text>发射气候卫星</Text>
+		</Row>
+		<Row Tag="LOC_PROJECT_JNR_SATELLITE_WEATHER_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>把一个气候分析卫星星座送入轨道的航天项目。[NEWLINE][NEWLINE]帝国境内所有农场和梯田改良设施+1 [ICON_Food] 食物；若建造在资源上，则再+1 [ICON_Production] 生产力。[NEWLINE]+1外交胜利点数。[NEWLINE][NEWLINE]需要“卫星”科技。[NEWLINE]需要您帝国境内至少有3座三阶学院建筑。[NEWLINE]建造需要30点 [ICON_RESOURCE_ALUMINUM] 铝。</Text>
+		</Row>
+		<Row Tag="LOC_PROJECT_JNR_SATELLITE_WEATHER_POPUP" Language="zh_Hans_CN">
+			<Text>您成功地将一个气候分析卫星星座发射进了轨道！这让您的农民能够根据将要到来的天气做出正确的应对措施，同时分享气候数据也受到了国际社会的高度赞赏。</Text>
+		</Row>
+		<Row Tag="LOC_PROJECT_JNR_SATELLITE_BROADCAST_NAME" Language="zh_Hans_CN">
+			<Text>发射广播卫星</Text>
+		</Row>
+		<Row Tag="LOC_PROJECT_JNR_SATELLITE_BROADCAST_SHORT_NAME" Language="zh_Hans_CN">
+			<Text>发射广播卫星</Text>
+		</Row>
+		<Row Tag="LOC_PROJECT_JNR_SATELLITE_BROADCAST_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>把一颗文化广播卫星送入轨道的航天项目。可重复完成。[NEWLINE][NEWLINE]帝国全境+10% [ICON_Tourism] 旅游业绩。[NEWLINE][NEWLINE]需要“卫星”科技。[NEWLINE]需要您帝国境内至少有3座三阶剧院广场建筑。[NEWLINE]建造需要15点 [ICON_RESOURCE_ALUMINUM] 铝。</Text>
+		</Row>
+		<Row Tag="LOC_PROJECT_JNR_SATELLITE_BROADCAST_POPUP" Language="zh_Hans_CN">
+			<Text>您成功地将一颗文化广播卫星发射进了轨道！您的文化节目将通过卫星传播到全球范围，并吸引来自世界各地的游客。</Text>
+		</Row>
+		<Row Tag="LOC_PROJECT_JNR_SATELLITE_COMMUNICATION_NAME" Language="zh_Hans_CN">
+			<Text>发射通讯卫星</Text>
+		</Row>
+		<Row Tag="LOC_PROJECT_JNR_SATELLITE_COMMUNICATION_SHORT_NAME" Language="zh_Hans_CN">
+			<Text>发射通讯卫星</Text>
+		</Row>
+		<Row Tag="LOC_PROJECT_JNR_SATELLITE_COMMUNICATION_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>把一颗通讯交流卫星送入轨道的航天项目。可重复完成。[NEWLINE][NEWLINE]发射完成时获得3位 [ICON_ENVOY] 使者。[NEWLINE][NEWLINE]需要“卫星”科技。[NEWLINE]需要您帝国境内至少有3座三阶商业中心建筑。[NEWLINE]建造需要15点 [ICON_RESOURCE_ALUMINUM] 铝。</Text>
+		</Row>
+		<Row Tag="LOC_PROJECT_JNR_SATELLITE_COMMUNICATION_POPUP" Language="zh_Hans_CN">
+			<Text>您成功地将一颗通讯交流卫星发射进了轨道！您的帝国与城邦联系地更紧密了。</Text>
+		</Row>
+		<Row Tag="LOC_PROJECT_JNR_SATELLITE_SOLAR_POWER_NAME" Language="zh_Hans_CN">
+			<Text>发射能源卫星</Text>
+		</Row>
+		<Row Tag="LOC_PROJECT_JNR_SATELLITE_SOLAR_POWER_SHORT_NAME" Language="zh_Hans_CN">
+			<Text>发射能源卫星</Text>
+		</Row>
+		<Row Tag="LOC_PROJECT_JNR_SATELLITE_SOLAR_POWER_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>把一颗太阳能源卫星送入轨道的航天项目。可重复完成。[NEWLINE][NEWLINE]从可再生太阳能中为城市提供+6 [ICON_Power] 电力。[NEWLINE][NEWLINE]需要“卫星”科技。[NEWLINE]需要您帝国境内至少有3座二阶工业区建筑。[NEWLINE]建造需要15点 [ICON_RESOURCE_ALUMINUM] 铝。</Text>
+		</Row>
+		<Row Tag="LOC_PROJECT_JNR_SATELLITE_SOLAR_POWER_POPUP" Language="zh_Hans_CN">
+			<Text>您成功地将一颗太阳能源卫星发射进了轨道！卫星通过微波传输向这座城市提供了电力。</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_JNR_SAT_MILITARY_COMBAT_STRENGTH_BUFF_NAME" Language="zh_Hans_CN">
+			<Text>军事卫星</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_JNR_SAT_MILITARY_COMBAT_STRENGTH_BUFF_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>攻击时+3 [ICON_Strength] 战斗力 来自军事卫星网络</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_JNR_SAT_MILITARY_COMBAT_STRENGTH_BUFF_MODIFIER_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>攻击时+3 [ICON_Strength] 战斗力 来自军事卫星网络</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_JNR_SAT_NAVIGATION_SEA_MOVEMENT_BUFF_NAME" Language="zh_Hans_CN">
+			<Text>导航卫星</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_JNR_SAT_NAVIGATION_SEA_MOVEMENT_BUFF_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>+1 [ICON_Movement] 移动力 来自导航卫星网络</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_JNR_SAT_NAVIGATION_EMBARKED_BUFF_NAME" Language="zh_Hans_CN">
+			<Text>导航卫星</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_JNR_SAT_NAVIGATION_EMBARKED_BUFF_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>上船后+1 [ICON_Movement] 移动力 来自导航卫星网络</Text>
+		</Row>
+		<Row Tag="LOC_VIZSOURCE_JNR_PROJECT_SATELLITE" Language="zh_Hans_CN">
+			<Text>间谍卫星已发射</Text>
+		</Row>
+		<Row Tag="LOC_VIZSOURCE_ACTION_JNR_PROJECT_SATELLITE" Language="zh_Hans_CN">
+			<Text>发射间谍卫星。</Text>
+		</Row>
+		<Row Tag="LOC_GOSSIP_SOURCE_JNR_PROJECT_SATELLITE" Language="zh_Hans_CN">
+			<Text>您的信息情报员，{1_Name}，截获的通讯显示</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_SATELLITES_JNR_UC" Language="zh_Hans_CN">
+			<Text>完成发射地球卫星项目。</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_SATELLITES_JNR_UC" Language="zh_Hans_CN">
+			<Text>第一颗卫星成功发射，您的科学家们希望着手研究更专业的卫星系统。</Text>
+		</Row>
+		<Row Tag="LOC_DVP_TOOLTIP_JNR_WEATHER_SATELLITE" Language="zh_Hans_CN">
+			<Text>[ICON_BOLT] {1_Amount} 来自分享气候卫星数据</Text>
+		</Row>
+		<Row Tag="LOC_TECH_SATELLITES_DESCRIPTION_JNR_UC" Language="zh_Hans_CN">
+			<Text>允许发射高级卫星。</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_GRANT_PRODUCTION_IN_CITY_EARLY_SPACE_RACE_JNR_UC" Language="zh_Hans_CN">
+			<Text>为太空竞赛和卫星发射项目的建设赠予{Amount}点 [ICON_Production] 生产力。</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_GRANT_PRODUCTION_IN_CITY_LATE_SPACE_RACE_JNR_UC" Language="zh_Hans_CN">
+			<Text>为太空竞赛和卫星发射项目的建设赠予{Amount}点 [ICON_Production] 生产力。</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_SPACE_RACE_PRODUCTION_RATE_SMALL_JNR_UC" Language="zh_Hans_CN">
+			<Text>为太空竞赛和卫星发射项目+{Amount}% [ICON_Production] 生产力。</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_SPACE_RACE_PRODUCTION_RATE_LARGE_JNR_UC" Language="zh_Hans_CN">
+			<Text>为太空竞赛和卫星发射项目+{Amount}% [ICON_Production] 生产力。</Text>
+		</Row>
+	</LocalizedText>
+</GameData>

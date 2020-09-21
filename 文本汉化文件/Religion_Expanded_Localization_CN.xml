@@ -1,0 +1,346 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!-- Religion_Expanded_Localization_CN -->
+<!-- Author: JW.Sun -->
+<!-- DateCreated: 4/12/2020 5:22:02 PM -->
+<GameData>
+	<LocalizedText>
+		<!--万神殿-->
+		<Row Tag="LOC_POK_BELIEF_CULT_OF_HERMES_NAME" Language="zh_Hans_CN">
+			<Text>贸易先驱</Text>
+		</Row>
+		<Row Tag="LOC_POK_BELIEF_CULT_OF_HERMES_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>为您的首都+1 [ICON_TradeRoute] 贸易路线容量以及一个免费的商人。贸易路线额外产出+2 [ICON_Gold] 金币、+1 [ICON_Faith] 信仰值。其他文明通往您文明的 [ICON_TradeRoute] 贸易路线可为他们产出+1 [ICON_Faith] 信仰值。</Text>
+		</Row>
+		<Row Tag="LOC_POK_BELIEF_GOD_OF_ARTISANRY_NAME" Language="zh_Hans_CN">
+			<Text>工艺之神</Text>
+		</Row>
+		<Row Tag="LOC_POK_BELIEF_GOD_OF_ARTISANRY_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>建造在奢侈品及加成资源上的矿山+1 [ICON_Culture] 文化值。</Text>
+		</Row>
+		<Row Tag="LOC_POK_BELIEF_GOD_OF_METALLURGY_NAME" Language="zh_Hans_CN">
+			<Text>冶金之神</Text>
+		</Row>
+		<Row Tag="LOC_POK_BELIEF_GOD_OF_METALLURGY_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>建造在奢侈品及加成资源上的矿山+1 [ICON_Science] 科技值。</Text>
+		</Row>
+		<Row Tag="LOC_POK_BELIEF_GOD_OF_DIPLOMACY_NAME" Language="zh_Hans_CN">
+			<Text>外交之神</Text>
+		</Row>
+		<Row Tag="LOC_POK_BELIEF_GOD_OF_DIPLOMACY_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>每回合+2 [ICON_Envoy] 影响力点数。</Text>
+		</Row>
+		<Row Tag="LOC_POK_BELIEF_GOD_OF_CREATION_NAME" Language="zh_Hans_CN">
+			<Text>建造之神</Text>
+		</Row>
+		<Row Tag="LOC_POK_BELIEF_GOD_OF_CREATION_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>建造者获得额外+1 [ICON_Charges] 劳动力。</Text>
+		</Row>
+		<Row Tag="LOC_POK_BELIEF_SUN_GOD_NAME" Language="zh_Hans_CN">
+			<Text>丰产之神</Text>
+		</Row>
+		<Row Tag="LOC_POK_BELIEF_SUN_GOD_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>[ICON_RESOURCE_WHEAT] 小麦、[ICON_RESOURCE_RICE] 大米和 [ICON_RESOURCE_BANANAS] 香蕉资源可额外+1 [ICON_Food] 食物。</Text>
+		</Row>
+		<Row Tag="LOC_POK_BELIEF_ANAHITAS_BLESSING_NAME" Language="zh_Hans_CN">
+			<Text>湖中仙女</Text>
+		</Row>
+		<Row Tag="LOC_POK_BELIEF_ANAHITAS_BLESSING_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>海岸和湖泊单元格+1 [ICON_Food] 食物。</Text>
+		</Row>
+		<Row Tag="LOC_POK_BELIEF_SACRED_BEASTS_NAME" Language="zh_Hans_CN">
+			<Text>野兽信仰</Text>
+		</Row>
+		<Row Tag="LOC_POK_BELIEF_SACRED_BEASTS_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>[ICON_RESOURCE_IVORY] 象牙、[ICON_RESOURCE_HORSES] 马、[ICON_RESOURCE_FURS] 皮草和 [ICON_RESOURCE_WHALES] 鲸鱼资源可额外+2 [ICON_Faith] 信仰值。</Text>
+		</Row>
+		<Row Tag="LOC_POK_BELIEF_SONG_OF_THE_DJINN_NAME" Language="zh_Hans_CN">
+			<Text>沙漠神迹</Text>
+		</Row>
+		<Row Tag="LOC_POK_BELIEF_SONG_OF_THE_DJINN_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>沙漠单元格+2 [ICON_Gold] 金币。</Text>
+		</Row>
+		<Row Tag="LOC_POK_BELIEF_SPIRITS_OF_THE_TUNDRA_NAME" Language="zh_Hans_CN">
+			<Text>冻土精灵</Text>
+		</Row>
+		<Row Tag="LOC_POK_BELIEF_SPIRITS_OF_THE_TUNDRA_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>冻土（及丘陵）单元格+1 [ICON_Culture] 文化值。</Text>
+		</Row>
+		<Row Tag="LOC_POK_BELIEF_SUPPLICATION_TO_BARAM_NAME" Language="zh_Hans_CN">
+			<Text>雨林仪式</Text>
+		</Row>
+		<Row Tag="LOC_POK_BELIEF_SUPPLICATION_TO_BARAM_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>雨林单元格+1 [ICON_Culture] 文化值。</Text>
+		</Row>
+		<Row Tag="LOC_POK_BELIEF_GIFTS_OF_THE_DRYADS_NAME" Language="zh_Hans_CN">
+			<Text>神圣森林</Text>
+		</Row>
+		<Row Tag="LOC_POK_BELIEF_GIFTS_OF_THE_DRYADS_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>森林单元格+2 [ICON_Gold] 金币。</Text>
+		</Row>
+		<!--信徒信仰-->
+		<Row Tag="LOC_POK_BELIEF_THESMOPHORIA_NAME" Language="zh_Hans_CN">
+			<Text>奢侈为先</Text>
+		</Row>
+		<Row Tag="LOC_POK_BELIEF_THESMOPHORIA_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>奢侈品资源单元格+1 [ICON_Gold] 金币。</Text>
+		</Row>
+		<Row Tag="LOC_POK_BELIEF_SEMINARIES_NAME" Language="zh_Hans_CN">
+			<Text>科教合一</Text>
+		</Row>
+		<Row Tag="LOC_POK_BELIEF_SEMINARIES_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>神殿和寺庙可额外提供等同于其 [ICON_Faith] 信仰值产出的 [ICON_Science] 科技值产出。</Text>
+		</Row>
+		<Row Tag="LOC_POK_BELIEF_PROSPERITY_DOCTRINE_NAME" Language="zh_Hans_CN">
+			<Text>繁荣至上</Text>
+		</Row>
+		<Row Tag="LOC_POK_BELIEF_PROSPERITY_DOCTRINE_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>可以用 [ICON_Faith] 信仰值购买商业中心和娱乐中心的建筑。</Text>
+		</Row>
+		<Row Tag="LOC_POK_BELIEF_SACRED_WATERS_NAME" Language="zh_Hans_CN">
+			<Text>神圣水域</Text>
+		</Row>
+		<Row Tag="LOC_POK_BELIEF_SACRED_WATERS_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>可以用 [ICON_Faith] 信仰值购买港口和水上乐园的建筑。</Text>
+		</Row>
+		<Row Tag="LOC_POK_BELIEF_ALMSGIVING_NAME" Language="zh_Hans_CN">
+			<Text>布施之礼</Text>
+		</Row>
+		<Row Tag="LOC_POK_BELIEF_ALMSGIVING_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>每个信仰您宗教的 [ICON_Citizen] 公民+2% [ICON_Gold] 金币产出。</Text>
+		</Row>
+		<Row Tag="LOC_POK_BELIEF_VOTIVE_OFFERINGS_NAME" Language="zh_Hans_CN">
+			<Text>虔诚之礼</Text>
+		</Row>
+		<Row Tag="LOC_POK_BELIEF_VOTIVE_OFFERINGS_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>每个信仰您宗教的 [ICON_Citizen] 公民+1% [ICON_Culture] 文化值产出。</Text>
+		</Row>
+		<Row Tag="LOC_POK_BELIEF_SYMBOLS_OF_THE_GODS_NAME" Language="zh_Hans_CN">
+			<Text>神圣标志</Text>
+		</Row>
+		<Row Tag="LOC_POK_BELIEF_SYMBOLS_OF_THE_GODS_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>有奇观的城市+2 [ICON_Amenities] 宜居度。</Text>
+		</Row>
+		<Row Tag="LOC_POK_BELIEF_PLUTOLATRY_NAME" Language="zh_Hans_CN">
+			<Text>拜金主义</Text>
+		</Row>
+		<Row Tag="LOC_POK_BELIEF_PLUTOLATRY_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>所有世界奇观+8 [ICON_Gold] 金币。</Text>
+		</Row>
+		<!--礼拜建筑-->
+		<Row Tag="LOC_POK_BELIEF_ATASHKADEH_NAME" Language="zh_Hans_CN">
+			<Text>亚兹德火神庙</Text>
+		</Row>
+		<Row Tag="LOC_POK_BELIEF_ATASHKADEH_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>允许建造亚兹德火神庙（+3 [ICON_Faith] 信仰值、+2 [ICON_Culture] 文化值）。</Text>
+		</Row>
+		<Row Tag="LOC_POK_BELIEF_POSEIDONION_NAME" Language="zh_Hans_CN">
+			<Text>波塞冬小神庙</Text>
+		</Row>
+		<Row Tag="LOC_POK_BELIEF_POSEIDONION_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>允许建造波塞冬小神庙 (+3 [ICON_Faith] 信仰值，渔船额外+1 [ICON_Production] 生产力、+1 [ICON_Gold] 金币）。</Text>
+		</Row>
+		<Row Tag="LOC_POK_BELIEF_SATURNIUM_NAME" Language="zh_Hans_CN">
+			<Text>农耕神庙</Text>
+		</Row>
+		<Row Tag="LOC_POK_BELIEF_SATURNIUM_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>允许建造农耕神庙（+3 [ICON_Faith] 信仰值，建造在奢侈品资源上的种植园、营地和伐木场可额外+1 [ICON_Production] 生产力、+1 [ICON_Gold] 金币）。</Text>
+		</Row>
+		<Row Tag="LOC_POK_BELIEF_MINERVIUM_NAME" Language="zh_Hans_CN">
+			<Text>密涅瓦神庙</Text>
+		</Row>
+		<Row Tag="LOC_POK_BELIEF_MINERVIUM_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>允许建造密涅瓦神庙（与圣地相邻的单元格+3 [ICON_Faith] 信仰值、 [ICON_Gold] 金币）。</Text>
+		</Row>
+		<Row Tag="LOC_POK_BELIEF_SERAPEUM_NAME" Language="zh_Hans_CN">
+			<Text>萨拉皮雍</Text>
+		</Row>
+		<Row Tag="LOC_POK_BELIEF_SERAPEUM_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>允许建造萨拉皮雍 (+3 [ICON_Faith] 信仰值，至少拥有1个区域的城市每回合+1 [ICON_Envoy] 影响力点数）。</Text>
+		</Row>
+		<Row Tag="LOC_POK_BELIEF_SURAU_NAME" Language="zh_Hans_CN">
+			<Text>祈祷室</Text>
+		</Row>
+		<Row Tag="LOC_POK_BELIEF_SURAU_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>允许建造祈祷室（+3 [ICON_Faith] 信仰值、+1 [ICON_Science] 科技值、+1 [ICON_Culture] 文化值）。</Text>
+		</Row>
+		<Row Tag="LOC_POK_BELIEF_PRIORY_NAME" Language="zh_Hans_CN">
+			<Text>修道院</Text>
+		</Row>
+		<Row Tag="LOC_POK_BELIEF_PRIORY_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>允许建造修道院（+3 [ICON_Faith] 信仰值，提供2个 [ICON_GreatWork_Relic] 遗物槽位）。</Text>
+		</Row>
+		<Row Tag="LOC_POK_BELIEF_CHAPEL_NAME" Language="zh_Hans_CN">
+			<Text>教堂</Text>
+		</Row>
+		<Row Tag="LOC_POK_BELIEF_CHAPEL_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>允许建造教堂 (+3 [ICON_Faith] 信仰值、+1 [ICON_Food] 食物、+1 [ICON_Production] 生产力）。</Text>
+		</Row>
+		<Row Tag="LOC_POK_BUILDING_ATASHKADEH_NAME" Language="zh_Hans_CN">
+			<Text>亚兹德火神庙</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_BUILDINGS_PAGE_POK_BUILDING_ATASHKADEH_CHAPTER_HISTORY_PARA_1" Language="zh_Hans_CN">
+			<Text>【译者注：正在翻译……】[NEWLINE][NEWLINE]Central to Zoroastrianism was the Atashkadeh, or house of fire. While it has been given many names in its time, the sentiment remains the same, and is captured adequately as rendered in the New Persian Atashkadeh.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_BUILDINGS_PAGE_POK_BUILDING_ATASHKADEH_CHAPTER_HISTORY_PARA_2" Language="zh_Hans_CN">
+			<Text>It should be noted that Zoroastrianism outpaced the Atashkadeh by centuries: no mention of it can be found in the Avesta, Zoroastrianism's oldest text, nor is there any term that would describe such a structure in Old Persian. The Atashkadeh would not make an appearance until the late Achaemenid empire. There, it would emerge as a humble abode for votives to be made, and as a shelter for a sacred fire.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_BUILDINGS_PAGE_POK_BUILDING_ATASHKADEH_CHAPTER_HISTORY_PARA_3" Language="zh_Hans_CN">
+			<Text>Characteristic of Atashkadeh was the gombad, a domed sanctuary where the fire would be both vouchsafed and enthroned, to burn eternal—to never be moved besides for its own good. Simple but effective, the gombad was situated in a square flanked by four arches, which a supported a dome. This allowed priests and worshipers alike easy access to the fire, and in its open design framed the surroundings so that visitors could likewise appreciate the natural elements core to Zoroastrianism. A walkway described this central structure, beyond which rooms were dedicated to congregation, rituals that didn't directly involve the fire, and the materials needed for the upkeep of the fire itself.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_BUILDINGS_PAGE_POK_BUILDING_ATASHKADEH_CHAPTER_HISTORY_PARA_4" Language="zh_Hans_CN">
+			<Text>These typically humble Atashkadehs were however treated quite differently if home to one of the great fires of Adur Gushnasp, Adur Burzen-Mihr, or Adur Farnbag (the great fires of warriors, priests, and workers respectively). At Takht-e Soleyman, the only extant ruins confirmed to have held Adur Gushnasp have been excavated. Favoured as the great fire of warriors was by Kings of Kings, its complex was suitably impressive.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_BUILDINGS_PAGE_POK_BUILDING_ATASHKADEH_CHAPTER_HISTORY_PARA_5" Language="zh_Hans_CN">
+			<Text>More than a mere fire temple, Takht-e Soleyman was a citadel. Two walls limned the hilltop it occupied. The inner, a thick mud-brick bulwark; the outer, which hugged the rim of the hill, stone that towered fifty feet, and studded with thirty-eight towers. Further yet, the temple itself was surrounded on three sides by a wall, with the fourth open to a lake in the crater of a volcanic rim. These fortifications were tasked with the protection of the most prized fire in all of Persia.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_BUILDINGS_PAGE_POK_BUILDING_ATASHKADEH_CHAPTER_HISTORY_PARA_6" Language="zh_Hans_CN">
+			<Text>Pilgrims would enter through a vast courtyard, through which they'd be herded toward the lake. There, a domed room terminated in a portico that afforded pilgrims a vista of the lake in all its splendour. From there they could follow a series of pillared halls and antechambers which eventually deposited them at the grand, frieze-embellished sanctuary of the altar of Adur Gushnasp. Within this complex there were an array of rooms dedicated to everything from lesser shrines to a temple treasury. Between the crater, the elaborate plan, and its scenic surroundings, the site must have been a wonder to pilgrims seeking to pay their respects to Adur Gushnasp.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_BUILDINGS_PAGE_POK_BUILDING_ATASHKADEH_CHAPTER_HISTORY_PARA_7" Language="zh_Hans_CN">
+			<Text>With the conquest of Islam, Atashkadeha grew scarce. Most were either destroyed or repurposed as mosques.</Text>
+		</Row>
+		<Row Tag="LOC_POK_BUILDING_POSEIDONION_NAME" Language="zh_Hans_CN">
+			<Text>波塞冬小神庙</Text>
+		</Row>
+		<Row Tag="LOC_POK_BUILDING_POSEIDONION_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>渔船额外+1 [ICON_Production] 生产力以及+1 [ICON_Gold] 金币。</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_BUILDINGS_PAGE_POK_BUILDING_POSEIDONION_CHAPTER_HISTORY_PARA_1" Language="zh_Hans_CN">
+			<Text>【译者注：正在翻译……】[NEWLINE][NEWLINE]Poseidon was one of the twelve Olympians in ancient Greek religion and myth. He was god of the Sea and other waters; of earthquakes; and of horses. In pre-Olympian Bronze Age Greece, he was venerated as a chief deity at Pylos and Thebes. Poseidon was protector of seafarers, and of many Hellenic cities and colonies. In Homer's Iliad, Poseidon supports the Greeks against the Trojans during the Trojan War. In the Odyssey, during the sea-voyage from Troy back home to Ithaca, the Greek hero Odysseus provokes Poseidon's fury by blinding his son the Cyclops Polyphemus, resulting in Poseidon punishing him with storms, the complete loss of his ship and companions, and a ten-year delay. Poseidon is also the subject of a Homeric hymn. His Roman equivalent is Neptune.</Text>
+		</Row>
+		<Row Tag="LOC_POK_BUILDING_SATURNIUM_NAME" Language="zh_Hans_CN">
+			<Text>农耕神庙</Text>
+		</Row>
+		<Row Tag="LOC_POK_BUILDING_SATURNIUM_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>建造在奢侈品资源上的种植园、营地和伐木场可额外+1 [ICON_Production] 生产力、+1 [ICON_Gold] 金币。</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_BUILDINGS_PAGE_POK_BUILDING_SATURNIUM_CHAPTER_HISTORY_PARA_1" Language="zh_Hans_CN">
+			<Text>【译者注：正在翻译……】[NEWLINE][NEWLINE]Saturn was the Roman gold of agriculture, renewal, liberation, wealth, dissolution, and time, among other aspects. In the month of December, he was celebrated at the Saturnalia: a time for feasting, role reversals, free speech, gift-giving, and reveltry. Saturn was identified with the Greek Cronus, especially the role of Cronus in the genealogy of the Greek gods. Indeed, Jupiter was called the son of Saturn. The Temple of Saturn --the Saturnium -- in the Roman Forum contained the state treasury. It was constructed at the base of the Saturnius Mons, better known as the Capitoline Hill. It was consecrated in 497 BCE.</Text>
+		</Row>
+		<Row Tag="LOC_POK_BUILDING_MINERVIUM_NAME" Language="zh_Hans_CN">
+			<Text>密涅瓦神庙</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_BUILDINGS_PAGE_POK_BUILDING_MINERVIUM_CHAPTER_HISTORY_PARA_1" Language="zh_Hans_CN">
+			<Text>【译者注：正在翻译……】[NEWLINE][NEWLINE]Minerva was the Roman goddess of wisdom and strategic warfare, and the sponsor of arts, trade, and strategy. From the second century BC onward, the Romans equated her with the Greek goddess Athena. She was the virgin goddess of music, poetry, medicine, wisdom, commerce, weaving, and the crafts. She is often depicted with her sacred creature, an owl usually named as the "owl of Minerva", which symbolised her association with wisdom and knowledge.</Text>
+		</Row>
+		<Row Tag="LOC_POK_BUILDING_SERAPEUM_NAME" Language="zh_Hans_CN">
+			<Text>萨拉皮雍</Text>
+		</Row>
+		<Row Tag="LOC_POK_BUILDING_SERAPEUM_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>至少拥有1个区域的城市每回合+1 [ICON_Envoy] 影响力点数。</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_BUILDINGS_PAGE_POK_BUILDING_SERAPEUM_CHAPTER_HISTORY_PARA_1" Language="zh_Hans_CN">
+			<Text>【译者注：正在翻译……】[NEWLINE][NEWLINE]The cult of Serapis was introduced during the 3rd century BC on the orders of Ptolemy I Soter of Egypt as a means to unify the Greeks and Egyptians in his realm. The god was depicted as Greek in appearance, but with Egyptian trappings, and combined iconography from a great many cults, signifying both abundance and resurrection. A serapeum was any temple or religious precinct devoted to Serapis. The cultus of Serapis was spread as a matter of deliberate policy by the Ptolemaic kings, who also built an immense serapeum in Alexandria. Serapis continued to increase in popularity during the Roman period, often replacing Osiris as the consort of Isis in temples outside Egypt. In 389, a Christian mob led by the Patriarch Theophilus of Alexandria destroyed the Alexandrian serapeum, but the cult survived until all forms of pagan religion were suppressed under Theodosius I in 391.</Text>
+		</Row>
+		<Row Tag="LOC_POK_BUILDING_SURAU_NAME" Language="zh_Hans_CN">
+			<Text>祈祷室</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_BUILDINGS_PAGE_POK_BUILDING_SURAU_CHAPTER_HISTORY_PARA_1" Language="zh_Hans_CN">
+			<Text>【译者注：正在翻译……】[NEWLINE][NEWLINE]A surau is an Islamic assembly building used for worship and religious instruction. Some of its ritual functions are similar to those of a mosque, but Surau are mostly smaller than mosques, allow men and women, and are used more for religious instruction and festive prayers. They may function as community centers, and depend more on grassroots support and funding.</Text>
+		</Row>
+		<Row Tag="LOC_POK_BUILDING_PRIORY_NAME" Language="zh_Hans_CN">
+			<Text>修道院</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_BUILDINGS_PAGE_POK_BUILDING_PRIORY_CHAPTER_HISTORY_PARA_1" Language="zh_Hans_CN">
+			<Text>【译者注：正在翻译……】[NEWLINE][NEWLINE]A priory is a monastery of men or women under religious vows that is headed by a prior or prioress. Priories may be houses of mendicant friars or nuns (such as the Dominicans, Augustinians, Franciscans, and Carmelites, for instance), or monasteries of monks or nuns (as with the Benedictines). Houses of canons regular and canonesses regular also use this term, the alternative being "canonry." In pre-Reformation England, if an abbey church was raised to cathedral status, the abbey became a Cathedral Priory. The bishop, in effect, took the place of the abbot, and the monastery itself was headed by a prior.</Text>
+		</Row>
+		<Row Tag="LOC_POK_BUILDING_CHAPEL_NAME" Language="zh_Hans_CN">
+			<Text>教堂</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_BUILDINGS_PAGE_POK_BUILDING_CHAPEL_CHAPTER_HISTORY_PARA_1" Language="zh_Hans_CN">
+			<Text>我们要去教堂结婚！！！</Text>
+		</Row>
+		<!--创教者信仰-->
+		<Row Tag="LOC_POK_BELIEF_PONTIFICATE_NAME" Language="zh_Hans_CN">
+			<Text>教皇威严</Text>
+		</Row>
+		<Row Tag="LOC_POK_BELIEF_PONTIFICATE_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>每个奉您为宗主国的城邦可+5% [ICON_Faith] 信仰值产出。</Text>
+		</Row>
+		<Row Tag="LOC_POK_BELIEF_NEPTUNALIA_NAME" Language="zh_Hans_CN">
+			<Text>海陆合一</Text>
+		</Row>
+		<Row Tag="LOC_POK_BELIEF_NEPTUNALIA_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>信奉此宗教的城市的每个港口或军营可分别提供+1 [ICON_Science] 科技值或+1 [ICON_Culture] 文化值。</Text>
+		</Row>
+		<Row Tag="LOC_POK_BELIEF_MONASTERY_BREWERY_NAME" Language="zh_Hans_CN">
+			<Text>贸易使徒</Text>
+		</Row>
+		<Row Tag="LOC_POK_BELIEF_MONASTERY_BREWERY_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>与圣地相邻的单元格额外+2 [ICON_Gold] 金币。</Text>
+		</Row>
+		<Row Tag="LOC_POK_BELIEF_HECATOMB_NAME" Language="zh_Hans_CN">
+			<Text>农耕信仰</Text>
+		</Row>
+		<Row Tag="LOC_POK_BELIEF_HECATOMB_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>与圣地相邻的单元格额外+1 [ICON_Food] 食物。</Text>
+		</Row>
+		<Row Tag="LOC_POK_BELIEF_EUDAIMONIA_NAME" Language="zh_Hans_CN">
+			<Text>生产至上</Text>
+		</Row>
+		<Row Tag="LOC_POK_BELIEF_EUDAIMONIA_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>与圣地相邻的单元格额外+1 [ICON_Production] 生产力。</Text>
+		</Row>
+		<Row Tag="LOC_POK_BELIEF_DIVINE_REVELATION_NAME" Language="zh_Hans_CN">
+			<Text>虔诚信徒</Text>
+		</Row>
+		<Row Tag="LOC_POK_BELIEF_DIVINE_REVELATION_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>与圣地相邻的单元格额外+1 [ICON_Faith] 信仰值。</Text>
+		</Row>
+		<Row Tag="LOC_POK_BELIEF_HEJAZI_CALLIGRAPHY_NAME" Language="zh_Hans_CN">
+			<Text>艺术教徒</Text>
+		</Row>
+		<Row Tag="LOC_POK_BELIEF_HEJAZI_CALLIGRAPHY_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>与圣地相邻的单元格额外+1 [ICON_Culture] 文化值。</Text>
+		</Row>
+		<Row Tag="LOC_POK_BELIEF_SCHOLAE_MONASTICA_NAME" Language="zh_Hans_CN">
+			<Text>信教学者</Text>
+		</Row>
+		<Row Tag="LOC_POK_BELIEF_SCHOLAE_MONASTICA_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>与圣地相邻的单元格额外+1 [ICON_Science] 科技值。</Text>
+		</Row>
+		<!--增强信仰-->
+		<Row Tag="LOC_POK_BELIEF_MESSENGERS_OF_THE_GODS_NAME" Language="zh_Hans_CN">
+			<Text>神的使徒</Text>
+		</Row>
+		<Row Tag="LOC_POK_BELIEF_MESSENGERS_OF_THE_GODS_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>您每建成一个圣地即可免费获得一名使徒。</Text>
+		</Row>
+		<Row Tag="LOC_POK_BELIEF_EPISTLES_NAME" Language="zh_Hans_CN">
+			<Text>信仰传播</Text>
+		</Row>
+		<Row Tag="LOC_POK_BELIEF_EPISTLES_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>传教士和使徒的传播次数+1。</Text>
+		</Row>
+		<Row Tag="LOC_POK_BELIEF_VISIONS_NAME" Language="zh_Hans_CN">
+			<Text>宗教视野</Text>
+		</Row>
+		<Row Tag="LOC_POK_BELIEF_VISIONS_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>宗教单位+3视野。</Text>
+		</Row>
+		<Row Tag="LOC_POK_BELIEF_WITCH_TRIALS_NAME" Language="zh_Hans_CN">
+			<Text>异端审判</Text>
+		</Row>
+		<Row Tag="LOC_POK_BELIEF_WITCH_TRIALS_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>购买审判官和上师的费用降低30%。</Text>
+		</Row>
+		<Row Tag="LOC_POK_BELIEF_BELLUM_SACRUM_NAME" Language="zh_Hans_CN">
+			<Text>陆军赞歌</Text>
+		</Row>
+		<Row Tag="LOC_POK_BELIEF_BELLUM_SACRUM_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>圣地每回合提供+1 [ICON_GreatGeneral] 大将军点数。</Text>
+		</Row>
+		<Row Tag="LOC_POK_BELIEF_PAEAN_TO_TRITON_NAME" Language="zh_Hans_CN">
+			<Text>海军赞歌</Text>
+		</Row>
+		<Row Tag="LOC_POK_BELIEF_PAEAN_TO_TRITON_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>圣地每回合提供+1 [ICON_GreatAdmiral] 海军统帅点数。</Text>
+		</Row>
+		<Row Tag="LOC_POK_BELIEF_BY_THE_SWORD_NAME" Language="zh_Hans_CN">
+			<Text>剑刃之下</Text>
+		</Row>
+		<Row Tag="LOC_POK_BELIEF_BY_THE_SWORD_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>您占领的城市会自动信奉您的宗教。</Text>
+		</Row>
+	</LocalizedText>
+</GameData>

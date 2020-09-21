@@ -1,0 +1,624 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- NavajoTextCN -->
+<!-- Author: 春 -->
+<!-- DateCreated: 5/20/2020 4:10:06 PM -->
+<GameData>
+	<LocalizedText>
+		<!--CIVILIZATION-->
+		<Row Tag="LOC_CIVILIZATION_ENIGMA_NAVAJO_NAME" Language="zh_Hans_CN">
+			<Text>纳瓦霍</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_ENIGMA_NAVAJO_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>纳瓦霍帝国</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_ENIGMA_NAVAJO_ADJECTIVE" Language="zh_Hans_CN">
+			<Text>纳瓦霍的</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_CIVILIZATION_ENIGMA_NAVAJO_DESCRIPTION_JFD_CIVILIZATION">
+			<Text>纳瓦霍文明</Text>
+		</Row>
+		<!--Pedia-->
+		<Row Tag="LOC_CIVINFO_ENIGMA_NAVAJO_LOCATION" Language="zh_Hans_CN">
+			<Text>北美，尤其是美利坚合众国西南部</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_ENIGMA_NAVAJO_POPULATION" Language="zh_Hans_CN">
+			<Text>34万1128人</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_ENIGMA_NAVAJO_SIZE" Language="zh_Hans_CN">
+			<Text>27413平方英里（即71000平方公里）</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_ENIGMA_NAVAJO_CAPITAL" Language="zh_Hans_CN">
+			<Text>纳瓦霍族保留地建成之前为茨塞吉（如今的柴利峡谷），现在则是温多罗克（也被称为窗石城）</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_ENIGMA_NAVAJO_CHAPTER_HISTORY_PARA_1" Language="zh_Hans_CN">
+			<Text>【译者注：正在翻译……】[NEWLINE][NEWLINE]The Navajo Nation constitutes an independent governmental body that manages the Navajo reservation in the Four Corners area, including over 27,000 square miles of land in Arizona, Utah, and New Mexico.  The Navajo language is spoken throughout the region, with most Navajos speaking English, as well.  The states with the largest Navajo populations are Arizona and New Mexico.  Over three-quarters of the Navajo population reside in these two states.  The Navajos are speakers of a Na-Dené Southern Athabaskan language known within the language as Diné bizaad. The language comprises two geographic, mutually intelligible dialects.  Some Navajos speak Navajo Sign Language, which is either a dialect or daughter of Plains Sign Talk, as well as some being speakers of Plains Sign Talk itself.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_ENIGMA_NAVAJO_CHAPTER_HISTORY_PARA_2" Language="zh_Hans_CN">
+			<Text>On November 21, 1846, following an invitation from a small party of American soldiers under the command of Captain John Reid, who journeyed deep into Navajo country and contacted him, Narbona and other Navajos negotiated a treaty of peace with Colonel Alexander Doniphan at Bear Springs, Ojo del Oso.  Navajos stole New Mexican livestock and New Mexicans took women, children and livestock from the Navajo.  In 1849, the military governor of New Mexico, Colonel John MacRae Washington-accompanied by John S. Calhoun, an Indian agent-led a force of 400 soldiers into Navajo country, penetrating Canyon de Chelly, and signed a treaty with two Navajo leaders Mariano Martinez as Head Chief and Chapitone as Second Chief.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_ENIGMA_NAVAJO_CHAPTER_HISTORY_PARA_3" Language="zh_Hans_CN">
+			<Text>In 1868, a treaty was negotiated between Navajo leaders and the federal government allowing the surviving Navajos to return to a reservation on a portion of their former homeland.  The Navajos were not provided with much protection; other enemies of the Navajos would swoop in and take Navajo women and children back to their camps and force them to work as slaves.  While at Bosque Redondo, the government did not provide the Navajos with food or shelter, and some Navajos froze during the winter because of poor shelters that they had to make on their own.  The United States military continued to maintain forts on the Navajo reservation in the years following the Long Walk.  Eventually, the arrangement led to a gradual end in Navajo raids as the tribe was able to increase the size of livestock and crops.  The Navajos believed Lt. Scott was there to drive off the whites who had settled on the reservation and had fenced off the river from the Navajos.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_ENIGMA_NAVAJO_CHAPTER_HISTORY_PARA_4" Language="zh_Hans_CN">
+			<Text>In 1937, Mary Cabot Wheelright and Hastiin Klah, an esteemed and influential Navajo singer, or medicine man, founded the Wheelwright Museum of the American Indian in Santa Fe. It is a repository for sound recordings, manuscripts, paintings, and sandpainting tapestries of the Navajos.  The Navajo Livestock Reduction was imposed upon the Navajo Nation by the federal government starting in the 1933.  Under various forms it continued into the 1950s, The government decided that the land of the Navajo Nation could only support a fixed number of sheep, goats, cattle, and horses.  Many Navajo young people moved to work in urban factories in World War II. Many Navajo men volunteered for military service in keeping with their warrior culture, where they served in integrated units.</Text>
+		</Row>
+		<!--Trait-->
+		<Row Tag="LOC_TRAIT_CIVILIZATION_ENIGMA_DINETAH_NAME" Language="zh_Hans_CN">
+			<Text>纳瓦霍家园</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_CIVILIZATION_ENIGMA_DINETAH_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>剧院广场可从沙漠及其丘陵地形获得少量 [ICON_CULTURE] 文化值与 [ICON_FOOD] 食物的邻接加成。相邻市中心的沙漠单元格+2 [ICON_FAITH] 信仰值，祭祀建筑为城市+15% [ICON_FOOD] 食物增长速度。</Text>
+		</Row>
+		<!--Cities-->
+		<Row Language="zh_Hans_CN" Tag="LOC_CITY_NAME_NAVAJO_TSEYI">
+			<Text>切伊</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITY_NAME_NAVAJO_TSEGHAHOODZANI">
+			<Text>泽哈胡扎尼</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITY_NAME_NAVAJO_CHINIL">
+			<Text>智里里</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITY_NAME_NAVAJO_TO_NANEESDIZI">
+			<Text>纳涅斯迪兹</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITY_NAME_NAVAJO_NAATAANII_NEEZ">
+			<Text>纳塔尼亚内茨</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITY_NAME_NAVAJO_TSEHOOTSOOI">
+			<Text>塞霍托索</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITY_NAME_NAVAJO_TIISTSOOZ_DEESHGIZH">
+			<Text>梯利斯欧-奈德兹</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITY_NAME_NAVAJO_DICHIITO">
+			<Text>迪希蒂</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITY_NAME_NAVAJO_LOKAACHEGAI">
+			<Text>洛卡奇盖</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITY_NAME_NAVAJO_MAII_TEEH_YITIZHI">
+			<Text>马的塞萨尔-伊特</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITY_NAME_NAVAJO_TAA_BIICHDII">
+			<Text>塔瓦比希迪</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITY_NAME_NAVAJO_TIISTOH">
+			<Text>特利斯托</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITY_NAME_NAVAJO_NANIA_HASANI">
+			<Text>纳哈萨尼亚</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITY_NAME_NAVAJO_DAAKEH_HALANI">
+			<Text>哈拉尼</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITY_NAME_NAVAJO_NAASHOIITOI">
+			<Text>纳阿肖利托</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITY_NAME_NAVAJO_BITAAH_BITO">
+			<Text>比托比托</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITY_NAME_NAVAJO_KINITSOSINIL">
+			<Text>基尼索西尼</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITY_NAME_NAVAJO_TSIICHIN_BII_TO">
+			<Text>齐钦比托</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITY_NAME_NAVAJO_NAZLINI">
+			<Text>纳兹利尼</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITY_NAME_NAVAJO_KIITSOIITAH">
+			<Text>克里特索伊塔</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITY_NAME_NAVAJO_DIWOZHII_BIKOOH">
+			<Text>迪瓦西比库</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITY_NAME_NAVAJO_NAHODEESHGIIZH_CHINILINI">
+			<Text>纳霍迪什吉兹</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITY_NAME_NAVAJO_DEINIHOOTSO">
+			<Text>迪尼霍特索</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITY_NAME_NAVAJO_BEEKENIGMA_BAA_AHOODZANI">
+			<Text>皮诺</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITY_NAME_NAVAJO_TONITSILI">
+			<Text>托尼尔茨伊利</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITY_NAME_NAVAJO_GLOBE">
+			<Text>格罗布</Text>
+		</Row>
+		<!--Citizens-->
+		<Row Tag="LOC_CITIZEN_ENIGMA_NAVAJO_MALE_1" Language="zh_Hans_CN">
+			<Text>阿希加</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_ENIGMA_NAVAJO_MALE_2" Language="zh_Hans_CN">
+			<Text>阿霍特</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_ENIGMA_NAVAJO_MALE_3" Language="zh_Hans_CN">
+			<Text>比齐尔</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_ENIGMA_NAVAJO_MALE_4" Language="zh_Hans_CN">
+			<Text>加贾</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_ENIGMA_NAVAJO_MALE_5" Language="zh_Hans_CN">
+			<Text>加德</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_ENIGMA_NAVAJO_MALE_6" Language="zh_Hans_CN">
+			<Text>霍基</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_ENIGMA_NAVAJO_MALE_7" Language="zh_Hans_CN">
+			<Text>伊斯塔卡</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_ENIGMA_NAVAJO_MALE_8" Language="zh_Hans_CN">
+			<Text>凯尔</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_ENIGMA_NAVAJO_MALE_9" Language="zh_Hans_CN">
+			<Text>拉普</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_ENIGMA_NAVAJO_MODERN_MALE_1" Language="zh_Hans_CN">
+			<Text>马查克</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_ENIGMA_NAVAJO_MODERN_MALE_2" Language="zh_Hans_CN">
+			<Text>曼西</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_ENIGMA_NAVAJO_MODERN_MALE_3" Language="zh_Hans_CN">
+			<Text>奥马纳克</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_ENIGMA_NAVAJO_MODERN_MALE_4" Language="zh_Hans_CN">
+			<Text>帕哈纳</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_ENIGMA_NAVAJO_MODERN_MALE_5" Language="zh_Hans_CN">
+			<Text>盖勒塔卡</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_ENIGMA_NAVAJO_MODERN_MALE_6" Language="zh_Hans_CN">
+			<Text>萨尼</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_ENIGMA_NAVAJO_MODERN_MALE_7" Language="zh_Hans_CN">
+			<Text>什叶</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_ENIGMA_NAVAJO_MODERN_MALE_8" Language="zh_Hans_CN">
+			<Text>泰利斯</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_ENIGMA_NAVAJO_MODERN_MALE_9" Language="zh_Hans_CN">
+			<Text>萨尼</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_ENIGMA_NAVAJO_MODERN_MALE_10" Language="zh_Hans_CN">
+			<Text>帕哈纳</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_ENIGMA_NAVAJO_FEMALE_1" Language="zh_Hans_CN">
+			<Text>卡托莉</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_ENIGMA_NAVAJO_FEMALE_2" Language="zh_Hans_CN">
+			<Text>霍诺薇</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_ENIGMA_NAVAJO_FEMALE_3" Language="zh_Hans_CN">
+			<Text>凯</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_ENIGMA_NAVAJO_FEMALE_4" Language="zh_Hans_CN">
+			<Text>伦玛娜</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_ENIGMA_NAVAJO_FEMALE_5" Language="zh_Hans_CN">
+			<Text>努帕娜</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_ENIGMA_NAVAJO_FEMALE_6" Language="zh_Hans_CN">
+			<Text>穆娜</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_ENIGMA_NAVAJO_FEMALE_7" Language="zh_Hans_CN">
+			<Text>波瓦加</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_ENIGMA_NAVAJO_FEMALE_8" Language="zh_Hans_CN">
+			<Text>帕可瓦</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_ENIGMA_NAVAJO_FEMALE_9" Language="zh_Hans_CN">
+			<Text>奚胡</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_ENIGMA_NAVAJO_FEMALE_10" Language="zh_Hans_CN">
+			<Text>苏娅拉</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_ENIGMA_NAVAJO_MODERN_FEMALE_1" Language="zh_Hans_CN">
+			<Text>齐希莉</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_ENIGMA_NAVAJO_MODERN_FEMALE_2" Language="zh_Hans_CN">
+			<Text>乌娜</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_ENIGMA_NAVAJO_MODERN_FEMALE_3" Language="zh_Hans_CN">
+			<Text>瓦基</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_ENIGMA_NAVAJO_MODERN_FEMALE_4" Language="zh_Hans_CN">
+			<Text>乌蒂</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_ENIGMA_NAVAJO_MODERN_FEMALE_5" Language="zh_Hans_CN">
+			<Text>雅卡</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_ENIGMA_NAVAJO_MODERN_FEMALE_6" Language="zh_Hans_CN">
+			<Text>约奇</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_ENIGMA_NAVAJO_MODERN_FEMALE_7" Language="zh_Hans_CN">
+			<Text>齐娜</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_ENIGMA_NAVAJO_MODERN_FEMALE_8" Language="zh_Hans_CN">
+			<Text>帕瓦蒂</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_ENIGMA_NAVAJO_MODERN_FEMALE_9" Language="zh_Hans_CN">
+			<Text>提波妮</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_ENIGMA_NAVAJO_MODERN_FEMALE_10" Language="zh_Hans_CN">
+			<Text>托茜</Text>
+		</Row>
+		<!--LEADER (MUSA I)-->
+		<Row Tag="LOC_LEADER_ENIGMA_BARBONCITO_NAME" Language="zh_Hans_CN">
+			<Text>巴邦西托</Text>
+		</Row>
+		<!--Agenda-->
+		<Row Tag="LOC_AGENDA_ENIGMA_WAR_CEASE_NAME" Language="zh_Hans_CN">
+			<Text>战争将永远终结</Text>
+		</Row>
+		<Row Tag="LOC_AGENDA_ENIGMA_WAR_CEASE_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>喜欢专注于文化和完成剧院广场项目的人。鄙视发动突袭战争的人。</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_LEADER_ENIGMA_WAR_CEASE_REASON_LEADS_FAITH" Language="zh_Hans_CN">
+			<Text>（您宣布突袭战争）</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MODIFIER_AGENDA_ENIGMA_WAR_CEASE_LEADS_FAITH" Language="zh_Hans_CN">
+			<Text>巴邦西托对你的嗜血感到愤怒。</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_LEADER_ENIGMA_WAR_CEASE_REASON_LEADS_CULTURE" Language="zh_Hans_CN">
+			<Text>（您拥有高额文化值）</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MODIFIER_AGENDA_ENIGMA_WAR_CEASE_LEADS_CULTURE" Language="zh_Hans_CN">
+			<Text>巴邦西托对你们的文化印象深刻。</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_LEADER_ENIGMA_WAR_CEASE_REASON_THEATER" Language="zh_Hans_CN">
+			<Text>（您完成了剧院广场项目）</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MODIFIER_AGENDA_ENIGMA_WAR_CEASE_THEATER" Language="zh_Hans_CN">
+			<Text>巴邦西托很高兴你对文化事业感兴趣。</Text>
+		</Row>
+		<!--DOM-->
+		<Row Tag="LOC_LOADING_INFO_LEADER_ENIGMA_BARBONCITO" Language="zh_Hans_CN">
+			<Text>幸会，巴邦西托，纳瓦霍的祝福者。你是一个出色的演说家和天才的谈判家，但最重要的是，你是人民利益的忠实捍卫者——哪怕是在最危急的时刻。伟大的领袖，进击吧；引导你的人名越过家园干旱的土地，保护他们不受敌人伤害，让纳瓦霍在你的英明领导下茁壮成长。</Text>
+		</Row>
+		<!--Traits-->
+		<Row Tag="LOC_TRAIT_LEADER_ENIGMA_BLESSING_SPEAKER_NAME" Language="zh_Hans_CN">
+			<Text>祝福演说者</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_LEADER_ENIGMA_BLESSING_SPEAKER_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>建成圣地后可触发文化炸弹。可用 [ICON_FAITH] 信仰值购买剧院广场建筑，剧院广场建筑能够加快城市 [ICON_FOOD] 食物增长速度。</Text>
+		</Row>
+		<!--Civilopedia-->
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_ENIGMA_BARBONCITO_TITLE" Language="zh_Hans_CN">
+			<Text>巴邦西托</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_ENIGMA_BARBONCITO_SUBTITLE" Language="zh_Hans_CN">
+			<Text>纳瓦霍族酋长</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_ENIGMA_BARBONCITO_QUOTE" Language="zh_Hans_CN">
+			<Text>当纳瓦霍人第一次被创造时，夏娃指着四座山与四条河，那些将成为我们的土地。</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_ENIGMA_BARBONCITO_CHAPTER_HISTORY_PARA_1" Language="zh_Hans_CN">
+			<Text>【译者注：正在翻译……】[NEWLINE][NEWLINE]Barboncito was a famous Navajo political and spiritual leader.  Barboncito was born into the Ma'íí deeshgíízhiníí clan at Cañon de Chelly in 1820 and was a brother to Delgadito.  He was a signatory of several treaties between the United States and Navajos, including the Doniphan Treaty of 1846, which was an attempt to establish peace between the Navajo and whites during the Mexican War.  This treaty proved to be unsuccessful, as not all of the Navajo Chiefs were willing to become signatory to it.  This would later lead to armed rebellion against the United States where Barboncito worked together with another Navajo, Manuelito, in order to try and stop the forced relocation of Navajo tribe members to Bosque Redando.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_ENIGMA_BARBONCITO_CHAPTER_HISTORY_PARA_2" Language="zh_Hans_CN">
+			<Text>Barboncito made peaceful overtures to General James H. Carleton, Carson's commanding officer, in 1862, but the assault against the Navajo people dragged on.  Carson destroyed fields, orchards, and hogans-an earth-covered Navajo dwelling-and he confiscated cattle from the Continental Divide to the Colorado River.  Though only 78 of the 12,000 Navajo people were killed, Carson's efforts crushed the Navajo spirit.  Eventually, a shortage of food and supplies forced the Navajos to surrender their sacred stronghold.  In 1864 Barboncito was captured in his hometown of Canon de Chelly by troops under the command of Colonel Christopher "Kit" Carson.  After experiencing the terrible conditions under Colonel Christopher "Kit" Carson, Barboncito escaped with about 500 followers in June 1865.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_ENIGMA_BARBONCITO_CHAPTER_HISTORY_PARA_3" Language="zh_Hans_CN">
+			<Text>Barboncito was the Head Chief of the Navajo when the Bosque Redando Treaty of 1868 was signed.  This treaty contained articles which would end hostilities between the United States and the Navajo people, as well as allowing them to return to their ancestral land at Cañon de Chelly in Arizona and having a reservation established there.  The impact of this aspect of the treaty was the end of the Long Walk of the Navajo which had claimed the lives of thousands of Navajo people.  Of all the Navajos of his time, Barboncito is probably most responsible for the long-term success of the Navajo culture and relations with non-Navajos.  As well as being established as a skillful negotiator and leader of the Navajo people.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_ENIGMA_BARBONCITO_CHAPTER_HISTORY_PARA_4" Language="zh_Hans_CN">
+			<Text>He played a leading role in negotiations with General William T. Sherman and Colonel Samuel F. Tappan, telling them that the creator of the Navajo people had warned the tribe never to go east of the Rio Grande River.  The U.S. government was not inclined to return all their land to the Navajos.  Sherman provided Barboncito and the other chiefs with three choices: go east to Oklahoma, relocate in New Mexico and be governed by the laws of that territory, or return to a diminished portion of their original lands.  On June 1, 1868, the Navajo leaders, including BARBONCITO, signed a treaty with the U.S. government.  Barboncito was a gifted negotiator, as well as talented ceremonial singer.  Despite some setbacks, he ultimately saw more success than anyone when it came to Navajo affairs with other non-Navajos.  Shortly after the Bosque Redondo treaty was enacted, Barboncito died in 1871, at the age of 50 in his home village of Canon de Chelly.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_ENIGMA_BARBONCITO_CHAPTER_CAPSULE_BODY" Language="zh_Hans_CN">
+			<Text>纳瓦霍是一个在沙漠中繁衍生息的文明。在这片其他人曾因创立其自己的宗教而没落的沙漠中，纳瓦霍悉数将其转变成了宗教与文化实力。巴邦西托完成了这一扩展，并将文化实力转化为更显著的发展。</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_ENIGMA_BARBONCITO_CHAPTER_DETAILED_BODY" Language="zh_Hans_CN">
+			<Text>纳瓦霍非常适合宗教或文化胜利。通过在沙漠附近建立城市，您可以从市中心附近的沙漠单元格上获得额外的 [ICON_FAITH] 信仰值，而这些单元格则会在您的城市发展起来以后再充分利用。建立一个宗教对于纳瓦霍来说必不可少，纳瓦霍可从祭祀建筑中获得额外的加成，以促进沙漠城市的 [ICON_Citizen] 人口增长。治疗师也能在您创立宗教后通过购买获得，让您的军事单位能够长久地存活，并提高您单元格的产出。巴邦西托能将这种彻底的宗教玩法转变为文化输出与其他更多形式的增长，从而为纳瓦霍带来轻松的文化或宗教胜利。</Text>
+		</Row>
+		<!--Diplomacy-->
+		<!--FIRST MEET-->
+		<!--First AI line-->
+		<Row Tag="LOC_DIPLO_FIRST_MEET_LEADER_ENIGMA_BARBONCITO_ANY" Language="zh_Hans_CN">
+			<Text>欢迎。我是黑斯廷·达哈，但你可称我巴邦西托：纳瓦霍的领袖和和平酋长。</Text>
+		</Row>
+		<!--AI invitation to visit nearby City-->
+		<Row Tag="LOC_DIPLO_FIRST_MEET_VISIT_RECIPIENT_LEADER_ENIGMA_BARBONCITO_ANY" Language="zh_Hans_CN">
+			<Text>我邀请你来泥盖木屋参加我们的祝福之祭。</Text>
+		</Row>
+		<!--AI accepts Human invitation-->
+		<Row Tag="LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_POSITIVE_LEADER_ENIGMA_BARBONCITO_ANY" Language="zh_Hans_CN">
+			<Text>我接受你慷慨的邀请。</Text>
+		</Row>
+		<!--AI invitation to exchange Capital Information-->
+		<Row Tag="LOC_DIPLO_FIRST_MEET_NO_MANS_INFO_EXCHANGE_LEADER_ENIGMA_BARBONCITO_ANY" Language="zh_Hans_CN">
+			<Text>我建议交换我们首都的情况。相信你的土地也同样肥沃。</Text>
+		</Row>
+		<!--GREETINGS-->
+		<Row Tag="LOC_DIPLO_GREETING_LEADER_ENIGMA_BARBONCITO_ANY" Language="zh_Hans_CN">
+			<Text>欢迎，旅行者。</Text>
+		</Row>
+		<!--DELEGATION-->
+		<!--AI Accepts-->
+		<Row Tag="LOC_DIPLO_ACCEPT_DELEGATION_FROM_HUMAN_LEADER_ENIGMA_BARBONCITO_ANY" Language="zh_Hans_CN">
+			<Text>我接受了你的使团。愿伟大的和平就此降临。</Text>
+		</Row>
+		<!--AI Rejects-->
+		<Row Tag="LOC_DIPLO_REJECT_DELEGATION_FROM_HUMAN_LEADER_ENIGMA_BARBONCITO_ANY" Language="zh_Hans_CN">
+			<Text>虽然你很慷慨，但恕我不能接见你的使团。</Text>
+		</Row>
+		<!--AI Requests -->
+		<Row Tag="LOC_DIPLO_DELEGATION_FROM_AI_LEADER_ENIGMA_BARBONCITO_ANY" Language="zh_Hans_CN">
+			<Text>我派遣了使团到你们首都，还有一个随行的药师，以便主持各种仪式。</Text>
+		</Row>
+		<!--OPEN BORDERS-->
+		<!--AI accepts from human-->
+		<Row Tag="LOC_DIPLO_ACCEPT_OPEN_BORDERS_FROM_HUMAN_LEADER_ENIGMA_BARBONCITO_ANY" Language="zh_Hans_CN">
+			<Text>好主意。</Text>
+		</Row>
+		<!--AI rejects from human-->
+		<Row Tag="LOC_DIPLO_REJECT_OPEN_BORDERS_FROM_HUMAN_LEADER_ENIGMA_BARBONCITO_ANY" Language="zh_Hans_CN">
+			<Text>我不同意这笔交易。</Text>
+		</Row>
+		<!--AI requests from human-->
+		<Row Tag="LOC_DIPLO_OPEN_BORDERS_FROM_AI_LEADER_ENIGMA_BARBONCITO_ANY" Language="zh_Hans_CN">
+			<Text>请允许我的人民穿过你的土地。</Text>
+		</Row>
+		<!--DECLARE FRIENDSHIP-->
+		<!--AI accepts from human-->
+		<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_HUMAN_LEADER_ENIGMA_BARBONCITO_ANY" Language="zh_Hans_CN">
+			<Text>很高兴我们达成协议。</Text>
+		</Row>
+		<!--AI Rejects from human -->
+		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_HUMAN_LEADER_ENIGMA_BARBONCITO_ANY" Language="zh_Hans_CN">
+			<Text>我不过接过你的友谊之手。</Text>
+		</Row>
+		<!--AI Requests friendship from human-->
+		<Row Tag="LOC_DIPLO_DECLARE_FRIEND_FROM_AI_LEADER_ENIGMA_BARBONCITO_ANY" Language="zh_Hans_CN">
+			<Text>我请你公开宣布我们的友谊，这样我们就能够作为朋友走遍这个世界。</Text>
+		</Row>
+		<!--Human accepts AI requests, AI responds-->
+		<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_ENIGMA_BARBONCITO_ANY" Language="zh_Hans_CN">
+			<Text>愿你如我们一样蒙受圣民祝福。</Text>
+		</Row>
+		<!--Human rejects AI requests, AI responds-->
+		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_ENIGMA_BARBONCITO_ANY" Language="zh_Hans_CN">
+			<Text>真失望。</Text>
+		</Row>
+		<!--ALLIANCE-->
+		<!--AI Requests an alliance from human-->
+		<Row Tag="LOC_DIPLO_MAKE_ALLIANCE_FROM_AI_LEADER_ENIGMA_BARBONCITO_ANY" Language="zh_Hans_CN">
+			<Text>我想得到你的支持，让纳瓦霍人在和平之路上走得更远。</Text>
+		</Row>
+		<!--KUDOS & WARNINGS-->
+		<!--AI Kudos-->
+		<Row Tag="LOC_DIPLO_KUDO_EXIT_LEADER_ENIGMA_BARBONCITO_ANY" Language="zh_Hans_CN">
+			<Text>你的巨大贡献让我自愧不如。</Text>
+		</Row>
+		<!--AI Warnings-->
+		<Row Tag="LOC_DIPLO_WARNING_EXIT_LEADER_ENIGMA_BARBONCITO_ANY" Language="zh_Hans_CN">
+			<Text>你欲图占有一切的野心会让你走上一条无人能拯救的不归路。</Text>
+		</Row>
+		<!--AI warns player for border troops-->
+		<Row Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_LEADER_ENIGMA_BARBONCITO_ANY" Language="zh_Hans_CN">
+			<Text>你们驻扎边界的军队给我的人民带来了不安，我必须请你撤走他们。</Text>
+		</Row>
+		<!--TRADE-->
+		<!--AI Accepts Deal-->
+		<Row Tag="LOC_DIPLO_ACCEPT_MAKE_DEAL_FROM_AI_LEADER_ENIGMA_BARBONCITO_ANY" Language="zh_Hans_CN">
+			<Text>{LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_ENIGMA_BARBONCITO_ANY}</Text>
+		</Row>
+		<!--AI Rejects Deal-->
+		<Row Tag="LOC_DIPLO_REJECT_MAKE_DEAL_FROM_AI_LEADER_ENIGMA_BARBONCITO_ANY" Language="zh_Hans_CN">
+			<Text>{LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_ENIGMA_BARBONCITO_ANY}</Text>
+		</Row>
+		<!--DENOUNCE-->
+		<!--From Human-->
+		<Row Tag="LOC_DIPLO_DENOUNCE_FROM_HUMAN_LEADER_ENIGMA_BARBONCITO_ANY" Language="zh_Hans_CN">
+			<Text>你暴露了你的愚蠢。</Text>
+		</Row>
+		<!--From AI-->
+		<Row Tag="LOC_DIPLO_DENOUNCE_FROM_AI_LEADER_ENIGMA_BARBONCITO_ANY" Language="zh_Hans_CN">
+			<Text>你是爱好和平之人的威胁。[NEWLINE]（谴责你）</Text>
+		</Row>
+		<!--Rationale-->
+		<Row Tag="LOC_DIPLO_DENOUNCE_REASON_FROM_AI_LEADER_ANY_REASON_ENIGMA_WAR_CEASE_LEADS_CULTURE" Language="zh_Hans_CN">
+			<Text>(您宣布突袭战争)</Text>
+		</Row>
+		<!--DECLARE WAR-->
+		<!--Human Declares War-->
+		<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_HUMAN_LEADER_ENIGMA_BARBONCITO_ANY" Language="zh_Hans_CN">
+			<Text>纳瓦霍来到这个世界之时，并不希望有战争。但你现在带着它们来了。那就这样吧。</Text>
+		</Row>
+		<!--AI Declares War-->
+		<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_ENIGMA_BARBONCITO_ANY" Language="zh_Hans_CN">
+			<Text>你侵犯了我的人们和他们应得的土地。我不愿打仗，但随它去吧。我要与你战斗到底。</Text>
+		</Row>
+		<!--MAKE PEACE-->
+		<!--AI accepts from human-->
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_AI_ACCEPT_DEAL_LEADER_ENIGMA_BARBONCITO_ANY" Language="zh_Hans_CN">
+			<Text>同意。和平之时已到。</Text>
+		</Row>
+		<!--AI refuses human-->
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_AI_REFUSE_DEAL_LEADER_ENIGMA_BARBONCITO_ANY" Language="zh_Hans_CN">
+			<Text>还未到和平之时。下次吧。</Text>
+		</Row>
+		<!--AI requests from human-->
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_FROM_AI_LEADER_ENIGMA_BARBONCITO_ANY" Language="zh_Hans_CN">
+			<Text>我们来祈求和平，正如上天所愿。</Text>
+		</Row>
+		<!--DEFEAT-->
+		<!--AI is Defeated-->
+		<Row Tag="LOC_DIPLO_DEFEAT_FROM_AI_LEADER_ENIGMA_BARBONCITO_ANY" Language="zh_Hans_CN">
+			<Text>我们的人民会冒险去寻找第五世界。这个世界显然不适合我们。</Text>
+		</Row>
+		<!--Human is Defeated (will see this in hotseat)-->
+		<Row Tag="LOC_DIPLO_DEFEAT_FROM_HUMAN_LEADER_ENIGMA_BARBONCITO_ANY" Language="zh_Hans_CN">
+			<Text>[LOC_DIPLO_DEFEAT_FROM_AI_LEADER_ENIGMA_BARBONCITO_ANY]</Text>
+		</Row>
+		<!--HOGAN-->
+		<Row Tag="LOC_BUILDING_ENIGMA_HOGAN_NAME" Language="zh_Hans_CN">
+			<Text>泥盖木屋</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_ENIGMA_HOGAN_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>纳瓦霍特色建筑，取代神社。[NEWLINE][NEWLINE]+2 [ICON_FOOD] 食物，不与市中心相邻时额外+2 [ICON_HOUSING] 住房。所有相邻于其所在圣地的沙漠及其丘陵单元格+1 [ICON_FAITH] 信仰值。</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_BUILDINGS_PAGE_BUILDING_ENIGMA_HOGAN_CHAPTER_HISTORY_PARA_1" Language="zh_Hans_CN">
+			<Text>【译者注：正在翻译……】[NEWLINE][NEWLINE]A hogan is the primary, traditional dwelling of the Navajo people.  A hogan can be round, cone-shaped, multi-sided, or square; with or without internal posts; timber or stone walls and packed with earth in varying amounts or a bark roof for a summer house, with the door facing east to welcome the rising sun for good wealth and fortune.  Today, while some older hogans are now still used as dwellings and others are maintained for ceremonial purposes, new hogans are rarely intended as family dwellings.  Traditional structured hogans are also considered pioneers of energy efficient homes.</Text>
+		</Row>
+		<!--HATAALII-->
+		<Row Tag="LOC_UNIT_ENIGMA_MEDMAN_NAME" Language="zh_Hans_CN">
+			<Text>治疗师</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_ENIGMA_MEDMAN_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>纳瓦霍特色单位，取代上师。能够治疗相邻的友方军事单位。所驻扎的沙漠及其丘陵单元格+2 [ICON_FOOD] 食物、+2 [ICON_PRODUCTION] 生产力。</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_ENIGMA_MEDMAN_CHAPTER_HISTORY_PARA_1" Language="zh_Hans_CN">
+			<Text>【译者注：正在翻译……】[NEWLINE][NEWLINE]Navajo Hataałii are traditional medicine men who are called upon to perform healing ceremonies.  Unlike other American Indian medical practitioners that rely on visions and personal powers, a healer acts as a facilitator that transfers power from the Holy People to the patient to restore balance and harmony.  Healing practice is performed within a ceremonial hogan.  During a diagnosis a hand trembler traces symbols in the dirt while holding a "Trembling arm" over the patient.  Once a solution has been found, the patient can be referred to a herbalist or singer needed to perform a healing ceremony.  A number of healing ceremonies are performed according to a given patient situation.  The Night Way is a healing ceremony that takes course over nine days.  Each day the patient is cleansed through a varying number of exercises done to attract holiness or repel evil in the form of exorcisms, sweat baths, and sand painting ceremonies.  Herbs for healing ceremonies are collected by a medicine man accompanied by an apprentice.  Once all necessary wild plants are collected, an herbal tea is made for the patient, accompanied by a short prayer.  In some ceremonies, the herbal mixture causes patient vomiting to ensure bodily cleanliness.  Any distribution of medicinal herbs to a patient is accompanied by spiritual chanting.</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_ENIGMA_MEDMAN_NAME" Language="zh_Hans_CN">
+			<Text>祝福之祭</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_ENIGMA_MEDMAN_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>使沙漠单元格产出额外的 [ICON_FOOD] 食物和 [ICON_PRODUCTION] 生产力。</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_ABILITY_ENIGMA_MEDMAN_HEALING_MODIFIER_DESC">
+			<Text>为1个单元格内的单位+{1_Amount}点 [ICON_Damaged] 生命值</Text>
+		</Row>
+		<Row Tag="LOC_THEATER_ENIGMA_DESERT_CULTURE"	Language="zh_Hans_CN">
+			<Text>+{1_num} [ICON_CULTURE] 文化值 来自邻接沙漠</Text>
+		</Row>
+		<Row Tag="LOC_THEATER_ENIGMA_HILL_CULTURE"	Language="zh_Hans_CN">
+			<Text>+{1_num} [ICON_CULTURE] 文化值 来自邻接沙漠（丘陵）</Text>
+		</Row>
+		<Row Tag="LOC_THEATER_ENIGMA_DESERT_FOOD"	Language="zh_Hans_CN">
+			<Text>+{1_num} [ICON_FOOD] 食物 来自邻接沙漠</Text>
+		</Row>
+		<Row Tag="LOC_THEATER_ENIGMA_HILL_FOOD"	Language="zh_Hans_CN">
+			<Text>+{1_num} [ICON_FOOD] 食物 来自邻接沙漠（丘陵）</Text>
+		</Row>
+		<!--MOD SUPPORT-->
+		<!--JFD Rule with Faith-->
+		<Row Language="zh_Hans_CN" Tag="LOC_GOVERNMENT_JFD_CHIEFDOM_LEADER_TITLE_ENIGMA_NAVAJO">
+			<Text>纳塔</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_GOVERNMENT_JFD_CHIEFDOM_LEADER_TITLE_ENIGMA_NAVAJO_FEMININE">
+			<Text>纳塔</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_GOVERNMENT_JFD_HORDE_LEADER_TITLE_ENIGMA_NAVAJO">
+			<Text>纳巴哈</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_GOVERNMENT_JFD_HORDE_LEADER_TITLE_ENIGMA_NAVAJO_FEMININE">
+			<Text>纳巴哈</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_GOVERNMENT_JFD_POLIS_LEADER_TITLE_ENIGMA_NAVAJO">
+			<Text>奥拉拖</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_GOVERNMENT_JFD_POLIS_LEADER_TITLE_ENIGMA_NAVAJO_FEMININE">
+			<Text>奥拉拖</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_GOVERNMENT_JFD_AUTOCRACY_LEADER_TITLE_ENIGMA_NAVAJO">
+			<Text>哈什基耶·纳塔</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_GOVERNMENT_JFD_AUTOCRACY_LEADER_TITLE_ENIGMA_NAVAJO_FEMININE">
+			<Text>哈什基耶·纳塔</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_GOVERNMENT_JFD_CLASSICAL_DEMOCRACY_LEADER_TITLE_ENIGMA_NAVAJO">
+			<Text>霍祖伊·纳塔</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_GOVERNMENT_JFD_CLASSICAL_DEMOCRACY_LEADER_TITLE_ENIGMA_NAVAJO_FEMININE">
+			<Text>霍祖伊·纳塔</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_GOVERNMENT_JFD_OLIGARCHY_LEADER_TITLE_ENIGMA_NAVAJO">
+			<Text>理事会议长</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_GOVERNMENT_JFD_OLIGARCHY_LEADER_TITLE_ENIGMA_NAVAJO_FEMININE">
+			<Text>理事会议长</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_GOVERNMENT_JFD_MERCHANT_REPUBLIC_LEADER_TITLE_ENIGMA_NAVAJO">
+			<Text>纳尔奇德</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_GOVERNMENT_JFD_MERCHANT_REPUBLIC_LEADER_TITLE_ENIGMA_NAVAJO_FEMININE">
+			<Text>纳尔奇德</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_GOVERNMENT_JFD_MONARCHY_LEADER_TITLE_ENIGMA_NAVAJO">
+			<Text>纳塔</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_GOVERNMENT_JFD_MONARCHY_LEADER_TITLE_ENIGMA_NAVAJO_FEMININE">
+			<Text>纳塔</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_GOVERNMENT_JFD_NOBLE_REPUBLIC_LEADER_TITLE_ENIGMA_NAVAJO">
+			<Text>纳尔奇德</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_GOVERNMENT_JFD_NOBLE_REPUBLIC_LEADER_TITLE_ENIGMA_NAVAJO_FEMININE">
+			<Text>纳尔奇德</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_GOVERNMENT_JFD_PEOPLES_REPUBLIC_LEADER_TITLE_ENIGMA_NAVAJO">
+			<Text>人民议长</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_GOVERNMENT_JFD_PEOPLES_REPUBLIC_LEADER_TITLE_ENIGMA_NAVAJO_FEMININE">
+			<Text>人民议长</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_GOVERNMENT_JFD_LIBERAL_DEMOCRACY_LEADER_TITLE_ENIGMA_NAVAJO">
+			<Text>纳尔奇德</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_GOVERNMENT_JFD_LIBERAL_DEMOCRACY_LEADER_TITLE_ENIGMA_NAVAJO_FEMININE">
+			<Text>纳尔奇德</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_GOVERNMENT_JFD_MILITARY_GUARDIANSHIP_LEADER_TITLE_ENIGMA_NAVAJO">
+			<Text>哈什基耶·纳塔</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_GOVERNMENT_JFD_MILITARY_GUARDIANSHIP_LEADER_TITLE_ENIGMA_NAVAJO_FEMININE">
+			<Text>哈什基耶·纳塔</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_GOVERNMENT_JFD_EMPIRE_LEADER_TITLE_ENIGMA_NAVAJO">
+			<Text>霍祖伊·多·哈什基耶·纳塔</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_GOVERNMENT_JFD_EMPIRE_LEADER_TITLE_ENIGMA_NAVAJO_FEMININE">
+			<Text>霍祖伊·多·哈什基耶·纳塔</Text>
+		</Row>
+		<Row Tag="LOC_POLITICIAN_ENIGMA_NAVAJO_MALE_1" Language="zh_Hans_CN">
+			<Text>纳波那</Text>
+		</Row>
+		<Row Tag="LOC_POLITICIAN_ENIGMA_NAVAJO_MALE_2" Language="zh_Hans_CN">
+			<Text>阿西迪</Text>
+		</Row>
+		<Row Tag="LOC_POLITICIAN_ENIGMA_NAVAJO_MALE_3" Language="zh_Hans_CN">
+			<Text>哈斯托比加</Text>
+		</Row>
+		<Row Tag="LOC_POLITICIAN_ENIGMA_NAVAJO_MALE_4" Language="zh_Hans_CN">
+			<Text>哈斯汀·达哈</Text>
+		</Row>
+		<Row Tag="LOC_POLITICIAN_ENIGMA_NAVAJO_MALE_5" Language="zh_Hans_CN">
+			<Text>曼努利托</Text>
+		</Row>
+		<Row Tag="LOC_POLITICIAN_ENIGMA_NAVAJO_MALE_6" Language="zh_Hans_CN">
+			<Text>基伊奇奇</Text>
+		</Row>
+		<Row Tag="LOC_POLITICIAN_ENIGMA_NAVAJO_MALE_7" Language="zh_Hans_CN">
+			<Text>德尔加迪托</Text>
+		</Row>
+		<Row Tag="LOC_POLITICIAN_ENIGMA_NAVAJO_MALE_8" Language="zh_Hans_CN">
+			<Text>切斯特</Text>
+		</Row>
+		<Row Tag="LOC_POLITICIAN_ENIGMA_NAVAJO_MALE_9" Language="zh_Hans_CN">
+			<Text>奇</Text>
+		</Row>
+		<Row Tag="LOC_POLITICIAN_ENIGMA_NAVAJO_MALE_10" Language="zh_Hans_CN">
+			<Text>哈斯汀</Text>
+		</Row>
+		<Row Tag="LOC_POLITICIAN_ENIGMA_NAVAJO_MALE_11" Language="zh_Hans_CN">
+			<Text>拉哥</Text>
+		</Row>
+		<Row Tag="LOC_POLITICIAN_ENIGMA_NAVAJO_MALE_12" Language="zh_Hans_CN">
+			<Text>埃雷罗</Text>
+		</Row>
+		<Row Tag="LOC_POLITICIAN_ENIGMA_NAVAJO_MALE_13" Language="zh_Hans_CN">
+			<Text>阿米茹</Text>
+		</Row>
+		<Row Tag="LOC_POLITICIAN_ENIGMA_NAVAJO_FEMALE_1" Language="zh_Hans_CN">
+			<Text>阿萨扎·特洛吉</Text>
+		</Row>
+		<Row Tag="LOC_POLITICIAN_ENIGMA_NAVAJO_FEMALE_2" Language="zh_Hans_CN">
+			<Text>朱妮塔</Text>
+		</Row>
+	</LocalizedText>
+</GameData>

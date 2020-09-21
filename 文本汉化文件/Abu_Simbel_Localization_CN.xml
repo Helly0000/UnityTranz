@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!-- Abu_Simbel_Localization_CN -->
+<!-- Author: 春 -->
+<!-- DateCreated: 4/1/2020 10:27:29 AM -->
+<GameData>
+	<LocalizedText>
+		<Row Tag="LOC_BUILDING_ABU_SIMBEL_NAME" Language="zh_Hans_CN">
+			<Text>阿布辛贝神庙</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_ABU_SIMBEL_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>为所有城市（包括新建立的城市）提供免费的粮仓。为6单元格内的城市提供+2忠诚度。必须建造在泛滥平原上。</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_ABU_SIMBEL_QUOTE" Language="zh_Hans_CN">
+			<Text>拉美西斯二世，我赐予你源源不断的丰收来哺育这两片土地；由此小麦聚似沙，仓廪抵苍穹，谷物堆如山。[NEWLINE]——神庙铭文</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_WONDERS_PAGE_BUILDING_ABU_SIMBEL_CHAPTER_HISTORY_PARA_1" Language="zh_Hans_CN">
+			<Text>阿布辛贝神庙是坐落于上埃及阿斯旺省阿布辛贝村庄（在苏丹边境附近）的两座巨大岩石神庙。它们位于纳赛尔湖西岸，阿斯旺西南约230公里（140英里）处。这一建筑群及它下游至菲莱岛（靠近阿斯旺）的遗迹被称作“努比亚遗迹”，名属联合国教科文组织指定的世界遗产。这两座神庙起初是在法老拉美西斯二世统治的第十九王朝时期，于山腰上雕刻而成的。它们作为国王和王后奈菲尔塔利的永久纪念碑，纪念他在卡迭石战役中的胜利。它们外部巨大的岩石浮雕已经成为其标志。</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_WONDERS_PAGE_BUILDING_ABU_SIMBEL_CHAPTER_HISTORY_PARA_2" Language="zh_Hans_CN">
+			<Text>拉美西斯二世在他统治期间于所控制下的埃及和努比亚开展了大规模的建筑工程。努比亚对埃及人来说非常重要，因为它是黄金和许多其他贵重贸易商品的来源。因此，他在那里修建了几座宏伟的神庙，让努比亚人铭记埃及的力量，并使努比亚人埃及化。最著名的庙宇是位于下努比亚和上努比交界处的尼罗河第二瀑布——现今的阿布辛贝村庄附近的石刻神庙。这里有两座神庙，一座是纪念拉美西斯二世的大庙，另一座是纪念他的首任妻子奈菲尔塔利王后的小庙。神庙的建造大约始于公元前1264年，持续了大约20年，直到公元前1244年完工。它被称为“受阿蒙宠爱的拉美西斯神庙”。</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_WONDERS_PAGE_BUILDING_ABU_SIMBEL_CHAPTER_HISTORY_PARA_3" Language="zh_Hans_CN">
+			<Text>1968年，在波兰考古学家米哈洛夫斯基的督导下，神庙整体被迁移到一个人造的半球状山坡上，位于阿斯旺水坝之上。神庙的迁移是必要的，否则它会在纳塞尔湖（尼罗河上阿斯旺水坝修建之后形成的大型人工水库）的修建过程中被淹没。</Text>
+		</Row>
+	</LocalizedText>
+</GameData>

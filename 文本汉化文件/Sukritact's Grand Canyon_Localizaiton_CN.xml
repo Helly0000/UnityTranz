@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!-- Sukritact's Grand Canyon_Localizaiton_CN -->
+<!-- Author: Clear8Sky -->
+<!-- DateCreated: 3/13/2020 5:53:02 PM -->
+<GameData>
+	<LocalizedText>
+		<Row Tag="LOC_FEATURE_SUK_GRANDCANYON_NAME" Language="zh_Hans_CN">
+			<Text>亚利桑那州大峡谷</Text>
+		</Row>
+		<Row Tag="LOC_FEATURE_SUK_GRANDCANYON_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>占3个单元格无法逾越的自然奇观。可作为淡水源，并为相邻单元格提供+1 [ICON_FOOD] 食物、+1 [ICON_CULTURE] 文化值。在游戏进行到工业时代以后，城市每拥有一格该奇观，便可获得+4点 [ICON_Tourism] 旅游业绩（最多+12点）。</Text>
+		</Row>
+		<Row Tag="LOC_FEATURE_SUK_GRANDCANYON_QUOTE" Language="zh_Hans_CN">
+			<Text>“亚利桑那州有一个举世无二的伟大奇观，就在这大峡谷之中。你无法去改造它，因为时间会将它塑造，而人类却只会毁掉。”[NEWLINE]– 西奥多·罗斯福</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_FEATURES_PAGE_FEATURE_SUK_GRANDCANYON_CHAPTER_HISTORY_PARA_1" Language="zh_Hans_CN">
+			<Text>亚利桑那大峡谷是地球上最壮观的地质景观之一。它的浩瀚令人惊叹，它揭示出的有关地球历史的证据也是无价的。从前寒武纪到新生代，它的地质记录跨越了地球演化史整整四个时代。[NEWLINE]这条1.5公里（0.9英里）深的峡谷蜿蜒曲折，全长445公里（276.5英里），在长达600万年的地质活动和科罗拉多河的侵蚀下逐渐形成。大峡谷以其独特的自然美景而闻名，被认为是世界上最具视觉冲击力的景观之一，它那陡峭的深谷、庙宇般的山丘以及广阔多彩又蜿蜒的地形令人赞不绝口。大峡谷公园内的景观包括高原、平原、沙漠、森林、火山渣锥、熔岩流、溪流、瀑布，以及美国最大的白浪急流之一。随着河流的深入，它在峡谷峭壁之内描绘出北美七大生物地域中的五个区域，演化出不同海拔高度生物环境的演化历程，是一个杰出的范例样本。动植物种群在许多区域交叠融合，且遍及整个峡谷。[NEWLINE]数千年来，一直有印第安人定居于此，他们在峡谷及其众多洞穴内建造住处。普韦布洛人认为大峡谷是一个圣地，并向它进行朝圣。1908年1月11日，由美国总统西奥多·罗斯福（Theodore Roosevelt）提议，在大峡谷建立了国家纪念公园，如今，大峡谷国家公园是世界上最著名的自然景点之一，每年吸引约500万名游客。</Text>
+		</Row>
+	</LocalizedText>
+</GameData>

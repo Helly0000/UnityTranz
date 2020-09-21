@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Suk_Robespierre_CN -->
+<!-- Author: 春 -->
+<!-- DateCreated: 5/28/2020 11:04:55 PM -->
+<GameData>
+	<LocalizedText>
+		<Row Tag="LOC_LEADER_SUK_ROBESPIERRE_NAME" Language="zh_Hans_CN">
+			<Text>罗伯斯庇尔</Text>
+		</Row>
+		<!--ULA-->
+		<Row Tag="LOC_TRAIT_LEADER_SUK_REPS_ON_MISSION_NAME" Language="zh_Hans_CN">
+			<Text>特派代表</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_LEADER_SUK_REPS_ON_MISSION_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>奇观、剧院广场、圣地+2 [ICON_Production] 生产力、+2 [ICON_Gold] 金币，但[COLOR_RED]-3[ENDCOLOR]忠诚度。如果城市有 [Icon_Governor] 总督就职，则提升至+4 [ICON_Production] 生产力、+4 [ICON_Gold] 金币，但[COLOR_RED]-5[ENDCOLOR]忠诚度。学院、工业区和社区+2忠诚度。城堡+1 [ICON_FOOD] 食物、+2 [ICON_Gold] 金币，但[COLOR_RED]-1[ENDCOLOR]忠诚度。[NEWLINE][NEWLINE]可在市政广场中建造公共安全委员会。</Text>
+		</Row>
+		<!--UB-->
+		<Row Tag="LOC_BUILDING_SUK_COMMITTEE_PUBLIC_SAFETY_NAME" Language="zh_Hans_CN">
+			<Text>公共安全委员会</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_SUK_COMMITTEE_PUBLIC_SAFETY_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>罗伯斯庇尔作为领袖时的特色建筑。+1通配符槽位。奇观、剧院广场、圣地[COLOR_RED]-2[ENDCOLOR]忠诚度。[NEWLINE]奖励3个 [Icon_Governor] 总督头衔。</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_BUILDINGS_PAGE_BUILDING_SUK_COMMITTEE_PUBLIC_SAFETY_CHAPTER_HISTORY_PARA_1" Language="zh_Hans_CN">
+			<Text>【译者注：正在翻译……】[NEWLINE][NEWLINE]The Committee of Public Safety, has become a powerful symbol of the French Revolution. It is most closely associated with – and is often accused of instigating – the Reign of Terror. Formed by the National Convention in April 1793, the Committee was intended to function as a war council and de facto executive cabinet. It contained nine seats (later extended to 10, then 12) which were rotated monthly, a procedure intended to stop one individual or faction from accumulating too much power.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_BUILDINGS_PAGE_BUILDING_SUK_COMMITTEE_PUBLIC_SAFETY_CHAPTER_HISTORY_PARA_2" Language="zh_Hans_CN">
+			<Text>Despite this, within six months the Committee of Public Safety was dominated by radicals. Under their control, the Committee began to operate effectively but also autonomously from the legislature. By late 1793, the Committee was directing the National Convention rather than acting on its behalf. The Committee’s members – men like Maximilien Robespierre, Louis Saint-Just and Georges Couthon – became virtual leaders of the revolution.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_BUILDINGS_PAGE_BUILDING_SUK_COMMITTEE_PUBLIC_SAFETY_CHAPTER_HISTORY_PARA_3" Language="zh_Hans_CN">
+			<Text>Many consider the Committee of Public Safety as the body most responsible for the Reign of Terror. While this is open to debate, it seems clear the Committee both endorsed and contributed to the use of state terror in 1793-94.</Text>
+		</Row>
+		<!--Agenda-->
+		<Row Tag="LOC_AGENDA_SUK_REPUBLIC_OF_VIRTUE_NAME" Language="zh_Hans_CN">
+			<Text>美德共和国</Text>
+		</Row>
+		<Row Tag="LOC_AGENDA_SUK_REPUBLIC_OF_VIRTUE_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>喜欢相同政体的文明，不喜欢不同政体的文明，更不喜欢同时代不同政体的文明。</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_KUDO_LEADER_SUK_ROBESPIERRE_REASON_ANY" Language="zh_Hans_CN">
+			<Text>（您跟他有相同的政体）</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MODIFIER_SUK_REPUBLIC_OF_VIRTUE_KUDO" Language="zh_Hans_CN">
+			<Text>罗伯斯庇尔很高兴你们政体相同。</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_LEADER_SUK_ROBESPIERRE_REASON_ANY" Language="zh_Hans_CN">
+			<Text>（您跟他政体不相同）</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MODIFIER_SUK_REPUBLIC_OF_VIRTUE_WARNING" Language="zh_Hans_CN">
+			<Text>罗伯斯庇尔很不高兴，因为你有一个不同于他的政体。</Text>
+		</Row>
+		<!--Loading Screen-->
+		<Row Tag="LOC_LOADING_INFO_LEADER_SUK_ROBESPIERRE" Language="zh_Hans_CN">
+			<Text>法国召唤你，马克西米连·罗伯斯庇尔——来开创一个新时代。摧毁那些牧师和贵族的腐败政权，因为他们不懂得体恤普罗大众。让他们知道，他们的城堡，他们引以为傲的大教堂，是属于整个法国的财富。你必须引导革命，通过恐怖创造一个美德的共和国。</Text>
+		</Row>
+		<!--Diplo-->
+		<Row Tag="LOC_DIPLO_FIRST_MEET_LEADER_SUK_ROBESPIERRE_ANY" Language="zh_Hans_CN">
+			<Text>你是我希望的人民的朋友吗？我是罗伯斯庇尔，法兰西共和国的一个卑微的公民。</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_VISIT_RECIPIENT_LEADER_SUK_ROBESPIERRE_ANY" Language="zh_Hans_CN">
+			<Text>如果你想看看我们的国家，共和国很乐意在我们的一个城市接待你。</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_POSITIVE_LEADER_SUK_ROBESPIERRE_ANY" Language="zh_Hans_CN">
+			<Text>法国感谢你们的盛情款待。</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_NO_MANS_INFO_EXCHANGE_LEADER_SUK_ROBESPIERRE_ANY" Language="zh_Hans_CN">
+			<Text>由于革命，我们的首都有点混乱，但它仍然是一个伟大的城市。你的首都呢？</Text>
+		</Row>
+		
+		<Row Tag="LOC_DIPLO_KUDO_EXIT_LEADER_SUK_ROBESPIERRE_ANY" Language="zh_Hans_CN">
+			<Text>我们极其尊重我们的姐妹共和国。我很高兴看到其他人致力于建设一个更有道德的政府。</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_EXIT_LEADER_SUK_ROBESPIERRE_ANY" Language="zh_Hans_CN">
+			<Text>任何制度，如果不认为人民是善良的，官员是腐败的，那它就是邪恶的。贵国政府就是一个明显的例子。</Text>
+		</Row>
+		
+		<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_HUMAN_LEADER_SUK_ROBESPIERRE_ANY" Language="zh_Hans_CN">
+			<Text>革命的敌人是不会胜利的！拿起武器！公民们！</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_SUK_ROBESPIERRE_ANY" Language="zh_Hans_CN">
+			<Text>惩罚人类的压迫者是仁慈的；原谅他们是残忍的。</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_AI_ACCEPT_DEAL_LEADER_SUK_ROBESPIERRE_ANY" Language="zh_Hans_CN">
+			<Text>我们俩都对付过我们的敌人。现在让我们关注一下内部的敌人。</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_AI_REFUSE_DEAL_LEADER_SUK_ROBESPIERRE_ANY" Language="zh_Hans_CN">
+			<Text>法国的荣誉需要满足！我拒绝！</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_FROM_AI_LEADER_SUK_ROBESPIERRE_ANY" Language="zh_Hans_CN">
+			<Text>你们作战很英勇，但现在肯定是实现和平的时候了吧？</Text>
+		</Row>
+		
+		<Row Tag="LOC_DIPLO_DEFEAT_FROM_AI_LEADER_SUK_ROBESPIERRE_ANY" Language="zh_Hans_CN">
+			<Text>将我的头颅示众吧，他们会希望看到它的。</Text>
+		</Row>
+		
+		<Row Tag="LOC_DIPLO_DECLARE_FRIEND_FROM_AI_LEADER_SUK_ROBESPIERRE_ANY" Language="zh_Hans_CN">
+			<Text>法兰西将以你为她的朋友为荣。</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_SUK_ROBESPIERRE_ANY" Language="zh_Hans_CN">
+			<Text>太好了。我开瓶酒庆祝一下。</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_SUK_ROBESPIERRE_ANY" Language="zh_Hans_CN">
+			<Text>我希望这不是正在进行的反对革命的阴谋的迹象。</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_HUMAN_LEADER_SUK_ROBESPIERRE_ANY" Language="zh_Hans_CN">
+			<Text>我接受。让我们一起为美德而努力！</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_HUMAN_LEADER_SUK_ROBESPIERRE_ANY" Language="zh_Hans_CN">
+			<Text>除非你已经证明你对革命事业具备的献身精神。</Text>
+		</Row>
+		
+		<Row Tag="LOC_DIPLO_DELEGATION_FROM_AI_LEADER_SUK_ROBESPIERRE_ANY" Language="zh_Hans_CN">
+			<Text>法国向你派遣了一个代表团。我还送了一盒胭脂盖和一顶三色帽徽。</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_DELEGATION_FROM_HUMAN_LEADER_SUK_ROBESPIERRE_ANY" Language="zh_Hans_CN">
+			<Text>我们接受你的代表团和你的善意礼物。</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_DELEGATION_FROM_HUMAN_LEADER_SUK_ROBESPIERRE_ANY" Language="zh_Hans_CN">
+			<Text>呸！法国不需要那些不支持革命的人的礼物。</Text>
+		</Row>
+		
+		<Row Tag="LOC_DIPLO_DENOUNCE_FROM_HUMAN_LEADER_SUK_ROBESPIERRE_ANY" Language="zh_Hans_CN">
+			<Text>一个献身于美德事业的人，不必在乎你像这样的人。</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DENOUNCE_FROM_AI_LEADER_SUK_ROBESPIERRE_ANY" Language="zh_Hans_CN">
+			<Text>我会这么说！你必须死，你的国家才能生存！</Text>
+		</Row>
+		
+		<Row Tag="LOC_DIPLO_MAKE_ALLIANCE_FROM_AI_LEADER_SUK_ROBESPIERRE_ANY" Language="zh_Hans_CN">
+			<Text>让我们宣布我们是姐妹共和国吧！一起反抗世界上所有的暴君！</Text>
+		</Row>
+		
+		<Row Tag="LOC_DIPLO_GREETING_LEADER_SUK_ROBESPIERRE_ANY" Language="zh_Hans_CN">
+			<Text>你好。</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_MAKE_DEAL_FROM_AI_LEADER_SUK_ROBESPIERRE_ANY" Language="zh_Hans_CN">
+			<Text>不要妄想利用这场革命。</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_MAKE_DEAL_FROM_AI_LEADER_SUK_ROBESPIERRE_ANY" Language="zh_Hans_CN">
+			<Text>一个很好的建议！</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_OPEN_BORDERS_FROM_AI_LEADER_SUK_ROBESPIERRE_ANY" Language="zh_Hans_CN">
+			<Text>我建议我们两国人民达成一个开放边界的共同协议。</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_OPEN_BORDERS_FROM_HUMAN_LEADER_SUK_ROBESPIERRE_ANY" Language="zh_Hans_CN">
+			<Text>很好。让我们的边界彼此开放。</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_OPEN_BORDERS_FROM_HUMAN_LEADER_SUK_ROBESPIERRE_ANY" Language="zh_Hans_CN">
+			<Text>你们国家有流亡者和反革命分子，我不能冒险让他们返回法国。我必须拒绝。</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_LEADER_SUK_ROBESPIERRE_ANY" Language="zh_Hans_CN">
+			<Text>认为我们的特工对你的行动视而不见吗？革命要求你马上撤走你的军队。</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_SUK_ROBESPIERRE_QUOTE" Language="zh_Hans_CN">
+			<Text>人民们呐，你们曾想过来一场不是革命的革命吗？</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_SUK_ROBESPIERRE_TITLE" Language="zh_Hans_CN">
+			<Text>马克西米连·罗伯斯庇尔</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_SUK_ROBESPIERRE_SUBTITLE" Language="zh_Hans_CN">
+			<Text>马克西米连·罗伯斯庇尔，“清廉者”</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_SUK_ROBESPIERRE_CHAPTER_CAPSULE_BODY" Language="zh_Hans_CN">
+			<Text>罗伯斯庇尔的统治提供了强大的经济红利，但伴随而来的忠诚度弊病则会带来反革命的风险。</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_SUK_ROBESPIERRE_CHAPTER_DETAILED_BODY" Language="zh_Hans_CN">
+			<Text>法国有望于成为奇观流游戏玩家的主要使用对象，而在这方面的成功会使其成为其他文化胜利文明的主要竞争者。在凯瑟琳掌权时，法国应会掌控所有竞争对手的信息，这使其能关注到对手们的那些必定会先于她建造完成的奇观。比奇观建造稍次一个优先级的则是城堡改良设施的恰当建造，这同样有利于文化胜利。所有这些 [ICON_Culture] 文化值产出将帮助法国快速攀登市政树，从而先于其竞争对手来组建军团与军队。当法国同时拥有军团、军队以及帝国卫队时，要当心！罗伯斯庇尔的统治将会为奇观、城堡以及法国的重要区域提供巨额经济加成，但与日俱增的忠诚度弊病则会带来反革命的风险。</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_SUK_ROBESPIERRE_CHAPTER_HISTORY_PARA_1" Language="zh_Hans_CN">
+			<Text>【译者注：正在翻译……】[NEWLINE][NEWLINE]Robespierre was either a tyrant or a servant of the people; a savior of the Revolution or the devil incarnate. Yet, like so many figures of the past the truth of the matter is somewhat more complex. He was a radical Jacobin leader and one of the principal figures in the French Revolution. In the latter months of 1793 he came to dominate the Committee of Public Safety, the principal organ of the Revolutionary government during the Reign of Terror, but in 1794 he was overthrown and guillotined.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_SUK_ROBESPIERRE_CHAPTER_HISTORY_PARA_2" Language="zh_Hans_CN">
+			<Text>Maximilien Marie Isidore de Robespierre was born in Arras, France, on May 6, 1758, the oldest of four children. His mother died when he was 6 years old, and his father left the family soon after. The children were raised by their maternal grandparents. Young Maximilien was educated in Paris, graduating from the Lycée Louis-le-Grand and earning a law degree in 1781. He practiced law in Arras, which provided him with a comfortable income. Robespierre soon took on a public role, calling for political change in the French monarchy. He became a devotee of social philosopher Jean-Jacques Rousseau, intrigued by the idea of a virtuous man who stands alone accompanied only by his conscience. He gained a reputation for defending the poorest of society and earned the nickname “the incorruptible” for his adherence to strict moral values.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_SUK_ROBESPIERRE_CHAPTER_HISTORY_PARA_3" Language="zh_Hans_CN">
+			<Text>At age 30, Robespierre was elected to the Estates General of the French legislature. During the first period of the French Revolution (1789–91), in which the Estates General became the National Assembly, Robespierre made many speeches. His ideas were seen as extreme: his belief in civil liberty and equality, his refusal to compromise, and his anger toward all authority won him little support in the legislature. He favored giving the vote to all men, not just property owners, and he opposed slavery in the colonies. Robespierre was more popular at meetings of a Paris club called the Jacobins for his honesty and firm sense of right and wrong. When Robespierre's term as a legislator ended in September 1791, Robespierre remained in Paris, spending time at the Jacobins and publishing a weekly political journal. During this period he was a critic of King Louis XVI (1754–1793) and those who supported a limited, constitutional monarchy (rule by a single person). Robespierre, deeply suspicious of the king, spoke and wrote in opposition to the course of events until August 1792, when the monarchy was overthrown and the First French Republic was established.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_SUK_ROBESPIERRE_CHAPTER_HISTORY_PARA_4" Language="zh_Hans_CN">
+			<Text>A group of representatives was quickly elected to draft a constitution and to govern the country in the meantime, and Robespierre was elected to attend. As a spokesman for the Jacobins in the National Convention, he was a harsh critic of the king, who was finally placed on trial, convicted, and executed in January 1793. In the months that followed Robespierre turned his anger on a group of moderates (those who prefer less abrupt change) called the Girondins, leading the effort to have their members removed from the convention, arrested, and executed.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_SUK_ROBESPIERRE_CHAPTER_HISTORY_PARA_5" Language="zh_Hans_CN">
+			<Text>In July 1793 Robespierre was elected to the Committee of Public Safety, which acted to protect the republic during the dual problems of foreign war (most of Europe was fighting against the Revolutionary government in France) and civil war (which threatened to bring down that government). It executed people who were suspected of supporting the king or making plans to take over the government. Thousands were put to death with a quick trial or no trial at all. This became known as the Reign of Terror.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_SUK_ROBESPIERRE_CHAPTER_HISTORY_PARA_6" Language="zh_Hans_CN">
+			<Text>Robespierre faced increased opposition on both sides. Included among these were the Hébertists, a group that controlled the Paris city government and was upset with wartime shortages and increased prices, and the Indulgents, moderate Jacobins who felt that the Reign of Terror should be relaxed since the war had ended. Robespierre had leaders of both groups rounded up and executed, including Georges Jacques Danton (1759–1794), who had once been a close associate of his. Robespierre and his supporters claimed that they wanted to create a Republic of Virtue in which citizens would live honest, moral lives and serve the community.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_SUK_ROBESPIERRE_CHAPTER_HISTORY_PARA_7" Language="zh_Hans_CN">
+			<Text>The intensification of the 'Reign of Terror' and Robespierre's autocracy made him increasingly unpopular. French military successes served to undermine the justification for such ruthlessness and a conspiracy was formed to overthrow Robespierre. On 27 July 1794, he was arrested after a struggle. The following day Robespierre, wounded from a bullet to the jaw, and 21 of his closest supporters were executed at the guillotine.</Text>
+		</Row>
+	</LocalizedText>
+</GameData>

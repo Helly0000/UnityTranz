@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Sukritact's Khosrow I_Localization_CN -->
+<!-- Author: 春 -->
+<!-- DateCreated: 5/19/2020 10:20:12 PM -->
+<GameData>
+	<LocalizedText>
+		<Row Tag="LOC_LEADER_SUK_KHOSROW_I_NAME" Language="zh_Hans_CN">
+			<Text>库思老一世</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SUK_CTESIPHON" Language="zh_Hans_CN">
+			<Text>泰西封</Text>
+		</Row>
+		<!--ULA-->
+		<Row Tag="LOC_TRAIT_LEADER_SUK_ARCHWAY_OF_CTESIPHON_NAME" Language="zh_Hans_CN">
+			<Text>泰西封拱门</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_LEADER_SUK_ARCHWAY_OF_CTESIPHON_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>你每拥有一个世界奇观，则+3%与该奇观同时代的 [ICON_GreatPerson] 伟人点数的产出。波斯庭院可从每个相邻奇观获得+1 [ICON_Production] 生产力、+1 [ICON_Gold] 金币。</Text>
+		</Row>
+		<!--Agenda-->
+		<Row Tag="LOC_AGENDA_SUK_ACADEMY_OF_GONDISHAPUR_NAME" Language="zh_Hans_CN">
+			<Text>贡迪沙普尔学院</Text>
+		</Row>
+		<Row Tag="LOC_AGENDA_SUK_ACADEMY_OF_GONDISHAPUR_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>尊敬拥有许多奇观和伟人的国家，鄙视不是如此的国家。</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_KUDO_LEADER_SUK_KHOSROW_I_REASON_ANY" Language="zh_Hans_CN">
+			<Text>（您拥有许多奇观和伟人）</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MODIFIER_SUK_ACADEMY_OF_GONDISHAPUR_CIVILIZED" Language="zh_Hans_CN">
+			<Text>库思老尊敬你，因为你们是一个拥有许多奇观和伟人的文明。</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_LEADER_SUK_KHOSROW_I_REASON_ANY" Language="zh_Hans_CN">
+			<Text>（您未拥有许多奇观或伟人）</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MODIFIER_SUK_ACADEMY_OF_GONDISHAPUR_UNCIVILIZED" Language="zh_Hans_CN">
+			<Text>库思老不喜欢没什么奇观和伟人的国家。</Text>
+		</Row>
+		<!--Diplo-->
+		<Row Tag="LOC_LOADING_INFO_LEADER_SUK_KHOSROW_I" Language="zh_Hans_CN">
+			<Text>赞美您，库思老一世，不朽的灵魂，万王之王！整个波斯都在您英明公正的统治之下。您的责任是让波斯成为文明的灯塔——通过创造美丽的花园，建造伟大的奇观，以及吸引世上最具智慧的人才。如此，世界都将对波斯的荣耀肃然起敬。</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_SUK_KHOSROW_I_ANY" Language="zh_Hans_CN">
+			<Text>真遗憾。</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_SUK_KHOSROW_I_ANY" Language="zh_Hans_CN">
+			<Text>好极了。</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DECLARE_FRIEND_FROM_AI_LEADER_SUK_KHOSROW_I_ANY" Language="zh_Hans_CN">
+			<Text>友谊将使我们两个伟大的国家繁荣昌盛。我希望你同意。</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_HUMAN_LEADER_SUK_KHOSROW_I_ANY" Language="zh_Hans_CN">
+			<Text>波斯不会接受任何人的友谊。但也许未来有机会。</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_HUMAN_LEADER_SUK_KHOSROW_I_ANY" Language="zh_Hans_CN">
+			<Text>波斯很荣幸能称你为朋友。我们接受！</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_SUK_KHOSROW_I_ANY" Language="zh_Hans_CN">
+			<Text>野蛮人存在的意义就是被征服。我们将会把文明带到你们的土地上！</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_HUMAN_LEADER_SUK_KHOSROW_I_ANY" Language="zh_Hans_CN">
+			<Text>你要与文明的壁垒——强大的波斯作战吗？</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DEFEAT_FROM_HUMAN_LEADER_SUK_KHOSROW_I_ANY" Language="zh_Hans_CN">
+			<Text>我很少见过战争的这一面。</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DEFEAT_FROM_AI_LEADER_SUK_KHOSROW_I_ANY" Language="zh_Hans_CN">
+			<Text>我很少见过战争的这一面。</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DELEGATION_FROM_AI_LEADER_SUK_KHOSROW_I_ANY" Language="zh_Hans_CN">
+			<Text>我们派遣的使节带上了载有我们最好的诗歌的书籍。请善待他们。</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_DELEGATION_FROM_HUMAN_LEADER_SUK_KHOSROW_I_ANY" Language="zh_Hans_CN">
+			<Text>我们拒绝。</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_DELEGATION_FROM_HUMAN_LEADER_SUK_KHOSROW_I_ANY" Language="zh_Hans_CN">
+			<Text>我亲自迎接了你们派来的使节。谢谢你的礼物。</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DENOUNCE_FROM_AI_LEADER_SUK_KHOSROW_I_ANY" Language="zh_Hans_CN">
+			<Text>你们不配被称为文明，波斯也不想跟你们有任何关系。[NEWLINE]（谴责你）</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DENOUNCE_FROM_HUMAN_LEADER_SUK_KHOSROW_I_ANY" Language="zh_Hans_CN">
+			<Text>真愚蠢。世人都知道波斯是真正的文明国家。</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_LEADER_SUK_KHOSROW_I_ANY" Language="zh_Hans_CN">
+			<Text>我是库思老一世，万王之王！波斯的统治者！我希望能找到一个配得上与波斯平起平坐的人。</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_VISIT_RECIPIENT_LEADER_SUK_KHOSROW_I_ANY" Language="zh_Hans_CN">
+			<Text>我们在附近有一座城市。来吧，享受我们花园中的宁静和我们诗人的作品。</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_POSITIVE_LEADER_SUK_KHOSROW_I_ANY" Language="zh_Hans_CN">
+			<Text>我很乐意接受。</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_NO_MANS_INFO_EXCHANGE_LEADER_SUK_KHOSROW_I_ANY" Language="zh_Hans_CN">
+			<Text>我想知道你们的首都与泰西封相比如何。你愿意分享一下吗？</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_GREETING_LEADER_SUK_KHOSROW_I_ANY" Language="zh_Hans_CN">
+			<Text>欢迎。</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_EXIT_LEADER_SUK_KHOSROW_I_ANY" Language="zh_Hans_CN">
+			<Text>遗憾的是，我不认为你们是一个能够真正被称之为文明的国家。</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_KUDO_EXIT_LEADER_SUK_KHOSROW_I_ANY" Language="zh_Hans_CN">
+			<Text>宏伟的城市以及智慧的人才。我们很荣幸地将你们称之为与波斯平起平坐的文明。</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_ALLIANCE_FROM_AI_LEADER_SUK_KHOSROW_I_ANY" Language="zh_Hans_CN">
+			<Text>你愿意结成同盟吗？</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_MAKE_DEAL_FROM_AI_LEADER_SUK_KHOSROW_I_ANY" Language="zh_Hans_CN">
+			<Text>{LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_SUK_KHOSROW_I_ANY}</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_MAKE_DEAL_FROM_AI_LEADER_SUK_KHOSROW_I_ANY" Language="zh_Hans_CN">
+			<Text>{LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_SUK_KHOSROW_I_ANY}</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_AI_ACCEPT_DEAL_LEADER_SUK_KHOSROW_I_ANY" Language="zh_Hans_CN">
+			<Text>很好，这场战争已经持续得太久了。</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_AI_REFUSE_DEAL_LEADER_SUK_KHOSROW_I_ANY" Language="zh_Hans_CN">
+			<Text>不。我不能接受。</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_FROM_AI_LEADER_SUK_KHOSROW_I_ANY" Language="zh_Hans_CN">
+			<Text>让我们和解。</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_OPEN_BORDERS_FROM_HUMAN_LEADER_SUK_KHOSROW_I_ANY" Language="zh_Hans_CN">
+			<Text>希望这预示着我们两个帝国之间更深入的了解。</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_OPEN_BORDERS_FROM_HUMAN_LEADER_SUK_KHOSROW_I_ANY" Language="zh_Hans_CN">
+			<Text>现在不是向异邦人敞开国门的时候。也许将来我们可以重新讨论这个问题。</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_OPEN_BORDERS_FROM_AI_LEADER_SUK_KHOSROW_I_ANY" Language="zh_Hans_CN">
+			<Text>开放边界无疑会增强我们的国力。你说呢？</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_LEADER_SUK_KHOSROW_I_ANY" Language="zh_Hans_CN">
+			<Text>我只能假定你们的武力展示是搞错了。我应期待你们会马上从边境撤退吗？</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_AI_RESPONSE_NEGATIVE_LEADER_SUK_KHOSROW_I_ANY" Language="zh_Hans_CN">
+			<Text>如果你是如此渴望战争，那么波斯军队会等着你！</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_AI_RESPONSE_POSITIVE_LEADER_SUK_KHOSROW_I_ANY" Language="zh_Hans_CN">
+			<Text>我们没有冒犯之意。我们的部队会马上从阵地撤离。</Text>
+		</Row>
+		<!--Quote and Pedia-->
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_SUK_KHOSROW_I_QUOTE" Language="zh_Hans_CN">
+			<Text>我们从未因宗教与民族的差异而拒绝接受任何一个人。在充分考察我们与异邦人各自先祖留下的优良习俗与法规后，我们既没有婉拒任何优秀事物，也没有回避任何拙劣事物。</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_SUK_KHOSROW_I_TITLE" Language="zh_Hans_CN">
+			<Text>库思老一世</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_SUK_KHOSROW_I_SUBTITLE" Language="zh_Hans_CN">
+			<Text>不朽的灵魂，公正的哲学王，伊朗和非伊朗地区的诸王之王</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_SUK_KHOSROW_I_CHAPTER_CAPSULE_BODY" Language="zh_Hans_CN">
+			<Text>库思老一世的能力使波斯能够利用其文化优势，给予奇观和波斯庭院诸多收益。</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_SUK_KHOSROW_I_CHAPTER_DETAILED_BODY" Language="zh_Hans_CN">
+			<Text>一个紧密相连的波斯是最强大的。他们的 [ICON_TradeRoute] 国内贸易路线令帝国获益良多。长生军和更强的道路网络使他们能够迅速地部署有效的防御力量来应对任何威胁。利用国内贸易的 [ICON_Culture] 文化奖励和波斯庭院，波斯在大多数对局中应该接近或处于文化领先地位。在库思老统治下，波斯的经济和文化得到了进一步发展。在波斯庭院旁修建奇观，从中得到更多的奖励。所有奇观本身能够吸引伟人来到波斯。这些能力令波斯成为了文化胜利的有力竞争者。</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_SUK_KHOSROW_I_CHAPTER_HISTORY_PARA_1" Language="zh_Hans_CN">
+			<Text>【译者注：正在翻译，这也太多了草……】[NEWLINE][NEWLINE]Khosrow I (also known as Chosroes I and Kasra in classical sources; 501–579, most commonly known in Persian as Anushiruwān, was the King of Kings (Shahanshah) of the Sasanian Empire from 531 to 579.  He was the successor of his father Kavadh I (488–531). Khosrow I was the twenty-second Sasanian Emperor of Persia, and one of its most celebrated emperors. He laid the foundations of many cities and opulent palaces, and oversaw the repair of trade roads as well as the building of numerous bridges and dams. His reign is furthermore marked by the numerous wars fought against the Sassanid's neighboring archrivals, the Roman-Byzantine Empire, as part of the already centuries-long lasting Roman-Persian Wars. The most important wars under his reign were the Lazic War which was fought over Colchis (western Georgia-Abkhazia) and the Byzantine–Sasanian War of 572–591. During Khosrow's ambitious reign, art and science flourished in Persia and the Sasanian Empire reached its peak of glory and prosperity. His rule was preceded by his father's and succeeded by Hormizd IV. Khosrow Anushiruwan is one of the most popular emperors in Iranian culture and literature and, outside of Iran, his name became, like that of Caesar in the history of Rome, a designation of the Sasanian kings.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_SUK_KHOSROW_I_CHAPTER_HISTORY_PARA_2" Language="zh_Hans_CN">
+			<Text>Little is known of the early life of Khosrow beyond legends. One story says that when Khosrow’s father, King Kavadh, took refuge with the Hephthalites, eastern neighbours of Iran, on the way (near the town of Nishapur) he married a peasant’s daughter, who gave birth to Khosrow. At his father’s death Khosrow did not at first succeed him, but in a struggle for the throne he was successful and put to death his brothers. At the end of his father’s reign, great social disorders had occurred because of a religious revolution of a sect called the Mazdakites. Khosrow first restored order and then launched reforms to transform the declining Sāsānian empire.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_SUK_KHOSROW_I_CHAPTER_HISTORY_PARA_3" Language="zh_Hans_CN">
+			<Text>The reform of taxation was the most important of his actions, and it was probably copied from the Roman system inaugurated by the emperor Diocletian. Previously in the Sāsānian empire taxes had been levied on the yield of land; Khosrow established a fixed sum rather than a yearly variation. Other taxes were introduced that brought stability to the income of the state and were also fairer to those who paid the taxes. Khosrow’s program of taxes lasted into Islāmic times. Khosrow also reorganized the Sāsānian bureaucracy, and the system of ministries, or divans, under a prime minister is said to have been initiated by him. He was fortunate during most of his reign in having a capable prime minister called Bozorgmehr, who became famous in story and legend for his wisdom and abilities.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_SUK_KHOSROW_I_CHAPTER_HISTORY_PARA_4" Language="zh_Hans_CN">
+			<Text>Under Khosrow the process of decentralization of the power of the monarch was reversed, and the lower aristocracy, or knights, called dihqāns, grew in importance at the expense of the great feudal lords, who had been more powerful under Khosrow’s predecessors. It is difficult to know how many changes really can be attributed to Khosrow’s reign and how many are arbitrarily assigned to him because of his place in history. Whether the religiously sanctioned division of society into priests, warriors, bureaucracy, and common folk was codified under his reign, as claimed by some sources, is difficult to determine.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_SUK_KHOSROW_I_CHAPTER_HISTORY_PARA_5" Language="zh_Hans_CN">
+			<Text>Khosrow also reorganized the army and appointed four chief commanders to guard the four frontiers of Iran. On the frontier against the Byzantines and their Arab allies in the Syrian Desert, against the peoples of the steppes of southern Russia at the town of Derbent between the Caucasus Mountains and the Caspian Sea, and to the east of the sea in the present Turkmen steppes, Khosrow built defensive walls. The army, however, did not remain on the defensive, for Khosrow’s reign is noted for his wars against the Byzantines. In 540 Antioch was conquered and held for a short time by Khosrow. He brought many prisoners from Antioch and settled them in a new town near his capital of Ctesiphon, modeled on old Antioch. In the east, Khosrow, in alliance with the Turks, a new power in Central Asia, crushed the Hephthalites, and he established a hegemony over many of their principalities. The Sāsānian frontier in the east reached the Amu Darya (Oxus River) during his reign.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_SUK_KHOSROW_I_CHAPTER_HISTORY_PARA_6" Language="zh_Hans_CN">
+			<Text>Khosrow was also a great patron of culture, and in 529, when the ancient academy of Athens was closed, a number of Greek philosophers migrated to the Sāsānian empire, where they were well received by the ruler. The later famous medical school of Gondēshāpūr was probably started in Khosrow’s reign, and the famous physician Burzoe is supposed to have been sent to India by Khosrow to gather Sanskrit books of learning to be translated into the Middle Persian language. The game of chess reportedly was also brought by him from India. Astronomy and astrology flourished at the court of Khosrow, and one star table (called the zīj-i Shahriyār), which was the basis of many later Islāmic tables, is said to have originated during the reign of Khosrow. Several works of Middle Persian, such as the Book of Deeds of Ardashir (Kārnāmak), are attributed to this period. Likewise, some scholars claim that the codification of the Avesta, the sacred book of the Zoroastrian religion, as well as the creation of a special Avestan alphabet to record the text, took place at the order of Khosrow. Further, it is supposed that the stories and legends of ancient Iran were gathered into a Khwatāy-nāmak (""Book of Kings"") in the time of Khosrow and thus provided the source for Ferdowsī’s immortal epic much later. Some of the names found in Ferdowsī’s Shāh-nāmeh appear among the royal family of Khosrow, which indicates at the least an interest on the part of the monarch in ancient legends.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_SUK_KHOSROW_I_CHAPTER_HISTORY_PARA_7" Language="zh_Hans_CN">
+			<Text>Perhaps more than fact, the stories told about Khosrow have made his name famous in history. Almost any pre-Islāmic structure in Iran whose origin is unknown will be attributed to Khosrow by the simple folk. Undoubtedly he built many bridges, roads, and palaces, but much more is assigned to him in legend. The famous palace with the huge arch, called Ṭāq Kisrā, in Ctesiphon, near modern Baghdad, is said to date from Khosrow I, but this is uncertain. Several collections of wise sayings of this monarch, as well as stories about him, have been preserved in Arabic or New Persian versions. In them his reputation for justice as well as wisdom is constantly cited. The splendour of the court and the glory of his reign provided models for the later ʿAbbāsid court in Baghdad, and many of the institutions established by Khosrow were maintained in Islāmic times, when Khosrow was hailed as the model pre-Islāmic ruler to be emulated by Muslim princes.</Text>
+		</Row>
+	</LocalizedText>
+</GameData>

@@ -1,0 +1,233 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- KoreaMyeongseong_GameText_CN -->
+<!-- Author: 春 -->
+<!-- DateCreated: 5/26/2020 5:33:06 PM -->
+<GameData>
+	<LocalizedText>
+		<!--MOD-->
+		<Row Tag="LOC_MOD_JFD_KOREA_MYEONGSEONG_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>------------------------------------[NEWLINE]领袖名称 -- 明成皇后[NEWLINE][NEWLINE]领袖特性 - 皇家英语学校[NEWLINE]每个有效同盟可使建造区域时+10% [ICON_PRODUCTION] 生产力，拥有至少一个3级同盟时可比通常情况下多建造一个区域。与其他文明交战期间，+25%同盟点数。完成市政“民族主义”解锁特色单位义师。[NEWLINE][NEWLINE]领袖议程 - 西方使团[NEWLINE]试图建立尽可能多的同盟，特别是与那些拥有高额 [ICON_SCIENCE] 科技值或向她的人民传播宗教的文明。不信任在她所在大陆上发动战争的文明，特别是如果他们拥有高额 [ICON_SCIENCE] 科技值。[NEWLINE][NEWLINE]特色单位 - 义师[NEWLINE]明成皇后作为领袖时的朝鲜工业时代特色近战单位。每当一座朝鲜城市被占领时，如果义师少于5个，则获得1个义师。</Text>
+		</Row>
+		<!--LEADER-->
+		<Row Tag="LOC_LEADER_JFD_MYEONGSEONG_NAME" Language="zh_Hans_CN">
+			<Text>明成皇后</Text>
+		</Row>
+		<!--Agenda-->
+		<Row Tag="LOC_AGENDA_JFD_WESTERN_MISSIONS_NAME" Language="zh_Hans_CN">
+			<Text>西方使团</Text>
+		</Row>
+		<Row Tag="LOC_AGENDA_JFD_WESTERN_MISSIONS_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>试图建立尽可能多的同盟，特别是与那些拥有高额 [ICON_SCIENCE] 科技值或向她的人民传播宗教的文明。不信任在她所在大陆上发动战争的文明，特别是如果他们拥有高额 [ICON_SCIENCE] 科技值。</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_LEADER_JFD_WESTERN_MISSIONS_REASON_ATTACKED_CONTINENT" Language="zh_Hans_CN">
+			<Text>（您在她所处大陆发动了战争）</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MODIFIER_AGENDA_JFD_WESTERN_MISSIONS_ATTACKED_CONTINENT" Language="zh_Hans_CN">
+			<Text>明成憎恨你的好战。</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_LEADER_JFD_WESTERN_MISSIONS_REASON_ATTACKED_CONTINENT_AND_LEADS_SCIENCE" Language="zh_Hans_CN">
+			<Text>（您在她所处大陆发动了战争并且你拥有高额科技值）</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MODIFIER_AGENDA_JFD_WESTERN_MISSIONS_ATTACKED_CONTINENT_AND_LEADS_SCIENCE" Language="zh_Hans_CN">
+			<Text>明成对你的力量感到恐惧。</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_KUDO_LEADER_JFD_WESTERN_MISSIONS_REASON_LEADS_SCIENCE" Language="zh_Hans_CN">
+			<Text>（您的科技很强大）</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MODIFIER_AGENDA_JFD_WESTERN_MISSIONS_LEADS_SCIENCE" Language="zh_Hans_CN">
+			<Text>明成对你的先进印象深刻。</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_KUDO_LEADER_JFD_WESTERN_MISSIONS_REASON_RELIGION_RECEIVED" Language="zh_Hans_CN">
+			<Text>（您向她的人民传播宗教）</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MODIFIER_AGENDA_JFD_WESTERN_MISSIONS_RELIGION_RECEIVED" Language="zh_Hans_CN">
+			<Text>明成很重视你的传教士的学识。</Text>
+		</Row>
+		<!--DOM-->
+		<Row Tag="LOC_LOADING_INFO_LEADER_JFD_MYEONGSEONG" Language="zh_Hans_CN">
+			<Text>高贵而严厉的朝鲜女皇，你曾熟悉的世界即将终结。韩国要走出黑暗奔向光明，就必须在这个现代世界中寻求盟友。与这个新时代赛跑，你的改革可能将足以抵抗朝鲜的一切敌人！</Text>
+		</Row>
+		<!--Traits-->
+		<Row Tag="LOC_TRAIT_LEADER_JFD_ROYAL_ENGLISH_SCHOOL_NAME" Language="zh_Hans_CN">
+			<Text>皇家英语学校</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_LEADER_JFD_ROYAL_ENGLISH_SCHOOL_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>每个有效同盟可使建造区域时+10% [ICON_PRODUCTION] 生产力，拥有至少一个3级同盟时可比通常情况下多建造一个区域。与其他文明交战期间，+25%同盟点数。完成市政“民族主义”解锁特色单位义师。</Text>
+		</Row>
+		<!--Civilopedia-->
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_JFD_MYEONGSEONG_TITLE" Language="zh_Hans_CN">
+			<Text>明成皇后</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_JFD_MYEONGSEONG_SUBTITLE" Language="zh_Hans_CN">
+			<Text>朝鲜王朝之王妃</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_JFD_MYEONGSEONG_QUOTE" Language="zh_Hans_CN">
+			<Text>我宁愿割腕流血，也不愿让那些曾拯救这个王国的女人蒙辱。</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_JFD_MYEONGSEONG_CHAPTER_HISTORY_PARA_1" Language="zh_Hans_CN">
+			<Text>【译者注：正在翻译……】[NEWLINE][NEWLINE]Empress Myeongseong of Korea, more commonly known as Queen Min, was the last empress of Korea. She is recognized by the Korean people as a heroine, equivalent to France's Joan of Arc.[NEWLINE][NEWLINE]Empress Myeongseong was the wife of Emperor Gojong of the Joseon Dynasty of the Daehan Empire. During her life as empress, she strived diplomatically and politically to keep Korea independent of foreign influence. She is credited for introducing new Western technologies, such as trains, telephones, streetcars, and electrical lights. She also proved herself brilliant when handling foreign affairs, as shown when she summoned the help of Russia and the Qing Dynasty of China to block the Japanese from taking over Korea, which was within considerable influence of Tokyo's imperialistic ambitions.[NEWLINE][NEWLINE]The Japanese, Emperor Meiji in particular, viewed her as an obstacle. However, efforts to neutralize her or to remove her from Korea's government continuously failed due to Emperor Gojong's devotion.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_JFD_MYEONGSEONG_CHAPTER_HISTORY_PARA_2" Language="zh_Hans_CN">
+			<Text>The Japanese resorted to sending ambassadors to Korea's royal court, but such efforts were eventually repelled, again by Empress Myeongseong. As a result, the Japanese minister to Korea, Miura Goro, faced with losing Korea, allegedly hired assassins to invade Gyeongbok Palace, the Korean imperial residence, and kill the empress in 1895. Two of the Japanese assassins were allegedly Shigeaki Kunitomo and Kakitsu Ieiri. Increasingly, other figures that were involved in this event are coming to light.[NEWLINE][NEWLINE]The mercenary killers raped and slaughtered three women suspected of being Queen Min, and when they verified which was the Queen they raped her and they desecrated her body, displayed it in a small circle, cut it to pieces, and then burned the corpse. Other witness accounts indicate she was raped then burned alive. Other accounts claim that she was stabbed and stomped on, or that she was not raped, but instead had her genitals molested posthumously.[NEWLINE][NEWLINE]These criminal acts were witnessed by Russian architects and one of the guards named Sabatin and other foreign officials, who protested heavily. To appease these protests, and other growing criticism worldwide, the Japanese government eventually brought Miura Goro and the other assassins to a criminal court. However, all were cleared of murder charges on the grounds of a lack of clear-cut evidence.[NEWLINE][NEWLINE]Emperor Gojong, enraged over the event, posthumously awarded his late wife the title "Myeongseong" and enshrined her in Jongmyo, Korea's state shrine. She is the only empress enshrined in Jongmyo; all other females are queens.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_JFD_MYEONGSEONG_CHAPTER_CAPSULE_BODY" Language="zh_Hans_CN">
+			<Text>对于朝鲜来说，不断追求 [ICON_Science] 科技值的产出，除了能成为世界上科技最为发达的文明之外，还有诸多益处。</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_JFD_MYEONGSEONG_CHAPTER_DETAILED_BODY" Language="zh_Hans_CN">
+			<Text>朝鲜的特色科技区域——书院，将成为您最强大的资本，因此尽早完成对科技“写作”的研究对于在竞争中保持领先来讲至关重要。仔细规划书院的位置以充分利用它的优势。将书院与其他区域分隔开来以使 [ICON_Science] 科技值增长最大化，并可通过将农场与矿山放置于书院旁来获得额外 [ICON_Food] 食物与 [ICON_Science] 科技值。将二者战略性地结合起来，将会大大提升您城市的产出。不要忽视文化的发展，因为总督就职于城市中会额外给您的帝国提供产出增长。您很有可能会打算给您的几座重要城市各派一名总督。</Text>
+		</Row>
+		<!--Diplomacy-->
+		<!--FIRST MEET-->
+		<!--First AI line-->
+		<Row Tag="LOC_DIPLO_FIRST_MEET_LEADER_JFD_MYEONGSEONG_ANY" Language="zh_Hans_CN">
+			<Text>欢迎来到朝鲜王朝。我是明成皇后。</Text>
+		</Row>
+		<!--AI invitation to visit nearby City-->
+		<Row Tag="LOC_DIPLO_FIRST_MEET_VISIT_RECIPIENT_LEADER_JFD_MYEONGSEONG_ANY" Language="zh_Hans_CN">
+			<Text>你有兴趣和我一起去我的宫廷逛逛吗？你们的文化很吸引我，我想多了解一点。</Text>
+		</Row>
+		<!--AI accepts Human invitation-->
+		<Row Tag="LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_POSITIVE_LEADER_JFD_MYEONGSEONG_ANY" Language="zh_Hans_CN">
+			<Text>好的，当然。</Text>
+		</Row>
+		<!--AI invitation to exchange Capital Information-->
+		<Row Tag="LOC_DIPLO_FIRST_MEET_NO_MANS_INFO_EXCHANGE_LEADER_JFD_MYEONGSEONG_ANY" Language="zh_Hans_CN">
+			<Text>我很想更好地了解你们的文化。交换一下我们各自首都的信息，你觉得怎么样？</Text>
+		</Row>
+		<!--GREETINGS-->
+		<Row Tag="LOC_DIPLO_GREETING_LEADER_JFD_MYEONGSEONG_ANY" Language="zh_Hans_CN">
+			<Text>欢迎做客我的宫廷。</Text>
+		</Row>
+		<!--DELEGATION-->
+		<!--AI Accepts-->
+		<Row Tag="LOC_DIPLO_ACCEPT_DELEGATION_FROM_HUMAN_LEADER_JFD_MYEONGSEONG_ANY" Language="zh_Hans_CN">
+			<Text>我热切地接受你的代表团。我对你们的人有很多要了解的。</Text>
+		</Row>
+		<!--AI Rejects-->
+		<Row Tag="LOC_DIPLO_REJECT_DELEGATION_FROM_HUMAN_LEADER_JFD_MYEONGSEONG_ANY" Language="zh_Hans_CN">
+			<Text>我的人民必须是第一位的，我不得不拒绝。</Text>
+		</Row>
+		<!--AI Requests-->
+		<Row Tag="LOC_DIPLO_DELEGATION_FROM_AI_LEADER_JFD_MYEONGSEONG_ANY" Language="zh_Hans_CN">
+			<Text>你们不愿意接受朝鲜代表团吗？我想与你们分享我国丰富绚烂的文化。</Text>
+		</Row>
+		<!--OPEN BORDERS-->
+		<!--AI accepts from human-->
+		<Row Tag="LOC_DIPLO_ACCEPT_OPEN_BORDERS_FROM_HUMAN_LEADER_JFD_MYEONGSEONG_ANY" Language="zh_Hans_CN">
+			<Text>我同意。</Text>
+		</Row>
+		<!--AI rejects from human-->
+		<Row Tag="LOC_DIPLO_REJECT_OPEN_BORDERS_FROM_HUMAN_LEADER_JFD_MYEONGSEONG_ANY" Language="zh_Hans_CN">
+			<Text>这个提议令我厌恶，我必须拒绝。</Text>
+		</Row>
+		<!--AI requests from human-->
+		<Row Tag="LOC_DIPLO_OPEN_BORDERS_FROM_AI_LEADER_JFD_MYEONGSEONG_ANY" Language="zh_Hans_CN">
+			<Text>朝鲜不能再孤立地生存下去，我们来谈谈开放边界的事宜。</Text>
+		</Row>
+		<!--DECLARE FRIENDSHIP-->
+		<!--AI accepts from human-->
+		<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_HUMAN_LEADER_JFD_MYEONGSEONG_ANY" Language="zh_Hans_CN">
+			<Text>我接受你的友谊。</Text>
+		</Row>
+		<!--AI Rejects from human-->
+		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_HUMAN_LEADER_JFD_MYEONGSEONG_ANY" Language="zh_Hans_CN">
+			<Text>我必须拒绝。</Text>
+		</Row>
+		<!--AI Requests friendship from human-->
+		<Row Tag="LOC_DIPLO_DECLARE_FRIEND_FROM_AI_LEADER_JFD_MYEONGSEONG_ANY" Language="zh_Hans_CN">
+			<Text>你认为宣布与我们的王朝为友如何？</Text>
+		</Row>
+		<!--Human accepts AI requests, AI responds-->
+		<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_JFD_MYEONGSEONG_ANY" Language="zh_Hans_CN">
+			<Text>请收下我的谢意。</Text>
+		</Row>
+		<!--Human rejects AI requests, AI responds-->
+		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_JFD_MYEONGSEONG_ANY" Language="zh_Hans_CN">
+			<Text>我承认，这使我失望。</Text>
+		</Row>
+		<!--ALLIANCE-->
+		<!--AI Requests an alliance from human-->
+		<Row Tag="LOC_DIPLO_MAKE_ALLIANCE_FROM_AI_LEADER_JFD_MYEONGSEONG_ANY" Language="zh_Hans_CN">
+			<Text>朝鲜试图拓宽其理念和技术。我相信，只要我们携起手来，我们就能充满信心地走向未来。</Text>
+		</Row>
+		<!--KUDOS & WARNINGS-->
+		<!--AI Kudos-->
+		<Row Tag="LOC_DIPLO_KUDO_EXIT_LEADER_JFD_MYEONGSEONG_ANY" Language="zh_Hans_CN">
+			<Text>你们真是现代国家的典范。</Text>
+		</Row>
+		<!--AI Warnings-->
+		<Row Tag="LOC_DIPLO_WARNING_EXIT_LEADER_JFD_MYEONGSEONG_ANY" Language="zh_Hans_CN">
+			<Text>你的好战令我不安。</Text>
+		</Row>
+		<!--AI warns player for border troops-->
+		<Row Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_LEADER_JFD_MYEONGSEONG_ANY" Language="zh_Hans_CN">
+			<Text>拜托，你不尊重这些古老的边界吗？我恳求你不要诉诸暴力，立即撤出你的部队。</Text>
+		</Row>
+		<!--TRADE-->
+		<!--AI Accepts Deal-->
+		<Row Tag="LOC_DIPLO_ACCEPT_MAKE_DEAL_FROM_AI_LEADER_JFD_MYEONGSEONG_ANY" Language="zh_Hans_CN">
+			<Text>{LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_JFD_MYEONGSEONG_ANY}</Text>
+		</Row>
+		<!-- AI Rejects Deal -->
+		<Row Tag="LOC_DIPLO_REJECT_MAKE_DEAL_FROM_AI_LEADER_JFD_MYEONGSEONG_ANY" Language="zh_Hans_CN">
+			<Text>{LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_JFD_MYEONGSEONG_ANY}</Text>
+		</Row>
+		<!--DENOUNCE-->
+		<!--From Human-->
+		<Row Tag="LOC_DIPLO_DENOUNCE_FROM_HUMAN_LEADER_JFD_MYEONGSEONG_ANY" Language="zh_Hans_CN">
+			<Text>你令我的人民很难过。</Text>
+		</Row>
+		<!--From AI-->
+		<Row Tag="LOC_DIPLO_DENOUNCE_FROM_AI_LEADER_JFD_MYEONGSEONG_ANY" Language="zh_Hans_CN">
+			<Text>很明显，你只是想伤害我的人民，我不会容忍的。[NEWLINE]（谴责你）</Text>
+		</Row>
+		<!--Rationale-->
+		<Row Tag="LOC_DIPLO_DENOUNCE_REASON_FROM_AI_LEADER_ANY_REASON_JFD_WESTERN_MISSIONS_ATTACKED_CONTINENT" Language="zh_Hans_CN">
+			<Text>（你在她所处大陆发动了战争）</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DENOUNCE_REASON_FROM_AI_LEADER_ANY_REASON_JFD_WESTERN_MISSIONS_ATTACKED_CONTINENT_AND_LEADS_SCIENCE" Language="zh_Hans_CN">
+			<Text>（你在她所处大陆发动了战争并且你拥有高额科技值）</Text>
+		</Row>
+		<!--DECLARE WAR-->
+		<!--Human Declares War-->
+		<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_HUMAN_LEADER_JFD_MYEONGSEONG_ANY" Language="zh_Hans_CN">
+			<Text>愿这场风暴早日平息。</Text>
+		</Row>
+		<!--AI Declares War-->
+		<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_JFD_MYEONGSEONG_ANY" Language="zh_Hans_CN">
+			<Text>不能再让你的肆意妄为随意发展了。</Text>
+		</Row>
+		<!--MAKE PEACE-->
+		<!--AI accepts from human-->
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_AI_ACCEPT_DEAL_LEADER_JFD_MYEONGSEONG_ANY" Language="zh_Hans_CN">
+			<Text>我欣然接受。</Text>
+		</Row>
+		<!--AI refuses human-->
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_AI_REFUSE_DEAL_LEADER_JFD_MYEONGSEONG_ANY" Language="zh_Hans_CN">
+			<Text>我不能接受这种虚假的和平。</Text>
+		</Row>
+		<!--AI requests from human-->
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_FROM_AI_LEADER_JFD_MYEONGSEONG_ANY" Language="zh_Hans_CN">
+			<Text>我恳请你考虑和平。</Text>
+		</Row>
+		<!--DEFEAT-->
+		<!--AI is Defeated-->
+		<Row Tag="LOC_DIPLO_DEFEAT_FROM_AI_LEADER_JFD_MYEONGSEONG_ANY" Language="zh_Hans_CN">
+			<Text>我认输。但请你不要再伤害我的人民。</Text>
+		</Row>
+		<!--Human is Defeated (will see this in hotseat)-->
+		<Row Tag="LOC_DIPLO_DEFEAT_FROM_HUMAN_LEADER_JFD_MYEONGSEONG_ANY" Language="zh_Hans_CN">
+			<Text>[LOC_DIPLO_DEFEAT_FROM_AI_LEADER_JFD_MYEONGSEONG_ANY]</Text>
+		</Row>
+		<!--RIGHTEOUS ARMY-->
+		<Row Tag="LOC_UNIT_JFD_RIGHTEOUS_ARMY_NAME" Language="zh_Hans_CN">
+			<Text>义师</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_JFD_RIGHTEOUS_ARMY_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>明成皇后作为领袖时的朝鲜工业时代特色近战单位。每当一座朝鲜城市被占领时，如果义师少于5个，则获得1个义师。</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_JFD_RIGHTEOUS_ARMY_CHAPTER_HISTORY_PARA_1" Language="zh_Hans_CN">
+			<Text>【译者注：正在翻译……】[NEWLINE][NEWLINE]The righteous army movement in Seongnam was initiated when Kim Harak formed a righteous army in January 1896 at Namhansanseong Fortress to fight against the Japanese following the Assassination of Empress Myeongseong (Eulmi Sabyeon) and the imposition of the the Ordinance to Cut Topknot (Danballyeong) in 1895. The Battle of Namhansanseong Fortress is regarded as the biggest battle fought by the righteous army, as more than 500 members of the righteous army and 300 soldiers were killed. The number of righteous army members rose rapidly in Seongnam following the collapse of the economy, and their tactics and strategies were refined as demobilized soldiers joined the righteous army.</Text>
+		</Row>
+	</LocalizedText>
+</GameData>

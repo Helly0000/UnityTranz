@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!-- p0k_Temple_Poseidon_Localisation_CN -->
+<!-- Author: 春 -->
+<!-- DateCreated: 4/1/2020 10:51:00 AM -->
+<GameData>
+	<LocalizedText>
+		<Row Tag="LOC_P0K_BUILDING_TEMPLE_POSEIDON_NAME" Language="zh_Hans_CN">
+			<Text>波塞冬大神庙</Text>
+		</Row>
+		<Row Tag="LOC_P0K_BUILDING_TEMPLE_POSEIDON_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>4单元格内的每个渔船改良设施可提供+1 [ICON_AMENITIES] 宜居度。城市里的所有水域单元格+1 [ICON_Faith] 信仰值。必须靠近渔船建造。</Text>
+		</Row>
+		<Row Tag="LOC_P0K_BUILDING_TEMPLE_POSEIDON_QUOTE" Language="zh_Hans_CN">
+			<Text>请听我说，波塞冬，他是深邃的海洋的统治者，他手中紧紧握住的液体围绕着坚实的大地；他在风暴波涛之下，黑暗而深邃的水之君主。[NEWLINE]——俄耳甫斯</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_WONDERS_PAGE_P0K_BUILDING_TEMPLE_POSEIDON_CHAPTER_HISTORY_PARA_1" Language="zh_Hans_CN">
+			<Text>波塞冬大神庙的遗址坐落在雅典东南70公里处的苏尼翁角。这个地区是一个可以追溯到青铜时代的避难所，但现今的波塞冬大神庙建于公元前5世纪——雅典的黄金时代。在风格上与雅典的赫菲斯提安神庙极为相似，波塞冬大神庙被认为是由同一位建筑师设计的。可以肯定的是，位于爱琴海60米之遥的波塞冬大神庙是一个令人敬畏的地标，海上的水手无论从远处还是在近处，都能清晰地看到它。</Text>
+		</Row>
+	</LocalizedText>
+</GameData>

@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!-- UC_VIA_Localization_CN -->
+<!-- Author: Clear8Sky -->
+<!-- DateCreated: 3/27/2020 6:22:29 PM -->
+<GameData>
+	<LocalizedText>
+		<Row Tag="LOC_CIVIC_CIVIL_SERVICE_DESCRIPTION_JNR_UC" Language="zh_Hans_CN">
+			<Text>专业化区域与市中心之间的道路将自动铺设。</Text>
+		</Row>
+	</LocalizedText>
+</GameData>

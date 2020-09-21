@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Kublai_TextCN -->
+<!-- Author: 春 -->
+<!-- DateCreated: 5/28/2020 11:33:06 PM -->
+<GameData>
+	<LocalizedText>
+		<Row Tag="LOC_GEDEMO_CITY_CENTER_GET_SCIENCE" Language="zh_Hans_CN">
+			<Text>+{1_num} [ICON_Science] 科技值 来自邻接 {1_Num : plural 1?district; other?districts;}</Text>
+		</Row>
+
+		<Row Tag="LOC_TRAIT_LEADER_GEDEMO_KUBILAI_NAME" Language="zh_Hans_CN">
+			<Text>蒙古和平</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_LEADER_GEDEMO_KUBILAI_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>相邻 [ICON_DISTRICT_CITY_CENTER] 市中心的 [ICON_District] 区域每回合提供+1 [ICON_GreatGeneral] 大将军点数。完成科技“工程”后，[ICON_DISTRICT_CITY_CENTER] 市中心可从区域获得标准 [ICON_SCIENCE] 科技值邻接加成。建立城市获得额外领土。</Text>
+		</Row>
+
+		<Row Tag="LOC_LEADER_GEDEMO_KUBILAI" Language="zh_Hans_CN">
+			<Text>忽必烈</Text>
+		</Row>
+
+		<Row Tag="LOC_LOADING_INFO_LEADER_GEDEMO_KUBILAI" Language="zh_Hans_CN">
+			<Text>赞美你，元朝的忽必烈汗皇帝！成吉思汗的子孙，1260年成为蒙古的大汗，并在北京建都。征服中国南方以及广州之后，你成为了整个中华帝国的主人。宽容的君主，你赞成佛教和基督教以景教的形式共存。中国的商业和文化空前繁荣，正如你赋予各种委任的马可·波罗所记录的那样。[NEWLINE]你能建立一个经得起时间考验的文明吗？</Text>
+		</Row>
+		<!--Civilopedia-->
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_GEDEMO_KUBILAI_TITLE" Language="zh_Hans_CN">
+			<Text>蒙古帝国第5代可汗</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_GEDEMO_KUBILAI_SUBTITLE" Language="zh_Hans_CN">
+			<Text>元朝初代皇帝</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_GEDEMO_KUBILAI_QUOTE" Language="zh_Hans_CN">
+			<Text>和平甚好；因为在和平之地上，四足的动物能安静地吃草，两足的人可以平和地耕犁。</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_GEDEMO_KUBILAI_CHAPTER_HISTORY_PARA_1" Language="zh_Hans_CN">
+			<Text>【译者注：正在翻译……】[NEWLINE][NEWLINE]The grandson of the great Mongol leader Genghis Khan, Kublai oversaw the transformation of the Mongol people from nomadic warriors to sedentary farmers and townsfolk. He also captured the southern half of China, reunifying the country under one rule and taking for himself the title of "Emperor." </Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_GEDEMO_KUBILAI_CHAPTER_HISTORY_PARA_2" Language="zh_Hans_CN">
+			<Text>Ascending to the throne in 1260 at around the age of 45, Kublai was revealed to be a shrewd and skilled political leader. As Emperor of China, he followed his father's precepts of being gentle with the subject peoples in order to keep them happy; he restored many of the Chinese traditions and institutions that his predecessors had banned. Further, Kublai returned much political control back to the native people, and he reinstated numerous Confucian rituals and ceremonies at court. He also commissioned many public works, including the repair of the Grand Canal and extending China's highway system. Through these actions he secured his throne, allowing him to turn his attention to conquering the southern half of China, which was under the control of the Song dynasty.</Text>
+		</Row>
+
+		<!--Diplomacy-->
+		<!--FIRST MEET-->
+		<!--First AI line-->
+		<Row Tag="LOC_DIPLO_FIRST_MEET_LEADER_GEDEMO_KUBILAI_ANY" Language="zh_Hans_CN">
+			<Text>你当惧怕战兢，因为你站在天之子的面前。你有什么资本能跟我这样的征服者打交道？</Text>
+		</Row>
+		<!--AI invitation to visit nearby City-->
+		<Row Tag="LOC_DIPLO_FIRST_MEET_VISIT_RECIPIENT_LEADER_GEDEMO_KUBILAI_ANY" Language="zh_Hans_CN">
+			<Text>我是忽必烈·可汗，伟大的可汗！你想参观我们最近的城市吗？</Text>
+		</Row>
+		<!--AI accepts Human invitation-->
+		<Row Tag="LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_POSITIVE_LEADER_GEDEMO_KUBILAI_ANY" Language="zh_Hans_CN">
+			<Text>谢谢你。</Text>
+		</Row>
+		<!--AI invitation to exchange Capital Information-->
+		<Row Tag="LOC_DIPLO_FIRST_MEET_NO_MANS_INFO_EXCHANGE_LEADER_GEDEMO_KUBILAI_ANY" Language="zh_Hans_CN">
+			<Text>我邀请你交换首都的信息。</Text>
+		</Row>
+		<!--GREETINGS-->
+		<Row Tag="LOC_DIPLO_GREETING_LEADER_GEDEMO_KUBILAI_ANY" Language="zh_Hans_CN">
+			<Text>你好！</Text>
+		</Row>
+		<!--DELEGATION-->
+		<!--AI Accepts-->
+		<Row Tag="LOC_DIPLO_ACCEPT_DELEGATION_FROM_HUMAN_LEADER_GEDEMO_KUBILAI_ANY" Language="zh_Hans_CN">
+			<Text>我愉快地接受你的代表团。</Text>
+		</Row>
+		<!--AI Rejects-->
+		<Row Tag="LOC_DIPLO_REJECT_DELEGATION_FROM_HUMAN_LEADER_GEDEMO_KUBILAI_ANY" Language="zh_Hans_CN">
+			<Text>很不幸，不行。</Text>
+		</Row>
+		<!--AI Requests -->
+		<Row Tag="LOC_DIPLO_DELEGATION_FROM_AI_LEADER_GEDEMO_KUBILAI_ANY" Language="zh_Hans_CN">
+			<Text>我向你们派遣了商贸团，带着我国的礼物：咸奶茶、牛肉炸饺和马奶酒。</Text>
+		</Row>
+		<!--OPEN BORDERS-->
+		<!--AI accepts from human-->
+		<Row Tag="LOC_DIPLO_ACCEPT_OPEN_BORDERS_FROM_HUMAN_LEADER_GEDEMO_KUBILAI_ANY" Language="zh_Hans_CN">
+			<Text>我同意为你们的士兵开放边境。</Text>
+		</Row>
+		<!--AI rejects from human-->
+		<Row Tag="LOC_DIPLO_REJECT_OPEN_BORDERS_FROM_HUMAN_LEADER_GEDEMO_KUBILAI_ANY" Language="zh_Hans_CN">
+			<Text>我目前不感兴趣。</Text>
+		</Row>
+		<!--AI requests from human-->
+		<Row Tag="LOC_DIPLO_OPEN_BORDERS_FROM_AI_LEADER_GEDEMO_KUBILAI_ANY" Language="zh_Hans_CN">
+			<Text>你能允许我的部队通过你的领土吗？</Text>
+		</Row>
+		<!--DECLARE FRIENDSHIP-->
+		<!--AI accepts from human-->
+		<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_HUMAN_LEADER_GEDEMO_KUBILAI_ANY" Language="zh_Hans_CN">
+			<Text>我接受你的友谊。</Text>
+		</Row>
+		<!--AI Rejects from human -->
+		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_HUMAN_LEADER_GEDEMO_KUBILAI_ANY" Language="zh_Hans_CN">
+			<Text>我拒绝这样荒谬的提议。</Text>
+		</Row>
+		<!--AI Requests friendship from human-->
+		<Row Tag="LOC_DIPLO_DECLARE_FRIEND_FROM_AI_LEADER_GEDEMO_KUBILAI_ANY" Language="zh_Hans_CN">
+			<Text>仔细考虑一下我们的友谊吧，这对你很有好处。</Text>
+		</Row>
+		<!--Human accepts AI requests, AI responds-->
+		<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_GEDEMO_KUBILAI_ANY" Language="zh_Hans_CN">
+			<Text>感谢你，朋友。</Text>
+		</Row>
+		<!--Human rejects AI requests, AI responds-->
+		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_GEDEMO_KUBILAI_ANY" Language="zh_Hans_CN">
+			<Text>真失望。</Text>
+		</Row>
+		<!--ALLIANCE-->
+		<!--AI Requests an alliance from human-->
+		<Row Tag="LOC_DIPLO_MAKE_ALLIANCE_FROM_AI_LEADER_GEDEMO_KUBILAI_ANY" Language="zh_Hans_CN">
+			<Text>你愿意和大汗结盟吗？</Text>
+		</Row>
+		<!--KUDOS & WARNINGS-->
+		<!--AI Kudos-->
+		<Row Tag="LOC_DIPLO_KUDO_EXIT_LEADER_GEDEMO_KUBILAI_ANY" Language="zh_Hans_CN">
+			<Text>嘿！你真不错！！！</Text>
+		</Row>
+		<!--AI Warnings-->
+		<Row Tag="LOC_DIPLO_WARNING_EXIT_LEADER_GEDEMO_KUBILAI_ANY" Language="zh_Hans_CN">
+			<Text>你正滑向深渊！</Text>
+		</Row>
+		<!--AI warns player for border troops-->
+		<Row Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_LEADER_GEDEMO_KUBILAI_ANY" Language="zh_Hans_CN">
+			<Text>大批军队正在我们边界之间集结，你愿意在不幸的事情发生之前把他们撤走吗？</Text>
+		</Row>
+		<!--TRADE-->
+		<!--AI Accepts Deal-->
+		<Row Tag="LOC_DIPLO_ACCEPT_MAKE_DEAL_FROM_AI_LEADER_GEDEMO_KUBILAI_ANY" Language="zh_Hans_CN">
+			<Text>{LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_GEDEMO_KUBILAI_ANY}</Text>
+		</Row>
+		<!--AI Rejects Deal-->
+		<Row Tag="LOC_DIPLO_REJECT_MAKE_DEAL_FROM_AI_LEADER_GEDEMO_KUBILAI_ANY" Language="zh_Hans_CN">
+			<Text>{LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_GEDEMO_KUBILAI_ANY}</Text>
+		</Row>
+		<!--DENOUNCE-->
+		<!--From Human-->
+		<Row Tag="LOC_DIPLO_DENOUNCE_FROM_HUMAN_LEADER_GEDEMO_KUBILAI_ANY" Language="zh_Hans_CN">
+			<Text>我对你已经厌烦了。</Text>
+		</Row>
+		<!--From AI-->
+		<Row Tag="LOC_DIPLO_DENOUNCE_FROM_AI_LEADER_GEDEMO_KUBILAI_ANY" Language="zh_Hans_CN">
+			<Text>你在我们背后搞阴谋。请放心，我会警告别人的！[NEWLINE]（谴责你）</Text>
+		</Row>
+		<!--DECLARE WAR-->
+		<!--Human Declares War-->
+		<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_HUMAN_LEADER_GEDEMO_KUBILAI_ANY" Language="zh_Hans_CN">
+			<Text>我会吞并你的领土！</Text>
+		</Row>
+		<!--AI Declares War-->
+		<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_GEDEMO_KUBILAI_ANY" Language="zh_Hans_CN">
+			<Text>战争爆发了！</Text>
+		</Row>
+		<!--MAKE PEACE-->
+		<!--AI accepts from human-->
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_AI_ACCEPT_DEAL_LEADER_GEDEMO_KUBILAI_ANY" Language="zh_Hans_CN">
+			<Text>让我们和解！</Text>
+		</Row>
+		<!--AI refuses human-->
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_AI_REFUSE_DEAL_LEADER_GEDEMO_KUBILAI_ANY" Language="zh_Hans_CN">
+			<Text>不可能。</Text>
+		</Row>
+		<!--AI requests from human-->
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_FROM_AI_LEADER_GEDEMO_KUBILAI_ANY" Language="zh_Hans_CN">
+			<Text>我提议休战，你认为到时候了吗？</Text>
+		</Row>
+		<!--DEFEAT-->
+		<!--AI is Defeated-->
+		<Row Tag="LOC_DIPLO_DEFEAT_FROM_AI_LEADER_GEDEMO_KUBILAI_ANY" Language="zh_Hans_CN">
+			<Text>我的帝国陨落了，你接替了我的事业。</Text>
+		</Row>
+		<!--Human is Defeated (will see this in hotseat)-->
+		<Row Tag="LOC_DIPLO_DEFEAT_FROM_HUMAN_LEADER_GEDEMO_KUBILAI_ANY" Language="zh_Hans_CN">
+			<Text>{LOC_DIPLO_DEFEAT_FROM_AI_LEADER_GEDEMO_KUBILAI_ANY}</Text>
+		</Row>
+
+		<Row Tag="LOC_AGENDA_GEDEMO_KUBILAI_NAME" Language="zh_Hans_CN">
+			<Text>大元</Text>
+		</Row>
+		<Row Tag="LOC_AGENDA_GEDEMO_KUBILAI_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>试图在他的帝国中揽括尽可能多的领土。不喜欢控制领土狭小的文明。</Text>
+		</Row>
+	</LocalizedText>
+</GameData>

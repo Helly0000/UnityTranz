@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!-- More Gradual Deforestation_Localization_CN -->
+<!-- Author: Clear8Sky -->
+<!-- DateCreated: 3/13/2020 6:26:59 PM -->
+<GameData>
+	<LocalizedText>
+		<Row Tag="LOC_DEFORESTATION_JNR_RCC_NONE_NAME" Language="zh_Hans_CN">
+			<Text>原生</Text>
+		</Row>
+		<Row Tag="LOC_DEFORESTATION_JNR_RCC_MINIMAL_NAME" Language="zh_Hans_CN">
+			<Text>极缓</Text>
+		</Row>
+		<Row Tag="LOC_DEFORESTATION_JNR_RCC_SIGNIFICANT_NAME" Language="zh_Hans_CN">
+			<Text>较快</Text>
+		</Row>
+		<Row Tag="LOC_DEFORESTATION_JNR_RCC_TOTAL_NAME" Language="zh_Hans_CN">
+			<Text>灭绝</Text>
+		</Row>
+		<Row Tag="LOC_DEFORESTATION_JNR_RCC_NONE_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>沼泽、树林与雨林地貌目前仍持续繁茂。</Text>
+		</Row>
+		<Row Tag="LOC_DEFORESTATION_JNR_RCC_MINIMAL_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>沼泽、树林与雨林地貌目前以极缓速度消失。</Text>
+		</Row>
+		<Row Tag="LOC_DEFORESTATION_JNR_RCC_LIGHT_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>沼泽、树林与雨林地貌目前正缓慢消失。</Text>
+		</Row>
+		<Row Tag="LOC_DEFORESTATION_JNR_RCC_EXPECTED_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>沼泽、树林与雨林地貌正以预期速度消失。</Text>
+		</Row>
+		<Row Tag="LOC_DEFORESTATION_JNR_RCC_SIGNIFICANT_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>沼泽、树林与雨林地貌目前以较快速度消失。</Text>
+		</Row>
+		<Row Tag="LOC_DEFORESTATION_JNR_RCC_HEAVY_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>沼泽、树林与雨林地貌目前正加速消失。</Text>
+		</Row>
+		<Row Tag="LOC_DEFORESTATION_JNR_RCC_EXTREME_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>沼泽、树林与雨林地貌正急速消失。</Text>
+		</Row>
+		<Row Tag="LOC_DEFORESTATION_JNR_RCC_TOTAL_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>沼泽、树林与雨林地貌目前几近完全消失。</Text>
+		</Row>
+	</LocalizedText>
+</GameData>

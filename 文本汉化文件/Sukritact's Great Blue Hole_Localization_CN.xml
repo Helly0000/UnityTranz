@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!-- Sukritact's Great Blue Hole_Localization_CN -->
+<!-- Author: Clear8Sky -->
+<!-- DateCreated: 3/18/2020 4:59:24 PM -->
+<GameData>
+	<LocalizedText>
+		<Row Tag="LOC_FEATURE_SUK_GREATBLUEHOLE_NAME" Language="zh_Hans_CN">
+			<Text>大蓝洞</Text>
+		</Row>
+		<Row Tag="LOC_FEATURE_SUK_GREATBLUEHOLE_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>在礁石地貌上占1个单元格的自然奇观。提供+3 [ICON_Food] 食物、+2 [ICON_Production] 生产力、+2 [ICON_Gold] 金币。四格内所有文明的渔船改良设施可获得+1 [ICON_Culture] 文化值。</Text>
+		</Row>
+		<Row Tag="LOC_FEATURE_SUK_GREATBLUEHOLE_QUOTE" Language="zh_Hans_CN">
+			<Text>“自出生伊始，人类就将万有引力之沉重负于肩上，被缚于大地。然而，只需要潜入海平面以下，我们即可获得自由。”[NEWLINE]– 雅克-伊夫·库斯托</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_FEATURES_PAGE_FEATURE_SUK_GREATBLUEHOLE_CHAPTER_HISTORY_PARA_1" Language="zh_Hans_CN">
+			<Text>在距伯利兹外海大约100公里（62英里）的地方坐落着一处灯塔礁，一片闪烁着绿松石、青色、孔雀蓝和海蓝色等鲜艳色彩的小环礁。然而，在这一小片浅洋里，藏着一个深蓝色的巨大圆圈。它大约300米（1000英尺）宽，125米（400英尺）深，因此特征而被称为大蓝洞。它曾被著名水肺专家雅克·库斯托（Jacques Cousteau）赞誉为世界十大潜水宝地之一而负盛名。1971年，他驾驶他的船艇“卡利普索”号，潜入洞中绘制了深度图。探险队的此次调查，证实了该洞源于典型的喀斯特石灰岩地层，在至少四次海平面上升之前便已形成。尽管大蓝洞被列于潜水宝地清单中，但人们应意识到它并非适合所有潜水爱好者——一个先决条件便是潜水员要有超过24小时的深潜记录。而且，在此处潜水也无五彩斑斓的视觉体验。相反，潜水者将面对一个有着令人难忘的钟乳石的幽暗洞穴。</Text>
+		</Row>
+	</LocalizedText>
+</GameData>

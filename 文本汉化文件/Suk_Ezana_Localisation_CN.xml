@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Suk_Ezana_Localisation_CN -->
+<!-- Author: Clear8Sky -->
+<!-- DateCreated: 5/20/2020 11:07:42 AM -->
+<GameData>
+	<LocalizedText>
+		<Row Tag="LOC_LEADER_SUK_EZANA_NAME" Language="zh_Hans_CN">
+			<Text>埃扎纳</Text>
+		</Row>
+		<!--ULA-->
+		<Row Tag="LOC_TRAIT_LEADER_SUK_AKSUMITE_COINAGE_NAME" Language="zh_Hans_CN">
+			<Text>阿克苏姆金币</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_LEADER_SUK_AKSUMITE_COINAGE_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>您通往其他文明的 [ICON_TradeRoute] 贸易路线可为埃塞俄比亚提供+1 [ICON_Culture] 文化值、+2 [ICON_Gold] 金币。解锁建造者建造纪念石柱的能力。</Text>
+		</Row>
+		<!--Agenda-->
+		<Row Tag="LOC_AGENDA_SUK_EZANAS_STONE_NAME" Language="zh_Hans_CN">
+			<Text>埃扎纳之石</Text>
+		</Row>
+		<Row Tag="LOC_AGENDA_SUK_EZANAS_STONE_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>喜欢经济和军事实力强大的文明。不喜欢经济强大但军事弱小的文明。</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_KUDO_LEADER_SUK_EZANA_REASON_ANY" Language="zh_Hans_CN">
+			<Text>（您拥有强大的经济和军事实力）</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MODIFIER_SUK_EZANAS_STONE_KUDOS" Language="zh_Hans_CN">
+			<Text>埃扎纳很高兴你拥有强大的经济和军事。</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_LEADER_SUK_EZANA_REASON_ANY" Language="zh_Hans_CN">
+			<Text>（您拥有强大的经济，但军事孱弱）</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MODIFIER_SUK_EZANAS_STONE_WARNING" Language="zh_Hans_CN">
+			<Text>埃扎纳对你强大的经济但孱弱的军事感到失望。</Text>
+		</Row>
+		<!--UI-->
+		<Row Tag="LOC_IMPROVEMENT_SUK_STELE_NAME" Language="zh_Hans_CN">
+			<Text>纪念石柱</Text>
+		</Row>
+		<Row Tag="LOC_IMPROVEMENT_SUK_STELE_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>解锁建造者建造纪念石柱（埃塞俄比亚特色改良设施）的能力。[NEWLINE][NEWLINE]+2 [ICON_Culture] 文化值，+1魅力值。拥有至少3个纪念石柱的城市+1 [ICON_TradeRoute] 贸易路线容量。[NEWLINE]必须建造在丘陵上，且不能与其他纪念石柱相邻。</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_IMPROVEMENTS_PAGE_IMPROVEMENT_SUK_STELE_CHAPTER_HISTORY_PARA_1" Language="zh_Hans_CN">
+			<Text>【译者注：正在翻译……】[NEWLINE][NEWLINE]In an expansive field on Aksum’s northern edge stand the ancient city’s most renowned surviving monuments, a group of memorial obelisks, or stelae, erected between the third and fourth centuries A.D. Although other Aksumite stelae fields such as the Gudit field are known, none possess the great variety of form and scale present here, ranging from relatively rough-hewn stone blocks of three feet in length to a now fallen tour de force intended to tower ninety-seven feet high. The stelae were carved mainly from solid blocks of nepheline syenite, a weather-resistant rock similar in appearance to granite, and are believed to have come from the quarries of Wuchate Golo several miles to the west of Aksum. After being cut from the rock walls there, they would have been dragged by organized manpower to the site of their installation, where finer carving awaited a few of the stelae. The impetus for this organizational effort appears to have been commemorative: there are many burials in this area and elaborate tombs are situated near the foremost group of the largest stelae. The wide variation in size and carving sophistication is most likely due to the varying degrees of social status and wealth of the deceased. Although the identities of the persons who sponsored them are not known, the tallest stelae probably commemorated royalty while smaller works were most likely commissioned by local elite.</Text>
+		</Row>
+		<!--Diplo-->
+		<Row Tag="LOC_LOADING_INFO_LEADER_SUK_EZANA" Language="zh_Hans_CN">
+			<Text>埃扎纳王，为骄傲的埃塞俄比亚带来荣耀和繁荣的重任落到了你的肩上。建造伟大的纪念柱激励你的人民，欢迎商人踏上你的土地。将商人派遣到世界各地传播阿克苏姆的荣耀，将巨大的财富带回埃塞俄比亚。埃扎纳王，这个世界充满了财富，等着夺取！</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_SUK_EZANA_ANY" Language="zh_Hans_CN">
+			<Text>真可惜。</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_SUK_EZANA_ANY" Language="zh_Hans_CN">
+			<Text>太好了。</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DECLARE_FRIEND_FROM_AI_LEADER_SUK_EZANA_ANY" Language="zh_Hans_CN">
+			<Text>让我们的纽带不仅仅是贸易，成为我们的朋友吧！</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_HUMAN_LEADER_SUK_EZANA_ANY" Language="zh_Hans_CN">
+			<Text>这似乎不符合阿克苏姆的最佳利益。我拒绝。</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_HUMAN_LEADER_SUK_EZANA_ANY" Language="zh_Hans_CN">
+			<Text>我们很高兴接受你的友谊。</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_SUK_EZANA_ANY" Language="zh_Hans_CN">
+			<Text>上帝会庇佑阿克苏姆！你的毁灭会不可避免地降临！</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_HUMAN_LEADER_SUK_EZANA_ANY" Language="zh_Hans_CN">
+			<Text>我这样做是为了阿克苏姆。有上帝站在我们这边，我们就不会失败！</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DEFEAT_FROM_HUMAN_LEADER_SUK_EZANA_ANY" Language="zh_Hans_CN">
+			<Text>我很少看到战争的这一面。</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DEFEAT_FROM_AI_LEADER_SUK_EZANA_ANY" Language="zh_Hans_CN">
+			<Text>我很少看到战争的这一面。</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DELEGATION_FROM_AI_LEADER_SUK_EZANA_ANY" Language="zh_Hans_CN">
+			<Text>我已派遣了代表团，带着英吉拉和贝尔贝尔酱作为礼物。你会接受吗？</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_DELEGATION_FROM_HUMAN_LEADER_SUK_EZANA_ANY" Language="zh_Hans_CN">
+			<Text>我们拒绝。</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_DELEGATION_FROM_HUMAN_LEADER_SUK_EZANA_ANY" Language="zh_Hans_CN">
+			<Text>欢迎你的使者和礼物。我可能会派一支旅队去交易更多。</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DENOUNCE_FROM_AI_LEADER_SUK_EZANA_ANY" Language="zh_Hans_CN">
+			<Text>你真丢人。我会告诉全世界，他们会知道你的真实样子。[NEWLINE]（谴责你）</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DENOUNCE_FROM_HUMAN_LEADER_SUK_EZANA_ANY" Language="zh_Hans_CN">
+			<Text>这是谎言和诽谤！你会为此付出代价！</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_LEADER_SUK_EZANA_ANY" Language="zh_Hans_CN">
+			<Text>我是埃扎纳，阿克苏姆、希米亚、雷丹、库什、萨巴、萨因、特撒拉、埃塞尔比亚和贝雅之王。你是谁？你给埃塞俄比亚带来了什么财富？</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_VISIT_RECIPIENT_LEADER_SUK_EZANA_ANY" Language="zh_Hans_CN">
+			<Text>我们在附近有一座城市。是你们的商人的绝佳去处——我得补充一句。</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_POSITIVE_LEADER_SUK_EZANA_ANY" Language="zh_Hans_CN">
+			<Text>我很乐意接受。</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_NO_MANS_INFO_EXCHANGE_LEADER_SUK_EZANA_ANY" Language="zh_Hans_CN">
+			<Text>阿克苏姆自然是一个富饶而美丽的城市。多告诉我一些你们首都的事。</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_GREETING_LEADER_SUK_EZANA_ANY" Language="zh_Hans_CN">
+			<Text>欢迎。</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_EXIT_LEADER_SUK_EZANA_ANY" Language="zh_Hans_CN">
+			<Text>你金银满库，但你的边界却不设防。你是想被掠夺吗？</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_KUDO_EXIT_LEADER_SUK_EZANA_ANY" Language="zh_Hans_CN">
+			<Text>强大而富饶的国家是绝佳的贸易伙伴。</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_ALLIANCE_FROM_AI_LEADER_SUK_EZANA_ANY" Language="zh_Hans_CN">
+			<Text>你愿意建立同盟吗？</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_MAKE_DEAL_FROM_AI_LEADER_SUK_EZANA_ANY" Language="zh_Hans_CN">
+			<Text>{LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_SUK_EZANA_ANY}</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_MAKE_DEAL_FROM_AI_LEADER_SUK_EZANA_ANY" Language="zh_Hans_CN">
+			<Text>{LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_SUK_EZANA_ANY}</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_AI_ACCEPT_DEAL_LEADER_SUK_EZANA_ANY" Language="zh_Hans_CN">
+			<Text>很好，这场战争已经持续得太久了。</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_AI_REFUSE_DEAL_LEADER_SUK_EZANA_ANY" Language="zh_Hans_CN">
+			<Text>不。我不能接受。</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_FROM_AI_LEADER_SUK_EZANA_ANY" Language="zh_Hans_CN">
+			<Text>让我们实现和解。</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_OPEN_BORDERS_FROM_HUMAN_LEADER_SUK_EZANA_ANY" Language="zh_Hans_CN">
+			<Text>很好，我特此同意你通过我的土地。</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_OPEN_BORDERS_FROM_HUMAN_LEADER_SUK_EZANA_ANY" Language="zh_Hans_CN">
+			<Text>我们目前不感兴趣。</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_OPEN_BORDERS_FROM_AI_LEADER_SUK_EZANA_ANY" Language="zh_Hans_CN">
+			<Text>我谦卑地请求你允许我们通过你们的边界。我们将保持和平。</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_LEADER_SUK_EZANA_ANY" Language="zh_Hans_CN">
+			<Text>除非你想进攻，否则不要展示你的刀剑。把你的士兵从我们的领土上撤走。</Text>
+		</Row>
+		<!--Quote and Pedia-->
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_SUK_EZANA_QUOTE" Language="zh_Hans_CN">
+			<Text>许多蜘蛛网结合在一起就足以将一头猛狮牢牢束缚。</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_SUK_EZANA_TITLE" Language="zh_Hans_CN">
+			<Text>埃扎纳</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_SUK_EZANA_SUBTITLE" Language="zh_Hans_CN">
+			<Text>阿克苏姆、希米亚、雷丹、库什、萨巴、萨因、特撒拉、埃塞尔比亚和贝雅之王</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_SUK_EZANA_CHAPTER_CAPSULE_BODY" Language="zh_Hans_CN">
+			<Text>埃塞俄比亚是宗教与建造双修的实力典范。埃扎纳可借由纪念石柱和贸易奖励提供非凡的经济和文化效益。</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_SUK_EZANA_CHAPTER_DETAILED_BODY" Language="zh_Hans_CN">
+			<Text>埃塞俄比亚有多种激励措施来优先考虑 [ICON_Faith] 信仰值产出，最突出的便是利用额外的 [ICON_Faith] 信仰值去扩张与发展。圣地位置的恰当选择将会让岩石教堂提供额外的 [ICON_Production] 生产力加成，因此请认真考虑圣地的建造。埃扎纳给埃塞俄比亚这个宗教结合体文明带来了经济向的发展可能。由他能力解锁的纪念石柱可提供少量 [ICON_Culture] 文化值，但更重要的能提供额外的 [ICON_TradeRoute] 贸易路线容量，让您不必过多担心商业中心的建设，而更多地将精力投入圣地发展。他的能力还能为您赚取额外的 [ICON_Gold] 金币和 [ICON_Culture] 文化值。</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_SUK_EZANA_CHAPTER_HISTORY_PARA_1" Language="zh_Hans_CN">
+			<Text>【译者注：正在翻译……】[NEWLINE][NEWLINE]King Ezana, was a fourth-century c.e. king who converted to Christianity and subsequently established this faith as the state religion in Axum (Aksum), part of modern-day Ethiopia. Scholars do not agree on the details of Ezana’s life, but several have documented information about his reign through trilingual inscriptions on stone tablets of the period.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_SUK_EZANA_CHAPTER_HISTORY_PARA_2" Language="zh_Hans_CN">
+			<Text>Ezana and Sayzana were tutored by two Hellenic Syrians who had been rescued as young boys after other occupants of their ship had been either murdered or killed in a shipwreck. The king subsequently accepted responsibility for the brothers, who were classified as slaves. However, recognizing their unique abilities, he named Aedesius as the royal cupbearer and placed Frumentius in the position of royal treasurer and secretary. After the king’s death the Syrians continued to tutor the royal twins and served as advisers to the queen. Some scholars believe that Frumentius and his brother were entirely responsible for converting the royal family to Christianity, and therefore, ultimately that they are responsible for converting all of Ethiopia.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_SUK_EZANA_CHAPTER_HISTORY_PARA_3" Language="zh_Hans_CN">
+			<Text>As monarch, Ezana claimed many titles and is credited with being the first to call himself the “king of kings”. He identified himself as the king of Axum, Saba, Salhen, Himyar, Raydan, Habashat, Tiamo, Kasu, and of the Beja tribes. The kingdom over which King Ezana ruled stretched out on both sides of the Red Sea and extended into what is modern-day Sudan and Somalia. Evidence shows that early in their tenure as monarchs of Axum, Ezana and Sayzana paid allegiance to pagan gods. Ezana often called himself the “Son of Mahrem”, which was equivalent to identifying himself with Ares, the Greek god of war. After the brothers’ conversion to Christianity, Axumite coins most often depicted the cross, or sometimes multiple crosses.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_SUK_EZANA_CHAPTER_HISTORY_PARA_4" Language="zh_Hans_CN">
+			<Text>Ezana is considered to have been the ablest and most politically astute of the brothers, and some scholars doubt that he even had a twin. At any rate, Ezana reigned over Axum at a time when it was flourishing as a viable political, economic, and agricultural African state. His tenure was marked by territorial expansion and significant economic growth, and Ezana opened up a major trade route with Egypt. Consequently, a large number of Greek traders immigrated to Ethiopia in order to take advantage of its rich resources of gold, ivory, spices, and tortoiseshell.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_SUK_EZANA_CHAPTER_HISTORY_PARA_5" Language="zh_Hans_CN">
+			<Text>After his death on the battlefield at around 25 years of age, Ezana was buried in a rock-hewn church that still stands in present-day Ethiopia. Sayzana became the sole monarch, governing for the next 14 years.</Text>
+		</Row>
+	</LocalizedText>
+</GameData>

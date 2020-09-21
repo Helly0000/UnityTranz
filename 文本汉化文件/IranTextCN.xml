@@ -1,0 +1,866 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- IranTextCN -->
+<!-- Author: 春 -->
+<!-- DateCreated: 5/23/2020 10:48:56 AM -->
+<GameData>
+	<LocalizedText>
+		<!--CIVILIZATION-->
+		<Row Tag="LOC_CIVILIZATION_EMP_IRAN_NAME" Language="zh_Hans_CN">
+			<Text>伊朗</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_EMP_IRAN_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>伊朗帝国</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_EMP_IRAN_ADJECTIVE" Language="zh_Hans_CN">
+			<Text>伊朗的</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_EMP_IRAN_DESCRIPTION_JFD_CIVILIZATION" Language="zh_Hans_CN">
+			<Text>伊朗文明</Text>
+		</Row>
+		<!--Pedia-->
+		<Row Tag="LOC_CIVINFO_EMP_IRAN_LOCATION" Language="zh_Hans_CN">
+			<Text>中东，西南亚</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_EMP_IRAN_POPULATION" Language="zh_Hans_CN">
+			<Text>8116万</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_EMP_IRAN_SIZE" Language="zh_Hans_CN">
+			<Text>164.8万平方公里（63万6400平方英里）</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_EMP_IRAN_CAPITAL" Language="zh_Hans_CN">
+			<Text>德黑兰</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_EMP_IRAN_CHAPTER_HISTORY_PARA_1" Language="zh_Hans_CN">
+			<Text>【译者注：正在翻译，这也太长了草……】[NEWLINE][NEWLINE]In the aftermath of the fall of the Sasanians, Iran saw influxes of a multitudes of peoples from Georgians to Turkmen to Arabs to Mongols. Ordinarily, a subjugated nation would have it's culture overwritten by it's dominators, but the Persian Culture proved pervasive enough to not only endure but to change the cultures of their overlords. The fledgeling Islamic empires adopted Persian courtly practices and philosophic principles. The Turkmen tribes saw themselves mutated in the Iranian practices, giving rise to Turco-Persian Tradition - a tradition that was commonplace not only through all of the Iranian Empires, but also the Seljuk, Ottoman, and Mamluk empires (a form of this persisting in the Republic of Turkey and the Islamic Republic of Iran). The Mongol invaders and the Timurids saw themselves renouncing their steppe way of life and becoming Iranian Kings. In a way, all of these foreigners were made to serve Persia, no matter how many Persians they massacred or how much woe they brought to the land.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_EMP_IRAN_CHAPTER_HISTORY_PARA_2" Language="zh_Hans_CN">
+			<Text>While Iran influenced its overlords - the Caliphates, the Ghaznavids, the Seljuks, the Khwarezmids, the Mongols, the Timurids, and the Koyunlu tribes - they were in turn permuted. Zoroastrianism was replaced by Sunni Islam (albeit very slowly). And Iran would not have a native rule again until 1501 with the establishment of the Safavid empire by Shah Ismail.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_EMP_IRAN_CHAPTER_HISTORY_PARA_3" Language="zh_Hans_CN">
+			<Text>Ismail hailed from a Turkmen tribe (part of the Qizilbash) and claimed direct descent from Hasan the Tall (also translated as Hasan the Long. Get your mind out of the gutter). His father, Sheikh Haydar, was the Grandmaster of the Safaviyya Sufi Order within the Twelver branch of Shi'a Islam. While the direct beliefs of the Twelvers are important for this, it is their practices that are. They believed, like all other Shi'a, that the first three caliphs stole the Caliphal office from the fourth Caliph: Ali, the son of Muhammad. The Safaviyya order also claimed direct descent from Muhammad (though that is likely a blatant lie) and therefore it was more than a little personal. In addition, their common practices were to curse the first three Caliphs (uhh...), destroy Sunni Mosques (wait...), defile Sunni graves (maybe you shouldn't...), And burn effigies of the first three Caliphs (GUYS WHAT). As such, Ismail grew up as a fanatic of Twelverism and made it his mission to destroy all of Sunni Islam.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_EMP_IRAN_CHAPTER_HISTORY_PARA_4" Language="zh_Hans_CN">
+			<Text>When Sheikh Haydar was killed during a siege against the Ak Koyunlu Turkmen (literally meaning "White Sheep" Turks. Turns out that when your people are shepherds, they tend to like sheep. Get your mind out of the gutter), Ismail embarked on a mission of vengeance against the Ak Koyunlu, utterly destroying them with the help of his Qizilbash tribesmen despite being outnumber. Seeing how easy it was to dominate northwestern Iran, he carried on conquering and destroying mosques along the way - the whole time being treated as an invincible demigod by his Qizilbash. He proclaimed himself the Shahanshah of Iran and the Shah of Azerbaijan in 1501, and additionally went on a campaign of transforming Iran from being 90% Sunni to totally Twelver Shia. It's telling that Iran remains a majority Twelver nation (albeit slightly more mellow, and much less likely to burn effigies) to this day.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_EMP_IRAN_CHAPTER_HISTORY_PARA_5" Language="zh_Hans_CN">
+			<Text>In 1512, Shah Ismail was finally defeated and retired to a life of miserable inebriation, but the Safavid dynasty that he founded managed to endure until 1736 despite this defeat. He was succeeded by his son, Tahmasp I, who enjoyed the longest reign of any Iranian Shah.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_EMP_IRAN_CHAPTER_HISTORY_PARA_6" Language="zh_Hans_CN">
+			<Text>When Tahmasp came to the throne, the empire was threatened by opponents inside and out: Ismail’s reliance on Qizilbash forces resulted in the entrenchment of a feuding Qizilbash nobility that sapped the central power of the Shah, and the glaring lack of a force that could stand up to gunpowder infantry. Speaking of which, the Ottomans were still a very hostile force on Iran’s border, and though Sultan Selim had died, his son was Suleiman the Lawgiver, and a lion in his own right. Not to mention the Uzbeks in the far east. More worryingly – when Tahmasp ascended the throne, he was a child at 10 years old, and was dueled over by those very Qizilbash Nobles for the right to be the regent and therefore control the country.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_EMP_IRAN_CHAPTER_HISTORY_PARA_7" Language="zh_Hans_CN">
+			<Text>After nine years of various Qizilbash being executed and taking out their personal issues on each other, and a 14 year old shah ordering the general massacre of an entire tribe, Tahmasp executed the last of his viziers that was plotting against him (his name was Husayn) and ascended the throne in his own right. Much of Tahmasp’s reign was international treaties, placating the Ottoman Empire through the Peace of Amasya and dividing the caucuses and the middle east between the two. He also founded a new force of soldiers – creatively named the “Third Force” - that would cut away at the power of the Qizilbash, enabling his successors to do away with them and establish a proper meritocratic kingdom (a new trend in those days). After properly fixing relations with the Ottoman and Mughal Empires, peaces that would last for 30 years, he also encouraged the rug industry in order to bolster the Iranian economy once more. This would be carried on by his successors, particularly Abbas the Great – replacing the powers of the Qizilbash with Ghulam (slaves) that made up the new positions. Most of these people came from the Caucuses, which would persist until the end of the Qajar dynasty. </Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_EMP_IRAN_CHAPTER_HISTORY_PARA_8" Language="zh_Hans_CN">
+			<Text>Unfortunately, most of these following monarchs were ineffectual, weak, and more interested in women and drink than in ruling Iran. The primary exception to this was Shah Abbas the Great, who became legendary for reasserting Iran’s power by defeating the Uzbeks and Ottomans, then by punishing disloyal Georgian provinces, and then dislodging the Portuguese from the Persian gulf. It was under him that Iran finally ascended to the status of a world power – equal in might to its Ottoman Archrival. Iran experienced a flourishing of architecture and fine arts under his reign, in addition to partnerships with the Dutch East India Company and diplomatic missions to the West (Not to mention is One-Uppage of Tahmasp’s Three Decade reign by having a Four Decade reign). This Safavid Renaissance would never be seen again following his reign. Following him (and his brightest successor – Abbas II in 1666), Safavid Iran would lose its newly-acquired world power status, and slip into a state of near-permanent decay.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_EMP_IRAN_CHAPTER_HISTORY_PARA_9" Language="zh_Hans_CN">
+			<Text>It would take nearly a hundred years of attrition before the Safavids were finally overthrown. Iran had to face the new Russian Empire to their North, and the ascendant Mughals in addition to their old enemies – the Uzbeks and the Ottomans. Astrakhan was lost, and the Mughals expanded into Afghanistan. To add insult to injury, the very same ties with the Dutch East India company were used to take control of Iranian trade routes (though Iranian Merchants did enter North and Central Europe because of it) and drain the Safavids of their crucial wealth. Raids were launched on all sides, but what truly ended the Safavids was a warlord named Nader Afshar.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_EMP_IRAN_CHAPTER_HISTORY_PARA_10" Language="zh_Hans_CN">
+			<Text>The Turkic Warlord from Khorasan (no relation), seemed a Second Alexander, and has since been deemed the Last Great Asian Conqueror. This is because he found every single ass to kick in the region, and then kicked them all. His rise to power over the region was meteoric, reasserting the power that Shah Ismail and Shah Abbas displayed centuries prior, being completely undefeated for the majority of his rule. Famously, he invaded the Mughal Empire to finance another war with the Ottomans and defeated the numerically superior Mughal army in under three hours. Then he sacked Delhi, and on the way back he easily conquered all the Uzbek khaganates. Nader singlehandedly defeated every single one of Iran’s rivals, until he came to Dagestan. An assassination attempt was made, and was followed by a number of pricey guerrilla wars. He began to lose battles and go mad and ill. Another assassination attempt meant he blinded his sons – disallowing them to rule Iran. He was finally assassinated in 1747, and Iran fell into chaos until 1796, as a number of dynasties (including the Zand dynasty) vied for power over Iran. After the last Zand king was defeated, the Safavids were briefly reinstated for the sole purpose of handing the Office of Shahanshah to the new Qajar dynasty.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_EMP_IRAN_CHAPTER_HISTORY_PARA_11" Language="zh_Hans_CN">
+			<Text>Under the Qajars, Iran briefly reasserted Iranian power over the Caucasus (which seems to be a trend – they’ll be trying again any day now), and faced off against the Russians. But this ended poorly for them as they lost these territories to the Russians after two losing wars. The ultimate consequence of this was a massive influx of Muslim refugees (terrifying, I know). A number of mass expulsions of Muslims into Turkey and Iran occurred throughout the Qajar period.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_EMP_IRAN_CHAPTER_HISTORY_PARA_12" Language="zh_Hans_CN">
+			<Text>At the same time, the Qajars were primarily concerned with reform and modernization, that in all truth they did quite poorly. A number of diplomatic missions were made to the west (again), while the government only barely avoided total bankruptcy through slashing budgets. Efforts were made to train administrators in modern techniques, as well as begin setting up education systems. However, these reforms angered various nobles who had been excluded, and so they formed a coalition against him and eventually succeeded in having Nasser al-Din Shah Qajar assassinated. The crown passed on, and the reform halted as the new shah took out more debt and self off more concessions in exchange for his lavish lifestyle.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_EMP_IRAN_CHAPTER_HISTORY_PARA_13" Language="zh_Hans_CN">
+			<Text>The Shah utterly failed to respond to this crisis, and in July of 1909, the Shah was forced to set up a parliament in a Constitutional Revolution. The discovery of oil in the nation the previous year became a point of contention in the United Kingdom and Imperial Russia’s Great Game, where the nation was divided into spheres of interest. The First World War saw the nation occupied by British, Ottomans, and Russian forces. Fortunately for the Iranians, two of those three occupiers collapsed into revolution by the end of the war, and the third one failed at setting up a protectorate in the region. A military coup was launched from a member of the Persian Cossack Brigade – Reza Shah Pahlavi – and a new dynasty came to power in Iran.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_EMP_IRAN_CHAPTER_HISTORY_PARA_14" Language="zh_Hans_CN">
+			<Text>Reza Shah’s sixteen year rule from 1925 to 1941 was characterized by sweeping reforms at a breakneck pace, but through the use of militarism and nationalism. Initially he branded himself as the Iranian Ataturk, setting up a secular authoritarian government. However, the corruption and oppression in place under his rule made Iran a police state. The new, secular laws angered much of the devout Muslims and clergy – going much farther than his Turkish example. Tension came to a brink in 1935, with riots being held in Mashhad. It was quelled by Imperial troops.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_EMP_IRAN_CHAPTER_HISTORY_PARA_15" Language="zh_Hans_CN">
+			<Text>After fears that Iran might be occupied during the Second World War, the Tehran Declaration as issued by the allied powers that it would remain free. Though the Soviets did not withdraw from Iran until 1946, this was largely respected. Some elections were held, but when the prime minister, Mohammed Mosaddeq, attempted to nationalize the British oil industry, there was a coup organized by the U.S. to remove him. IT was from that point until 1979 that  Iran was ruled as an Autocratic state, though it did initiate a series of reforms in another effort to modernize the country. This encited even more Islamic backlash, and a revolution was staged in 1979, where the Shah was overthrown and Iran was remade into an Islamic republic. Though it has made more moderate moves since then, it has remained one of the more extreme states of the world, subscribing to a very radical version of Islamic law. </Text>
+		</Row>
+		<!--Trait-->
+		<Row Tag="LOC_TRAIT_CIVILIZATION_EMP_LION_SUN_NAME" Language="zh_Hans_CN">
+			<Text>狮子与太阳</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_CIVILIZATION_EMP_LION_SUN_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>获得 [ICON_Governor] 总督头衔的同时还可获得 [ICON_FAITH] 信仰值与 [ICON_CULTURE] 文化值奖励。有 [ICON_Governor] 总督就职的城市，其每次升级可为该城市的区域建造+5% [ICON_PRODUCTION] 生产力。</Text>
+		</Row>
+		<!--Cities-->
+		<Row Tag="LOC_CITY_NAME_EMP_IRAN_1" Language="zh_Hans_CN">
+			<Text>德黑兰</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_EMP_IRAN_2" Language="zh_Hans_CN">
+			<Text>设拉子</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_EMP_IRAN_3" Language="zh_Hans_CN">
+			<Text>伊斯法罕</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_EMP_IRAN_4" Language="zh_Hans_CN">
+			<Text>大不里士</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_EMP_IRAN_5" Language="zh_Hans_CN">
+			<Text>尼沙普尔</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_EMP_IRAN_6" Language="zh_Hans_CN">
+			<Text>马拉盖</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_EMP_IRAN_7" Language="zh_Hans_CN">
+			<Text>霍拉马巴德</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_EMP_IRAN_8" Language="zh_Hans_CN">
+			<Text>哈马丹</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_EMP_IRAN_9" Language="zh_Hans_CN">
+			<Text>阿巴斯港</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_EMP_IRAN_10" Language="zh_Hans_CN">
+			<Text>马什哈德</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_EMP_IRAN_11" Language="zh_Hans_CN">
+			<Text>霍尔木兹</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_EMP_IRAN_12" Language="zh_Hans_CN">
+			<Text>克尔曼</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_EMP_IRAN_13" Language="zh_Hans_CN">
+			<Text>克尔曼沙赫</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_EMP_IRAN_14" Language="zh_Hans_CN">
+			<Text>库姆</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_EMP_IRAN_15" Language="zh_Hans_CN">
+			<Text>杰尔宾特</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_EMP_IRAN_16" Language="zh_Hans_CN">
+			<Text>塞姆南</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_EMP_IRAN_17" Language="zh_Hans_CN">
+			<Text>加兹温</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_EMP_IRAN_18" Language="zh_Hans_CN">
+			<Text>阿尔达比勒</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_EMP_IRAN_19" Language="zh_Hans_CN">
+			<Text>乌尔米耶</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_EMP_IRAN_20" Language="zh_Hans_CN">
+			<Text>萨里</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_EMP_IRAN_21" Language="zh_Hans_CN">
+			<Text>赫拉特</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_EMP_IRAN_22" Language="zh_Hans_CN">
+			<Text>亚兹德</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_EMP_IRAN_23" Language="zh_Hans_CN">
+			<Text>加兹尼</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_EMP_IRAN_24" Language="zh_Hans_CN">
+			<Text>戈尔甘</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_EMP_IRAN_25" Language="zh_Hans_CN">
+			<Text>白沙瓦</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_EMP_IRAN_26" Language="zh_Hans_CN">
+			<Text>雷伊</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_EMP_IRAN_27" Language="zh_Hans_CN">
+			<Text>比尔詹德</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_EMP_IRAN_28" Language="zh_Hans_CN">
+			<Text>布哈拉</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_EMP_IRAN_29" Language="zh_Hans_CN">
+			<Text>梅尔夫</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_EMP_IRAN_30" Language="zh_Hans_CN">
+			<Text>巴姆</Text>
+		</Row>
+		<!--Citizens-->
+		<Row Tag="LOC_CITIZEN_EMP_IRAN_MALE_1" Language="zh_Hans_CN">
+			<Text>阿拉什</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_EMP_IRAN_MALE_2" Language="zh_Hans_CN">
+			<Text>贝南</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_EMP_IRAN_MALE_3" Language="zh_Hans_CN">
+			<Text>大流士</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_EMP_IRAN_MALE_4" Language="zh_Hans_CN">
+			<Text>法拉兹</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_EMP_IRAN_MALE_5" Language="zh_Hans_CN">
+			<Text>贾汉</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_EMP_IRAN_MALE_6" Language="zh_Hans_CN">
+			<Text>卡维</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_EMP_IRAN_MALE_7" Language="zh_Hans_CN">
+			<Text>米尔扎</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_EMP_IRAN_MALE_8" Language="zh_Hans_CN">
+			<Text>纳维德</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_EMP_IRAN_MALE_9" Language="zh_Hans_CN">
+			<Text>沙赫纳兹</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_EMP_IRAN_MODERN_MALE_1" Language="zh_Hans_CN">
+			<Text>巴希尔</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_EMP_IRAN_MODERN_MALE_2" Language="zh_Hans_CN">
+			<Text>吉尔伽美什</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_EMP_IRAN_MODERN_MALE_3" Language="zh_Hans_CN">
+			<Text>卡雷克尼</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_EMP_IRAN_MODERN_MALE_4" Language="zh_Hans_CN">
+			<Text>玛兹达克</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_EMP_IRAN_MODERN_MALE_5" Language="zh_Hans_CN">
+			<Text>马尔杜克</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_EMP_IRAN_MODERN_MALE_6" Language="zh_Hans_CN">
+			<Text>马扎班</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_EMP_IRAN_MODERN_MALE_7" Language="zh_Hans_CN">
+			<Text>帕里扎得</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_EMP_IRAN_MODERN_MALE_8" Language="zh_Hans_CN">
+			<Text>图兰</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_EMP_IRAN_MODERN_MALE_9" Language="zh_Hans_CN">
+			<Text>瓦希德</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_EMP_IRAN_MODERN_MALE_10" Language="zh_Hans_CN">
+			<Text>扎纳</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_EMP_IRAN_FEMALE_1" Language="zh_Hans_CN">
+			<Text>阿萨</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_EMP_IRAN_FEMALE_2" Language="zh_Hans_CN">
+			<Text>叶斯菲里</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_EMP_IRAN_FEMALE_3" Language="zh_Hans_CN">
+			<Text>古珊</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_EMP_IRAN_FEMALE_4" Language="zh_Hans_CN">
+			<Text>戈诺尔</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_EMP_IRAN_FEMALE_5" Language="zh_Hans_CN">
+			<Text>拉莱</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_EMP_IRAN_FEMALE_6" Language="zh_Hans_CN">
+			<Text>马欣</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_EMP_IRAN_FEMALE_7" Language="zh_Hans_CN">
+			<Text>米努</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_EMP_IRAN_FEMALE_8" Language="zh_Hans_CN">
+			<Text>罗萨娜</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_EMP_IRAN_FEMALE_9" Language="zh_Hans_CN">
+			<Text>沙赫勒扎德</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_EMP_IRAN_FEMALE_10" Language="zh_Hans_CN">
+			<Text>扎琳</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_EMP_IRAN_MODERN_FEMALE_1" Language="zh_Hans_CN">
+			<Text>简诗美</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_EMP_IRAN_MODERN_FEMALE_2" Language="zh_Hans_CN">
+			<Text>阿萨</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_EMP_IRAN_MODERN_FEMALE_3" Language="zh_Hans_CN">
+			<Text>芭奴</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_EMP_IRAN_MODERN_FEMALE_4" Language="zh_Hans_CN">
+			<Text>杜尼娅</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_EMP_IRAN_MODERN_FEMALE_5" Language="zh_Hans_CN">
+			<Text>法兰吉丝</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_EMP_IRAN_MODERN_FEMALE_6" Language="zh_Hans_CN">
+			<Text>戈达法德</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_EMP_IRAN_MODERN_FEMALE_7" Language="zh_Hans_CN">
+			<Text>齐亚娜</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_EMP_IRAN_MODERN_FEMALE_8" Language="zh_Hans_CN">
+			<Text>玛丽亚</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_EMP_IRAN_MODERN_FEMALE_9" Language="zh_Hans_CN">
+			<Text>帕拉斯托</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_EMP_IRAN_MODERN_FEMALE_10" Language="zh_Hans_CN">
+			<Text>塞比德</Text>
+		</Row>
+		<!--RULE WITH FARTH-->
+		<Row Tag="LOC_POLITICIAN_EMP_IRAN_MALE_1" Language="zh_Hans_CN">
+			<Text>贾法尔</Text>
+		</Row>
+		<Row Tag="LOC_POLITICIAN_EMP_IRAN_MALE_2" Language="zh_Hans_CN">
+			<Text>侯赛因</Text>
+		</Row>
+		<Row Tag="LOC_POLITICIAN_EMP_IRAN_MALE_3" Language="zh_Hans_CN">
+			<Text>贾贝里</Text>
+		</Row>
+		<Row Tag="LOC_POLITICIAN_EMP_IRAN_MALE_4" Language="zh_Hans_CN">
+			<Text>哈特姆</Text>
+		</Row>
+		<Row Tag="LOC_POLITICIAN_EMP_IRAN_MALE_5" Language="zh_Hans_CN">
+			<Text>卡利法</Text>
+		</Row>
+		<Row Tag="LOC_POLITICIAN_EMP_IRAN_MALE_6" Language="zh_Hans_CN">
+			<Text>塔奇</Text>
+		</Row>
+		<Row Tag="LOC_POLITICIAN_EMP_IRAN_MALE_7" Language="zh_Hans_CN">
+			<Text>穆罕默德</Text>
+		</Row>
+		<Row Tag="LOC_POLITICIAN_EMP_IRAN_MALE_8" Language="zh_Hans_CN">
+			<Text>阿里</Text>
+		</Row>
+		<Row Tag="LOC_POLITICIAN_EMP_IRAN_MALE_9" Language="zh_Hans_CN">
+			<Text>赞加内</Text>
+		</Row>
+		<Row Tag="LOC_POLITICIAN_EMP_IRAN_MALE_10" Language="zh_Hans_CN">
+			<Text>易卜拉欣</Text>
+		</Row>
+		<Row Tag="LOC_POLITICIAN_EMP_IRAN_FEMALE_1" Language="zh_Hans_CN">
+			<Text>法罗赫鲁</Text>
+		</Row>
+		<Row Tag="LOC_POLITICIAN_EMP_IRAN_FEMALE_2" Language="zh_Hans_CN">
+			<Text>扎赫拉</Text>
+		</Row>
+		<Row Tag="LOC_POLITICIAN_EMP_IRAN_FEMALE_3" Language="zh_Hans_CN">
+			<Text>埃拉赫</Text>
+		</Row>
+		<Row Tag="LOC_POLITICIAN_EMP_IRAN_FEMALE_4" Language="zh_Hans_CN">
+			<Text>马萨蒂</Text>
+		</Row>
+		<Row Tag="LOC_POLITICIAN_EMP_IRAN_FEMALE_5" Language="zh_Hans_CN">
+			<Text>阿什拉夫</Text>
+		</Row>
+		<!--DIVAN-->
+		<Row Tag="LOC_DISTRICT_EMP_DIVAN_NAME" Language="zh_Hans_CN">
+			<Text>会议大堂</Text>
+		</Row>
+		<Row Tag="LOC_DISTRICT_EMP_DIVAN_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>伊朗特色区域，由市政“行政部门”解锁。[NEWLINE][NEWLINE]提供+4忠诚度。相邻区域+1点各自类型的 [ICON_GREATPERSON] 伟人点数。如果会议大堂至少相邻3个区域，则奖励1个 [ICON_Governor] 总督头衔。</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_DISTRICTS_PAGE_DISTRICT_EMP_DIVAN_CHAPTER_HISTORY_PARA_1" Language="zh_Hans_CN">
+			<Text>【译者注：正在翻译……】[NEWLINE][NEWLINE]A divan, originally a word used for army registrars and payrolls but later metonymed out seventeen degrees to mean specific high government offices (and later long, cushioned furniture), is a department or ministry run by council used by Islamic Empires. They had a variety of uses, originally mainly for bookkeeping and timekeeping, but made more elaborate during the Abbasid Caliphate. The growth of these councils came alongside the vizier, an officer used to coordinate the government that the divans helped to establish. During the Abbasid period, these divans were usually short-lived and would be used for very specific reasons. For example, the first main divan was a department to organize the division of confiscated properties from the Umayyads after the Abbasids overthrew them.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_DISTRICTS_PAGE_DISTRICT_EMP_DIVAN_CHAPTER_HISTORY_PARA_2" Language="zh_Hans_CN">
+			<Text>The laws overseen by the divan were extensions of Sharia and Kanun law, though it mostly considered administrative matters rather than actual civic lawmaking. </Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_DISTRICTS_PAGE_DISTRICT_EMP_DIVAN_CHAPTER_HISTORY_PARA_3" Language="zh_Hans_CN">
+			<Text>As time went on, the divans became more seated and more regional. The Seljuk period saw the Seljuk sultan often on campaign, so the Grand Vizier began to take over the more civic and religious duties of the state. For this, he created a Supreme Divan to oversee civic, military, and religious duties. This was then divided into chanceries, treasuries, judicial courts, religious courts, army offices, and even once a postal office. Local divans were also formed to oversee the provincial budget and defense, as well as management of taxation, land confiscation, redress of grievances, and religious endowments.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_DISTRICTS_PAGE_DISTRICT_EMP_DIVAN_CHAPTER_HISTORY_PARA_4" Language="zh_Hans_CN">
+			<Text>Seljuq sultans and Iranian Shahs tended to confiscate lands from nobles (the act of confiscation, of course, requiring divans. The regranting of land to other families also required divans) who were unable to pay their taxes (divans needed, of course, for collecting taxes for the state treasury, the army treasury, and the sultan’s personal treasury), leading to the aristocracies’ grasps on their lands being very unstable. In response, they would “donate” their holdings to nearby religious groups – the donations being called a waqf (and of course, the donations required the creation of yet more divans). This way, they were able to hold onto their holdings with less chance of their ruler (or their local divan) coming in and stealing it from them.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_DISTRICTS_PAGE_DISTRICT_EMP_DIVAN_CHAPTER_HISTORY_PARA_5" Language="zh_Hans_CN">
+			<Text>It was through this convoluted bureaucracy that the divan became nearly synonymous with byzantine meritocracy running a state – viziers upon viziers being necessary to oversee yet more viziers running the state. What resulted was a very thorough and robust form of government that served the Iranians deep into the modern era.</Text>
+		</Row>
+		<!--TOFANGCHI-->
+		<Row Tag="LOC_UNIT_EMP_TOFANGCHI_NAME" Language="zh_Hans_CN">
+			<Text>托方奇</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_EMP_TOFANGCHI_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>伊朗特色文艺复兴时期近战单位，取代火枪手。[ICON_Movement] 移动时无视丘陵地形影响。有 [ICON_Governor] 总督就职的城市，其每拥有一次升级，该城市训练的托方奇在训练完成时即可获得+10%经验值。与其他托方奇相邻时+5 [ICON_Strength] 战斗力。</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_EMP_TOFANGCHI_CHAPTER_HISTORY_PARA_1" Language="zh_Hans_CN">
+			<Text>【译者注：正在翻译……】[NEWLINE][NEWLINE]Following the disastrous battle of Chaldiran, it became very clear that the Iranian army needed to move away from their ancient equestrian tradition and to a more modern gunpowder army. As a result, Shah Abbas created a force of musketeer called the Tofangchi (literally “Men armed with Tofang,” a light musket) out of their former forces of Ghulams. Approximately 12,000 of the 40,000 Ghulam soldiers were given muskets and therefore made into tofangchi, alongside a number of other military reforms such as the marginalization of Qizilbash tribesmen and the formation of an artillery corps. These tofangchi soldiers were made up of Georgian, Circassian, Armenian, and Turkic provincials, and became the new backbone of the Persian Army.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_EMP_TOFANGCHI_CHAPTER_HISTORY_PARA_2" Language="zh_Hans_CN">
+			<Text>A standard Tofangshi was equipped with a standard flintlock musket, similar to European models, as well as a long dagger known as a Khanjar and a Shamshir. In close combat, the shamshirs and the Khanars would be used with brutal success. They were additional dressed in blue tunics and red trousers, and a tall hat.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_EMP_TOFANGCHI_CHAPTER_HISTORY_PARA_3" Language="zh_Hans_CN">
+			<Text>While the Safavid dynasty is remembered in the west as part of the Trio of Gunpowder Empires, this is an oversimplification. In reality, Iran’s gunpowder forces were the weakest of those among the major Islamic empires, with the tofangchi being inferior to Ottoman Janissaries and the Iranian Artillery being inferior to that of the Mughals (the Iranians were incapable of making artillery without European assistance, and therefore the artillery corps was the weakest of the branches of their army). The Iranians usually considered the infantry to be secondary to the cavalry. Nevertheless, it was through commitment that Iran managed to make something of the tofangchi, using their bureaucratic skill to ensure that the cream of the crop, as they say, always rose to the top.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_EMP_TOFANGCHI_CHAPTER_HISTORY_PARA_4" Language="zh_Hans_CN">
+			<Text>During the reign of Nader, the best of the Tofangchi would be promoted to leading their whole regiment, and to join the corps of Jazayerchi – men with a much heavier caliber musket. It was only during Nader’s reign that the reforms of Abbas were completed and the Iranian Tofangchi finally became a force to be reckoned with.</Text>
+		</Row>
+		<Row Tag="LOC_EMP_TOFANGCHI_BUDDYBONUS" Language="zh_Hans_CN">
+			<Text>+5 [ICON_Strength] 战斗力 来自相邻其他托方奇</Text>
+		</Row>
+
+		<!--LEADER-->
+		<Row Tag="LOC_LEADER_ENIGMA_ISMAIL_NAME" Language="zh_Hans_CN">
+			<Text>伊斯玛仪一世</Text>
+		</Row>
+		<!--Agenda-->
+		<Row Tag="LOC_AGENDA_ENIGMA_MISTAKES_NAME" Language="zh_Hans_CN">
+			<Text>犯错之人</Text>
+		</Row>
+		<Row Tag="LOC_AGENDA_ENIGMA_MISTAKES_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>喜欢跟随他的宗教，以及不如他那样产出高额信仰的人。憎恶拥有其他信仰，以及向邻居宣战的人。</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_KUDO_LEADER_ENIGMA_MISTAKES_REASON_SAME_RELIGION" Language="zh_Hans_CN">
+			<Text>你的虔诚给伊斯玛仪留下了深刻印象。</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MODIFIER_AGENDA_ENIGMA_MISTAKES_SAME_RELIGION" Language="zh_Hans_CN">
+			<Text>（您信奉他的宗教）</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_KUDO_LEADER_ENIGMA_MISTAKES_REASON_LOW_FAITH" Language="zh_Hans_CN">
+			<Text>伊斯玛仪很高兴你的信仰没有超过他。</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MODIFIER_AGENDA_ENIGMA_MISTAKES_LOW_FAITH" Language="zh_Hans_CN">
+			<Text>（您的信仰值更低）</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_LEADER_ENIGMA_MISTAKES_REASON_NO_RELIGION" Language="zh_Hans_CN">
+			<Text>伊斯玛仪为你缺乏信仰感到不安。</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MODIFIER_AGENDA_ENIGMA_MISTAKES_NO_RELIGION" Language="zh_Hans_CN">
+			<Text>（您没有信奉他的宗教）</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_LEADER_ENIGMA_MISTAKES_REASON_NEIGHBORS" Language="zh_Hans_CN">
+			<Text>你无休止的征战激怒了伊斯玛仪。</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MODIFIER_AGENDA_ENIGMA_MISTAKES_NEIGHBORS" Language="zh_Hans_CN">
+			<Text>（您对邻国发动战争）</Text>
+		</Row>
+		<!--DOM-->
+		<Row Tag="LOC_LOADING_INFO_LEADER_ENIGMA_ISMAIL" Language="zh_Hans_CN">
+			<Text>伊斯玛仪，海达尔之子，穆斯林武士的领主，所有的伊朗部族都在期待着你。集合这些部族骑兵与托方奇，领导他们越过异教徒的土地。摧毁任何抵抗，仁慈之名将响彻世界。神为你涂抹了他的力量，不要让它白白浪费。</Text>
+		</Row>
+		<!--Traits-->
+		<Row Tag="LOC_TRAIT_LEADER_ENIGMA_ABSOLUTE_IMAMS_NAME" Language="zh_Hans_CN">
+			<Text>伊玛目的绝对真理</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_LEADER_ENIGMA_ABSOLUTE_IMAMS_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>完全掠夺圣地可获得+2时代积分。已经在城市就职的 [ICON_Governor] 总督每拥有一次升级，您的宗教压力就会得到加强。完成市政“归正会”后解锁特色单位穆斯林武士。</Text>
+		</Row>
+		<!--Civilopedia-->
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_ENIGMA_ISMAIL_TITLE" Language="zh_Hans_CN">
+			<Text>伊斯玛仪一世·萨法维</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_ENIGMA_ISMAIL_SUBTITLE" Language="zh_Hans_CN">
+			<Text>伊朗的锻造师</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_ENIGMA_ISMAIL_QUOTE" Language="zh_Hans_CN">
+			<Text>在我心中，装着先知，和那圣德的奥秘。我用剑征服了世界。我是卡塔伊，沙阿的子徒。</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_ENIGMA_ISMAIL_CHAPTER_HISTORY_PARA_1" Language="zh_Hans_CN">
+			<Text>【译者注：正在翻译，这也太长了草……】[NEWLINE][NEWLINE]Ismail originated from a Turkic Tribe in Azerbaijan called the Qizilbash, or more accurately written ‘Kızılbaşlar’ (“Red Heads”. In fact, Ismail was red headed himself. Enigma, JFD, and Leugi didn’t believe me either). Claiming descent from Hasan the Long himself, Ismail very quickly began to conquer nearby lands in order to avenge the death of his father, Haydar, who had been killed during a siege in Dagestan (currently a part of Russia). Afterwards, he decided that there was no reason to stop there since conquering was apparently so easy, and by July of 1501 he managed to conquer Tabriz. He them proclaimed himself the Shah of Azerbaijan and the Shahanshah of Iran, and proceeded to proclaim Twelver Shi’ism the official state religion.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_ENIGMA_ISMAIL_CHAPTER_HISTORY_PARA_2" Language="zh_Hans_CN">
+			<Text>At this point in time, Iran had been 90% Sunni, much like most of the rest of the Muslim world, and was therefore influenced strongly by the Ottoman Sultanate – which was at the time wrestling for control of the title of “Preeminent Muslim Power” with the Mamluks. Ismail’s mission to not only forcibly convert Iran to Twelver Shia (which involved ritually cursing the first three Caliphs, abolishing Sunni Sufi orders and seizing their property, and forcing Sunni ulama to either convert, die, or run away) but the complete and totally destruction of Sunni Islam. He very quickly conquered Iran as well as other outlying regions, destroying Sunni mosques, massacring Sunnis, defacing Sunni graves, and burning effigies of the first three Caliphs all the while.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_ENIGMA_ISMAIL_CHAPTER_HISTORY_PARA_3" Language="zh_Hans_CN">
+			<Text>It was during Ismail’s reign that an alliance between the Ulama (Islamic Clerical) class and the merchant community was formed, since the ownership of property was very insecure under Ismail’s reign. Because of a loophole where the lands owned by Ulama were safe from being confiscated as long as some percentage of the profits went to religious institutions, a number of merchants openly donated these lands to the clerics so they could split the profits. Soon, these clerics would gain full ownership of these lands, becoming a powerful new group of landowners.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_ENIGMA_ISMAIL_CHAPTER_HISTORY_PARA_4" Language="zh_Hans_CN">
+			<Text>When he was not conquering literally everything in sight, Ismail was also a passionate poet, writing under the name Khataii, meaning “He who Sinned.” His works contributed greatly to both Persian and Azerbaijani Islamic literature as well as the Azerbaijani language as a whole, and also assisted in the conversion of Iran to Shia Islam, but few manuscripts still survive. It is reported that most of his poetry was concerned with the topic of Mystical Love.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_ENIGMA_ISMAIL_CHAPTER_HISTORY_PARA_5" Language="zh_Hans_CN">
+			<Text>By 1510, he had conquered all of Iran, as well as a number of outlying territories and Eastern Anatolia in addition to 	forcing the Georgian kingdoms of  Kartli and Kakheti to vassalage. As he garnered his reputation of Invincible Demigod Conqueror, his repeated offenses against the Sunni faith continued to invoke the wrath of the then-prince Selim I of the Ottoman Empire, who was a Sunni Fanatic. To boot, Ismail caused a Shi’ite rebellion in the Ottoman Empire, which was put down. Immediately upon taking his throne, Selim ordered the execution of thousands of Qizilbash in an act of zealotry and vengeance, and began a war against Ismail. </Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_ENIGMA_ISMAIL_CHAPTER_HISTORY_PARA_6" Language="zh_Hans_CN">
+			<Text>Initially, the war with the Ottomans began with an exchange of belligerent letters, which culminated in the Shah accusing Selim of being a drug addict. After a Persian envoy was torn to pieces, and the Safavids being denounced as heretics that were to be embargoed posthaste, Selim began his march into Iranian territory.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_ENIGMA_ISMAIL_CHAPTER_HISTORY_PARA_7" Language="zh_Hans_CN">
+			<Text>Though Ismail initially considered attacking the Ottomans directly, he settled for a more scorched-earth policy until 	they finally engaged each other on 23 August 1514 at the Battle of Chaldiran. The Ottomans were equipped with gunpowder arms and janissaries in addition to a large number of artillery. Ismail relied on his tried-and-true Qizilbash. Though it initially looked like the Ottomans were going to be defeated, the Artillery was finally set up and the carts the artillery were wheeled in on were hastily used as cover for the janissary corps. The thundering of rifles and cannons spooked the Qizilbash horses so they would no longer obey the command of their masters. The Iranians attempted to attack the wings in order to avoid the artillery onslaught, but the Turkish guns proved highly maneuverable. The Iranian army was decimated, and Selim put to death all the forces that did not have the good sense to flee. Ismail – wounded – barely managed to escape, but not without losing his sword and armor on the field.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_ENIGMA_ISMAIL_CHAPTER_HISTORY_PARA_8" Language="zh_Hans_CN">
+			<Text>Following the disaster at the Battle of Chaldiran, Selim ransacked the Iranian capital of Tabriz, looting the entire sum of the Persian treasury (including everything that Ismail spent the previous thirteen years winning), Ismail’s favorite two wives, and his entire harem. Selim did not stay long in the Iranian capital for a variety of reasons, but the damage was done. When Ismail returned, he had not only utterly lost his reputation of invulnerability but he was a broken man. He descended into alcoholic misery, and withdrew from the affairs of war and state. Shah Ismail finally died in 1524, outliving Selim by four years, with his followers fractured and warring and his empire losing many territories to its surroundings, though it and the idea of a unified Iran would persist for many centuries after his death up to the present day.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_ENIGMA_ISMAIL_CHAPTER_CAPSULE_BODY" Language="zh_Hans_CN">
+			<Text>伊斯玛仪一世领导了一个十分激进的伊朗文明，他侧重于摧毁圣地、促进宗教传播，并最终实现宗教胜利或统治胜利。</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_ENIGMA_ISMAIL_CHAPTER_DETAILED_BODY" Language="zh_Hans_CN">
+			<Text>伊朗的实力来源于其信仰与治理，以及文化底蕴。他们强盛的关键在于利用总督和会议大堂的合理配置，为自己营造优势，同时训练托方奇保卫自己的领土。伊斯玛仪一世则更进一步，在最终以统治胜利作为基础的游戏进程里，总督的合理派遣只起到了很小一部分作用。穆斯林武士非常有利于掠夺敌方圣地并消灭敌军，而且高额的时代积分产出将极大帮助伊朗永远维持于黄金时代中。</Text>
+		</Row>
+		<!--Diplomacy-->
+		<!--FIRST MEET-->
+		<!--First AI line-->
+		<Row Tag="LOC_DIPLO_FIRST_MEET_LEADER_ENIGMA_ISMAIL_ANY" Language="zh_Hans_CN">
+			<Text>祝你平安，外邦王。你过你想与我作战，那就期望神会帮助你吧。</Text>
+		</Row>
+		<!--AI invitation to visit nearby City-->
+		<Row Tag="LOC_DIPLO_FIRST_MEET_VISIT_RECIPIENT_LEADER_ENIGMA_ISMAIL_ANY" Language="zh_Hans_CN">
+			<Text>我的艺术无与伦比，我的城市无与伦比。你一定要来看看。</Text>
+		</Row>
+		<!--AI accepts Human invitation-->
+		<Row Tag="LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_POSITIVE_LEADER_ENIGMA_ISMAIL_ANY" Language="zh_Hans_CN">
+			<Text>这次参观我会把剑留下。但不要抱什么希望，我可护卫可不会这么做。</Text>
+		</Row>
+		<!--AI invitation to exchange Capital Information-->
+		<Row Tag="LOC_DIPLO_FIRST_MEET_NO_MANS_INFO_EXCHANGE_LEADER_ENIGMA_ISMAIL_ANY" Language="zh_Hans_CN">
+			<Text>无论是最坏的敌人还是最好的盟友，交换信息都是必须的。</Text>
+		</Row>
+		<!--GREETINGS-->
+		<Row Tag="LOC_DIPLO_GREETING_LEADER_ENIGMA_ISMAIL_ANY" Language="zh_Hans_CN">
+			<Text>真神保佑你。</Text>
+		</Row>
+		<!--DELEGATION-->
+		<!--AI Accepts-->
+		<Row Tag="LOC_DIPLO_ACCEPT_DELEGATION_FROM_HUMAN_LEADER_ENIGMA_ISMAIL_ANY" Language="zh_Hans_CN">
+			<Text>如果他们对我表现了应有的尊重，就没人会伤害他们。</Text>
+		</Row>
+		<!--AI Rejects-->
+		<Row Tag="LOC_DIPLO_REJECT_DELEGATION_FROM_HUMAN_LEADER_ENIGMA_ISMAIL_ANY" Language="zh_Hans_CN">
+			<Text>异教徒离我们远点。</Text>
+		</Row>
+		<!--AI Requests -->
+		<Row Tag="LOC_DIPLO_DELEGATION_FROM_AI_LEADER_ENIGMA_ISMAIL_ANY" Language="zh_Hans_CN">
+			<Text>派遣到我们领土的使者将得到最好的安排。</Text>
+		</Row>
+		<!--OPEN BORDERS-->
+		<!--AI accepts from human-->
+		<Row Tag="LOC_DIPLO_ACCEPT_OPEN_BORDERS_FROM_HUMAN_LEADER_ENIGMA_ISMAIL_ANY" Language="zh_Hans_CN">
+			<Text>你我的人民都可以自由、和平地过境。</Text>
+		</Row>
+		<!--AI rejects from human-->
+		<Row Tag="LOC_DIPLO_REJECT_OPEN_BORDERS_FROM_HUMAN_LEADER_ENIGMA_ISMAIL_ANY" Language="zh_Hans_CN">
+			<Text>我们的边界仍需对你关闭。</Text>
+		</Row>
+		<!--AI requests from human-->
+		<Row Tag="LOC_DIPLO_OPEN_BORDERS_FROM_AI_LEADER_ENIGMA_ISMAIL_ANY" Language="zh_Hans_CN">
+			<Text>许多旅行者匍匐在我脚下，乞求开放边境。我答应了他们。</Text>
+		</Row>
+		<!--DECLARE FRIENDSHIP-->
+		<!--AI accepts from human-->
+		<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_HUMAN_LEADER_ENIGMA_ISMAIL_ANY" Language="zh_Hans_CN">
+			<Text>我很乐意请您入座。也许我们可以一起喝一杯。</Text>
+		</Row>
+		<!--AI Rejects from human -->
+		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_HUMAN_LEADER_ENIGMA_ISMAIL_ANY" Language="zh_Hans_CN">
+			<Text>我唾弃你这种人。</Text>
+		</Row>
+		<!--AI Requests friendship from human-->
+		<Row Tag="LOC_DIPLO_DECLARE_FRIEND_FROM_AI_LEADER_ENIGMA_ISMAIL_ANY" Language="zh_Hans_CN">
+			<Text>先知在他的那个时代有很多朋友。也许你能成为我的朋友？</Text>
+		</Row>
+		<!--Human accepts AI requests, AI responds-->
+		<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_ENIGMA_ISMAIL_ANY" Language="zh_Hans_CN">
+			<Text>太好了——人民将为光明而欢欣鼓舞。</Text>
+		</Row>
+		<!--Human rejects AI requests, AI responds-->
+		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_ENIGMA_ISMAIL_ANY" Language="zh_Hans_CN">
+			<Text>别人都会接受我的提议。我希望你重新考虑一下你的蠢行。</Text>
+		</Row>
+		<!--ALLIANCE-->
+		<!--AI Requests an alliance from human-->
+		<Row Tag="LOC_DIPLO_MAKE_ALLIANCE_FROM_AI_LEADER_ENIGMA_ISMAIL_ANY" Language="zh_Hans_CN">
+			<Text>我们应在神和人的注视下结盟。我们的军队会使世界颤抖！</Text>
+		</Row>
+		<!--KUDOS & WARNINGS-->
+		<!--AI Kudos-->
+		<Row Tag="LOC_DIPLO_KUDO_EXIT_LEADER_ENIGMA_ISMAIL_ANY" Language="zh_Hans_CN">
+			<Text>你看见了真神的永远强大、慈悲的光芒。没有多少人能像你我一样开明！</Text>
+		</Row>
+		<!--AI Warnings-->
+		<Row Tag="LOC_DIPLO_WARNING_EXIT_LEADER_ENIGMA_ISMAIL_ANY" Language="zh_Hans_CN">
+			<Text>我对你的异端邪说忍无可忍了。在我动手解决这个问题之前你也许应该做点什么。</Text>
+		</Row>
+		<!--AI warns player for border troops-->
+		<Row Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_LEADER_ENIGMA_ISMAIL_ANY" Language="zh_Hans_CN">
+			<Text>即使是亚兹德也没有这么懦弱。撤回你的军队，否则承受我的怒火。</Text>
+		</Row>
+		<!--TRADE-->
+		<!--AI Accepts Deal-->
+		<Row Tag="LOC_DIPLO_ACCEPT_MAKE_DEAL_FROM_AI_LEADER_ENIGMA_ISMAIL_ANY" Language="zh_Hans_CN">
+			<Text>上帝是伟大的。</Text>
+		</Row>
+		<!--AI Rejects Deal-->
+		<Row Tag="LOC_DIPLO_REJECT_MAKE_DEAL_FROM_AI_LEADER_ENIGMA_ISMAIL_ANY" Language="zh_Hans_CN">
+			<Text>我们交易的是侮辱还是货物？</Text>
+		</Row>
+		<!--DENOUNCE-->
+		<!--From Human-->
+		<Row Tag="LOC_DIPLO_DENOUNCE_FROM_HUMAN_LEADER_ENIGMA_ISMAIL_ANY" Language="zh_Hans_CN">
+			<Text>耍嘴皮子的是懦夫。</Text>
+		</Row>
+		<!--From AI-->
+		<Row Tag="LOC_DIPLO_DENOUNCE_FROM_AI_LEADER_ENIGMA_ISMAIL_ANY" Language="zh_Hans_CN">
+			<Text>你就像堕落的瘾君子一样胡说八道——你身上的味道也像个瘾君子。[NEWLINE]（谴责你）</Text>
+		</Row>
+		<!--Rationale-->
+		<Row Tag="LOC_DIPLO_DENOUNCE_REASON_FROM_AI_LEADER_ANY_REASON_ENIGMA_MISTAKES_LEADS_INCOME" Language="zh_Hans_CN">
+			<Text>（注意：您未处于战争）</Text>
+		</Row>
+		<!--DECLARE WAR-->
+		<!--Human Declares War-->
+		<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_HUMAN_LEADER_ENIGMA_ISMAIL_ANY" Language="zh_Hans_CN">
+			<Text>你看不到我杀死的堆积如山的尸体吗？</Text>
+		</Row>
+		<!--AI Declares War-->
+		<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_ENIGMA_ISMAIL_ANY" Language="zh_Hans_CN">
+			<Text>你挡住我的路了！准备见上帝吧！</Text>
+		</Row>
+		<!--MAKE PEACE-->
+		<!--AI accepts from human-->
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_AI_ACCEPT_DEAL_LEADER_ENIGMA_ISMAIL_ANY" Language="zh_Hans_CN">
+			<Text>我一向都是……谦卑的。</Text>
+		</Row>
+		<!--AI refuses human-->
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_AI_REFUSE_DEAL_LEADER_ENIGMA_ISMAIL_ANY" Language="zh_Hans_CN">
+			<Text>等你有真心的提议的时候再来吧。</Text>
+		</Row>
+		<!--AI requests from human-->
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_FROM_AI_LEADER_ENIGMA_ISMAIL_ANY" Language="zh_Hans_CN">
+			<Text>结束战斗吧。我受够了。</Text>
+		</Row>
+		<!--DEFEAT-->
+		<!--AI is Defeated-->
+		<Row Tag="LOC_DIPLO_DEFEAT_FROM_AI_LEADER_ENIGMA_ISMAIL_ANY" Language="zh_Hans_CN">
+			<Text>这不可能！这不可能！我是伊朗之王，我不能被打败！</Text>
+		</Row>
+		<!--QIZILBASH-->
+		<Row Tag="LOC_UNIT_ENIGMA_QIZILBASH_NAME" Language="zh_Hans_CN">
+			<Text>穆斯林武士</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_ENIGMA_QIZILBASH_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>伊斯玛仪一世作为领袖时的文艺复兴时期特色轻骑兵单位，由市政“归正会”解锁。可以进行一次“清除异教”，且每次 [ICON_Promotion] 强化可获得额外的“清除异教”次数。位于其他文明圣地的两格范围内时，在伤害点数高于敌方的状况下攻击敌方，会将敌方单位推至后方的单元格。</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_ENIGMA_QIZILBASH_CHAPTER_HISTORY_PARA_1" Language="zh_Hans_CN">
+			<Text>【译者注：正在翻译，这也太长了草……】[NEWLINE][NEWLINE]The Qizilbash, or more accurately written ‘Kızılbaşlar’ (literally meaning “Redheads,” as apparently even the middle east has sexy soulless gingers), were a group of Turkmen tribes that lived in Iranian Azerbaijan and Dagestan, as well as the Caucuses and Eastern Anatolia in general. Much like their “fellow” Turkic tribes, they would often have tribal rivalries and feuds, and were expert horsemen. They subscribed to the Twelver branch of Shi’a Islam, which believed in Twelve divinely-ordained leaders… and that the first three caliphs stole the Caliphal office from Ali, who ended up being the fourth caliph. As a result, they advocated the destruction of Sunni Mosques, defiling of Sunni graves, and the burning of effigies of the first three caliphs. Though Twelver Shi’a Islam has become the most common type of Shi’a (for reasons very bloodily shown below), it is important to note that it has since become much less violent.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_ENIGMA_QIZILBASH_CHAPTER_HISTORY_PARA_2" Language="zh_Hans_CN">
+			<Text>Shah Ismail was born into a Qizilbash tribe as the son of Sheikh Haydar, a Grandmaster of the Safaviyya Sufi order of Twelver Shia (guess where his empire got its name). It was during a vengeance war that the Qizilbash became very loyal followers of the godlike Ismail, who had made a name for himself for being an invincible warlord. Though the Qizilbash were a coalition of turkic tribes, they set aside their tribal rivalries during Ismail’s reign, regarding him as a god, and therefore were classified rather politely as “extremists” by more orthodox Iranians.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_ENIGMA_QIZILBASH_CHAPTER_HISTORY_PARA_3" Language="zh_Hans_CN">
+			<Text>Ismail brought the Qizilbash on the first decade of his campaigns, easily defeating opponents that he was outnumbered against, carrying him to defeating the Ak Koyunlu confederation that had killed his father. He later utterly crushed an Uzbek army, and continued to expand his realm with the help of these horsemen. As he succeeded, so too did the Qizilbash. After every victory, a Qizilbash general would be put in charge of the newly acquired provinces, and a Qizilbash was made the grand vizier. However, their success made people wary, and even Shah Ismail began to curb their influence over the throne. Now regarding the redheads as powerhungry and untrustworthy, Ismail replaced the Qizilbash grand vizier with an ethnic Iranian one.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_ENIGMA_QIZILBASH_CHAPTER_HISTORY_PARA_4" Language="zh_Hans_CN">
+			<Text>As Iran had a millennia-long and well-respected cavalry tradition, the Qizilbash was seen as the ultimate warrior, carrying the day at every battle under their supreme Shah. They were fanatically loyal to their Shah, who was hellbent on destroying all of Sunni Islam. With their aid, he organized the Shahkulu Rebellion within the Ottoman Empire, nearly overthrowing it in favor of a pro-Safavid local government. Unfortunately for Ismail, this rebellion ultimately failed due to the rise of the even more fanatical Yavuz Sultan Selim. This rebellion was used as pretext for a massacre of thousands of Qizilbash, and later as Casus Belli for war against Iran.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_ENIGMA_QIZILBASH_CHAPTER_HISTORY_PARA_5" Language="zh_Hans_CN">
+			<Text>After a brief exchange of poetry and opium (don’t ask), and a very-not-brief scorched earth campaign by Ismail, the two armies met on the fields of Chaldiran, in the Northwest of Iran. The Safavids brought their cavalry forces to the battle, while the Ottomans deployed their heavy artillery and thousands of Janissaries. While the Ottomans were outnumbered, this time they were on the winning side, as the Qizilbash were no matched for the superior discipline and arms of the Janissaries.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_ENIGMA_QIZILBASH_CHAPTER_HISTORY_PARA_6" Language="zh_Hans_CN">
+			<Text>Following the disastrous outcome of the battle, the Ottomans plundered the capital of Tabriz, as Ismail fled, wounded and having lost some swag (it, as well as many of his favorite wives, much of his treasury, and his entire harem was taken back to Istanbul. The swag remains there to this day). As Ismail descended down the dark road of miserable alcoholism, his invincible aura was shattered. The Qizilbash descended back down into tribal rivalries. Ismail’s successor, Tahmasp, saw the Qizilbash for what they were – an entrenched and power-hungry aristocracy, and quickly moved to replace them with Persian Bureaucracy. This effectively ended all Qizilbash influence on Iranian politics, though many still live in Iran and Afghanistan.</Text>
+		</Row>
+
+		<!--LEADER-->
+		<Row Tag="LOC_LEADER_LIME_NADER_NAME" Language="zh_Hans_CN">
+			<Text>纳迪尔·沙阿</Text>
+		</Row>
+		<!--Agenda-->
+		<Row Tag="LOC_AGENDA_LIME_SWORD_NAME" Language="zh_Hans_CN">
+			<Text>波斯之剑</Text>
+		</Row>
+		<Row Tag="LOC_AGENDA_LIME_SWORD_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>讨厌相同大陆或拥有巨大财富的人。喜欢征服者。</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_KUDO_LEADER_LIME_SWORD_REASON_SAME_CONTINENT" Language="zh_Hans_CN">
+			<Text>纳迪尔因你的邻近而愤怒。</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MODIFIER_AGENDA_LIME_SWORD_SAME_CONTINENT" Language="zh_Hans_CN">
+			<Text>（您位于他的大陆）</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_KUDO_LEADER_LIME_SWORD_REASON_HIGH_GOLD" Language="zh_Hans_CN">
+			<Text>纳迪尔因你的贪婪而愤怒。</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MODIFIER_AGENDA_LIME_SWORD_HIGH_GOLD" Language="zh_Hans_CN">
+			<Text>（您拥有高额的金币收入）</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_LEADER_LIME_SWORD_REASON_WARMONGERER" Language="zh_Hans_CN">
+			<Text>纳迪尔对你令人钦佩的征服感到高兴。</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MODIFIER_AGENDA_LIME_SWORD_WARMONGERER" Language="zh_Hans_CN">
+			<Text>（您经常发动战争）</Text>
+		</Row>
+		<!--DOM-->
+		<Row Tag="LOC_LOADING_INFO_LEADER_LIME_NADER" Language="zh_Hans_CN">
+			<Text>纳迪尔·沙阿，过去如何无关紧要，重要的是未来。摆在你面前的是：军队，征服，和帝国。派遣你的部下，你的贾扎尔耶奇，你的大臣去实现你的梦想吧。掠夺世界，这将让你登上顶点，并在传奇的万神殿中占有一席之地。纳迪尔·沙阿，过去的是序幕，而未来属于王者！</Text>
+		</Row>
+		<!--Traits-->
+		<Row Tag="LOC_TRAIT_LEADER_LIME_PARADISE_WAR_NAME" Language="zh_Hans_CN">
+			<Text>天堂在战争之中</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_LEADER_LIME_PARADISE_WAR_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>[ICON_GreatGeneral] 大将军隐退可治疗伊朗所有的陆地单位。每占领一座城市，其中的每个专业化区域可为伊朗提供 [ICON_Gold] 金币奖励。拥有特色单位贾扎尔耶奇。</Text>
+		</Row>
+		<!--Civilopedia-->
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_LIME_NADER_TITLE" Language="zh_Hans_CN">
+			<Text>纳迪尔·沙阿</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_LIME_NADER_SUBTITLE" Language="zh_Hans_CN">
+			<Text>亚历山大大帝再世</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_LIME_NADER_QUOTE" Language="zh_Hans_CN">
+			<Text>大象、马匹以及贵重之物，无论什么都行。征服者所盯上的，从来都不胜枚举，而这些全都成为了他的战利品。简言之，348年间所积累的所有财富，顷刻之间，成为他物。</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_LIME_NADER_CHAPTER_HISTORY_PARA_1" Language="zh_Hans_CN">
+			<Text>【译者注：正在翻译，这也太长了草……】[NEWLINE][NEWLINE]Nader Shah began life as a member of the Afshar tribe in Khorasan. Nader was the only son in his family, his father being a herdsman who may have also made a coat. Unfortunately for him, his father died when he was thirteen, and the man who would become the Napoleon of Persia first became a man who survived by gathering firewood and selling it. At this point, his history wanders off (between the years 1707ish to 1724), and nobody knows what he was doing when Tahmasp II was chased out of Isfahan.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_LIME_NADER_CHAPTER_HISTORY_PARA_2" Language="zh_Hans_CN">
+			<Text>Somehow, Nader managed to become a figure of national importance, to the point that a very unseated Tahmasp and his Chief of the Army contacted him to try and convince him to aid their cause. Nader then discovered evidence that the said Chief of the Army was a traitor, and Tahmasp executed the man and appointed Nader as the new Chief of the Army. Nader then proceeded to retake Mashhad, destroy an Afghan army (and in the process of doing so, recruited another different Abdali Afghan Army), retake Isfahan, and send the last Hotakis running to their last seat of power of Kandahar. Upon retaking the city, he plundered it to pay his army.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_LIME_NADER_CHAPTER_HISTORY_PARA_3" Language="zh_Hans_CN">
+			<Text>Following this, Nader launched an ambitious expedition into Ottoman territories, and regained most of that lost during the Safavid succession wars. However, the Abdali Afghans chose this time to rebel, forcing Nader to suspend his campaign. While Nader was off saving his own brother’s ass, Tahmasp launched a disastrous campaign to recapture Yerevan (possibly because he grew envious of Nader’s successes). The result was that the recaptured territory was rerecaptured by the Ottomans. Nader was not happy with this, and in response he got Tahmasp drunk, embarrassed him in front of the Safavid court, and then forced Tahmasp to abdicate in favor of his son Abbas III in 1732.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_LIME_NADER_CHAPTER_HISTORY_PARA_4" Language="zh_Hans_CN">
+			<Text>Nader tried to rererecapture the lost territories by exchanging them for Baghdad, and then went to go actually capture Baghdad. This plan went poorly, as he failed to take Baghdad and got his army routed in the process, triggering revolts throughout Iran. He scrambled to retake the initiative, and managed to kill the man who defeated him in another much more impressive battle. After brokering an alliance with the Russians against the Ottomans, and winning several more crucial battles against the aforementioned foe, Nader finally succeeded in getting the Caucasus back under Iranian rule, and in putting down all the revolts.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_LIME_NADER_CHAPTER_HISTORY_PARA_5" Language="zh_Hans_CN">
+			<Text>Not long after this, Nader decided that it was time that he became the Shah, and had summons sent to large amounts of clergy, nobility, and militarymen of the nation to meet on some plains. There, he held a Kurultai in imitation of his heroes – Genghis Khan and Timur – and he was crowned Shah on 8 March 1736 (a date chosen to be especially fortunate, also in imitation of the two murderous conquerors that Nader idolized). Upon his ascension, he curbed Shi’ism’s more offensive practices in order to reconcile with the Ottoman empire (though in hindsight, reconciliation would probably have been more effective if he stopped starting wars with the Ottomans). Supposedly, he was indifferent to religious affairs, but he suggested a form of Shi’ism called Ja’farism, and had the Quran translated into a multitude of languages.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_LIME_NADER_CHAPTER_HISTORY_PARA_6" Language="zh_Hans_CN">
+			<Text>By 1738, Nader Shah finally conquered Kandahar, the last Hotaki stronghold, and noticed that the Mughal Empire was now collapsing… and yet quite rich. His own empire had been impoverished by his countless campaigns, so Nader invaded the Mughal empire on the pretext of hunting Afghan rebels. In a brilliant campaign, he utterly decimated the Indian forces (in some cases being outnumbered six to one). </Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_LIME_NADER_CHAPTER_HISTORY_PARA_7" Language="zh_Hans_CN">
+			<Text>Finally, at the Battle of Karnal he crushed the last Mughal army in less than three hours. He entered the city of Delhi posthaste, but a rumor had been started that Nader had been assassinated. Indians attacked and killed 900 Iranians. The rumor Nader’s death was greatly exaggerated, and a very upset Shah of Iran ordered Delhi to be sacked. 20,000 to 30,000 Indians were killed, and 10,000 were taken as slaves. The entire royal treasury was confiscated (including the Koh-i-Noor and Darya-ye-Noor diamonds, and the Peacock Throne itself). The booty was loaded on 700 elephants, 4000 camels, and 12000 horses. In short – he got a lot of money that would be useful in fighting even more wars with the Ottoman Empire.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_LIME_NADER_CHAPTER_HISTORY_PARA_8" Language="zh_Hans_CN">
+			<Text>Upon the return home, Nader decided to conquer all the Uzbek Khanates, annexing Transoxia, Khivia, Bukhara, and Kokhand. His reputation now very well known, and having extended Iran beyond even the farthest extent of the Safavids, Nader turned his attention to Daghestan. However, the Indian campaign was his height. After it, he began to sink slowly into despoticism and cruelty, building gigantic mountains of skulls on his following campaigns in emulation of Timur and Genghis. His paranoia raged and he blinded his own son as a result of his suspicion that he was behind a recent assassination plot. He began to execute nobles, and increasingly large numbers of enemies as his economy flailed. A flailing economy is no reason not to build a navy, and with it he conquered Oman.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_LIME_NADER_CHAPTER_HISTORY_PARA_9" Language="zh_Hans_CN">
+			<Text>Finally, Nader started one last war in an effort to take Baghdad – the first step in his dream of an empire from the Bosporus to the Indus. His military prowess had been spent though, and as new revolts broke out throughout the empire because of the war taxes, he was forced to make peace with the Ottomans. It was shortly before the Ottoman delegation arrived that he was assassinated. The plot included 15 conspirators who surprised the Emperor in the night, though the Shah managed to kill two of the assassins (though his final words were begging for his life). Nader was beheaded, and his empire descended into complete disarray, a state in which it would remain until the fall of the last Zand pretender and the ascension of the Qajar dynasty.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_LIME_NADER_CHAPTER_CAPSULE_BODY" Language="zh_Hans_CN">
+			<Text>纳迪尔作为领袖的游戏方式同样十分激进，但他完全侧重于走统治路线。获得大将军能使这台（由托方奇和贾扎尔耶奇组成的）战争机器彻底恢复活力；并且，攻占城市也能够给予伊朗文明一定的奖励。</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_LIME_NADER_CHAPTER_DETAILED_BODY" Language="zh_Hans_CN">
+			<Text>伊朗的实力来源于其信仰与治理，以及文化底蕴。他们强盛的关键在于利用总督和会议大堂的合理配置，为自己营造优势，同时训练托方奇保卫自己的领土。纳迪尔可以将这些托方奇晋升为贾扎尔耶奇，而这有助于消灭强力的敌军部队。获得大将军以及攻占城市能帮助维持这台不可摧毁的战争机器，再加上伊朗的一些其他特色元素，这些都有利于维护强大的伊朗帝国。</Text>
+		</Row>
+		<!--Diplomacy-->
+		<!--FIRST MEET-->
+		<!--First AI line-->
+		<Row Tag="LOC_DIPLO_FIRST_MEET_LEADER_LIME_NADER_ANY" Language="zh_Hans_CN">
+			<Text>我是纳迪，全伊朗之王。我不容忍愚人，也不容忍敌人。我能确定你不属于这二者吗？</Text>
+		</Row>
+		<!--AI invitation to visit nearby City-->
+		<Row Tag="LOC_DIPLO_FIRST_MEET_VISIT_RECIPIENT_LEADER_LIME_NADER_ANY" Language="zh_Hans_CN">
+			<Text>我会告诉你我们附近的城市在哪，以便你在地图上标记它。来那儿与我会见，我会以皇室的礼仪接待你。</Text>
+		</Row>
+		<!--AI accepts Human invitation-->
+		<Row Tag="LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_POSITIVE_LEADER_LIME_NADER_ANY" Language="zh_Hans_CN">
+			<Text>我会来，但我不会放松警惕。</Text>
+		</Row>
+		<!--AI invitation to exchange Capital Information-->
+		<Row Tag="LOC_DIPLO_FIRST_MEET_NO_MANS_INFO_EXCHANGE_LEADER_LIME_NADER_ANY" Language="zh_Hans_CN">
+			<Text>我们两个伟大的国家应该互开使馆。</Text>
+		</Row>
+		<!--GREETINGS-->
+		<Row Tag="LOC_DIPLO_GREETING_LEADER_LIME_NADER_ANY" Language="zh_Hans_CN">
+			<Text>欢迎。</Text>
+		</Row>
+		<!--DELEGATION-->
+		<!--AI Accepts-->
+		<Row Tag="LOC_DIPLO_ACCEPT_DELEGATION_FROM_HUMAN_LEADER_LIME_NADER_ANY" Language="zh_Hans_CN">
+			<Text>你将亲眼看到我的帝国的伟大！至少你的大使会。</Text>
+		</Row>
+		<!--AI Rejects-->
+		<Row Tag="LOC_DIPLO_REJECT_DELEGATION_FROM_HUMAN_LEADER_LIME_NADER_ANY" Language="zh_Hans_CN">
+			<Text>离我远点。</Text>
+		</Row>
+		<!--AI Requests -->
+		<Row Tag="LOC_DIPLO_DELEGATION_FROM_AI_LEADER_LIME_NADER_ANY" Language="zh_Hans_CN">
+			<Text>我派遣了使者，带着伊朗诗歌和土耳其军刀。接受，否则承担后果。</Text>
+		</Row>
+		<!--OPEN BORDERS-->
+		<!--AI accepts from human-->
+		<Row Tag="LOC_DIPLO_ACCEPT_OPEN_BORDERS_FROM_HUMAN_LEADER_LIME_NADER_ANY" Language="zh_Hans_CN">
+			<Text>我的帝国横亘天际。理应允许别人通过。</Text>
+		</Row>
+		<!--AI rejects from human-->
+		<Row Tag="LOC_DIPLO_REJECT_OPEN_BORDERS_FROM_HUMAN_LEADER_LIME_NADER_ANY" Language="zh_Hans_CN">
+			<Text>你在耍什么阴谋？滚！</Text>
+		</Row>
+		<!--AI requests from human-->
+		<Row Tag="LOC_DIPLO_OPEN_BORDERS_FROM_AI_LEADER_LIME_NADER_ANY" Language="zh_Hans_CN">
+			<Text>野蛮人在你的边界上横行霸道。为了双方的利益，开放边界，我能对付他们。</Text>
+		</Row>
+		<!--DECLARE FRIENDSHIP-->
+		<!--AI accepts from human-->
+		<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_HUMAN_LEADER_LIME_NADER_ANY" Language="zh_Hans_CN">
+			<Text>也许……什么都不要尝试。</Text>
+		</Row>
+		<!--AI Rejects from human -->
+		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_HUMAN_LEADER_LIME_NADER_ANY" Language="zh_Hans_CN">
+			<Text>我没有朋友——只有暂时的合作者。</Text>
+		</Row>
+		<!--AI Requests friendship from human-->
+		<Row Tag="LOC_DIPLO_DECLARE_FRIEND_FROM_AI_LEADER_LIME_NADER_ANY" Language="zh_Hans_CN">
+			<Text>我来寻找伙伴和朋友。</Text>
+		</Row>
+		<!--Human accepts AI requests, AI responds-->
+		<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_LIME_NADER_ANY" Language="zh_Hans_CN">
+			<Text>这一刻将永远被铭记。</Text>
+		</Row>
+		<!--Human rejects AI requests, AI responds-->
+		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_LIME_NADER_ANY" Language="zh_Hans_CN">
+			<Text>如果你再这么对我，就算集结全世界的军队也救不了你。</Text>
+		</Row>
+		<!--ALLIANCE-->
+		<!--AI Requests an alliance from human-->
+		<Row Tag="LOC_DIPLO_MAKE_ALLIANCE_FROM_AI_LEADER_LIME_NADER_ANY" Language="zh_Hans_CN">
+			<Text>伙伴关系为我们的敌人带去死亡和绝望！</Text>
+		</Row>
+		<!--KUDOS & WARNINGS-->
+		<!--AI Kudos-->
+		<Row Tag="LOC_DIPLO_KUDO_EXIT_LEADER_LIME_NADER_ANY" Language="zh_Hans_CN">
+			<Text>征服者应该让别人意识到他的存在。你做得很好。</Text>
+		</Row>
+		<!--AI Warnings-->
+		<Row Tag="LOC_DIPLO_WARNING_EXIT_LEADER_LIME_NADER_ANY" Language="zh_Hans_CN">
+			<Text>你离得太近了，你的金库收获满满。在我手上它们方能物尽其用。</Text>
+		</Row>
+		<!--AI warns player for border troops-->
+		<Row Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_LEADER_LIME_NADER_ANY" Language="zh_Hans_CN">
+			<Text>我能看到你阴影中的阴谋诡计。何不光明正大一点？</Text>
+		</Row>
+		<!--TRADE-->
+		<!--AI Accepts Deal-->
+		<Row Tag="LOC_DIPLO_ACCEPT_MAKE_DEAL_FROM_AI_LEADER_LIME_NADER_ANY" Language="zh_Hans_CN">
+			<Text>可以接受。</Text>
+		</Row>
+		<!--AI Rejects Deal-->
+		<Row Tag="LOC_DIPLO_REJECT_MAKE_DEAL_FROM_AI_LEADER_LIME_NADER_ANY" Language="zh_Hans_CN">
+			<Text>你应感到幸运，因为今天的我很仁慈。</Text>
+		</Row>
+		<!--DENOUNCE-->
+		<!--From Human-->
+		<Row Tag="LOC_DIPLO_DENOUNCE_FROM_HUMAN_LEADER_LIME_NADER_ANY" Language="zh_Hans_CN">
+			<Text>你竟敢挑衅我？！</Text>
+		</Row>
+		<!--From AI-->
+		<Row Tag="LOC_DIPLO_DENOUNCE_FROM_AI_LEADER_LIME_NADER_ANY" Language="zh_Hans_CN">
+			<Text>你不过是个微不足道、才不配位的君主。有人会把你的耻辱从世界舞台上抹去。[NEWLINE]（谴责你）</Text>
+		</Row>
+		<!--Rationale-->
+		<Row Tag="LOC_DIPLO_DENOUNCE_REASON_FROM_AI_LEADER_ANY_REASON_LIME_SWORD_LEADS_INCOME" Language="zh_Hans_CN">
+			<Text>（注意：您未处于战争）</Text>
+		</Row>
+		<!--DECLARE WAR-->
+		<!--Human Declares War-->
+		<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_HUMAN_LEADER_LIME_NADER_ANY" Language="zh_Hans_CN">
+			<Text>为你能想象到的最痛苦的死亡做好准备。</Text>
+		</Row>
+		<!--AI Declares War-->
+		<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_LIME_NADER_ANY" Language="zh_Hans_CN">
+			<Text>我受够了你！你的王国属于我，财富、性命，都属于我！</Text>
+		</Row>
+		<!--MAKE PEACE-->
+		<!--AI accepts from human-->
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_AI_ACCEPT_DEAL_LEADER_LIME_NADER_ANY" Language="zh_Hans_CN">
+			<Text>不要以为结束了。只是稍微暂停。</Text>
+		</Row>
+		<!--AI refuses human-->
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_AI_REFUSE_DEAL_LEADER_LIME_NADER_ANY" Language="zh_Hans_CN">
+			<Text>要么接受我的条件，要么我拿走你的一切。</Text>
+		</Row>
+		<!--AI requests from human-->
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_FROM_AI_LEADER_LIME_NADER_ANY" Language="zh_Hans_CN">
+			<Text>战争已经打响，债务需要偿还。现在是签订条约的时候了。</Text>
+		</Row>
+		<!--DEFEAT-->
+		<!--AI is Defeated-->
+		<Row Tag="LOC_DIPLO_DEFEAT_FROM_AI_LEADER_LIME_NADER_ANY" Language="zh_Hans_CN">
+			<Text>不！饶了我！求你了，发发慈悲。我的一切都属于你！</Text>
+		</Row>
+		<!--JAZAYERCHI-->
+		<Row Tag="LOC_UNIT_LIME_JAZAYERCHI_NAME" Language="zh_Hans_CN">
+			<Text>贾扎尔耶奇</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_LIME_JAZAYERCHI_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>纳迪尔·沙阿作为领袖时的工业时代特色近战单位，由科技“膛线”解锁。无法训练，只能由托方奇晋升获得。相较于托方奇，+7 [ICON_Strength] 战斗力，并能削弱相邻敌方单位。初始即可获得一次 [ICON_Promotion] 强化。</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_LIME_JAZAYERCHI_CHAPTER_HISTORY_PARA_1" Language="zh_Hans_CN">
+			<Text>【译者注：正在翻译……】[NEWLINE][NEWLINE]A Jazayerchi (literally meaning “Man armed with a Jazayer), was an elite heavy infantryman used by Nader Shah during his many campaigns. They were selected from the best of the Tofangchi, and granted a heavier caliber rifle known as the Jazayer (whose name is derived from the sound a wasp or a locust makes, apparently). However, the Jazayer was loaded using a horn rather than a paper cartridge, so it had limitations on loading speed. Thanks to its higher caliber though, it had the numerous advantages of range, force of impact, and accuracy – improving greatly upon the ineptitude of the standard tofangchi. Jazayerchi corps would train for several hours every day, with emphasis given to constant drilling and the finest equipment. While they were an infantry corps, they usually campaigned on mounts and would rarely fight as mounted troops.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_LIME_JAZAYERCHI_CHAPTER_HISTORY_PARA_2" Language="zh_Hans_CN">
+			<Text>During his rule, Nader’s Jazayerchi took on the most crucial objectives and tasks, oftentimes waiting for the enemy forces to draw close and then unleash a brutal volley of gunshot followed by evisceration by shamshir. This served to shatter enemy formation and order before cavalry went in for the kill. This strategy proved brutally effective, and Nader would usually command the Jazayerchi personally. During their incredible showing at the Battle of Karnal, it was noted that “an arrow cannot answer a Jazayer.” In addition to Karnal, the Jazayer proved their worth at the battles of Mihmandust, Murche-Khort, Kirkuk, Yeghevard, and Kars. In total, Nader had 12,000 jazayerchi at his disposal, in addition to 40,000 Tofangchi.</Text>
+		</Row>
+	</LocalizedText>
+</GameData>

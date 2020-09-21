@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- CVS_Kawad_I_TextCN_XP1 -->
+<!-- Author: Clear8Sky -->
+<!-- DateCreated: 5/28/2020 8:34:42 PM -->
+<GameData>
+	<LocalizedText>
+		<Replace Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_CVS_SHAPUR_I_CHAPTER_DETAILED_BODY" Language="zh_Hans_CN">
+			<Text>沙普尔一世“在皇帝的尽头”能力的阈值为5个单元格（即距敌方 [ICON_Governor] 总督所在城市3格内的单位+1 [ICON_Movement] 移动力，每次消灭敌方单位+2 [ICON_GreatGeneral] 大将军点数）；而当其与敌方 [ICON_Governor] 总督所在城市相邻时，该单位则+2 [ICON_Movement] 移动力，每次消灭敌方单位+4 [ICON_GreatGeneral] 大将军点数。</Text>
+		</Replace>
+	</LocalizedText>
+</GameData>

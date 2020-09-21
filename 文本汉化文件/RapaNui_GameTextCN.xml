@@ -1,0 +1,489 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!-- RapaNui_GameTextCN -->
+<!-- Author: 春 -->
+<!-- DateCreated: 5/29/2020 2:33:06 PM -->
+<GameData>
+	<LocalizedText>
+		<!--CIVILIZATION-->
+		<Row Tag="LOC_CIVILIZATION_GEDEMO_RAPANUI_NAME" Language="zh_Hans_CN">
+			<Text>拉帕努伊</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_GEDEMO_RAPANUI_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>拉帕努伊帝国</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_GEDEMO_RAPANUI_ADJECTIVE" Language="zh_Hans_CN">
+			<Text>拉帕努伊的</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_GEDEMO_RAPANUI_DESCRIPTION_GEDEMO_CIVILIZATION" Language="zh_Hans_CN">
+			<Text>拉帕努伊</Text>
+		</Row>
+		<!--Pedia-->
+		<Row Tag="LOC_CIVINFO_GEDEMO_RAPANUI_LOCATION" Language="zh_Hans_CN">
+			<Text>太平洋</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_GEDEMO_RAPANUI_POPULATION" Language="zh_Hans_CN">
+			<Text>约5682</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_GEDEMO_RAPANUI_SIZE" Language="zh_Hans_CN">
+			<Text>约63.2平方英里（163.6平方公里）</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_GEDEMO_RAPANUI_CAPITAL" Language="zh_Hans_CN">
+			<Text>汉格罗阿</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_GEDEMO_RAPANUI_CHAPTER_HISTORY_PARA_1" Language="zh_Hans_CN">
+			<Text>拉帕努伊岛，又被称为复活节岛，几个世纪以来一直是地球上居住人口最多的地方。拉帕努伊人在岛上建立了一个复杂而充满活力的社会，适应了许多动荡变故，从拉帕努伊慢慢地荒凉到贪婪的欧洲强盗。尽管如此，在巨大的困难面前，拉帕努伊人用艺术和宗教来创造、表达和促进他们的文化特色。</Text>
+		</Row>
+
+		<!--Cities-->
+		<Row Tag="LOC_CITY_NAME_GEDEMO_RAPANUI_1" Language="zh_Hans_CN">
+			<Text>汉格罗阿</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_GEDEMO_RAPANUI_2" Language="zh_Hans_CN">
+			<Text>奥隆戈</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_GEDEMO_RAPANUI_3" Language="zh_Hans_CN">
+			<Text>安加皮科</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_GEDEMO_RAPANUI_4" Language="zh_Hans_CN">
+			<Text>马塔维里</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_GEDEMO_RAPANUI_5" Language="zh_Hans_CN">
+			<Text>阿纳克纳</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_GEDEMO_RAPANUI_6" Language="zh_Hans_CN">
+			<Text>特阿塔-海罗</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_GEDEMO_RAPANUI_7" Language="zh_Hans_CN">
+			<Text>塔海</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_GEDEMO_RAPANUI_8" Language="zh_Hans_CN">
+			<Text>特佩</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_GEDEMO_RAPANUI_9" Language="zh_Hans_CN">
+			<Text>麦卡提-特-莫阿</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_GEDEMO_RAPANUI_10" Language="zh_Hans_CN">
+			<Text>瓦依马塔</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_GEDEMO_RAPANUI_11" Language="zh_Hans_CN">
+			<Text>阿-探戈</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_GEDEMO_RAPANUI_12" Language="zh_Hans_CN">
+			<Text>帕帕-泰克纳</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_GEDEMO_RAPANUI_13" Language="zh_Hans_CN">
+			<Text>瓦伊-塔拉-凯-瓦</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_GEDEMO_RAPANUI_14" Language="zh_Hans_CN">
+			<Text>瑙瑙</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_GEDEMO_RAPANUI_15" Language="zh_Hans_CN">
+			<Text>特-皮托-库拉</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_GEDEMO_RAPANUI_16" Language="zh_Hans_CN">
+			<Text>赫基</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_GEDEMO_RAPANUI_17" Language="zh_Hans_CN">
+			<Text>陶-阿-乌尔</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_GEDEMO_RAPANUI_18" Language="zh_Hans_CN">
+			<Text>塔哈罗阿</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_GEDEMO_RAPANUI_19" Language="zh_Hans_CN">
+			<Text>汤加里基</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_GEDEMO_RAPANUI_20" Language="zh_Hans_CN">
+			<Text>万斯-马基希</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_GEDEMO_RAPANUI_21" Language="zh_Hans_CN">
+			<Text>图图-陶希</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_GEDEMO_RAPANUI_22" Language="zh_Hans_CN">
+			<Text>汉格德特加</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_GEDEMO_RAPANUI_23" Language="zh_Hans_CN">
+			<Text>伦加瓦伊</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_GEDEMO_RAPANUI_24" Language="zh_Hans_CN">
+			<Text>奥罗伊</Text>
+		</Row>
+
+		<!--Citizens-->
+		<Row Tag="LOC_CITIZEN_GEDEMO_RAPANUI_MALE_1" Language="zh_Hans_CN">
+			<Text>图图·马赫可</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_GEDEMO_RAPANUI_MALE_2" Language="zh_Hans_CN">
+			<Text>米鲁</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_GEDEMO_RAPANUI_MALE_3" Language="zh_Hans_CN">
+			<Text>马拉马</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_GEDEMO_RAPANUI_MALE_4" Language="zh_Hans_CN">
+			<Text>罗</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_GEDEMO_RAPANUI_MALE_5" Language="zh_Hans_CN">
+			<Text>科罗·奥隆戈</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_GEDEMO_RAPANUI_MALE_6" Language="zh_Hans_CN">
+			<Text>奥图·伊蒂</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_GEDEMO_RAPANUI_MALE_7" Language="zh_Hans_CN">
+			<Text>图帕霍图</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_GEDEMO_RAPANUI_MALE_8" Language="zh_Hans_CN">
+			<Text>恩格尔</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_GEDEMO_RAPANUI_MALE_9" Language="zh_Hans_CN">
+			<Text>努库</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_GEDEMO_RAPANUI_MALE_10" Language="zh_Hans_CN">
+			<Text>伊瓦里鲁</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_GEDEMO_RAPANUI_FEMALE_1" Language="zh_Hans_CN">
+			<Text>薇凯</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_GEDEMO_RAPANUI_FEMALE_2" Language="zh_Hans_CN">
+			<Text>阿图拉吉</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_GEDEMO_RAPANUI_FEMALE_3" Language="zh_Hans_CN">
+			<Text>哈卡普娜</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_GEDEMO_RAPANUI_FEMALE_4" Language="zh_Hans_CN">
+			<Text>伊胡安图兰嘉</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_GEDEMO_RAPANUI_FEMALE_5" Language="zh_Hans_CN">
+			<Text>罗霍伊</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_GEDEMO_RAPANUI_FEMALE_6" Language="zh_Hans_CN">
+			<Text>塔卡希蒂</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_GEDEMO_RAPANUI_FEMALE_7" Language="zh_Hans_CN">
+			<Text>瓦拉娅</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_GEDEMO_RAPANUI_FEMALE_8" Language="zh_Hans_CN">
+			<Text>科洛哈露娅</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_GEDEMO_RAPANUI_FEMALE_9" Language="zh_Hans_CN">
+			<Text>玛胡塔</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_GEDEMO_RAPANUI_FEMALE_10" Language="zh_Hans_CN">
+			<Text>阿图玛塔</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_GEDEMO_RAPANUI_MODERN_MALE_1" Language="zh_Hans_CN">
+			<Text>乌雷马塔</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_GEDEMO_RAPANUI_MODERN_MALE_2" Language="zh_Hans_CN">
+			<Text>特日图库拉</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_GEDEMO_RAPANUI_MODERN_MALE_3" Language="zh_Hans_CN">
+			<Text>蒂基特哈图</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_GEDEMO_RAPANUI_MODERN_MALE_4" Language="zh_Hans_CN">
+			<Text>科鲁阿荣戈</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_GEDEMO_RAPANUI_MODERN_MALE_5" Language="zh_Hans_CN">
+			<Text>蒂基泰纳</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_GEDEMO_RAPANUI_MODERN_MALE_6" Language="zh_Hans_CN">
+			<Text>乌鲁基努</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_GEDEMO_RAPANUI_MODERN_MALE_7" Language="zh_Hans_CN">
+			<Text>特鲁瓦·蒂基·特哈图</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_GEDEMO_RAPANUI_MODERN_MALE_8" Language="zh_Hans_CN">
+			<Text>瑙塔马希基</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_GEDEMO_RAPANUI_MODERN_MALE_9" Language="zh_Hans_CN">
+			<Text>特日卡蒂</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_GEDEMO_RAPANUI_MODERN_MALE_10" Language="zh_Hans_CN">
+			<Text>特拉特拉</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_GEDEMO_RAPANUI_MODERN_FEMALE_1" Language="zh_Hans_CN">
+			<Text>特芮儿·考塔希托</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_GEDEMO_RAPANUI_MODERN_FEMALE_2" Language="zh_Hans_CN">
+			<Text>库拉塔霍果</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_GEDEMO_RAPANUI_MODERN_FEMALE_3" Language="zh_Hans_CN">
+			<Text>库特希塔·鲁阿妮娅</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_GEDEMO_RAPANUI_MODERN_FEMALE_4" Language="zh_Hans_CN">
+			<Text>特乌拉基基娜</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_GEDEMO_RAPANUI_MODERN_FEMALE_5" Language="zh_Hans_CN">
+			<Text>图特雷玛娜娜</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_GEDEMO_RAPANUI_MODERN_FEMALE_6" Language="zh_Hans_CN">
+			<Text>库特库拉·塔洪嘉</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_GEDEMO_RAPANUI_MODERN_FEMALE_7" Language="zh_Hans_CN">
+			<Text>陶拉哈·凯拉汉嘉</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_GEDEMO_RAPANUI_MODERN_FEMALE_8" Language="zh_Hans_CN">
+			<Text>图库玛</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_GEDEMO_RAPANUI_MODERN_FEMALE_9" Language="zh_Hans_CN">
+			<Text>特图洪嘉·哈妮</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_GEDEMO_RAPANUI_MODERN_FEMALE_10" Language="zh_Hans_CN">
+			<Text>普娜·哈可</Text>
+		</Row>
+
+		<Row Tag="LOC_CITY_NAME_C15_COLONY_NAMES_AKAHANGA" Language="zh_Hans_CN">
+			<Text>阿卡汉加</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_C15_COLONY_NAMES_URANGA" Language="zh_Hans_CN">
+			<Text>乌拉-乌兰加-特-马希纳</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_C15_COLONY_NAMES_HANGATEE" Language="zh_Hans_CN">
+			<Text>汉加特特</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_C15_COLONY_NAMES_TARAKIU" Language="zh_Hans_CN">
+			<Text>塔拉库</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_C15_COLONY_NAMES_POUKURA" Language="zh_Hans_CN">
+			<Text>安加罗阿</Text>
+		</Row>
+
+		<!--MOD SUPPORT-->
+		<!--JFD Rule with Faith-->
+		<Row Tag="LOC_CIVILIZATION_GEDEMO_RAPANUI_DESCRIPTION_JFD_CIVILIZATION" Language="zh_Hans_CN">
+			<Text>拉帕努伊文明</Text>
+		</Row>
+
+		<!--LEADER-->
+		<Row Tag="LOC_LEADER_GEDEMO_HOTUMATUA" Language="zh_Hans_CN">
+			<Text>霍图·玛图阿</Text>
+		</Row>
+
+		<!--DOM-->
+		<Row Tag="LOC_LOADING_INFO_LEADER_GEDEMO_HOTUMATUA" Language="zh_Hans_CN">
+			<Text>爱奥拉那·霍图·玛图阿，拉帕努伊人的大首领。来自于马克萨斯群岛，你跟随着一个预言梦，在世界的中心为你的人民寻找到并安顿了一个新家园。这个后来被称作复活节岛的岛屿是拉帕努伊人未曾开发的天堂，拉帕努伊人很快掌握了这里的丰富资源，发展了先进的农业技术，树立了巨大的摩艾石像——直到今日它们都吸引着全世界的目光。至高的领袖，在与世隔绝的情况下，你的人民创造了奇迹。那些更大的文明只能对此表示羡慕。然而你的人民不再受到岛屿的制约，是时候扬帆起航，追随新的梦想，去一片拥有无限财富和潜力的土地。你能带领你们的人民进入这个新时代吗？你能建立一个经得起时间考验的文明吗? </Text>
+		</Row>
+
+		<!--Civilopedia-->
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_GEDEMO_HOTUMATUA_TITLE" Language="zh_Hans_CN">
+			<Text>霍图·玛图阿</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_GEDEMO_HOTUMATUA_SUBTITLE" Language="zh_Hans_CN">
+			<Text>首领</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_GEDEMO_HOTUMATUA_QUOTE" Language="zh_Hans_CN">
+			<Text>这是一块糟糕的土地，因为我们种植山药，反而长出了草。</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_GEDEMO_HOTUMATUA_CHAPTER_HISTORY_PARA_1" Language="zh_Hans_CN">
+			<Text>霍图·玛图阿是传说中的拉帕努伊社会的创建者，是特-皮托-特赫努阿——这是他和他的追随者第一次登岛时给拉帕努伊起的名字——的第一个“ariki mau”（最高首领，或字面意思“真正的贵族”）。根据传说，霍图·玛图阿来自被称为Marae Renga和Marae Tohio的两个岛屿。在他父亲短暂的统治后，霍图·玛图阿和他的兄弟科特·埃拉·卡阿泰亚之间开展了一场权力的斗争。另一个版本的故事说，霍图·玛图阿的敌人是他的兄弟马查的一个竞争对手——被称为奥罗伊。马查和奥罗伊爱上了同一个女人。尽管她的心与马查同在，但她知道奥罗伊指挥着无数忠诚的战士，不会允许他们在一起。 她欺骗奥罗伊，承诺在结婚前绕着岛屿进行一次朝圣之旅，她和马查私奔并趁奥罗伊离开时躲了起来。当奥罗伊知道他被愚弄了之后，他发誓要报复马查和他全家，包括霍图·玛图阿。</Text>
+		</Row>
+
+		<!--Diplomacy-->
+		<!--FIRST MEET-->
+		<!--First AI line-->
+		<Row Tag="LOC_DIPLO_FIRST_MEET_LEADER_GEDEMO_HOTUMATUA_ANY" Language="zh_Hans_CN">
+			<Text>欢迎来到拉帕努伊人民的土地。我希望你预示着好运。</Text>
+		</Row>
+		<!--AI invitation to visit nearby City-->
+		<Row Tag="LOC_DIPLO_FIRST_MEET_VISIT_RECIPIENT_LEADER_GEDEMO_HOTUMATUA_ANY" Language="zh_Hans_CN">
+			<Text>欢迎。愿你的到来为拉帕努伊人民带来祝福。</Text>
+		</Row>
+		<!--AI accepts Human invitation-->
+		<Row Tag="LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_POSITIVE_LEADER_GEDEMO_HOTUMATUA_ANY" Language="zh_Hans_CN">
+			<Text>谢谢你。</Text>
+		</Row>
+		<!--AI invitation to exchange Capital Information-->
+		<Row Tag="LOC_DIPLO_FIRST_MEET_NO_MANS_INFO_EXCHANGE_LEADER_GEDEMO_HOTUMATUA_ANY" Language="zh_Hans_CN">
+			<Text>你想交换我们各自首都的位置信息吗？</Text>
+		</Row>
+		<!--GREETINGS-->
+		<Row Tag="LOC_DIPLO_GREETING_LEADER_GEDEMO_HOTUMATUA_ANY" Language="zh_Hans_CN">
+			<Text>你好。</Text>
+		</Row>
+		<!--DELEGATION-->
+		<!--AI Accepts-->
+		<Row Tag="LOC_DIPLO_ACCEPT_DELEGATION_FROM_HUMAN_LEADER_GEDEMO_HOTUMATUA_ANY" Language="zh_Hans_CN">
+			<Text>我们愉快地收下这些礼物。</Text>
+		</Row>
+		<!--AI Rejects-->
+		<Row Tag="LOC_DIPLO_REJECT_DELEGATION_FROM_HUMAN_LEADER_GEDEMO_HOTUMATUA_ANY" Language="zh_Hans_CN">
+			<Text>不用了，谢谢，你把这些留着吧！</Text>
+		</Row>
+		<!--AI Requests -->
+		<Row Tag="LOC_DIPLO_DELEGATION_FROM_AI_LEADER_GEDEMO_HOTUMATUA_ANY" Language="zh_Hans_CN">
+			<Text>我的贸易使团从家乡为你带来了礼物：红薯、芋头、山药……祝你有个好胃口！</Text>
+		</Row>
+		<!--OPEN BORDERS-->
+		<!--AI accepts from human-->
+		<Row Tag="LOC_DIPLO_ACCEPT_OPEN_BORDERS_FROM_HUMAN_LEADER_GEDEMO_HOTUMATUA_ANY" Language="zh_Hans_CN">
+			<Text>是的，你们可以通过。</Text>
+		</Row>
+		<!--AI rejects from human-->
+		<Row Tag="LOC_DIPLO_REJECT_OPEN_BORDERS_FROM_HUMAN_LEADER_GEDEMO_HOTUMATUA_ANY" Language="zh_Hans_CN">
+			<Text>你们不能通过我们的土地。</Text>
+		</Row>
+		<!--AI requests from human-->
+		<Row Tag="LOC_DIPLO_OPEN_BORDERS_FROM_AI_LEADER_GEDEMO_HOTUMATUA_ANY" Language="zh_Hans_CN">
+			<Text>请容我们通过你的土地！</Text>
+		</Row>
+		<!--DECLARE FRIENDSHIP-->
+		<!--AI accepts from human-->
+		<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_HUMAN_LEADER_GEDEMO_HOTUMATUA_ANY" Language="zh_Hans_CN">
+			<Text>是的，让我们庆祝我们的友谊吧！</Text>
+		</Row>
+		<!--AI Rejects from human -->
+		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_HUMAN_LEADER_GEDEMO_HOTUMATUA_ANY" Language="zh_Hans_CN">
+			<Text>不用了，谢谢。</Text>
+		</Row>
+		<!--AI Requests friendship from human-->
+		<Row Tag="LOC_DIPLO_DECLARE_FRIEND_FROM_AI_LEADER_GEDEMO_HOTUMATUA_ANY" Language="zh_Hans_CN">
+			<Text>你愿意公开宣布我们的友谊吗？</Text>
+		</Row>
+		<!--Human accepts AI requests, AI responds-->
+		<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_GEDEMO_HOTUMATUA_ANY" Language="zh_Hans_CN">
+			<Text>谢谢你。</Text>
+		</Row>
+		<!--Human rejects AI requests, AI responds-->
+		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_GEDEMO_HOTUMATUA_ANY" Language="zh_Hans_CN">
+			<Text>很好。我们会留心这一决定。</Text>
+		</Row>
+		<!--ALLIANCE-->
+		<!--AI Requests an alliance from human-->
+		<Row Tag="LOC_DIPLO_MAKE_ALLIANCE_FROM_AI_LEADER_GEDEMO_HOTUMATUA_ANY" Language="zh_Hans_CN">
+			<Text>你想和我们结成同盟吗？</Text>
+		</Row>
+		<!--KUDOS & WARNINGS-->
+		<!--AI Kudos-->
+		<Row Tag="LOC_DIPLO_KUDO_EXIT_LEADER_GEDEMO_HOTUMATUA_ANY" Language="zh_Hans_CN">
+			<Text>多么成功！</Text>
+		</Row>
+		<!--AI Warnings-->
+		<Row Tag="LOC_DIPLO_WARNING_EXIT_LEADER_GEDEMO_HOTUMATUA_ANY" Language="zh_Hans_CN">
+			<Text>你们编纺的棉花很糟糕。</Text>
+		</Row>
+		<!--AI warns player for border troops-->
+		<Row Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_LEADER_GEDEMO_HOTUMATUA_ANY" Language="zh_Hans_CN">
+			<Text>让你的军队离开那里！</Text>
+		</Row>
+		<!--TRADE-->
+		<!--AI Accepts Deal-->
+		<Row Tag="LOC_DIPLO_ACCEPT_MAKE_DEAL_FROM_AI_LEADER_GEDEMO_HOTUMATUA_ANY" Language="zh_Hans_CN">
+			<Text>{LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_GEDEMO_HOTUMATUA_ANY}</Text>
+		</Row>
+		<!--AI Rejects Deal-->
+		<Row Tag="LOC_DIPLO_REJECT_MAKE_DEAL_FROM_AI_LEADER_GEDEMO_HOTUMATUA_ANY" Language="zh_Hans_CN">
+			<Text>{LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_GEDEMO_HOTUMATUA_ANY}</Text>
+		</Row>
+		<!--DENOUNCE-->
+		<!--From Human-->
+		<Row Tag="LOC_DIPLO_DENOUNCE_FROM_HUMAN_LEADER_GEDEMO_HOTUMATUA_ANY" Language="zh_Hans_CN">
+			<Text>你的所作所为让人无法接受。</Text>
+		</Row>
+		<!--From AI-->
+		<Row Tag="LOC_DIPLO_DENOUNCE_FROM_AI_LEADER_GEDEMO_HOTUMATUA_ANY" Language="zh_Hans_CN">
+			<Text>你的扩张野心终究激起了我的兴趣。我必须警告你不要越界。[NEWLINE]（谴责你）</Text>
+		</Row>
+		<!--DECLARE WAR-->
+		<!--Human Declares War-->
+		<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_HUMAN_LEADER_GEDEMO_HOTUMATUA_ANY" Language="zh_Hans_CN">
+			<Text>这些土地曾经属于我的祖先。我不会轻易放弃我对此的认领。</Text>
+		</Row>
+		<!--AI Declares War-->
+		<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_GEDEMO_HOTUMATUA_ANY" Language="zh_Hans_CN">
+			<Text>你们的侵略扩张威胁到了我帝国的稳定。我不会让你这么容易就得到这些土地。</Text>
+		</Row>
+		<!--MAKE PEACE-->
+		<!--AI accepts from human-->
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_AI_ACCEPT_DEAL_LEADER_GEDEMO_HOTUMATUA_ANY" Language="zh_Hans_CN">
+			<Text>赞美伟大的神，他指引了你。</Text>
+		</Row>
+		<!--AI refuses human-->
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_AI_REFUSE_DEAL_LEADER_GEDEMO_HOTUMATUA_ANY" Language="zh_Hans_CN">
+			<Text>在你们帝国的垃圾中，还有一些地方是可取的。</Text>
+		</Row>
+		<!--AI requests from human-->
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_FROM_AI_LEADER_GEDEMO_HOTUMATUA_ANY" Language="zh_Hans_CN">
+			<Text>是时候讲和了，对吧？</Text>
+		</Row>
+		<!--DEFEAT-->
+		<!--AI is Defeated-->
+		<Row Tag="LOC_DIPLO_DEFEAT_FROM_AI_LEADER_GEDEMO_HOTUMATUA_ANY" Language="zh_Hans_CN">
+			<Text>拉帕努伊不再受到祝福。是时候寻找另一个家园了。</Text>
+		</Row>
+		<!--Human is Defeated (will see this in hotseat)-->
+		<Row Tag="LOC_DIPLO_DEFEAT_FROM_HUMAN_LEADER_GEDEMO_HOTUMATUA_ANY" Language="zh_Hans_CN">
+			<Text>{LOC_DIPLO_DEFEAT_FROM_AI_LEADER_GEDEMO_HOTUMATUA_ANY}</Text>
+		</Row>
+
+		<!--Traits-->
+		<Row Tag="LOC_TRAIT_LEADER_GEDEMO_HOTUMATUA_LTRAIT_NAME" Language="zh_Hans_CN">
+			<Text>马塔奇-特朗基</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_LEADER_GEDEMO_HOTUMATUA_LTRAIT_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>游戏开始时位于海洋单元格中，并解锁“航海术”与“造船术”科技。建立 [ICON_Capital] 首都前每回合+4 [ICON_Faith] 信仰值、+4 [ICON_Culture] 文化值。建立的首座城市+2 [ICON_Citizen] 人口，并免费获得1名建造者。</Text>
+		</Row>
+
+		<Row Tag="LOC_TRAIT_CIVILIZATION_GEDEMO_RAPANUI_CIV_TRAIT_NAME" Language="zh_Hans_CN">
+			<Text>特皮托-特凯恩加</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_CIVILIZATION_GEDEMO_RAPANUI_CIV_TRAIT_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>海洋资源改良后，会自动在相邻陆地单元格上生成摩艾石像，而无需考虑其建造条件。采石场+1 [ICON_Culture] 文化值。城市收获资源和移除地貌+25%产出。</Text>
+		</Row>
+
+		<Row Tag="LOC_BUILDING_GEDEMO_HAREPAENGA_NAME" Language="zh_Hans_CN">
+			<Text>船形屋</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_GEDEMO_HAREPAENGA_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>拉帕努伊特色建筑，由科技“砌砖”解锁。每回合+3忠诚度，+2 [ICON_Housing] 住房。</Text>
+		</Row>
+
+		<Row Tag="LOC_PEDIA_BUILDINGS_PAGE_BUILDING_GEDEMO_HAREPAENGA_CHAPTER_HISTORY_PARA_1" Language="zh_Hans_CN">
+			<Text>【译者注：正在翻译……】[NEWLINE][NEWLINE]The Hare Paenga, also known as boat houses, had volcanic stone foundations pierced with orifices which allowed a plant hull-like structure to be fixed upside down. Many vestiges of these dwellings are scattered all over Easter Island. The appearance of boat houses is known thanks to engravings by the writer Pierre Loti, made in 1872, on which he depicted the hare paenga of a Rapa Nui chief. These dwellings were reserved for dignitaries and their families. The rest of the clan probably lived in more basic huts without a stone foundation or in the many caves on Easter Island.</Text>
+		</Row>
+
+		<Row Tag="LOC_AGENDA_GEDEMO_HOTUMATUA_NAME" Language="zh_Hans_CN">
+			<Text>世界之脐</Text>
+		</Row>
+		<Row Tag="LOC_AGENDA_GEDEMO_HOTUMATUA_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>清除所有的地貌并尽可能改良所有单元格。喜欢改良单元格占比高的文明，不喜欢单元格改良占比低的文明。</Text>
+		</Row>
+
+		<Row Tag="LOC_NAMED_MOUNTAIN_ANAMARANA_NAME"  Language="zh_Hans_CN">
+			<Text>毛加阿纳山</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_MOUNTAIN_OMOANGA_NAME"  Language="zh_Hans_CN">
+			<Text>毛加·奥莫·安加山</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_MOUNTAIN_MAEAHORU_NAME"  Language="zh_Hans_CN">
+			<Text>毛加· 玛雅·荷鲁山</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_MOUNTAIN_PUKATIKEI_NAME"  Language="zh_Hans_CN">
+			<Text>毛加·普卡蒂凯山</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_MOUNTAIN_ORITO_NAME"  Language="zh_Hans_CN">
+			<Text>毛加·奥利托山</Text>
+		</Row>
+		
+		<Row Tag="LOC_NAMED_VOLCANO_KAU_NAME"  Language="zh_Hans_CN">
+			<Text>拉诺廓火山</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_VOLCANO_RARAKU_NAME"  Language="zh_Hans_CN">
+			<Text>拉诺拉拉库火山</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_VOLCANO_TEREVAKA_NAME"  Language="zh_Hans_CN">
+			<Text>特雷瓦卡火山</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_VOLCANO_POIKE_NAME"  Language="zh_Hans_CN">
+			<Text>Poike</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_VOLCANO_MOTIRO_NAME"  Language="zh_Hans_CN">
+			<Text>莫图·莫蒂·希瓦火山</Text>
+		</Row>
+		
+		<!--For Update-->
+		<Row Tag="LOC_C8S_RN_IMPROVEMENT_MOAI_NAME"  Language="zh_Hans_CN">
+			<Text>摩艾石像</Text>
+		</Row>
+		<Row Tag="LOC_C8S_RN_IMPROVEMENT_MOAI_DESCRIPTION"  Language="zh_Hans_CN">
+			<Text>解锁建造者建造拉帕努伊特色改良设施摩艾石像的能力。[NEWLINE][NEWLINE]+1[ICON_Gold] 金币、+1 [ICON_Culture] 文化值。每相邻其他两个摩艾石像，则+1 [ICON_Culture] 文化值。位于火山土单元格上或与其相邻时，+2 [ICON_Culture] 文化值。与海岸或湖泊单元格相邻时，+1 [ICON_Culture] 文化值、+1 [ICON_Gold] 金币。随着市政与科技树的发展，可获得额外的 [ICON_Culture] 文化值和 [ICON_Tourism] 旅游业绩。可建在平原、平原丘陵、草原、草原丘陵、冻土和冻土丘陵或火山土之上，亦可相邻于森林或雨林。</Text>
+		</Row>
+	</LocalizedText>
+</GameData>

@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!-- Burj_Khalifa_Localization_CN -->
+<!-- Author: 春 -->
+<!-- DateCreated: 4/1/2020 11:06:53 AM -->
+<GameData>
+	<LocalizedText>
+		<Row Tag="LOC_BUILDING_BURJ_KHALIFA_NAME" Language="zh_Hans_CN">
+			<Text>哈利法塔</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_BURJ_KHALIFA_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>奖励+3 [ICON_RESOURCE_OIL] 石油。9单元格内的油井、海上石油钻机和矿山产出+2 [ICON_Culture] 文化。所在城市+15% [ICON_Gold] 金币。+1 [ICON_TradeRoute] 贸易路线容量。必须建造在平坦的沙漠地形上。</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_BURJ_KHALIFA_QUOTE" Language="zh_Hans_CN">
+			<Text>我是这座城市的心脏，是这座城市人民的心脏，定义了她的标识……迪拜闪耀的梦想。不仅仅是时间上的瞬间，我还为子孙后代定义了时刻。我是哈利法塔。[NEWLINE]——入口处题刻</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_WONDERS_PAGE_BUILDING_BURJ_KHALIFA_CHAPTER_HISTORY_PARA_1" Language="zh_Hans_CN">
+			<Text>哈利法塔是阿拉伯联合酋长国迪拜的一座摩天大楼。哈利法塔的总高度为829.8米（2722英尺），顶层（不包括天线）高为828米(2717英尺)，自2009年落成以来，它一直是世界上最高的建筑。</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_WONDERS_PAGE_BUILDING_BURJ_KHALIFA_CHAPTER_HISTORY_PARA_2" Language="zh_Hans_CN">
+			<Text>哈利法塔的建造始于2004年，在五年后的2009年完成了外部的修建。主体结构为钢筋混凝土。这座建筑于2010年开放，是迪拜中心区新开发的一部分。它被设计成大型、多功能开发的中心。建造该建筑是基于政府以石油为基础的多样化经济政策，以及让迪拜得到国际社会的认可的决定。这座建筑最初被命名为迪拜塔，这座建筑打破了无数的高度记录，包括它被认定为世界上最高的建筑之后。</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_WONDERS_PAGE_BUILDING_BURJ_KHALIFA_CHAPTER_HISTORY_PARA_3" Language="zh_Hans_CN">
+			<Text>哈利法塔由SOM建筑设计事务所的阿德里安·史密斯设计，他的公司设计了威利斯大厦和世界贸易中心一号楼。海德咨询公司被选为工程监工，诺尔国际咨询公司负责工程架构设计。设计源自当地的伊斯兰建筑，比如萨迈拉大清真寺。Y形的三层几何结构旨在优化住宅和酒店的空间结构。扶壁和支翼用来支撑建筑的高度。虽然这个设计理念源自 Tower Palace III，但哈利法塔的中间核心区除了两侧的出口楼梯外，其他都是垂直交通设计。建筑还有一个设计用来抵御迪拜的炎热夏天的围护系统。它总共有7部电梯和8部自动扶梯。</Text>
+		</Row>
+	</LocalizedText>
+</GameData>

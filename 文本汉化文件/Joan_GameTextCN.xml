@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Hannibal_TextCN -->
+<!-- Author: 春 -->
+<!-- DateCreated: 5/29/2020 8:20:47 PM -->
+<GameData>
+	<LocalizedText>
+		<!--LEADER-->
+		<Row Tag="LOC_LEADER_MER_JOAN_NAME" Language="zh_Hans_CN">
+			<Text>琼</Text>
+		</Row>
+		<!--Agenda-->
+		<Row Tag="LOC_AGENDA_MER_FOUNDRESS_NAME" Language="zh_Hans_CN">
+			<Text>女奠基者</Text>
+		</Row>
+		<Row Tag="LOC_AGENDA_MER_FOUNDRESS_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>专注于信仰和区域，并喜欢那些做同样事情的人。不喜欢忽视信仰和区域建设的领袖。</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_KUDOS_LEADER_MER_JOAN_REASON_GREAT_PEOPLE" Language="zh_Hans_CN">
+			<Text>（您有高额信仰和完备的区域）</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MODIFIER_AGENDA_MER_FOUNDRESS_GREAT_PEOPLE" Language="zh_Hans_CN">
+			<Text>你的经济投资和虔诚的行为给琼留下了深刻的印象。</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_LEADER_MER_JOAN_REASON_NEIGHBOUR" Language="zh_Hans_CN">
+			<Text>（您忽视了信仰和区域建设）</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MODIFIER_AGENDA_MER_FOUNDRESS_NEIGHBOUR" Language="zh_Hans_CN">
+			<Text>琼认为你需要建设更多区域和更多的信仰。</Text>
+		</Row>
+		<!--DOM-->
+		<Row Tag="LOC_LOADING_INFO_LEADER_MER_JOAN" Language="zh_Hans_CN">
+			<Text>琼，佛兰德斯伯爵夫人，你一生都在不知疲倦地为你的人民和信仰而战。你的特许状和免税政策对城镇的发展发挥了重要作用，移民和工人们会跋涉数英里来到佛兰德斯，而你会张开双臂欢迎他们。你对神的信仰是首屈一指的，让许多修道院的修会在佛兰德斯扎根并蓬勃发展。伯爵夫人，佛兰德斯需要你的治理。</Text>
+		</Row>
+		<!--Traits-->
+		<Row Tag="LOC_TRAIT_LEADER_MER_COMITAL_CHARTERS_NAME" Language="zh_Hans_CN">
+			<Text>伯爵宪章</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_LEADER_MER_COMITAL_CHARTERS_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>每个 [ICON_Citizen] 公民+0.2 [ICON_Production] 生产力，但-1 [ICON_Gold] 金币。[NEWLINE]训练平民单位、进行项目、建造圣地、商业中心和港口建筑时+20% [ICON_Production] 生产力。[NEWLINE]购买单元格和建筑额外花费20% [ICON_Gold] 金币。[NEWLINE]解锁市政“行政部门”后可以建造“伯爵夫人临终安养院”改良设施。</Text>
+		</Row>
+		<!--Improvement-->
+		<Row Tag="LOC_TRAIT_CIVILIZATION_IMPROVEMENT_MER_HOSPICE_COMTESSE_NAME" Language="zh_Hans_CN">
+			<Text>伯爵夫人临终安养院</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_CIVILIZATION_IMPROVEMENT_MER_HOSPICE_COMTESSE_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>琼作为领袖时，解锁建造者建造“伯爵夫人临终安养院”特色改良设施。[NEWLINE]每座城市只能建造一个。+2 [ICON_Faith] 信仰值、+1 [ICON_Housing] 住房、+1 [ICON_Amenities] 宜居度。解锁科技“卫生设备”后，+2 [ICON_Science] 科技值，额外+1 [ICON_Housing] 住房。[NEWLINE]所在城市+15% [ICON_Citizen] 人口增长速度。</Text>
+		</Row>
+		<Row Tag="LOC_IMPROVEMENT_MER_HOSPICE_COMTESSE_NAME" Language="zh_Hans_CN">
+			<Text>伯爵夫人临终安养院</Text>
+		</Row>
+		<Row Tag="LOC_IMPROVEMENT_MER_HOSPICE_COMTESSE_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>琼作为领袖时，解锁建造者建造“伯爵夫人临终安养院”特色改良设施。[NEWLINE]每座城市只能建造一个。+2 [ICON_Faith] 信仰值、+1 [ICON_Housing] 住房、+1 [ICON_Amenities] 宜居度。解锁科技“卫生设备”后，+2 [ICON_Science] 科技值，额外+1 [ICON_Housing] 住房。[NEWLINE]所在城市+15% [ICON_Citizen] 人口增长速度。</Text>
+		</Row>
+		<!--Civilopedia-->
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_MER_JOAN_TITLE" Language="zh_Hans_CN">
+			<Text>君士坦丁堡之圣女</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_MER_JOAN_SUBTITLE" Language="zh_Hans_CN">
+			<Text>佛兰德伯爵夫人</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_MER_JOAN_QUOTE" Language="zh_Hans_CN">
+			<Text>妇女在社会与教会中的作用，与任何男性同等重要。</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_MER_JOAN_CHAPTER_HISTORY_PARA_1" Language="zh_Hans_CN">
+			<Text>【译者注：正在翻译……】[NEWLINE][NEWLINE]Joan, often called Joan of Constantinople, ruled as Countess of Flanders and Hainaut from 1205 (at the young age of 6) until her death. She was the elder daughter of Baldwin IX, Count of Flanders and Hainaut, and Marie of Champagne.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_MER_JOAN_CHAPTER_HISTORY_PARA_2" Language="zh_Hans_CN">
+			<Text>Orphaned during the Fourth Crusade, Joan was raised in Paris under the tutelage of King Philip II of France. He arranged her marriage to Infante Ferdinand of Portugal in 1212. Ferdinand quickly turned against Philip, starting a war that ended with the defeat of Bouvines and his imprisonment. Joan then ruled her counties alone from the young age of 14. She faced the rivalry of her younger sister, Margaret, as well as the revolt of her domains – guided by a man who claimed to be her father. After the end of the war, Ferdinand was released but died soon after. Joan then married Thomas of Savoy. She died in 1244 at the Abbey of Marquette near Lille, having survived her only child, a daughter by Ferdinand. </Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_MER_JOAN_CHAPTER_HISTORY_PARA_3" Language="zh_Hans_CN">
+			<Text>'The Manessier's Continuation' (also called the Third Continuation), one of the novels of the 'Story of the Grail' was written for Joan, as well as the 'Life of St. Martha of Wauchier de Denain'. The first novel in Dutch, Van den vos Reynaerde, was written by a cleric of her court.  </Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_MER_JOAN_CHAPTER_CAPSULE_BODY" Language="zh_Hans_CN">
+			<Text>Joan's Flanders sacrifices Gold for development of her cities.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_MER_JOAN_CHAPTER_DETAILED_BODY" Language="zh_Hans_CN">
+			<Text>As Joan's Flanders will you want to focus your efforts on producing gold, to alleviate the negatives of her ability. The production bonuses will help with this.</Text>
+		</Row>
+		<!--Diplomacy-->
+		<!--FIRST MEET-->
+		<!--First AI line-->
+		<Row Tag="LOC_DIPLO_FIRST_MEET_LEADER_MER_JOAN_ANY" Language="zh_Hans_CN">
+			<Text>你好，我是琼，佛兰德斯伯爵夫人。也许上帝希望我们相遇？</Text>
+		</Row>
+		<!--AI invitation to visit nearby City-->
+		<Row Tag="LOC_DIPLO_FIRST_MEET_VISIT_RECIPIENT_LEADER_MER_JOAN_ANY" Language="zh_Hans_CN">
+			<Text>我们附近的城市最近有了很大的发展，你应该来看看。</Text>
+		</Row>
+		<!--AI accepts Human invitation-->
+		<Row Tag="LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_POSITIVE_LEADER_MER_JOAN_ANY" Language="zh_Hans_CN">
+			<Text>我很乐意接受。</Text>
+		</Row>
+		<!--AI invitation to exchange Capital Information-->
+		<Row Tag="LOC_DIPLO_FIRST_MEET_NO_MANS_INFO_EXCHANGE_LEADER_MER_JOAN_ANY" Language="zh_Hans_CN">
+			<Text>土地应该共享和开发，交换地图对我们有好处。</Text>
+		</Row>
+		<!--GREETINGS-->
+		<Row Tag="LOC_DIPLO_GREETING_LEADER_MER_JOAN_ANY" Language="zh_Hans_CN">
+			<Text>欢迎。</Text>
+		</Row>
+		<!--DELEGATION-->
+		<!--AI Accepts-->
+		<Row Tag="LOC_DIPLO_ACCEPT_DELEGATION_FROM_HUMAN_LEADER_MER_JOAN_ANY" Language="zh_Hans_CN">
+			<Text>非常欢迎你的代表团到访我的宫廷，他们将受到尊重。</Text>
+		</Row>
+		<!--AI Rejects-->
+		<Row Tag="LOC_DIPLO_REJECT_DELEGATION_FROM_HUMAN_LEADER_MER_JOAN_ANY" Language="zh_Hans_CN">
+			<Text>我不能接受。</Text>
+		</Row>
+		<!--AI Requests -->
+		<Row Tag="LOC_DIPLO_DELEGATION_FROM_AI_LEADER_MER_JOAN_ANY" Language="zh_Hans_CN">
+			<Text>我从我的宫廷派了一个代表团，他们带着我自己的朝臣写的史话。</Text>
+		</Row>
+		<!--OPEN BORDERS-->
+		<!--AI accepts from human-->
+		<Row Tag="LOC_DIPLO_ACCEPT_OPEN_BORDERS_FROM_HUMAN_LEADER_MER_JOAN_ANY" Language="zh_Hans_CN">
+			<Text>可以接受，谢谢你。</Text>
+		</Row>
+		<!--AI rejects from human-->
+		<Row Tag="LOC_DIPLO_REJECT_OPEN_BORDERS_FROM_HUMAN_LEADER_MER_JOAN_ANY" Language="zh_Hans_CN">
+			<Text>现在，只有我的人民可以在这些土地上旅行。</Text>
+		</Row>
+		<!--AI requests from human-->
+		<Row Tag="LOC_DIPLO_OPEN_BORDERS_FROM_AI_LEADER_MER_JOAN_ANY" Language="zh_Hans_CN">
+			<Text>我需要进入你的领地，也许我们可以达成协议？</Text>
+		</Row>
+		<!--DECLARE FRIENDSHIP-->
+		<!--AI accepts from human-->
+		<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_HUMAN_LEADER_MER_JOAN_ANY" Language="zh_Hans_CN">
+			<Text>这真是最好的消息了。</Text>
+		</Row>
+		<!--AI Rejects from human -->
+		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_HUMAN_LEADER_MER_JOAN_ANY" Language="zh_Hans_CN">
+			<Text>不，现在不行。</Text>
+		</Row>
+		<!--AI Requests friendship from human-->
+		<Row Tag="LOC_DIPLO_DECLARE_FRIEND_FROM_AI_LEADER_MER_JOAN_ANY" Language="zh_Hans_CN">
+			<Text>我愿意献出我的友谊，你知道我没有撒谎，这是一个诚实的请求。</Text>
+		</Row>
+		<!--Human accepts AI requests, AI responds-->
+		<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_MER_JOAN_ANY" Language="zh_Hans_CN">
+			<Text>这是个好消息！</Text>
+		</Row>
+		<!--Human rejects AI requests, AI responds-->
+		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_MER_JOAN_ANY" Language="zh_Hans_CN">
+			<Text>真丢脸。</Text>
+		</Row>
+		<!--ALLIANCE-->
+		<!--AI Requests an alliance from human-->
+		<Row Tag="LOC_DIPLO_MAKE_ALLIANCE_FROM_AI_LEADER_MER_JOAN_ANY" Language="zh_Hans_CN">
+			<Text>我们的土地可以共同繁荣。</Text>
+		</Row>
+		<!--KUDOS & WARNINGS-->
+		<!--AI Kudos-->
+		<Row Tag="LOC_DIPLO_KUDO_EXIT_LEADER_MER_JOAN_ANY" Language="zh_Hans_CN">
+			<Text>你为信仰建造了纪念碑，这实在让人印象深刻。</Text>
+		</Row>
+		<!--AI Warnings-->
+		<Row Tag="LOC_DIPLO_WARNING_EXIT_LEADER_MER_JOAN_ANY" Language="zh_Hans_CN">
+			<Text>你不愿帮助你的人民吗？难道他们不需要家庭和工作来保持忙碌吗？难道不应让信仰驱使他们吗？</Text>
+		</Row>
+		<!--AI warns player for border troops-->
+		<Row Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_LEADER_MER_JOAN_ANY" Language="zh_Hans_CN">
+			<Text>佛兰德斯会顽强抵抗任何威胁，你的虚张声势无法动摇我们。</Text>
+		</Row>
+		<!--TRADE-->
+		<!--AI Accepts Deal-->
+		<Row Tag="LOC_DIPLO_ACCEPT_MAKE_DEAL_FROM_AI_LEADER_MER_JOAN_ANY" Language="zh_Hans_CN">
+			<Text>{LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_MER_JOAN_ANY}</Text>
+		</Row>
+		<!--AI Rejects Deal-->
+		<Row Tag="LOC_DIPLO_REJECT_MAKE_DEAL_FROM_AI_LEADER_MER_JOAN_ANY" Language="zh_Hans_CN">
+			<Text>{LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_MER_JOAN_ANY}</Text>
+		</Row>
+		<!--DENOUNCE-->
+		<!--From Human-->
+		<Row Tag="LOC_DIPLO_DENOUNCE_FROM_HUMAN_LEADER_MER_JOAN_ANY" Language="zh_Hans_CN">
+			<Text>我只要蒙主的喜悦，就能成就他的美事。</Text>
+		</Row>
+		<!--From AI-->
+		<Row Tag="LOC_DIPLO_DENOUNCE_FROM_AI_LEADER_MER_JOAN_ANY" Language="zh_Hans_CN">
+			<Text>像你这样的人怎么会坐在王位上呢？即使是像你一般可悲的领地，也不适合由你来统治。[NEWLINE]（谴责你）</Text>
+		</Row>
+		<!--DECLARE WAR-->
+		<!--Human Declares War-->
+		<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_HUMAN_LEADER_MER_JOAN_ANY" Language="zh_Hans_CN">
+			<Text>真浪费。</Text>
+		</Row>
+		<!--AI Declares War-->
+		<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_MER_JOAN_ANY" Language="zh_Hans_CN">
+			<Text>我讨厌事情发展到这种地步，但这是不可避免的。</Text>
+		</Row>
+		<!--MAKE PEACE-->
+		<!--AI accepts from human-->
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_AI_ACCEPT_DEAL_LEADER_MER_JOAN_ANY" Language="zh_Hans_CN">
+			<Text>我很惊讶你竟然有这种意识要求这样一笔交易。</Text>
+		</Row>
+		<!--AI refuses human-->
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_AI_REFUSE_DEAL_LEADER_MER_JOAN_ANY" Language="zh_Hans_CN">
+			<Text>我不会在小小的力量下屈服。</Text>
+		</Row>
+		<!--AI requests from human-->
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_FROM_AI_LEADER_MER_JOAN_ANY" Language="zh_Hans_CN">
+			<Text>这种情况必须结束，这是践踏生命。</Text>
+		</Row>
+		<!--DEFEAT-->
+		<!--AI is Defeated-->
+		<Row Tag="LOC_DIPLO_DEFEAT_FROM_AI_LEADER_MER_JOAN_ANY" Language="zh_Hans_CN">
+			<Text>我活了很长时间，所有的时间都花在了为国家服务上。万物皆有终结的时候。但它在你手里结束只是一个遗憾。</Text>
+		</Row>
+		<!--Human is Defeated (will see this in hotseat)-->
+		<Row Tag="LOC_DIPLO_DEFEAT_FROM_HUMAN_LEADER_MER_JOAN_ANY" Language="zh_Hans_CN">
+			<Text>{LOC_DIPLO_DEFEAT_FROM_AI_LEADER_MER_JOAN_ANY}</Text>
+		</Row>
+		<!--MOD SUPPORT-->
+	</LocalizedText>
+</GameData>

@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!-- Porcelain_Tower_Localization_CN -->
+<!-- Author: 春 -->
+<!-- DateCreated: 4/1/2020 12:59:37 PM -->
+<GameData>
+	<LocalizedText>
+		<Row Tag="LOC_BUILDING_PORCELAIN_TOWER_NAME" Language="zh_Hans_CN">
+			<Text>大报恩寺琉璃宝塔</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_PORCELAIN_TOWER_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>免费获得3个 [ICON_RESOURCE_PORCELAIN] 瓷器奢侈品资源，各能提供6 [ICON_Amenities] 宜居度。必须建造在平坦的草原、平原或冻土上。</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_PORCELAIN_TOWER_QUOTE" Language="zh_Hans_CN">
+			<Text>平地的中央矗立着一座由琉璃烧制而成的高耸尖塔，在花费和技艺方面远远超过了中国的其他工艺品。借此，中国人彰显了他们的艺术家在过往时代的罕见独创性。[NEWLINE]——约翰·尼霍夫</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_WONDERS_PAGE_BUILDING_PORCELAIN_TOWER_CHAPTER_HISTORY_PARA_1" Language="zh_Hans_CN">
+			<Text>南京的大报恩寺塔始建于明代（15世纪），是中国历史上最伟大的建筑之一。塔身高260英尺（79米），直径97英尺（30米）。</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_WONDERS_PAGE_BUILDING_PORCELAIN_TOWER_CHAPTER_HISTORY_PARA_2" Language="zh_Hans_CN">
+			<Text>塔外部用白色瓷砖砌成，在阳光下如镜子般闪闪发光。夜里的塔身则被从上至下的超过100盏灯笼给照亮。这座塔一直矗立在南京城中，直至1854年时被太平天国叛乱所摧毁。</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_WONDERS_PAGE_BUILDING_PORCELAIN_TOWER_CHAPTER_HISTORY_PARA_3" Language="zh_Hans_CN">
+			<Text></Text>
+		</Row>
+		<Row Tag="LOC_RESOURCE_PORCELAIN_NAME" Language="zh_Hans_CN">
+			<Text>瓷器</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_RESOURCES_PAGE_RESOURCE_PORCELAIN_CHAPTER_HISTORY_PARA_1" Language="zh_Hans_CN">
+			<Text>瓷器是一种加热而成的陶制材料，通常包括高岭土，在窑中加热1200 至1400 °C （2200 至 2600 °F）而成。和其他类型的陶器相比，瓷器的韧性、强度和半透明特性主要来自高温条件下的玻璃化和内部形成的莫来石矿物。尽管定义不同，瓷器可分为三大类：硬瓷、软瓷和骨瓷，所属类别取决于制作瓷器所用浆料的成分和烧制条件。</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_RESOURCES_PAGE_RESOURCE_PORCELAIN_CHAPTER_HISTORY_PARA_2" Language="zh_Hans_CN">
+			<Text>瓷器在中国慢慢发展，大约在2000-1200年前的某个时刻终于成型（根据使用的定义）。随后慢慢传播到了其他东亚国家，最后是欧洲和世界其他地区。瓷器的制作流程比另外两种主要的陶瓷工艺品——陶瓷和炉器要求更高。它凭借其柔滑、强度和白颜色，通常被认为是最具声名的陶瓷工艺品。瓷器在釉料和上漆方面结合得相得益彰，能够简易地进行建模。可以在餐具、器皿和雕像上进行大量装饰。它在工艺和工业方面也用很多用途。</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_RESOURCES_PAGE_RESOURCE_PORCELAIN_CHAPTER_HISTORY_PARA_3" Language="zh_Hans_CN">
+			<Text>瓷器的欧洲名字来源于意大利古老的porcellana（宝贝壳），因为其表面与贝壳相似。瓷器在一些英语国家也被称为china或fine china，因为它最初见于从中国进口的商品中。瓷器具有低透水性和弹性，具有相当的强度、硬度、韧性、洁白性和共振性，对化学腐蚀和热冲击有很强的耐性。</Text>
+		</Row>
+	</LocalizedText>
+</GameData>

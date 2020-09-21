@@ -1,0 +1,1059 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!-- GreatPeopleText_CN -->
+<!-- Author: 春 -->
+<!-- DateCreated: 4/30/2020 12:20:39 AM -->
+<GameData>
+	<LocalizedText>
+		<!-- 海军统帅 -->
+
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_SC_ARLEIGH_BURKE_NAME" Language="zh_Hans_CN">
+			<Text>阿利·伯克</Text>
+		</Row>
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_SC_HENRY_LEACH_NAME" Language="zh_Hans_CN">
+			<Text>亨利·利奇</Text>
+		</Row>
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_SC_JAMES_STAVRIDIS_NAME" Language="zh_Hans_CN">
+			<Text>詹姆斯·斯塔夫里迪斯</Text>
+		</Row>
+
+		<Row Tag="LOC_GREATPERSON_SC_ARLEIGH_BURKE_ACTIVE" Language="zh_Hans_CN">
+			<Text>立即获得1个拥有1次 [ICON_Promotion] 强化等级的核潜艇单位。</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_SC_HENRY_LEACH_ACTIVE" Language="zh_Hans_CN">
+			<Text>厌战情绪比平时减少50%，赠予1个海军单位+150%战斗经验值加成。</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_SC_JAMES_STAVRIDIS_ACTIVE" Language="zh_Hans_CN">
+			<Text>奖励{Amount}位 [ICON_Envoy] {Amount : plural 1?Envoy; other?Envoys;} 使者。赠予1个海军单位+150%战斗经验值加成。</Text>
+		</Row>
+
+		<Row Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_SC_ARLEIGH_BURKE_CHAPTER_HISTORY_PARA_1" Language="zh_Hans_CN">
+			<Text>阿利·艾伯特·伯克（1901-1996），美国海军上将。出生于科罗拉多州波尔得，参加过第二次世界大战和朝鲜战争，并且担任了德怀特·D·艾森豪威尔总统和约翰·F·肯尼迪总统的海军作战部长。他被认为是20世纪美国最著名的驱逐舰军官之一。</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_SC_ARLEIGH_BURKE_CHAPTER_HISTORY_PARA_2" Language="zh_Hans_CN">
+			<Text>由于1918年的流感，伯克未能完成高中学业。取而代之的，他获得了美国海军军官学校的候补职位，于1923年毕业。在接下来的18年里，伯克服役于战列舰和驱逐舰上，直到第二次世界大战期间被调度到南太平洋。在那里他指挥几个驱逐舰中队，包括被称为“小海狸”的第23驱逐舰中队，它负责了布干维尔的首次登陆战。 他因使驱逐舰达到极限状态而声名大噪。1944年，他被任命为第58特遣舰队司令员的参谋长，这是隶属第五舰队的快速航母特遣舰队。朝鲜战争期间，他担任远东海军副总参谋长，并且是负责在战争结束时磋商停战协议的联合国停战代表团的成员之一。</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_SC_ARLEIGH_BURKE_CHAPTER_HISTORY_PARA_3" Language="zh_Hans_CN">
+			<Text>1955年底，伯克被提拔为海军作战部部长，相比之前的海军少将军衔提拔了两个等级。他以工作异常勤奋而著称，为海军的核武能力发展作出了巨大贡献。他支持海军上将海曼·里科弗建立核动力潜艇部队和发展潜射弹道导弹的号召，促成了“北极星计划”。同时，伯克对反应核战略持谨慎态度，他警告说，这些”一触即发“的战略”对任何国家都是危险的“。 在1961年第三次任期结束后，伯克退休了。三十年后的1991年，让海军成为美国核威慑能力中不可或缺部分的伯克去世了。第一艘装备了”宙斯盾“系统的阿利·伯克级驱逐舰是以他的名字命名的。</Text>
+		</Row>
+
+		<Row Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_SC_HENRY_LEACH_CHAPTER_HISTORY_PARA_1" Language="zh_Hans_CN">
+			<Text>亨利·康耶斯·利奇爵士（1923-2011）是英国皇家海军舰队的一名海军上将，也是马岛战争期间英国的第一海务大臣和海军参谋长。他因在玛格丽特·撒切尔担任首相期间的军事冲突中的果断决心而被称为撒切尔的“金穗闪光骑士”（knight in shining gold braid）。</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_SC_HENRY_LEACH_CHAPTER_HISTORY_PARA_2" Language="zh_Hans_CN">
+			<Text>利奇1923年出生于德文郡的牛顿阿伯特镇。他在14岁时以军官学员的身份加入皇家海军并在第二次世界大战期间服役于南大西洋（皇家海军罗德尼号）和印度洋（皇家海军爱丁堡号）战区。他还曾作为一名策划官服役于新加坡的作战室。利奇于1943年晋升为上尉并参加了北角海战和爱琴海的扫雷行动。第二次世界大战结束后，利奇参与了朝鲜战争的后期战役、1955年的马来亚紧急状态和1962年的印度尼西亚-马来西亚冲突。利奇于1971年成为海军参谋长助理，同年晋升为海军少将。8年后，他被任命为第一海务大臣。</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_SC_HENRY_LEACH_CHAPTER_HISTORY_PARA_3" Language="zh_Hans_CN">
+			<Text>作为第一海务大臣，利奇强烈反对削减海军开支。他最大的挑战出现在1982年，阿根廷军队侵入福克兰群岛（又称马尔维纳斯群岛）。利奇是协调英国作出收复这些岛屿的回应的不可或缺的角色，并在说服撒切尔首相相信夺回这些岛屿是可行的方面发挥了重要作用。利奇宣称，如果英国不收复这些岛屿，“再过几个月，我们就会生活在一个不同的国家——一个言而无信的国家”。在他的领导下，经过74天的战争，英国成功收回了岛屿，提升了保守党在英国的声望并促成了来年阿根廷军政府的垮台。亨利·利奇于2011年去世，享年87岁。</Text>
+		</Row>
+
+		<Row Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_SC_JAMES_STAVRIDIS_CHAPTER_HISTORY_PARA_1" Language="zh_Hans_CN">
+			<Text>詹姆斯·乔治·斯塔夫里迪斯是一名退役的美国海军上将，曾担任美国南方司令部和欧洲司令部司令，同时担任北约欧洲盟军最高统帅。作为“巧实力”的倡导者，斯塔夫里迪斯参加了美国在20世纪90年代和21世纪的许多军事冲突。</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_SC_JAMES_STAVRIDIS_CHAPTER_HISTORY_PARA_2" Language="zh_Hans_CN">
+			<Text>詹姆斯·斯塔夫里迪斯1955年出生于佛罗里达州西棕榈滩。1976年毕业于美国海军军官学院，曾在各色舰艇上服役，包括航空母舰、巡洋舰和驱逐舰。斯塔夫里迪斯于1993年至1955年指挥巴里号驱逐舰应对了海地、波斯尼亚和波斯湾的冲突。在伊拉克战争期间，斯塔夫里迪斯统率企业号航母战斗群驻扎于波斯湾，支持“伊拉克自由行动”和“持久自由行动“。2006年，斯塔夫里迪斯成为第一位领导美国南方司令部的海军军官，三年后，他成为欧洲盟军最高统帅。</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_SC_JAMES_STAVRIDIS_CHAPTER_HISTORY_PARA_3" Language="zh_Hans_CN">
+			<Text>作为欧洲盟军最高统帅，斯塔夫里迪斯在“联合保护者行动”中身居指挥系统的最高地位，“联合保护者行动”是北约为执行联合国安理会第1970号和1973号决议而于2011年对利比亚发动的武装干涉，以推翻并击毙穆阿迈尔·卡扎菲告终。在职业生涯中，斯塔夫里迪斯一直是他所称的“巧实力”主义的倡导者，即硬实力和软实力之间的一种微妙而谨慎的平衡，以及为了加强21世纪的世界安全而建立国际伙伴关系。在工作了37年后，斯塔夫里迪斯于2013年退役。他现在是马萨诸塞州塔夫茨大学弗莱彻法律与外交学院院长并持续地发表演说倡导“巧实力”主义和国际主义的使用。</Text>
+		</Row>
+
+		<!-- 艺术家-->
+
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_SC_PABLO_PICASSO_NAME" Language="zh_Hans_CN">
+			<Text>巴勃罗·毕加索</Text>
+		</Row>
+
+		<Row Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_SC_PABLO_PICASSO_CHAPTER_HISTORY_PARA_1" Language="zh_Hans_CN">
+			<Text>巴勃罗·毕加索（1881-1973）是著名的西班牙艺术家，被认为是20世纪最具影响力的艺术家之一。毕加索出生于西班牙马拉加，以其画作而闻名，对立体主义的艺术运动发展起到了重要作用。</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_SC_PABLO_PICASSO_CHAPTER_HISTORY_PARA_2" Language="zh_Hans_CN">
+			<Text>巴勃罗·毕加索从小就接触艺术，从7岁起接受正规的艺术训练。他年轻时的灵感来自迭戈·委拉斯开兹、弗朗西斯科·戈雅、弗朗西斯科·德·苏巴朗、埃尔·格列柯和后来的——他的同辈现代派艺术家——亨利·马蒂斯的作品。毕加索在二十世纪初的早期作品经常被分作不同时期，包括蓝色和玫瑰时期。然而，在1909年左右，这些作品的主题和风格开始改变，发展为力图打破传统的艺术观念和艺术实践的立体主义和超现实主义艺术流派。 值得一提的是，毕加索的《亚威农少女》被认为是立体主义创作的重要一步。</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_SC_PABLO_PICASSO_CHAPTER_HISTORY_PARA_3" Language="zh_Hans_CN">
+			<Text>毕加索极其多产，在大约70年的时间里创作了约5万幅作品。他在全世界备受追捧的作品为他赚取了相当数额的金钱。他还直言不讳地表达自己的政治观点，加入法国共产党并公开反对弗朗西斯科·佛朗哥政权和其他法西斯政府。即使在毕加索去世的1973年的几十年后，他仍然备受欢迎：他的画是世界上最昂贵的画作之一，也是最常被盗窃的画作之一。毕加索是艺术界的真正先驱，他的遗产延续至今。</Text>
+		</Row>
+
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_SC_FRIDA_KAHLO_NAME" Language="zh_Hans_CN">
+			<Text>弗里达·卡罗</Text>
+		</Row>
+
+		<Row Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_SC_FRIDA_KAHLO_CHAPTER_HISTORY_PARA_1" Language="zh_Hans_CN">
+			<Text>弗里达·卡罗（1907 - 1954）是著名墨西哥艺术家，以为数众多的肖像画和自画像闻名。她的画作围绕墨西哥的流行文化，对墨西哥现代艺术的形成起了重要作用。</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_SC_FRIDA_KAHLO_CHAPTER_HISTORY_PARA_2" Language="zh_Hans_CN">
+			<Text>弗里达·卡罗在早年的一次公交车事故中受到了几近致命的伤。虽然她在受伤前接受过一些艺术指导，但她在卧床康复期间加倍地努力。她的画作包含了身体和存在两个主题，经常使用超现实主义的意象来表达这些复杂思想。受伤的两年后，她加入了墨西哥共产党并在那里结识了她将来的丈夫、同为画家的迭戈·里维拉。里维拉和卡罗拥有一段不稳定的关系，这种不稳定关系有时也被表达在弗里达的画作中。尽管如此，她和她的丈夫都是在墨西哥极具影响力的艺术家，创作了一种截然不同的艺术风格，既讴歌普通人，也赞颂墨西哥及其人民土生土长的遗产。</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_SC_FRIDA_KAHLO_CHAPTER_HISTORY_PARA_3" Language="zh_Hans_CN">
+			<Text>20世纪30年代，卡罗的作品开始引起国际关注；1938年她在纽约引起了轰动，尽管经济受到大萧条的影响，她还是售出了她一半的画作。第二年，卢浮宫买下了她的画作《相框》，使她成为第一个作品被卢浮宫收藏的墨西哥画家。这几年是她艺术创作的黄金时期，她的一些最著名的画作就是在这时候完成的。然而，她的病情在20世纪40年代每况愈下，并于1954年去世，享年47岁。 如今，她被认为是20世纪最伟大的艺术家之一。不仅仅是在艺术领域，而且在社会和政治领域，她都因开创性的工作而被人铭记。她的作品受到祖国的持续重视，被视为国家文化遗产的一部分。</Text>
+		</Row>
+
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_SC_GEORGIA_OKEEFFE_NAME" Language="zh_Hans_CN">
+			<Text>乔治娅·奥·吉弗</Text>
+		</Row>
+
+		<Row Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_SC_GEORGIA_OKEEFFE_CHAPTER_HISTORY_PARA_1" Language="zh_Hans_CN">
+			<Text>被誉为“美国现代艺术之母”的乔治娅·奥·吉弗（1887-1986）是美国著名的艺术家。她最为人所熟知的是她独特的画作，通常以硕大的花朵、纽约的摩天大楼和新墨西哥的风景为主要部分。</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_SC_GEORGIA_OKEEFFE_CHAPTER_HISTORY_PARA_2" Language="zh_Hans_CN">
+			<Text>乔治娅·奥·吉弗出生于威斯康星州太阳大草原，从小就开始了其艺术生涯。她十岁开始接受教育，后来在芝加哥艺术学院以全班第一的成绩毕业。1912年在弗吉尼亚大学求学时，她受到了阿瑟·韦斯利·道的作品的影响，从现实主义转向现代主义。她的作品吸引了摄影家兼艺术赞助人阿尔佛雷德.斯蒂费尔兹的注意，他后来成为了她的丈夫。20世纪20年代，奥·吉弗发展出了最容易与她联系在一起的绘画风格：如同透过放大镜一般看到的花卉的大比例图像。她对色彩和形式的大胆运用（也许还有她艺术中的一些弗洛伊德式的诠释）使她的艺术脱颖而出，获得了关注。生活在纽约期间，她还开始尝试另一主题：城市里的许多摩天大楼以及它们明亮的灯光与黑暗的天空的对照。</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_SC_GEORGIA_OKEEFFE_CHAPTER_HISTORY_PARA_3" Language="zh_Hans_CN">
+			<Text>从20世纪20年代末开始，她开始到新墨西哥州旅游，在那里她受到了生动的风景和当地美学的启发。1949年，她永久地搬到了那里，于阿比丘定居，后来搬到了圣菲。晚年时她的健康每况愈下，到1972年时她几乎失去了视力。1986年于圣菲去世。她是艺术界中不可忽视的力量；她的艺术作品因大胆和能够唤起敬畏以及其他强烈情感而受到赞誉。2014年，她的画作《曼陀罗》卖出了4440.5万美元，是之前女画家作品的世界记录的三倍多。</Text>
+		</Row>
+
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_SC_ANDY_WARHOL_NAME" Language="zh_Hans_CN">
+			<Text>安迪·沃霍尔</Text>
+		</Row>
+
+		<Row Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_SC_ANDY_WARHOL_CHAPTER_HISTORY_PARA_1" Language="zh_Hans_CN">
+			<Text>安迪·沃霍尔（1928 - 1987）是美国著名的艺术家，以前卫的艺术和生活方式而闻名。他是波普艺术运动的领军人物，摒弃了美术教条，追求更加大众（即人民）的风格，探索文化、价值和消费文化之间的关系。</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_SC_ANDY_WARHOL_CHAPTER_HISTORY_PARA_2" Language="zh_Hans_CN">
+			<Text>安迪·沃霍尔出生于匹兹堡，是来自于今日的斯洛伐克莱姆科的移民。在这种情况下，他开始尝试丝网版画，在这种方法的不确切的变化性中找到了精确的魅力。丝网版画产生了他的一些最著名的作品，就在他开始第一次展览的时候，他的艺术技能便使他在RCA唱片公司获得一份制作专辑封面和宣传片的工作。20世纪60年代，他创作了一些最具标志性的作品，包括《玛丽莲梦露》，他的知名度迅速高涨。大约在这个时候，他创办了“工厂”，它既是一间工作室，也是艺术家、作家、音乐家和其他名流的集聚地。</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_SC_ANDY_WARHOL_CHAPTER_HISTORY_PARA_3" Language="zh_Hans_CN">
+			<Text>除了绘画和素描，沃霍尔还在20世纪60年代尝试了电影并进军音乐行业，担任地下丝绒乐队的经理，这支乐队在沃霍尔的多媒体作品《不可避免的塑料爆炸》中担任主角。1968年，沃霍尔在一名“工厂”前成员的暗杀企图中幸存，并于整个70年代和80年代继续从事艺术创作，包括伊朗国王穆罕默德·礼萨·巴列维的肖像画。在1987年去世之前，他一直都是纽约艺术界中具有巨大影响力的人物。被认为是“波普教皇”，他的作品中鲜明的对比、紧密相连的信息以及对色彩的大胆运用至今仍能引发人们的思考，是20世纪文化意识的重要部分。</Text>
+		</Row>
+
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_SC_ROY_LICHTENSTEIN_NAME" Language="zh_Hans_CN">
+			<Text>罗伊·利希滕斯坦</Text>
+		</Row>
+
+		<Row Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_SC_ROY_LICHTENSTEIN_CHAPTER_HISTORY_PARA_1" Language="zh_Hans_CN">
+			<Text>罗伊·利希滕斯坦（1923-1977）是美国波普艺术家。他以既反映又恶搞原始素材的面板漫画艺术而著称。</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_SC_ROY_LICHTENSTEIN_CHAPTER_HISTORY_PARA_2" Language="zh_Hans_CN">
+			<Text>利希滕斯坦出生在纽约一个中上层的犹太家庭。他在俄亥俄州立大学攻读美术学位，但因在第二次世界大战期间服兵役而中断。从军队回来后，利希滕斯坦完成了他的学位并在两年后举行了他的第一次个人展。在接下来的十年里，他改进了他的艺术风格，从立体-表现主义风格转为一种更加紧密植根于抽象表现主义的风格。20世纪60年代，他开始创作他最著名的一种作品类型：面板漫画的怀旧画作。他这种形式下的第一部作品《看米奇》开启了利希滕斯坦多产而短暂的黄金时代。</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_SC_ROY_LICHTENSTEIN_CHAPTER_HISTORY_PARA_3" Language="zh_Hans_CN">
+			<Text>即使存在争议，利希滕斯坦在艺术界也是一个异乎寻常的人物，他的作品无疑是充满个性的，但有些人指控他剽窃。尽管有些人也认为他的艺术缺乏灵魂，但利希滕斯坦始终坚持认为他最著名的作品是对资本主义、消费主义和艺术、意象的现代大量生产的批判。20世纪60年代后期，利希滕斯坦从漫画意象着手，创作了反映昔日杰作的作品并创作了《笔触》系列。他在艺术上不断革新直至去世，在各色项目、风格和关注点间转换直至于1997年去世。作为波普艺术运动中最引人注目的人物之一，他被人们所深情铭记。直到今天，他的画作仍然吸引着观众。</Text>
+		</Row>
+
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_SC_JASPER_JOHNS_NAME" Language="zh_Hans_CN">
+			<Text>贾斯培·琼斯</Text>
+		</Row>
+
+		<Row Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_SC_JASPER_JOHNS_CHAPTER_HISTORY_PARA_1" Language="zh_Hans_CN">
+			<Text>贾斯培·琼斯（1930-）是美国抽象表现主义、新达达主义和波普艺术家。他的一些作品在在世的艺术家当中是最昂贵的。</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_SC_JASPER_JOHNS_CHAPTER_HISTORY_PARA_2" Language="zh_Hans_CN">
+			<Text>琼斯出生于乔治亚州，其艺术生涯起步较晚。在朝鲜战争中被派到仙台之前，他曾短暂地学习于纽约帕森设计学院。回到纽约后，贾斯培·琼斯与同为新达达主义艺术家的罗伯特·劳森伯格成为亲密好友。他们一同对艺术界产生了巨大影响。1958年，琼斯举行了第一次个人展，他的作品很快就被纽约现代艺术博物馆展出。 他还与美国作曲家约翰·凯奇合作，于1963年成立了当代表演艺术基金会。</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_SC_JASPER_JOHNS_CHAPTER_HISTORY_PARA_3" Language="zh_Hans_CN">
+			<Text>尽管琼斯通过各种媒介创作艺术，但他最出名的还是他的画作。旗帜和其他的美国元素常常出现在他的作品中，这些作品有时候横跨了新达达主义和波普艺术的界限。琼斯的作品在本质上是具有挑战性的；它们探讨了矛盾和对立的思想，并且在某些情况下使用了不寻常的材料。琼斯在职业生涯中获得了无数荣誉，包括国家荣誉艺术奖章和总统自由勋章。自20世纪80年代以来，琼斯放慢了创作的步伐——他通常每年创作四至五幅画作——但他的作品常常能卖出高价。事实上，他的画作在多数情况下都能创下在世艺术家中的最高成交价记录。</Text>
+		</Row>
+
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_SC_KIKI_KOGELNIK_NAME" Language="zh_Hans_CN">
+			<Text>奇奇‧柯根宁</Text>
+		</Row>
+
+		<Row Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_SC_KIKI_KOGELNIK_CHAPTER_HISTORY_PARA_1" Language="zh_Hans_CN">
+			<Text>奇奇‧柯根宁（1935-1997）是奥地利艺术家。她被认为是奥地利最举足轻重的波普艺术家，尽管她本人拒绝承认这种关系。</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_SC_KIKI_KOGELNIK_CHAPTER_HISTORY_PARA_2" Language="zh_Hans_CN">
+			<Text>柯根宁于维也纳美术学院学习艺术；1961年，她的艺术事业开始腾飞——在维也纳的施华特画廊举办了她的第一次展览。在祖国引发了轰动之后，她于1962年搬到纽约，在那里她成为了一个志同道合的艺术家团体的一员，包括其他伟大的艺术家如罗伊·利希滕斯坦、安迪·沃霍尔和贾斯培·琼斯。以与众不同的奢华帽子闻名，柯根宁在纽约是一个标识性人物。尽管她受到了主流波普艺术鲜艳的色彩和非传统材料使用的影响，但她反对这种运动对商业和世俗之物的赞颂，而是专注于未来主义和空间主题。</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_SC_KIKI_KOGELNIK_CHAPTER_HISTORY_PARA_3" Language="zh_Hans_CN">
+			<Text>20世纪70年代，柯根宁将注意转向了“女性”（Women）系列，在广告中强调女性的角色作用并通过艺术探讨女权主义。20世纪80年代，她推出了“扩展”（Expansion）系列，在这其中她尝试了更多使用瓷器、雕塑和电影来扩充她的绘画。她后期的作品更多关注于对人体的抽象描绘，同时延续着她对商业和装饰艺术观念的剖析。柯根宁于1997年去世，享年62岁；她死后被授予奥地利最高艺术成就勋章：奥地利科学与艺术荣誉十字勋章。</Text>
+		</Row>
+
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_SC_RENE_MAGRITTE_NAME" Language="zh_Hans_CN">
+			<Text>勒内·马格里特</Text>
+		</Row>
+
+		<Row Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_SC_RENE_MAGRITTE_CHAPTER_HISTORY_PARA_1" Language="zh_Hans_CN">
+			<Text>勒内·马格里特（1898 - 1967）是比利时艺术家，以其妙趣横生和发人深省的超现实主义意象而闻名。他的作品对后来的简约主义、概念主义和波普艺术流派产生重要影响。</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_SC_RENE_MAGRITTE_CHAPTER_HISTORY_PARA_2" Language="zh_Hans_CN">
+			<Text>马格里特1898年出生于比利时莱辛——是裁缝和女帽制作商之子。马格里特的早年生活鲜为人知，只知道他在1910年开始学习绘画，她的母亲在这两年后自杀。尽管母亲的去世对他影响很大，他还是坚持学业并在1915年左右创作了第一幅画作，表现出了印象派风格。他后来在布鲁塞尔皇家美术学院学习，但发现在那里缺乏灵感。他的后学院派作品转向了未来主义和立体主义。马格里特曾短暂地在比利时军队服役和在一家壁纸工厂担任绘图员。1926年，他与一家画廊签订合同，允许他全职从事绘画，同年，他创作了他的第一幅超现实主义画作。</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_SC_RENE_MAGRITTE_CHAPTER_HISTORY_PARA_3" Language="zh_Hans_CN">
+			<Text>然而，他早期的作品并未得到好评。马格里特先后搬到巴黎和布鲁塞尔，虽然他对失败感到沮丧，但他这些年中对超现实主义运动的发展产生了深远影响。在20世纪40年代德国占领时期，马格里特一直待在布鲁塞尔。战争结束后，他短暂地采用了一种更加明亮、色彩更丰富的风格，之后转向了瓦切时期更具煽动性的艺术风格。然而，他到达成功的道路是坎坷的，在战后依靠伪造毕加索等人的作品维持生计。直到20世纪60年代，也就是他去世前不久，勒内·马格里特的天才才真正得到认可——他极具挑战性的作品以其技巧和激起观众思考和反思的力量而得到赞誉。</Text>
+		</Row>
+
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_SC_YAYOI_KUSAMA_NAME" Language="zh_Hans_CN">
+			<Text>草间弥生</Text>
+		</Row>
+
+		<Row Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_SC_YAYOI_KUSAMA_CHAPTER_HISTORY_PARA_1" Language="zh_Hans_CN">
+			<Text>草间弥生（1929-）是日本艺术家，以其在雕塑和装置艺术中对色彩异乎寻常的运用而闻名。五十年来，草间弥生植根于美国抽象印象派和波普艺术，形成了一种独特的概念主义风格。</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_SC_YAYOI_KUSAMA_CHAPTER_HISTORY_PARA_2" Language="zh_Hans_CN">
+			<Text>草间弥生1929年出生于日本松本市的一个富裕家庭，从小就开始创作艺术和诗歌。她在10岁左右开始出现极其生动的幻觉——闪烁的光和点——这些启发了她代表性的艺术作品，她将这个过程称为“自我毁灭”。第二次世界大战期间——约13岁时——她到一家军工厂从事制作降落伞的工作，与此同时，她形成了个人和创作自由的强烈思想。战后，她在京都学习研究传统日本画的风格，但不久后就对西方的前卫艺术产生了兴趣；她于20世纪50年代在日本举行过几次展览……</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_SC_YAYOI_KUSAMA_CHAPTER_HISTORY_PARA_3" Language="zh_Hans_CN">
+			<Text>她早期的作品主要由抽象的原生样式构成，但她后来发展出了著名的波尔卡圆点，或称无限网图案。她在50年末搬到纽约，很快成为了美国前卫运动的领袖。她以创作质量高、数量多的作品而闻名，但在这时，她并没有从作品中获得金钱上的成功。20世纪60年代，她组织了几次反对越战的行为艺术表演，其中许多涉及了裸体。70年代，她返回了日本，在住进了东京附近的一家精神病院的时候，她开始在在艺术作品中使用加粗的丙烯颜料。在接下来的几十年里，她的作品重新引起了人们的注意，特别是在1993年的威尼斯双年展上，她首次展出了她的雕塑代表作《南瓜》和《无限镜》系列作品《镜屋》。她继续享誉国际；2017年，她的作品50年回顾展在华盛顿特区的赫什霍恩博物馆和东京草间弥生博物馆开幕。</Text>
+		</Row>
+
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_SC_BANKSY_NAME" Language="zh_Hans_CN">
+			<Text>班克西</Text>
+		</Row>
+
+		<Row Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_SC_BANKSY_CHAPTER_HISTORY_PARA_1" Language="zh_Hans_CN">
+			<Text>班克西是一个主要活跃在英国的匿名街头艺术家的名字。他的作品以讽刺和黑色幽默著称。</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_SC_BANKSY_CHAPTER_HISTORY_PARA_2" Language="zh_Hans_CN">
+			<Text>因为班克西的身份尚不明确，所以这位艺术家的早年生活鲜为人知。据信班克西在20世纪90年代开始创作作为布里斯托地下场景的一部分的涂鸦艺术。经过一段时期的写意涂鸦艺术，班克西转向了模板作画，这增加了他的作品产量从而提高了知名度。1999年创作的《温和又温和的西部》被认为是他的第一幅大型壁画。班克西的作品通常带有政治色彩，表现反战、反资本主义和反权威主题。</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_SC_BANKSY_CHAPTER_HISTORY_PARA_3" Language="zh_Hans_CN">
+			<Text>班克西的作品首次出现在2002年的一个展览会上，接下来的几年里，公共设施和其他地方出现了他的行为艺术。到了21世纪前十年的中期，他的名气已经相当大了，他的一件作品在苏富比卖出了5.04万英镑。由于班克西的流行，人们对街头艺术作品的兴趣普遍增加，这种现象被称作“班克西效应”。2010年，班克西导演了一部名为《从礼品店出门》的影片，影片于圣丹斯电影节首映并获奥斯卡最佳纪录片提名。班克西仍是一个神秘和争议的人物，有些人认为他的作品仅仅是破坏而非艺术。尽管如此，班克西继续创作富有挑战性和批判性的艺术作品；从纽约到加莱的丛林，从布里斯托到加萨走廊，班克西的作品在大众想象力中都是挥之不去的。</Text>
+		</Row>
+
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_SC_DAMIEN_HIRST_NAME" Language="zh_Hans_CN">
+			<Text>达明安·赫斯特</Text>
+		</Row>
+
+		<Row Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_SC_DAMIEN_HIRST_CHAPTER_HISTORY_PARA_1" Language="zh_Hans_CN">
+			<Text>达明安·赫斯特（1965-）是一名成功而有争议的英国艺术家。他是20世纪80年代末和90年代英国青年艺术家运动的领军人物。他的作品，包括死亡动物展览和旋转绘画艺术已经卖出了高昂的价格。</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_SC_DAMIEN_HIRST_CHAPTER_HISTORY_PARA_2" Language="zh_Hans_CN">
+			<Text>赫斯特出生在布里斯托，尽管他年轻时鲁莽而任性，但仍成功进入了雅各布·克莱默艺术学院，随后进入伦敦大学金匠学院。1991年，赫斯特举办了第一次个人展并结识了伊拉克裔的英国商人查尔斯·萨奇，萨奇给了他一笔钱，让他能够创作任何他想创作的艺术作品。这一交易的结果是，赫斯特最具代表性的作品《生者对死者无动于衷》在第二年问世。 这也是赫斯特众多作品中第一部用动物的遗骸来表达死亡观的作品。</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_SC_DAMIEN_HIRST_CHAPTER_HISTORY_PARA_3" Language="zh_Hans_CN">
+			<Text>《生者对死者无动于衷》使赫斯特一举成名，使他成为英国新兴艺术运动中最重要的一员。在接下来的几十年中，他继续创作古怪和非传统的雕刻艺术，并进军电影和音乐领域。他的傲慢姿态和前卫艺术使他成为艺术界中的一个两极分化的人物，有人质疑他的作品是否真的能称之为“艺术”。2008年9月，赫斯特在没有画廊介入的情况下，出人意料地卖出了完整的一系列展品，名为《美丽永驻我颅中》的展品以1.98亿美元的总价成交，打破了以往艺术家的拍卖记录。他的作品曾在奥运会、享有声誉的博物馆如泰特美术馆和威尼斯双年展上展出；唯有时间能告诉我们赫斯特在未来还会创作出什么具有创新性和实验性的作品。</Text>
+		</Row>
+
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_SC_TAKASHI_MURAKAMI_NAME" Language="zh_Hans_CN">
+			<Text>村上隆</Text>
+		</Row>
+
+		<Row Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_SC_TAKASHI_MURAKAMI_CHAPTER_HISTORY_PARA_1" Language="zh_Hans_CN">
+			<Text>村上隆（1962 -）是日本当代艺术家，以其独特的“超扁平”风格而闻名。灵感部分来自漫画和动画，村上隆独特的风格结合了这些日本新式的艺术形式和传统日本画形式。</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_SC_TAKASHI_MURAKAMI_CHAPTER_HISTORY_PARA_2" Language="zh_Hans_CN">
+			<Text>村上隆出生并成长于东京，从小就喜欢日本漫画和动画。他入学东京艺术大学，成为一名动画片制作者，但最终改为专注于学习传统日本画风格。在学习艺术的过程中，村上隆对传统的日本画和当代艺术越来越失望，觉得前者过于狭隘，后者又受到西方艺术潮流过多影响。村上隆的艺术风格调和了这两个缺点，它还寻求将“低级”的动画和漫画文化和“高级”的艺术文化结合起来。</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_SC_TAKASHI_MURAKAMI_CHAPTER_HISTORY_PARA_3" Language="zh_Hans_CN">
+			<Text>村上隆的艺术风格以明亮的色彩、卡通的质感和扁平、光滑的表面闻名。他的作品实际上常常带有讽刺性，涉及宗教、性和消费文化等主题。自村上隆于2000年确立了“超扁平”艺术风格的原则以来，一些其他的艺术家也纷纷效仿，而村上隆的国际声誉也不断提高——尤其是通过与路易威登、坎耶·维斯特和法瑞尔·威廉姆斯等的合作。2008年，村上隆被《时代》杂志列位100位最具影响力的人物之一，也是唯一入选的艺术家，两年后，他成为第三位在凡尔赛宫展览作品的当地艺术家。在世界范围内，村上隆对艺术界的影响在未来的几十年内必然会继续存在。</Text>
+		</Row>
+
+
+		<Row Tag="LOC_GREATWORK_SC_PICASSO_1_NAME" Language="zh_Hans_CN">
+			<Text>《亚威农少女》</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_SC_PICASSO_2_NAME" Language="zh_Hans_CN">
+			<Text>《格尔尼卡》</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_SC_PICASSO_3_NAME" Language="zh_Hans_CN">
+			<Text>《老吉他手》</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_SC_KAHLO_1_NAME" Language="zh_Hans_CN">
+			<Text>《戴着荆棘项链与蜂雀的自画像》</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_SC_KAHLO_2_NAME" Language="zh_Hans_CN">
+			<Text>《两个弗里达》</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_SC_KAHLO_3_NAME" Language="zh_Hans_CN">
+			<Text>《受伤的鹿》</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_SC_OKEEFFE_1_NAME" Language="zh_Hans_CN">
+			<Text>《纽约暖炉大楼——夜，1927》</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_SC_OKEEFFE_2_NAME" Language="zh_Hans_CN">
+			<Text>《蓝色和绿色的音乐》</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_SC_OKEEFFE_3_NAME" Language="zh_Hans_CN">
+			<Text>《牛骷髅：红，白，蓝》</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_SC_WARHOL_1_NAME" Language="zh_Hans_CN">
+			<Text>《金宝汤罐头》</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_SC_WARHOL_2_NAME" Language="zh_Hans_CN">
+			<Text>《玛丽莲双联画》</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_SC_WARHOL_3_NAME" Language="zh_Hans_CN">
+			<Text>《切·格瓦拉》</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_SC_LICHTENSTEIN_1_NAME" Language="zh_Hans_CN">
+			<Text>《溺水女孩》</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_SC_LICHTENSTEIN_2_NAME" Language="zh_Hans_CN">
+			<Text>《Whaam!》</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_SC_LICHTENSTEIN_3_NAME" Language="zh_Hans_CN">
+			<Text>《在汽车里》</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_SC_JOHNS_1_NAME" Language="zh_Hans_CN">
+			<Text>《三面旗帜》</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_SC_JOHNS_2_NAME" Language="zh_Hans_CN">
+			<Text>《地图》</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_SC_JOHNS_3_NAME" Language="zh_Hans_CN">
+			<Text>《彩色数字》</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_SC_KOGELNIK_1_NAME" Language="zh_Hans_CN">
+			<Text>《女机器人》</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_SC_KOGELNIK_2_NAME" Language="zh_Hans_CN">
+			<Text>《戴帽子的女士》</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_SC_KOGELNIK_3_NAME" Language="zh_Hans_CN">
+			<Text>《剪刀伤人》</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_SC_MAGRITTE_1_NAME" Language="zh_Hans_CN">
+			<Text>《形象的叛逆》</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_SC_MAGRITTE_2_NAME" Language="zh_Hans_CN">
+			<Text>《人类之子》</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_SC_MAGRITTE_3_NAME" Language="zh_Hans_CN">
+			<Text>《光之帝国》</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_SC_KUSAMA_1_NAME" Language="zh_Hans_CN">
+			<Text>《南瓜》</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_SC_KUSAMA_2_NAME" Language="zh_Hans_CN">
+			<Text>《女人》</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_SC_KUSAMA_3_NAME" Language="zh_Hans_CN">
+			<Text>《无限网》</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_SC_BANKSY_1_NAME" Language="zh_Hans_CN">
+			<Text>《给我看莫奈》</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_SC_BANKSY_2_NAME" Language="zh_Hans_CN">
+			<Text>《购物，直到你跌落》</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_SC_BANKSY_3_NAME" Language="zh_Hans_CN">
+			<Text>《怒掷鲜花的人》</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_SC_HIRST_1_NAME" Language="zh_Hans_CN">
+			<Text>《生者对死者无动于衷》</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_SC_HIRST_2_NAME" Language="zh_Hans_CN">
+			<Text>《看在上帝的份上》</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_SC_HIRST_3_NAME" Language="zh_Hans_CN">
+			<Text>《蝴蝶》</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_SC_MURAKAMI_1_NAME" Language="zh_Hans_CN">
+			<Text>《弹弹波通讯》</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_SC_MURAKAMI_2_NAME" Language="zh_Hans_CN">
+			<Text>《蘑菇大军》</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_SC_MURAKAMI_3_NAME" Language="zh_Hans_CN">
+			<Text>《如此可爱的花》</Text>
+		</Row>
+
+		<!--工程师 -->
+
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_SC_ANTONI_GAUDI_NAME" Language="zh_Hans_CN">
+			<Text>安东尼·高迪</Text>
+		</Row>
+
+		<Row Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_SC_ANTONI_GAUDI_CHAPTER_HISTORY_PARA_1" Language="zh_Hans_CN">
+			<Text>安东尼·高迪（1852 - 1926）是西班牙著名的建筑师，以注重细节和独一无二的创作闻名。他最著名的作品是巴塞罗那的圣家堂。</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_SC_ANTONI_GAUDI_CHAPTER_HISTORY_PARA_2" Language="zh_Hans_CN">
+			<Text>高迪被认为是一个内向的人，这可能部分是由于他童年时健康状态不佳。他在1878年获得了建筑学学位，他的第一个重要的委任，巴塞罗那的维森斯之家，让他立刻在西班牙和国外获得了认可。在1878年的巴黎世界博览会上，他结识了加泰罗尼亚实业家尤西比·古埃尔，后者后来委托高迪创作了一些他最著名的作品。1883年，高迪被委任为他最伟大的作品——圣家堂的负责人，但是他没能活着看到竣工。</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_SC_ANTONI_GAUDI_CHAPTER_HISTORY_PARA_3" Language="zh_Hans_CN">
+			<Text>高迪的建筑风格难以被分类。尽管受到现代、新哥特式和东方主义建筑风格的影响，高迪的风格却大量借鉴了自然界及其形式。他充分利用 Trencadís Gaudí ——碎瓷片，为他的作品增添了斑斓色彩和独特的图案。高迪似乎对他建筑的每一个部分亲历亲为，包括雕塑、陶瓷、花窗玻璃和木工活。圣家堂的工作耗费了高迪晚年的大部分时间，因此他更加坚定地认为自己可能无法活到建筑竣工的那一天。高迪于1926年去世，但上帝的建筑师（有时他被如此称呼）的遗产甚至留存至今，就如同圣家堂一样。</Text>
+		</Row>
+
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_SC_SANTIAGO_CALATRAVA_NAME" Language="zh_Hans_CN">
+			<Text>圣地亚哥·卡拉特拉瓦</Text>
+		</Row>
+
+		<Row Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_SC_SANTIAGO_CALATRAVA_CHAPTER_HISTORY_PARA_1" Language="zh_Hans_CN">
+			<Text>圣地亚哥·卡拉特拉瓦（1951-）是西班牙建筑师和结构工程师，以在设计中使用有机形状而闻名。他最著名的可能是设计了西班牙的巴伦西亚科学城。</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_SC_SANTIAGO_CALATRAVA_CHAPTER_HISTORY_PARA_2" Language="zh_Hans_CN">
+			<Text>年轻时，卡拉特拉瓦学习素描和绘画，一开始想成为一名艺术家。然而，他偶然间发现的一本勒·柯布西耶的建筑书激励了他成为一名建筑师。他于1981年获得学位并开始接受雇佣，主要是工业和基础设施工程。1987年，他的第一座桥——巴塞罗那巴克·德·罗达大桥竣工，使他获得了国际关注。他的下一座桥，塞维利亚的阿拉米略桥甚至更富创造性。在整个20世纪90年代，他继续创作富有创造性的基础设施，同时开始承接其他类型的工程，包括密尔沃基美术馆、坦纳利佛音乐厅、马尔默旋转大厦，当然还有巴伦西亚科学城。</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_SC_SANTIAGO_CALATRAVA_CHAPTER_HISTORY_PARA_3" Language="zh_Hans_CN">
+			<Text>卡拉特瓦拉在进入21世纪后继续创作动态结构。里约热内卢的明日博物馆和世贸中心交通枢纽都是他的最新作品。他的作品不属于任何特定的建筑风格，但也许最接近表现主义。他对曲线的运用为建筑带来了强烈的动态感，为大量的混凝土注入了生命。</Text>
+		</Row>
+
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_SC_ZAHA_HADID_NAME" Language="zh_Hans_CN">
+			<Text>扎哈·哈迪德</Text>
+		</Row>
+
+		<Row Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_SC_ZAHA_HADID_CHAPTER_HISTORY_PARA_1" Language="zh_Hans_CN">
+			<Text>扎哈·哈迪德（1950 - 2016）是伊拉克裔英国建筑师，以独特的建筑风格闻名，有人认为这是属于解构主义的一种形式。她因在作品中使用有机和非传统形状而被称为“曲线女王”。</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_SC_ZAHA_HADID_CHAPTER_HISTORY_PARA_2" Language="zh_Hans_CN">
+			<Text>扎哈·哈迪德1950年出生于伊拉克，是富有的实业家/政治家和艺术家的女儿。她在贝鲁特美国大学攻读数学，在伦敦建筑联盟学院攻读建筑学，在那里，她成为了一名出色的建筑师。 毕业后，她在许多著名大学教授建筑学，之后于20世纪90年代初开启了她的事业。</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_SC_ZAHA_HADID_CHAPTER_HISTORY_PARA_3" Language="zh_Hans_CN">
+			<Text>哈迪德在21世纪的前十年里完成了好几个备受瞩目的工程，包括广州大剧院和扎耶德桥，从起声名鹊起。2010年代，伦敦水上运动中心、密歇根布洛德博物馆和东大门设计广场竣工。遗憾的是，这些黄金时期也是她最后的时光，她于2016年猝然离世。在她去世之时，她的好几个工程项目仍未竣工，但诸如萨勒诺海运码头和一千博物馆等工程项目在她死后仍在继续建造。虽然她的事业戛然而止，但她仍被认为是一个高超的建筑师，被广泛地认为是她那个时代中最伟大的女性建筑师。</Text>
+		</Row>
+
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_SC_FRANK_GEHRY_NAME" Language="zh_Hans_CN">
+			<Text>弗兰克·盖里</Text>
+		</Row>
+
+		<Row Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_SC_FRANK_GEHRY_CHAPTER_HISTORY_PARA_1" Language="zh_Hans_CN">
+			<Text>弗兰克·盖里（1929 -）是一位出生于加拿大的美国建筑师，以遍布世界各地的许多独特建筑而闻名。他常常被认为是当今最重要的建筑师之一，被誉为“我们这个时代最伟大的建筑师”。</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_SC_FRANK_GEHRY_CHAPTER_HISTORY_PARA_2" Language="zh_Hans_CN">
+			<Text>弗兰克·盖里出生于加拿大多伦多，父母是东欧犹太人。他的创造力从小就得到祖母的鼓励；他们一起用盖里的祖父经营的五金店中留下的材料来建造迷你城市。他的父母也鼓励他多学习艺术和练习绘画技能。1947年，盖里和家人搬到了加利福尼亚州，在那里他最终毕业于南加州大学建筑学院。后来他搬到了马萨诸塞州的剑桥，于哈佛大学研究生设计学院攻读城市规划。但他对缺乏社会责任感的建筑学感到失望，并在课程结束之前离开了学校。盖里回到了南加州，1957年他在那里设计了自己的第一座私人住宅；一些年后的1978年，他改造了自己的家，创作了被一些人认为是首个解构主义的建筑，尽管他本人否认这一标签。</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_SC_FRANK_GEHRY_CHAPTER_HISTORY_PARA_3" Language="zh_Hans_CN">
+			<Text>20世纪80年代，随着名气的增长，盖里在南加州创作了几座著名建筑，包括圣莫妮卡广场、卡布利洛海洋生物馆和加州航天博物馆。他在1989年获得普利兹克建筑奖 ，并开始接受更大规模、更多的国际委托。他的第一个欧洲委托的建筑在1989年竣工，在接下来的几年里，其他著名的建筑相继完工，如1994年巴黎的法国电影资料馆和1996年布拉格的“跳舞的房子”。然而，他的声名真正来自于被誉为“二十世纪的杰作”的毕尔巴鄂古根海姆博物馆。古根海姆博物馆横扫一切伪解构主义风格，也为盖里后来的几件作品奠定了特色，包括西雅图流行文化博物馆和著名的洛杉矶华特·迪士尼音乐厅。在他的首次委托的60年后，盖里的作品仍未被分门别类，其雕塑在形式上也是独一无二的。他的建筑对城市的复兴产生了强有力的影响，这种现象被称为“毕尔巴鄂效应”，人们很难想象盖里——也许是世界上最伟大的“建筑明星”——在下一次会想出什么点子来。</Text>
+		</Row>
+
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_SC_ELON_MUSK_NAME" Language="zh_Hans_CN">
+			<Text>埃隆·马斯克</Text>
+		</Row>
+
+		<Row Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_SC_ELON_MUSK_CHAPTER_HISTORY_PARA_1" Language="zh_Hans_CN">
+			<Text>埃隆·马斯克（1971-）是南非企业家和工程师。他创立了许多公司——包括太空探索技术公司（SpaceX）、特斯拉公司（Tesla）和钻探公司（The Boring Company）——这些公司正在推进工程和交通领域的科学边界。</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_SC_ELON_MUSK_CHAPTER_HISTORY_PARA_2" Language="zh_Hans_CN">
+			<Text></Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_SC_ELON_MUSK_CHAPTER_HISTORY_PARA_3" Language="zh_Hans_CN">
+			<Text></Text>
+		</Row>
+
+
+		<Row Tag="LOC_GREATPERSON_SC_ANTONI_GAUDI_ACTIVE" Language="zh_Hans_CN">
+			<Text>该城市所有单元格+1魅力值。</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_SC_SANTIAGO_CALATRAVA_ACTIVE" Language="zh_Hans_CN">
+			<Text>航空港可提供+15 [ICON_Tourism] 旅游业绩。所有博物馆可产出+2 [ICON_Science] 科技值、+2 [ICON_Culture] 文化值。</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_SC_ZAHA_HADID_ACTIVE" Language="zh_Hans_CN">
+			<Text>立即在该区域建造竞技场、动物园和体育场。娱乐中心可提供+10 [ICON_Tourism] 旅游业绩。</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_SC_FRANK_GEHRY_ACTIVE" Language="zh_Hans_CN">
+			<Text>所有世界奇观提供+2 [ICON_Production] 生产力、+2 [ICON_Gold] 金币。</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_SC_ELON_MUSK_ACTIVE" Language="zh_Hans_CN">
+			<Text>所有单位在友好领土内获得+1 [ICON_Movement] 移动力。城市每个专业化区域产出+2 [ICON_Gold] 金币。</Text>
+		</Row>
+
+		<!-- 大将军 -->
+
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_SC_GEORGE_PATTON_NAME" Language="zh_Hans_CN">
+			<Text>乔治·巴顿</Text>
+		</Row>
+
+		<Row Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_SC_GEORGE_PATTON_CHAPTER_HISTORY_PARA_1" Language="zh_Hans_CN">
+			<Text>乔治·S·巴顿（1885-1945），美国陆军高级军官，以参与了第二次世界大战中的地中海和诺曼底战役而闻名。巴顿是美国装甲作战理论发展的核心人物。</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_SC_GEORGE_PATTON_CHAPTER_HISTORY_PARA_2" Language="zh_Hans_CN">
+			<Text>巴顿出生于加利福尼亚州圣盖博，从小就对军事史感兴趣。他在帕萨迪纳的一所私立男子学校学习了6年，后来进入弗吉尼亚军事学院。两年后，他被西点军校录取，在那里他获得了校园最佳剑手的称号。1909年从西点军校毕业，加入美国陆军骑兵部队。一年后，25岁的他与阿特丽斯·班宁·艾尔结婚并孕育了三个孩子。1912年，巴顿参加了斯德哥尔摩奥运会的第一界奥运会现代五项全能项目，尽管他没有获得金牌。奥运会结束后，他去了法国索米尔提升自己的击剑和剑术技能；一下年他将回到美国，重新设计美国骑兵的军刀作战理论，为此设计了1913式骑兵军刀。</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_SC_GEORGE_PATTON_CHAPTER_HISTORY_PARA_3" Language="zh_Hans_CN">
+			<Text>1916年，墨西哥革命家潘乔·维拉越境进入新墨西哥州并袭击了边境城市哥伦布，在这过程中杀了好几个美国公民。作为回应，美国政府发动了潘乔·维拉远征作为惩罚措施。 巴顿担任远征司令官约翰·潘兴的私人助手，从潘兴身上学到了许多指挥和领导军队的知识。巴顿的首次作战经历在1916年5月14日到来，这是美国战史上的首次机械化进攻。第一次世界大战期间，巴顿再一次服役于西线的潘兴部队，在那里与福克斯·康纳上校的一次偶遇开启了巴顿的装甲作战生涯——从创立AEF轻型坦克学校开始。因为战争期间的贡献，巴顿获得了包括紫心勋章在内的多个奖项。</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_SC_GEORGE_PATTON_CHAPTER_HISTORY_PARA_4" Language="zh_Hans_CN">
+			<Text>在两次世界大战之间，巴顿接触了德怀特·D·艾森豪威尔，这有助于推动美军更独立、更自主的装甲师的发展。1942年初，就在偷袭珍珠港两个月后，巴顿在加州帝王谷建立了沙漠训练中心；仅仅一年后，他参与了武装登陆法属北非的“火炬行动”。巴顿接管了驻守北非的美军第2军，并参与了西西里登陆。巴顿随后也参加了诺曼底登陆，率领第3集团军作为盟军地面部队的最西一翼；巴顿在向法国推进的过程中喜欢采取迅捷和声势浩大的行动，利用空中支援和机械化步兵的强有力的组合突破德军防线。在阿登战役中，这种机动性对于成功解救盟军部队来说是不可或缺的。战后，巴顿被委任为巴伐利亚军事行政长官，尽管当去纳粹化的重要性被淡化后，他被解除了这一职务。1945年12月8日，巴顿在德国施派尔附近遭遇车祸，于13天后，即战争结束的几个月后去世。他被安葬在卢森堡美军公墓，旁边是第3集团军的阵亡将士，这是忠诚的军人最合适的安息之所。</Text>
+		</Row>
+
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_SC_COLIN_POWELL_NAME" Language="zh_Hans_CN">
+			<Text>科林·鲍威尔</Text>
+		</Row>
+
+		<Row Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_SC_COLIN_POWELL_CHAPTER_HISTORY_PARA_1" Language="zh_Hans_CN">
+			<Text>科林·鲍威尔（1937-）是已退役的美国四星上将和前国务卿，是沙漠风暴行动和海湾战争时期的美国国防部参谋长联席会议主席。</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_SC_COLIN_POWELL_CHAPTER_HISTORY_PARA_2" Language="zh_Hans_CN">
+			<Text></Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_SC_COLIN_POWELL_CHAPTER_HISTORY_PARA_3" Language="zh_Hans_CN">
+			<Text></Text>
+		</Row>
+
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_SC_NORMAN_SCHWARZKOPF_NAME" Language="zh_Hans_CN">
+			<Text>小诺曼·施瓦茨科普夫</Text>
+		</Row>
+
+		<Row Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_SC_NORMAN_SCHWARZKOPF_CHAPTER_HISTORY_PARA_1" Language="zh_Hans_CN">
+			<Text>小诺曼·施瓦茨科普夫（1934 - 2012）是一位美国将军，有时也被称为“斯托明·诺曼”或“熊”。在海湾战争期间任美中央司令部司令和联军领袖。</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_SC_NORMAN_SCHWARZKOPF_CHAPTER_HISTORY_PARA_2" Language="zh_Hans_CN">
+			<Text></Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_SC_NORMAN_SCHWARZKOPF_CHAPTER_HISTORY_PARA_3" Language="zh_Hans_CN">
+			<Text></Text>
+		</Row>
+
+
+		<Row Tag="LOC_GREATPERSON_SC_GEORGE_PATTON_ACTIVE" Language="zh_Hans_CN">
+			<Text>所有现代及之后的重骑兵单位获得+1 [ICON_Movement] 移动力。</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_SC_COLIN_POWELL_ACTIVE" Language="zh_Hans_CN">
+			<Text>厌战情绪比平时减少50%。获得5位 [ICON_Envoy] 使者。</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_SC_NORMAN_SCHWARZKOPF_ACTIVE" Language="zh_Hans_CN">
+			<Text>为空中单位的训练+25% [ICON_Production] 生产力。赠予1个军事单位1次免费 [ICON_Promotion] 强化。</Text>
+		</Row>
+
+		<!-- 大工程师 -->
+
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_SC_BILL_GATES_NAME" Language="zh_Hans_CN">
+			<Text>比尔·盖茨</Text>
+		</Row>
+
+		<Row Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_SC_BILL_GATES_CHAPTER_HISTORY_PARA_1" Language="zh_Hans_CN">
+			<Text>比尔盖茨（1955-）是当今世界的第二富豪，是世界上最大的软件公司之一——微软的创始人。离开公司后，盖茨以其比尔及梅林达·盖茨基金会的慈善工作而获誉。</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_SC_BILL_GATES_CHAPTER_HISTORY_PARA_2" Language="zh_Hans_CN">
+			<Text></Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_SC_BILL_GATES_CHAPTER_HISTORY_PARA_3" Language="zh_Hans_CN">
+			<Text></Text>
+		</Row>
+
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_SC_ENZO_FERRARI_NAME" Language="zh_Hans_CN">
+			<Text>法拉利·恩佐</Text>
+		</Row>
+
+		<Row Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_SC_ENZO_FERRARI_CHAPTER_HISTORY_PARA_1" Language="zh_Hans_CN">
+			<Text>法拉利·恩佐（1898-1988）是意大利的一名汽车手和企业家，以创立了法拉利跑车制作公司而著名。</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_SC_ENZO_FERRARI_CHAPTER_HISTORY_PARA_2" Language="zh_Hans_CN">
+			<Text>法拉利出生于意大利摩德纳，在童年的大部分时光中，他几乎没有接受过正规教育，但在看到费里斯·纳扎罗在1908年博洛尼亚赛车上的胜利后，他萌生了成为一名赛车手的想法。第一次世界大战结束后不久，法拉利开始在汽车行业中寻找工作，并在1919年的柏塞托帕马雷久比赛中首次亮相。1920年，他加入了阿尔法·罗密欧的比赛处，仅仅四年之后，他就赢得了佩斯卡拉的埃尔伯杯。他参加了更多著名的比赛，但在1932年他的儿子阿尔弗雷多出生后便退役了。相反，他决定专注于赛车的管理和发展。法拉利与阿尔法·罗密欧断断续续地合作，直到1939年他成立了制车公司；二战期间，公司遭到重创，1947年，法拉利成立了以自己名字命名的新公司。</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_SC_ENZO_FERRARI_CHAPTER_HISTORY_PARA_3" Language="zh_Hans_CN">
+			<Text>法拉利公司在赛车领域的首个重要胜利是1949年的勒芒24小时赛，并在1952年获得了首个冠军。为了给公司提供资金，它们开始在一级方程式锦标赛中销售跑车。法拉利密切地管理公司，他的鲜明个性和富有争议的管理方式使他声名狼藉。1962年，公司中的一些最好的人才在“大罢工”事件中离开了公司，但是法拉利和公司经受住了这次风暴。尽管如此，法拉利公司的财政困难不断加剧，于是在1969年向竞争对手菲亚特公司出让了50%的股份。即使在法拉利与菲亚特合并，在因缺乏政治意愿而妨碍了摩德纳赛道的改造计划而于马拉内罗附近建造了费奥拉诺赛道之后，他仍活跃于赛车界及其事业中。在他1988年去世后的几十年里，法拉利的传奇仍在公司里延续，他的公司仍然被认为是世界上最优秀、最奢华的汽车品牌之一。</Text>
+		</Row>
+
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_SC_MARK_ZUCKERBERG_NAME" Language="zh_Hans_CN">
+			<Text>马克·扎克伯格</Text>
+		</Row>
+
+		<Row Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_SC_MARK_ZUCKERBERG_CHAPTER_HISTORY_PARA_1" Language="zh_Hans_CN">
+			<Text>马克·扎克伯格（1984-）是美国企业家和社交媒体网站Facebook的创始人之一。在他的领导下，Facebook已经发展到巨大的规模，截至2018年1月，每月活跃用户达到22亿。</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_SC_MARK_ZUCKERBERG_CHAPTER_HISTORY_PARA_2" Language="zh_Hans_CN">
+			<Text></Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_SC_MARK_ZUCKERBERG_CHAPTER_HISTORY_PARA_3" Language="zh_Hans_CN">
+			<Text></Text>
+		</Row>
+
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_SC_STEVE_JOBS_NAME" Language="zh_Hans_CN">
+			<Text>史蒂夫·乔布斯</Text>
+		</Row>
+
+		<Row Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_SC_STEVE_JOBS_CHAPTER_HISTORY_PARA_1" Language="zh_Hans_CN">
+			<Text>史蒂夫·乔布斯（1955-2011）是美国企业家、世界最大的信息技术公司苹果公司创始人之一。尽管乔布斯在1985年被迫离开苹果公司，但他在1997年再次成为首席执行官，并帮助公司重振雄风——在他去世7年后，苹果公司成为第一家市值超过1万亿美元的上市公司。</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_SC_STEVE_JOBS_CHAPTER_HISTORY_PARA_2" Language="zh_Hans_CN">
+			<Text></Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_SC_STEVE_JOBS_CHAPTER_HISTORY_PARA_3" Language="zh_Hans_CN">
+			<Text></Text>
+		</Row>
+
+
+		<Row Tag="LOC_GREATPERSON_SC_BILL_GATES_ACTIVE" Language="zh_Hans_CN">
+			<Text>所有城市的每个专业化区域产出+2 [ICON_Production] 生产力。</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_SC_ENZO_FERRARI_ACTIVE" Language="zh_Hans_CN">
+			<Text>所有城市的每个专业化区域产出+3 [ICON_Gold] 金币。</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_SC_MARK_ZUCKERBERG_ACTIVE" Language="zh_Hans_CN">
+			<Text>帝国全境内的 [ICON_Tourism] 旅游业绩产出翻倍。</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_SC_STEVE_JOBS_ACTIVE" Language="zh_Hans_CN">
+			<Text>为您的政体+1通配符槽位。</Text>
+		</Row>
+
+		<!-- 音乐家 -->
+
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_SC_SCOTT_JOPLIN_NAME" Language="zh_Hans_CN">
+			<Text>斯考特·乔普林</Text>
+		</Row>
+
+		<Row Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_SC_SCOTT_JOPLIN_CHAPTER_HISTORY_PARA_1" Language="zh_Hans_CN">
+			<Text>斯考特·乔普林（1868-1971）是非裔美国作曲家，被誉为“拉格泰姆之王”。他写了44首拉格泰姆原创作品，包括《枫叶拉格》。这可能是第一首，以及最具影响力的拉格泰姆歌曲。</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_SC_SCOTT_JOPLIN_CHAPTER_HISTORY_PARA_2" Language="zh_Hans_CN">
+			<Text></Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_SC_SCOTT_JOPLIN_CHAPTER_HISTORY_PARA_3" Language="zh_Hans_CN">
+			<Text></Text>
+		</Row>
+
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_SC_IGOR_STRAVINSKY_NAME" Language="zh_Hans_CN">
+			<Text>伊戈尔·斯特拉文斯基</Text>
+		</Row>
+
+		<Row Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_SC_IGOR_STRAVINSKY_CHAPTER_HISTORY_PARA_1" Language="zh_Hans_CN">
+			<Text>伊戈尔·斯特拉文斯基（1882-1971）是俄罗斯作曲家、钢琴家和指挥家，被认为是20世纪最重要的作曲家之一。他最出名的是芭蕾舞剧，特别是《火鸟》和《春之祭》。</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_SC_IGOR_STRAVINSKY_CHAPTER_HISTORY_PARA_2" Language="zh_Hans_CN">
+			<Text></Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_SC_IGOR_STRAVINSKY_CHAPTER_HISTORY_PARA_3" Language="zh_Hans_CN">
+			<Text></Text>
+		</Row>
+
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_SC_GEORGE_GERSHWIN_NAME" Language="zh_Hans_CN">
+			<Text>乔治·格什温</Text>
+		</Row>
+
+		<Row Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_SC_GEORGE_GERSHWIN_CHAPTER_HISTORY_PARA_1" Language="zh_Hans_CN">
+			<Text>乔治·格什温（1898-1937）是美国作曲家和钢琴家。他的作品主要是爵士乐，但同时也为电影担任配乐。他最著名的作品是《蓝色狂想曲》、《一个美国人在巴黎》和歌剧《波吉和贝丝》。</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_SC_GEORGE_GERSHWIN_CHAPTER_HISTORY_PARA_2" Language="zh_Hans_CN">
+			<Text></Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_SC_GEORGE_GERSHWIN_CHAPTER_HISTORY_PARA_3" Language="zh_Hans_CN">
+			<Text></Text>
+		</Row>
+
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_SC_ANTONIO_CARLOS_JOBIM_NAME" Language="zh_Hans_CN">
+			<Text>安东尼奥·卡洛斯·乔宾</Text>
+		</Row>
+
+		<Row Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_SC_ANTONIO_CARLOS_JOBIM_CHAPTER_HISTORY_PARA_1" Language="zh_Hans_CN">
+			<Text>安东尼奥·卡洛斯·乔宾（1927-1994）是作曲家、词曲作家和歌手，通常被认为是巴西最伟大的音乐家之一。他是巴萨诺瓦音乐发展和普及中的重要角色。</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_SC_ANTONIO_CARLOS_JOBIM_CHAPTER_HISTORY_PARA_2" Language="zh_Hans_CN">
+			<Text>乔宾出生在里约热内卢提茹卡区，他的父母在他出生后不久便分居了，母亲和他搬到了依帕内玛附近，这段经历对他的作品产生了重要影响。他的继父从小培养他的音乐兴趣，送给了他第一架钢琴。乔宾年轻时在夜总会和酒吧演唱谋生，后来在唱片公司担任编曲，他的事业才开始起步。乔宾的风格源于皮克辛尼哈和汉斯·约阿希姆·科尔雷特的作品，还有法国的作曲家如德彪西和拉威尔，以及爵士乐。乔宾在1956年取得了重大突破，他与诗人兼外交家维尼修斯·德·莫拉埃斯合作为戏剧《奥菲达·康塞康》配乐，并在三年后为其改编的电影作曲。</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_SC_ANTONIO_CARLOS_JOBIM_CHAPTER_HISTORY_PARA_3" Language="zh_Hans_CN">
+			<Text>接下来的几年里，乔宾与美国爵士乐萨克斯吹奏者斯坦·盖兹、巴西歌手若奥和阿斯特鲁德·吉尔伯托合作。由此而创作了专辑《盖兹/吉尔伯托》，它包括《依帕内玛女孩》和《科尔科瓦多》等在美国著名的热门歌曲，并在美国和世界各地都掀起了巴萨诺瓦热潮。《盖兹/吉尔伯托》（和《依帕内玛女孩》一起）在1965年获得了格莱美奖，并且成为第一张获得格莱美年度最佳专辑奖的爵士乐专辑。在取得这些早期成功后，乔宾继续创作音乐，直到1994年去世。他被广泛认为是20世纪最重要的作曲家之一，他的许多作品已经成为爵士乐的标杆。爵士乐和巴萨诺瓦是由他的音乐创新所塑造的，直到今天，在他的祖国巴西，人们仍然怀念着他。</Text>
+		</Row>
+
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_SC_DUKE_ELLINGTON_NAME" Language="zh_Hans_CN">
+			<Text>艾灵顿公爵</Text>
+		</Row>
+
+		<Row Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_SC_DUKE_ELLINGTON_CHAPTER_HISTORY_PARA_1" Language="zh_Hans_CN">
+			<Text>艾灵顿公爵（1899-1974）是美国著名的爵士乐作曲家和乐队指挥。艾灵顿从事音乐事业50余年，他被认为是爵士乐历史上的一个关键人物，他的乐队的许多成员都是有史以来最优秀的爵士乐音乐家。</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_SC_DUKE_ELLINGTON_CHAPTER_HISTORY_PARA_2" Language="zh_Hans_CN">
+			<Text></Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_SC_DUKE_ELLINGTON_CHAPTER_HISTORY_PARA_3" Language="zh_Hans_CN">
+			<Text></Text>
+		</Row>
+
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_SC_ELVIS_PRESLEY_NAME" Language="zh_Hans_CN">
+			<Text>埃尔维斯·普雷斯利</Text>
+		</Row>
+
+		<Row Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_SC_ELVIS_PRESLEY_CHAPTER_HISTORY_PARA_1" Language="zh_Hans_CN">
+			<Text>被人们亲切地称为“摇滚之王”的埃尔维斯·普雷斯利（1838-1977）是一位美国歌手，也是20世纪最受欢迎的文化偶像之一。他在很多音乐风格中都有广泛的影响，包括摇滚、乡村、蓝调和福音，直到今天他仍然是一个标志性的人物。</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_SC_ELVIS_PRESLEY_CHAPTER_HISTORY_PARA_2" Language="zh_Hans_CN">
+			<Text></Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_SC_ELVIS_PRESLEY_CHAPTER_HISTORY_PARA_3" Language="zh_Hans_CN">
+			<Text></Text>
+		</Row>
+
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_SC_GYORGY_LIGETI_NAME" Language="zh_Hans_CN">
+			<Text>利盖蒂·捷尔吉</Text>
+		</Row>
+
+		<Row Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_SC_GYORGY_LIGETI_CHAPTER_HISTORY_PARA_1" Language="zh_Hans_CN">
+			<Text>利盖蒂·捷尔吉（1923-2006）是匈牙利-奥地利古典乐作曲家，以前卫的作品而闻名。他开创了新的作曲方式，创造了在电影音轨中广受欢迎的以太音乐。</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_SC_GYORGY_LIGETI_CHAPTER_HISTORY_PARA_2" Language="zh_Hans_CN">
+			<Text>利盖蒂·捷尔吉出生于今罗马尼亚，祖籍是匈牙利的犹太人，1956年移民奥地利之前曾在匈牙利居住。他活跃于匈牙利的音乐界，在弗朗茨·李斯特音乐学院任教，但他认为当地的共产主义政府阻碍了他创作前卫的音乐。在他搬到维也纳之后，这一切才有所改变。</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_SC_GYORGY_LIGETI_CHAPTER_HISTORY_PARA_3" Language="zh_Hans_CN">
+			<Text>到维也纳之后，他前往科隆，在那里尝试了电子音乐，这对他的器乐曲产生了重大影响。他后来在斯德哥尔摩、斯坦福和汉堡教授音乐。他的作品以实验性著称；他发明了一种叫做微复调的音乐织体，这是一种极为密集的音乐，强调复杂性和同步性。他的作品赢得了国际声誉；最值得一提的是，他的几首歌曲被选斯坦利·库布里克在1968年的电影《2001：太空漫游》中使用。即使在2006年去世之后，利盖蒂·捷尔吉仍然被认为是二十世纪音乐界最有影响力和最具创新性的人物之一</Text>
+		</Row>
+
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_SC_JOHN_ADAMS_NAME" Language="zh_Hans_CN">
+			<Text>约翰·亚当斯</Text>
+		</Row>
+
+		<Row Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_SC_JOHN_ADAMS_CHAPTER_HISTORY_PARA_1" Language="zh_Hans_CN">
+			<Text>约翰·亚当斯（1947-）是一位以极简主义作品闻名的美国作曲家。他最著名的可能是他的歌剧作品，这些作品纪念了美国总统尼克松1972年访华或曼哈顿计划等现代事件。 他还创作了名为《灵魂转世》的合唱曲，以此纪念911事件的遇难者。</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_SC_JOHN_ADAMS_CHAPTER_HISTORY_PARA_2" Language="zh_Hans_CN">
+			<Text></Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_SC_JOHN_ADAMS_CHAPTER_HISTORY_PARA_3" Language="zh_Hans_CN">
+			<Text></Text>
+		</Row>
+
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_SC_CHRISTOPHER_TIN_NAME" Language="zh_Hans_CN">
+			<Text>田志仁</Text>
+		</Row>
+
+		<Row Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_SC_CHRISTOPHER_TIN_CHAPTER_HISTORY_PARA_1" Language="zh_Hans_CN">
+			<Text>田志仁（1976-）是美国作曲家，以其融合世界各地文化传统的管弦乐作品而闻名 。他的作品《我们的父》是电脑游戏《文明IV》的主题曲，也是有史以来第一首获得格莱美奖的电子游戏音乐。</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_SC_CHRISTOPHER_TIN_CHAPTER_HISTORY_PARA_2" Language="zh_Hans_CN">
+			<Text></Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_SC_CHRISTOPHER_TIN_CHAPTER_HISTORY_PARA_3" Language="zh_Hans_CN">
+			<Text></Text>
+		</Row>
+
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_SC_JOHN_WILLIAMS_NAME" Language="zh_Hans_CN">
+			<Text>约翰·威廉姆斯</Text>
+		</Row>
+
+		<Row Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_SC_JOHN_WILLIAMS_CHAPTER_HISTORY_PARA_1" Language="zh_Hans_CN">
+			<Text>约翰·威廉姆斯（1932-）是美国作曲家，因电影配乐而广为人知。在美国票房历史上最卖座的20部电影中，有8部由威廉姆斯创作配乐。在50多年的职业生涯中，他获得了51项奥斯卡提名。</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_SC_JOHN_WILLIAMS_CHAPTER_HISTORY_PARA_2" Language="zh_Hans_CN">
+			<Text></Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_SC_JOHN_WILLIAMS_CHAPTER_HISTORY_PARA_3" Language="zh_Hans_CN">
+			<Text></Text>
+		</Row>
+
+
+		<Row Tag="LOC_GREATWORK_SC_SCOTT_JOPLIN_1_NAME" Language="zh_Hans_CN">
+			<Text>《枫叶拉格》</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_SC_SCOTT_JOPLIN_2_NAME" Language="zh_Hans_CN">
+			<Text>《演艺人》</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_SC_IGOR_STRAVINSKY_1_NAME" Language="zh_Hans_CN">
+			<Text>《火鸟》</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_SC_IGOR_STRAVINSKY_2_NAME" Language="zh_Hans_CN">
+			<Text>《春之祭》</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_SC_GEORGE_GERSHWIN_1_NAME" Language="zh_Hans_CN">
+			<Text>《蓝色狂想曲》</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_SC_GEORGE_GERSHWIN_2_NAME" Language="zh_Hans_CN">
+			<Text>《一个美国人在巴黎》</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_SC_ANTONIO_CARLOS_JOBIM_1_NAME" Language="zh_Hans_CN">
+			<Text>《思念满盈》</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_SC_ANTONIO_CARLOS_JOBIM_2_NAME" Language="zh_Hans_CN">
+			<Text>《依帕内玛女孩》</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_SC_DUKE_ELLINGTON_1_NAME" Language="zh_Hans_CN">
+			<Text>《搭乘A号列车》</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_SC_DUKE_ELLINGTON_2_NAME" Language="zh_Hans_CN">
+			<Text>《大篷车》</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_SC_ELVIS_PRESLEY_1_NAME" Language="zh_Hans_CN">
+			<Text>《监狱摇滚》</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_SC_ELVIS_PRESLEY_2_NAME" Language="zh_Hans_CN">
+			<Text>《疯狗》</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_SC_GYORGY_LIGETI_1_NAME" Language="zh_Hans_CN">
+			<Text>《大气层》</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_SC_GYORGY_LIGETI_2_NAME" Language="zh_Hans_CN">
+			<Text>《永恒之光》</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_SC_JOHN_ADAMS_1_NAME" Language="zh_Hans_CN">
+			<Text>《震教徒的环》</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_SC_JOHN_ADAMS_2_NAME" Language="zh_Hans_CN">
+			<Text>《如今人民是英雄》</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_SC_CHRISTOPHER_TIN_1_NAME" Language="zh_Hans_CN">
+			<Text>《我们的父》</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_SC_CHRISTOPHER_TIN_2_NAME" Language="zh_Hans_CN">
+			<Text>《飞翔之梦》</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_SC_JOHN_WILLIAMS_1_NAME" Language="zh_Hans_CN">
+			<Text>《星球大战》</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_SC_JOHN_WILLIAMS_2_NAME" Language="zh_Hans_CN">
+			<Text>《哈利·波特》</Text>
+		</Row>
+
+		<!-- 大预言家 -->
+
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_SC_KIMPA_VITA_NAME" Language="zh_Hans_CN">
+			<Text>金帕·维塔</Text>
+		</Row>
+
+		<Row Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_KIMPA_VITA_NAME_CHAPTER_HISTORY_PARA_1" Language="zh_Hans_CN">
+			<Text>金帕·维塔（1684 - 1706）是刚果王国的宗教领袖。 她是安东尼主义基督教运动的先知，该运动认为耶稣和其他早期基督教人物实际上来自刚果。</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_KIMPA_VITA_NAME_CHAPTER_HISTORY_PARA_2" Language="zh_Hans_CN">
+			<Text>金帕·维塔，又名比阿特丽兹·金帕·维塔，出生在今安哥拉的齐邦古山附近。尽管她出身贵族，但同时也出生在一个动乱年代，刚果王国被内战破坏殆尽。从小时候起，她就身怀异象，她被训练成为一个恩甘加·马林达——一个可以与超自然领域进行交流的人，但她最终放弃了这些信仰，转而皈依天主教。</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_KIMPA_VITA_NAME_CHAPTER_HISTORY_PARA_3" Language="zh_Hans_CN">
+			<Text>成年后，她开始帮助管理古老的首都姆班赞刚果。 她于1704年病倒，经历了一场圣安东尼的幻象。她宣称在这次经历中自己已经死去，由圣安东尼接管了她的身体。她开始宣言自己与上帝的联系，她与上帝沟通，并着手摧毁刚果人的传统的偶像崇拜。她寻求刚果王位的两个竞争者的支持，但他们都拒绝了他。于是她选择姆班赞刚果作为自己的首都。她派遣传教士传播安东尼主义的教义，但就在她的幻象发生两年之后，她被忠于国王佩德罗四世的军队以异教徒的身份逮捕并烧死。在她死后运动仍持续了一段时间，直到王国收复了姆班赞刚果，但据一些人说，现今的金邦谷教信仰根植于金帕·维塔的教义。</Text>
+		</Row>
+
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_SC_JOHN_CALVIN_NAME" Language="zh_Hans_CN">
+			<Text>约翰·加尔文</Text>
+		</Row>
+
+		<Row Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_SC_JOHN_CALVIN_CHAPTER_HISTORY_PARA_1" Language="zh_Hans_CN">
+			<Text>约翰·加尔文（1509 - 1564）是法国神学家，在新教改革中发挥了重要作用。他的教义，其中包含宿命论和“上帝在人类的救赎中拥有绝对权威”，后来被称为加尔文主义或改革宗。目前，世界上有1亿多名改革宗信徒。</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_SC_JOHN_CALVIN_CHAPTER_HISTORY_PARA_2" Language="zh_Hans_CN">
+			<Text></Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_SC_JOHN_CALVIN_CHAPTER_HISTORY_PARA_3" Language="zh_Hans_CN">
+			<Text></Text>
+		</Row>
+
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_SC_GURU_NANAK_NAME" Language="zh_Hans_CN">
+			<Text>拿那克宗师</Text>
+		</Row>
+
+		<Row Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_SC_GURU_NANAK_CHAPTER_HISTORY_PARA_1" Language="zh_Hans_CN">
+			<Text>拿那克宗师（1469 - 1539）是锡克教的创始人，被认为是人类历史上最伟大的宗教革新者之一。</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_SC_GURU_NANAK_CHAPTER_HISTORY_PARA_2" Language="zh_Hans_CN">
+			<Text>拿那克宗师出生在今巴基斯坦，属于商人阶层。根据锡克教的传统信仰，拿那克宗师在童年经历过的几件事表明他被神赐予恩典。后来他结了婚，有了两个孩子；他的长子将继承他的衣钵，成为一名宗教领袖。在15世纪末的某天，拿那克宗师创立了锡克教，这是一个信仰人类统一和唯一造物主的宗教。拿那克宗师的言语组成了锡克教的圣典《锡金圣典》的一部分。</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_SC_GURU_NANAK_CHAPTER_HISTORY_PARA_3" Language="zh_Hans_CN">
+			<Text>在努力传播锡克教信仰的同时，拿那克宗师开始了四次Udasis，或称旅程。这些旅程的细节尚不完全清楚；人们普遍认为他到访了巴格达，有些人说他还到访了西藏、麦加、罗马、耶路撒冷和苏丹等地。尽管缺少关于他生活的细节，但他的影响是不可否认的。尽管他死于1539年，但锡克教仍然兴旺发展；他与其他9位锡克教宗师并称，锡克教至今仍有大约2500万信徒。</Text>
+		</Row>
+
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_SC_IGNATIUS_OF_LOYOLA_NAME" Language="zh_Hans_CN">
+			<Text>圣·弗兰西斯·波吉亚</Text>
+		</Row>
+
+		<Row Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_SC_IGNATIUS_OF_LOYOLA_CHAPTER_HISTORY_PARA_1" Language="zh_Hans_CN">
+			<Text>圣依纳爵·罗耀拉（1491-1556）是西班牙的一名巴斯克牧师和神学家，他建立了耶稣会，这是反宗教改革时期一个重要的天主教组织。罗耀拉的耶稣会士们致力于传播福音，但也因他们在世界各地促进教育而闻名。</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_SC_IGNATIUS_OF_LOYOLA_CHAPTER_HISTORY_PARA_2" Language="zh_Hans_CN">
+			<Text></Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_SC_IGNATIUS_OF_LOYOLA_CHAPTER_HISTORY_PARA_3" Language="zh_Hans_CN">
+			<Text></Text>
+		</Row>
+
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_SC_CHAITANYA_MAHAPRABHU_NAME" Language="zh_Hans_CN">
+			<Text>柴坦亚·玛哈帕布</Text>
+		</Row>
+
+		<Row Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_SC_CHAITANYA_MAHAPRABHU_CHAPTER_HISTORY_PARA_1" Language="zh_Hans_CN">
+			<Text>柴坦亚·玛哈帕布（1486 - 1534）是一位吠陀精神领袖，他最著名的是创立了印度教的高迪亚毗湿奴派。他的追随者相信他是毗湿奴的化身，他普及了哈瑞奎师那圣歌，并创作了Shikshashtakam祈祷文。</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_SC_CHAITANYA_MAHAPRABHU_CHAPTER_HISTORY_PARA_2" Language="zh_Hans_CN">
+			<Text>柴坦亚·玛哈帕布据说在一次月食期间出生在今印度西孟加拉邦。据说他早年就被指示念经、吟唱和学习梵文。在前往加雅为他死去的父亲执行Śrāddha仪式的途中，他见到了苦行僧伊什瓦拉·普里，对毗湿奴派更加着迷。回到孟加拉后，他在毗湿奴派教徒中的的地位迅速上升并成为领袖。柴坦亚游历了整个印度，仿佛祷念奎师那神之名。</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_SC_CHAITANYA_MAHAPRABHU_CHAPTER_HISTORY_PARA_3" Language="zh_Hans_CN">
+			<Text>最后他去了奥里萨邦的布里，那里坐落着巨大的札格纳特神庙；他将在那里度过他生命的最后24年 。奥里萨的最后一位加贾帕蒂皇帝，普拉塔帕鲁德拉·德瓦，将柴坦亚视作奎师那的化身，并成为他热心的赞助人。高迪亚毗湿奴派正是在这里形成，它强调神圣的爱（三昧）和神圣的狂喜（巴克提）；据说，柴坦亚·玛哈帕布编写的《Shikshashtakam》以浓缩的形式概括了高迪亚毗湿奴派的完整哲学。一些人认为柴坦亚在孟加拉开启了一个复兴时期，激发了那里的更多的宗教信仰和怜悯。高迪亚毗湿奴派今天继续蓬勃发展，追随者遍布世界。</Text>
+		</Row>
+
+		<!-- 大科学家 -->
+
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_SC_TIMOTHY_BERNERSLEE_NAME" Language="zh_Hans_CN">
+			<Text>蒂姆·伯纳斯·李</Text>
+		</Row>
+
+		<Row Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_SC_TIMOTHY_BERNERSLEE_CHAPTER_HISTORY_PARA_1" Language="zh_Hans_CN">
+			<Text>蒂姆·伯纳斯·李（1955-）是英国计算机科学家和工程师，被认为是万维网的发明者。他创造了第一个网络浏览器、网络服务器和网站，并为其发展形成了许多基本原则，使互联网为大众所访问。</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_SC_TIMOTHY_BERNERSLEE_CHAPTER_HISTORY_PARA_2" Language="zh_Hans_CN">
+			<Text></Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_SC_TIMOTHY_BERNERSLEE_CHAPTER_HISTORY_PARA_3" Language="zh_Hans_CN">
+			<Text></Text>
+		</Row>
+
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_SC_MILDRED_DRESSELHAUS_NAME" Language="zh_Hans_CN">
+			<Text>米莉·德雷斯尔豪斯</Text>
+		</Row>
+
+		<Row Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_SC_MILDRED_DRESSELHAUS_CHAPTER_HISTORY_PARA_1" Language="zh_Hans_CN">
+			<Text>被誉为“碳学女王”的米莉·德雷斯尔豪斯（1930 - 2017）是一位美国科学家，以其在碳科学和纳米科学领域的重要贡献而闻名。</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_SC_MILDRED_DRESSELHAUS_CHAPTER_HISTORY_PARA_2" Language="zh_Hans_CN">
+			<Text>米莉·德雷斯尔豪斯是波兰犹太人的女儿，生于长于纽约。她曾被几所著名大学录取，包括剑桥大学、哈佛大学、康奈尔大学和芝加哥大学，她曾在芝加哥大学师从诺贝尔奖得主恩里科·费米。完成学位后，她开始在麻省理工学院工作，开始了长达57年的职业生涯。</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_SC_MILDRED_DRESSELHAUS_CHAPTER_HISTORY_PARA_3" Language="zh_Hans_CN">
+			<Text>德雷斯尔豪斯的主要研究重点是碳科学，石墨、富勒烯、纳米管、热电学等。她和她的团队的研究在移动电子技术的发展中发挥了不可或缺的作用：薄石墨用于智能手机和智能服装等便携式电子产品。因为她的研究和她在扩大妇女在科学领域的作为方面所发挥的作用，她的一生中获得了无数的奖项，包括国家科学奖章和总统自由奖章。许多科学理论都是以德雷斯尔豪斯命名的，就在她2017年去世前不久，她成为了一场鼓励更多女性参与STEM领域运动的代言人；她的贡献不仅具有科学意义，而且具有重大的社会意义。</Text>
+		</Row>
+
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_SC_SHINYA_YAMANAKA_NAME" Language="zh_Hans_CN">
+			<Text>山中伸弥</Text>
+		</Row>
+
+		<Row Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_SC_SHINYA_YAMANAKA_CHAPTER_HISTORY_PARA_1" Language="zh_Hans_CN">
+			<Text>山中伸弥（1962 -）是一位日本科学家，因其在干细胞研究方面的开创性工作而闻名。他研究发现了一种在不破坏胚胎的情况下获取干细胞的方法，从而推动了干细胞研究的科学标准的变革。</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_SC_SHINYA_YAMANAKA_CHAPTER_HISTORY_PARA_2" Language="zh_Hans_CN">
+			<Text>山中伸弥出生于日本东大阪市，在神户大学获得医学博士学位和在大阪市立大学研究生院取得了博士学位。他最初研究的是整形外科和心血管疾病。从1996年到1999年，山中一直在大阪市立大学医学院担任助理教授，但当他发现自己无法在那里进行实际的研究时，他的幻想破灭了。1999年，他申请并获得了奈良理工大学的一个职位，在那里他开始了一项后来为他赢得诺贝尔奖的研究。</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_SC_SHINYA_YAMANAKA_CHAPTER_HISTORY_PARA_3" Language="zh_Hans_CN">
+			<Text>2006年，山中转至京都大学，在那里他和他的团队能够从被称为成纤维细胞的成年小鼠细胞中产生诱导形成多能干细胞（iPS细胞）。在此之前，唯一已知的收集干细胞的方法是从胚胎中提取，胚胎会在这个过程中被破坏，因此带有伦理上的顾虑。人们认为，成熟细胞无法表现出多能性——即生成所有类型细胞的能力——但山中教授的研究证明了另一种情况：成熟细胞可以被“重新编程”，进入多能状态。在最初的发现之后，山中和他的团队重复这一过程，但使用的是人类细胞。这项发现彻底变革了干细胞研究，一方面提高了干细胞创造的效率，另一方面避开了道德困境，这些困境源于对人类胚胎的破坏和克隆人类的可能性，并会因此给该领域带来争议和阻碍资金的持续投入。由于他开创性的成果，山中伸弥与英国发育生物学家约翰·戈登一起获得了2012年诺贝尔生理学或医学奖。展望未来，只有时间才能告诉我们山中博士还会发现什么其他突破，并揭示他的发现的真正影响程度。</Text>
+		</Row>
+
+
+		<Row Tag="LOC_GREATPERSON_SC_SPACE_RACE_PRODUCTION_RATE_MEDIUM" Language="zh_Hans_CN">
+			<Text>为太空竞赛项目+{Amount}% [ICON_Production] 生产力。</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_SC_TIMOTHY_BERNERSLEE_ACTIVE" Language="zh_Hans_CN">
+			<Text>帝国全境内的 [ICON_Tourism] 旅游业绩产出翻倍。</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_SC_MILDRED_DRESSELHAUS_ACTIVE" Language="zh_Hans_CN">
+			<Text>为太空竞赛项目+100% [ICON_Production] 生产力。</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_SC_SHINYA_YAMANAKA_ACTIVE" Language="zh_Hans_CN">
+			<Text>为该城市+2 [ICON_Housing] 住房、+4 [ICON_Amenities] 宜居度。</Text>
+		</Row>
+
+		<!-- 大作家 -->
+
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_SC_AGATHA_CHRISTIE_NAME" Language="zh_Hans_CN">
+			<Text>阿加莎·克里斯蒂</Text>
+		</Row>
+
+		<Row Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_SC_AGATHA_CHRISTIE_CHAPTER_HISTORY_PARA_1" Language="zh_Hans_CN">
+			<Text>阿加莎·克里斯蒂（1890 - 1976）是英国最著名的推理小说作家之一，她的作品主要以赫尔克里·波洛和马普尔小姐作为主角。她是侦探小说黄金时代不可或缺的一部分，至今仍是历史上作品译本最多的个人作家。</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_SC_AGATHA_CHRISTIE_CHAPTER_HISTORY_PARA_2" Language="zh_Hans_CN">
+			<Text></Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_SC_AGATHA_CHRISTIE_CHAPTER_HISTORY_PARA_3" Language="zh_Hans_CN">
+			<Text></Text>
+		</Row>
+
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_SC_GABRIEL_GARCIA_MARQUEZ_NAME" Language="zh_Hans_CN">
+			<Text>加夫列尔·加西亚·马尔克斯</Text>
+		</Row>
+
+		<Row Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_SC_GABRIEL_GARCIA_MARQUEZ_CHAPTER_HISTORY_PARA_1" Language="zh_Hans_CN">
+			<Text>加夫列尔·加西亚·马尔克斯（1927-2014）是一位哥伦比亚作家，在拉丁美洲被亲切地称为加博或加比托。他被广泛认为是最具影响力的西班牙语作家之一，1982年获得诺贝尔文学奖。为普及魔幻现实主义流派作出了贡献。</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_SC_GABRIEL_GARCIA_MARQUEZ_CHAPTER_HISTORY_PARA_2" Language="zh_Hans_CN">
+			<Text></Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_SC_GABRIEL_GARCIA_MARQUEZ_CHAPTER_HISTORY_PARA_3" Language="zh_Hans_CN">
+			<Text></Text>
+		</Row>
+
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_SC_CHINUA_ACHEBE_NAME" Language="zh_Hans_CN">
+			<Text>钦努阿·阿契贝</Text>
+		</Row>
+
+		<Row Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_SC_CHINUA_ACHEBE_CHAPTER_HISTORY_PARA_1" Language="zh_Hans_CN">
+			<Text>钦努阿·阿契贝（1930 - 2013）是尼日利亚作家，他最著名的是他的小说处女作《瓦解》，这是非洲现代文学中读者最多的书。阿契贝的小说经常涉及他的伊博家园的文化冲突，作品和公众生活也经常涉及帝国主义的复杂性和及其遗产。</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_SC_CHINUA_ACHEBE_CHAPTER_HISTORY_PARA_2" Language="zh_Hans_CN">
+			<Text></Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_SC_CHINUA_ACHEBE_CHAPTER_HISTORY_PARA_3" Language="zh_Hans_CN">
+			<Text></Text>
+		</Row>
+
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_SC_JRR_TOLKIEN_NAME" Language="zh_Hans_CN">
+			<Text>J·R·R·托尔金</Text>
+		</Row>
+
+		<Row Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_SC_JRR_TOLKIEN_CHAPTER_HISTORY_PARA_1" Language="zh_Hans_CN">
+			<Text>J·R· R·托尔金（1892 - 1973）被认为是现代奇幻文学之父，他是一位英国作家，以发生在中土世界的神州的《霍比特人》和《指环王》三部曲而闻名。《霍比特人》和《指环王》的成功让奇幻文学在20世纪中期重新焕发了生机，许多现代奇幻作品也继续从托尔金的作品中汲取灵感。</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_SC_JRR_TOLKIEN_CHAPTER_HISTORY_PARA_2" Language="zh_Hans_CN">
+			<Text></Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_SC_JRR_TOLKIEN_CHAPTER_HISTORY_PARA_3" Language="zh_Hans_CN">
+			<Text></Text>
+		</Row>
+
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_SC_GEORGE_RR_MARTIN_NAME" Language="zh_Hans_CN">
+			<Text>乔治·R·R·马丁</Text>
+		</Row>
+
+		<Row Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_SC_GEORGE_RR_MARTIN_CHAPTER_HISTORY_PARA_1" Language="zh_Hans_CN">
+			<Text>乔治·R·R·马丁（1948 -），美国作家，主要创作奇幻、恐怖和科幻小说。他最著名的作品是《冰与火之歌》系列小说，《冰与火之歌》系列小说是《权力的游戏》系列电视剧的基础。他被称为“美国的托尔金”，因为他以创造丰富的细致世界和复杂的角色而闻名。</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_SC_GEORGE_RR_MARTIN_CHAPTER_HISTORY_PARA_2" Language="zh_Hans_CN">
+			<Text></Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_SC_GEORGE_RR_MARTIN_CHAPTER_HISTORY_PARA_3" Language="zh_Hans_CN">
+			<Text></Text>
+		</Row>
+
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_SC_JK_ROWLING_NAME" Language="zh_Hans_CN">
+			<Text>J.K.罗琳</Text>
+		</Row>
+
+		<Row Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_SC_JK_ROWLING_CHAPTER_HISTORY_PARA_1" Language="zh_Hans_CN">
+			<Text>J. K.罗琳（1965 -）是英国作家，最著名的作品是《哈利·波特》系列丛书，这是历史上最畅销的系列书籍。这个系列的成功使她成为世界上第一个亿万富翁作家，尽管她失去了这个地位，因为她积极从事慈善事业，包括通过她自己的慈善组织Lumos。</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_SC_JK_ROWLING_CHAPTER_HISTORY_PARA_2" Language="zh_Hans_CN">
+			<Text></Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_SC_JK_ROWLING_CHAPTER_HISTORY_PARA_3" Language="zh_Hans_CN">
+			<Text></Text>
+		</Row>
+
+
+		<Row Tag="LOC_GREATWORK_SC_AGATHA_CHRISTIE_1_NAME" Language="zh_Hans_CN">
+			<Text>《东方快车谋杀案》</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_SC_AGATHA_CHRISTIE_2_NAME" Language="zh_Hans_CN">
+			<Text>《无人生还》</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_SC_GABRIEL_GARCIA_MARQUEZ_1_NAME" Language="zh_Hans_CN">
+			<Text>《百年孤独》</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_SC_GABRIEL_GARCIA_MARQUEZ_2_NAME" Language="zh_Hans_CN">
+			<Text>《霍乱时期的爱情》</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_SC_CHINUA_ACHEBE_1_NAME" Language="zh_Hans_CN">
+			<Text>《瓦解》</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_SC_CHINUA_ACHEBE_2_NAME" Language="zh_Hans_CN">
+			<Text>《再也不得安宁》</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_SC_JRR_TOLKIEN_1_NAME" Language="zh_Hans_CN">
+			<Text>《霍比特人》</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_SC_JRR_TOLKIEN_2_NAME" Language="zh_Hans_CN">
+			<Text>《魔戒现身》</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_SC_GEORGE_RR_MARTIN_1_NAME" Language="zh_Hans_CN">
+			<Text>《权力的游戏》</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_SC_GEORGE_RR_MARTIN_2_NAME" Language="zh_Hans_CN">
+			<Text>《列王的纷争》</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_SC_JK_ROWLING_1_NAME" Language="zh_Hans_CN">
+			<Text>《哈利波特与魔法石》</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_SC_JK_ROWLING_2_NAME" Language="zh_Hans_CN">
+			<Text>《哈利波特与阿兹卡班囚徒》</Text>
+		</Row>
+
+		<Row Tag="LOC_GREATWORK_SC_AGATHA_CHRISTIE_1_QUOTE" Language="zh_Hans_CN">
+			<Text>不可能的事不可能已经发生，因此不可能的事尽管看起来不可能，但肯定有可能发生。</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_SC_AGATHA_CHRISTIE_2_QUOTE" Language="zh_Hans_CN">
+			<Text>生即是死，无时无刻。</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_SC_GABRIEL_GARCIA_MARQUEZ_1_QUOTE" Language="zh_Hans_CN">
+			<Text>安度晚年的秘诀不是别的，而是和孤独签订体面的协议。</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_SC_GABRIEL_GARCIA_MARQUEZ_2_QUOTE" Language="zh_Hans_CN">
+			<Text>他觉得她美若无私，勾魂夺魄，没有任何人跟他似的魂不守舍，踢里吐咱地磕碰着街上的方石。她衣衫上的宽荷叶边一禽一动送来的气息竟没使别人的心跳失常，她的头发扇起的微风，她的似乎在飞翔的双手以及那金子般的笑声也没让所有的人爱得发疯，他简直不可思议。</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_SC_CHINUA_ACHEBE_1_QUOTE" Language="zh_Hans_CN">
+			<Text>太阳照耀站立在面前的人，也照耀跪倒在面前的人。</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_SC_CHINUA_ACHEBE_2_QUOTE" Language="zh_Hans_CN">
+			<Text>你不可能如种植山药或玉米那样种植伟大。谁曾种植伊罗柯树 — 森林中最伟大的树？你大可收集世上所有的伊罗柯种子，松开土壤，将它们放入其中。这是徒劳的，大树选择生长之地，人类的伟大也是如此。</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_SC_JRR_TOLKIEN_1_QUOTE" Language="zh_Hans_CN">
+			<Text>我的鳞甲如同十层重叠的钢盾，尖牙如同长剑，利爪如同枪戟，我的尾巴轻轻一挥，凡人就如遭雷击，我的翅膀稍稍一煽，天地间就飞沙走石，我的呼吸就足以带来死亡！</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_SC_JRR_TOLKIEN_2_QUOTE" Language="zh_Hans_CN">
+			<Text>魔戒全属至尊御，至尊指引诸魔戒，至尊魔戒唤众戒，众戒归一黑暗中。</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_SC_GEORGE_RR_MARTIN_1_QUOTE" Language="zh_Hans_CN">
+			<Text>读书明其智，正如磨剑利其刃。</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_SC_GEORGE_RR_MARTIN_2_QUOTE" Language="zh_Hans_CN">
+			<Text>人们常常声称渴望真理，但真理端上来时，却很少会喜欢它的味道。</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_SC_JK_ROWLING_1_QUOTE" Language="zh_Hans_CN">
+			<Text>不要沉湎于虚幻的梦想，而忘记现实的生活。</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_SC_JK_ROWLING_2_QUOTE" Language="zh_Hans_CN">
+			<Text>我庄严宣誓我没干好事。</Text>
+		</Row>
+
+		<!-- Updating Ture's Descrption -->
+		<Row Tag="LOC_GREATPERSON_SC_SAMORI_TURE_ACTIVE" Language="zh_Hans_CN">
+			<Text>立即获得1个拥有1次 [ICON_Promotion] 强化等级的步兵单位。</Text>
+		</Row>
+
+	</LocalizedText>
+</GameData>

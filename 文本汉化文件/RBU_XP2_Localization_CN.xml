@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!-- RBU_XP2_Localization_CN -->
+<!-- Author: Clear8Sky -->
+<!-- DateCreated: 3/18/2020 3:19:20 PM -->
+<GameData>
+	<LocalizedText>
+		<!-- XP2汉化 -->
+		<Row Tag="LOC_BUILDING_COAL_POWER_PLANT_UPGRADE_NAME" Language="zh_Hans_CN">
+			<Text>燃煤发电厂·升级</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_COAL_POWER_PLANT_UPGRADE_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>升级后的燃煤发电厂是初期区域性工业中心。[NEWLINE]可为9个单元格内每个市中心提供+1 [ICON_Production] 生产力，并使此城建造的每个区域可额外提供+1 [ICON_Production] 生产力。此城的每个 [ICON_RESOURCE_COAL] 煤资源可额外提供+3 [ICON_Production] 生产力。</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_FOSSIL_FUEL_POWER_PLANT_UPGRADE_NAME" Language="zh_Hans_CN">
+			<Text>燃油发电厂·升级</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_FOSSIL_FUEL_POWER_PLANT_UPGRADE_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>升级后的燃油发电厂是中期区域性工业中心。[NEWLINE]可为9个单元格内每个市中心提供+1 [ICON_Production] 生产力，并使此城建造的每个区域可额外提供+1 [ICON_Production] 生产力。此城的每个 [ICON_RESOURCE_OIL] 石油资源可额外提供+3 [ICON_Production] 生产力。</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_NUCLEAR_POWER_PLANT_UPGRADE_NAME" Language="zh_Hans_CN">
+			<Text>核电站·升级</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_NUCLEAR_POWER_PLANT_UPGRADE_DESCRIPTION" Language="zh_Hans_CN"> <!-- 该建筑实际是原版的发电厂，在风起云涌里改了效果 -->
+			<Text>升级后的核电站是后期区域性工业中心。[NEWLINE]可为9个单元格内每个市中心提供+2 [ICON_Production] 生产力和+1 [ICON_Science] 科技值，并使此城建造的每个区域可额外提供+2 [ICON_Production] 生产力。此城的每个 [ICON_Resource_Uranium] 铀资源可额外提供+4 [ICON_Production] 生产力和+2 [ICON_Science] 科技值。</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_HYDROELECTRIC_DAM_UPGRADE_NAME" Language="zh_Hans_CN">
+			<Text>水电站坝·升级</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_HYDROELECTRIC_DAM_UPGRADE_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>扩修后的水电站坝将具有更高的发电效率与发电量。[NEWLINE]每回合从可再生水源中为此城额外提供+2 [ICON_Power] 电力。此城中靠近河流的单元格可获得+1 [ICON_Production] 生产力。</Text>
+		</Row>
+		<!-- 特色建筑 -->
+		<Row Tag="LOC_BUILDING_GRAND_BAZAAR_UPGRADE_NAME" Language="zh_Hans_CN">
+			<Text>大巴扎·升级</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_GRAND_BAZAAR_UPGRADE_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>奥斯曼特色建筑大巴扎的升级。此地的奢侈品交易带来了更多的游客，扩大了贸易规模。[NEWLINE]为此城+2 [ICON_Tourism] 旅游业绩，从此城出发的国际 [ICON_TradeRoute] 贸易路线获得+4 [ICON_Gold] 金币；国内 [ICON_TradeRoute] 贸易路线获得+2 [ICON_Gold] 金币。此城内每有一种奢侈品资源，即可获得+2 [ICON_Gold] 金币。</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_THERMAL_BATH_UPGRADE_NAME" Language="zh_Hans_CN">
+			<Text>温泉浴场·升级</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_THERMAL_BATH_UPGRADE_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>匈牙利特色建筑温泉浴场的升级。[NEWLINE]使此城人口增长+15%，并为其+4 [ICON_Tourism] 旅游业绩。为6个单元格内的每个市中心提供+1 [ICON_Production] 生产力。若此城内至少有一处地热裂缝，则获得+4 [ICON_Gold] 金币和 [ICON_Culture] 文化值。</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_MARAE_UPGRADE_NAME" Language="zh_Hans_CN">
+			<Text>毛利会堂·升级</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_MARAE_UPGRADE_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>毛利特色建筑毛利会堂的升级。[NEWLINE]为此城提供+1 [ICON_PressureUp] 忠诚度压力和+1 [ICON_Amenities] 宜居度。使此城中每个 [ICON_Citizen] 公民可提供+0.2 [ICON_Culture] 文化值。使此城内所有沼泽、森林与雨林地貌额外提供+1 [ICON_Production] 生产力，每个礁石地貌额外提供+2 [ICON_Gold] 金币。维护免费。</Text>
+		</Row>
+	</LocalizedText>
+</GameData>

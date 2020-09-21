@@ -1,0 +1,84 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!-- RBU_XP1_Localization_CN -->
+<!-- Author: Clear8Sky -->
+<!-- DateCreated: 3/18/2020 3:17:09 PM -->
+<GameData>
+	<LocalizedText>
+		<!-- XP1汉化 -->
+		<!-- 水上乐园 -->
+		<Row Tag="LOC_BUILDING_FERRIS_WHEEL_UPGRADE_NAME" Language="zh_Hans_CN">
+			<Text>摩天轮·升级</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_FERRIS_WHEEL_UPGRADE_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>翻修过的摩天轮已然成为城市娱乐活动的焦点。[NEWLINE]为此城+1 [ICON_Tourism] 旅游业绩，并使城中所有单元格魅力值+1。</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_AQUARIUM_UPGRADE_NAME" Language="zh_Hans_CN">
+			<Text>水族馆·升级</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_AQUARIUM_UPGRADE_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>扩建后的水族馆有更加震撼的海底隧道与海上表演。[NEWLINE]每次科技研究完成时水族馆可提供+1 [ICON_GreatScientist] 大科学家点数。提供的 [ICON_Amenities] 宜居度加成延伸到9个单元格内的每个市中心。</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_AQUATICS_CENTER_UPGRADE_NAME" Language="zh_Hans_CN">
+			<Text>水上运动中心·升级</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_AQUATICS_CENTER_UPGRADE_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>升级后的水上运动中心可容纳更多游客，提供更多娱乐设施。[NEWLINE]此城内所有 [ICON_Tourism] 旅游业绩加成提高10%。提供的 [ICON_Amenities] 宜居度加成延伸到9个单元格内的每个市中心。</Text>
+		</Row>
+		<!-- 社区建筑 -->
+		<Row Tag="LOC_BUILDING_FOOD_MARKET_UPGRADE_NAME" Language="zh_Hans_CN">
+			<Text>食品市场·升级</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_FOOD_MARKET_UPGRADE_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>扩建后的食品市场可为更多食品供应商提供货源服务。[NEWLINE]可为此城中每个种植园与牧场改良设施提供+2 [ICON_Food] 食物。只能在城市中建造一个，即使城市拥有多个社区也同样如此。</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_SHOPPING_MALL_UPGRADE_NAME" Language="zh_Hans_CN">
+			<Text>购物市场·升级</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_SHOPPING_MALL_UPGRADE_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>扩建后的购物市场可提供奢侈商品，带来更多游客，提高收入。[NEWLINE]为此城+2 [ICON_Tourism] 旅游业绩，可为此城中每个奢侈品资源提供+2 [ICON_Gold] 金币。只能在城市中建造一个，即使城市拥有多个社区也同样如此。</Text>
+		</Row>
+		<!-- 特色建筑 -->
+		<Row Tag="LOC_BUILDING_ORDU_UPGRADE_NAME" Language="zh_Hans_CN">
+			<Text>斡耳朵·升级</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_ORDU_UPGRADE_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>蒙古特色建筑斡耳朵的升级。[NEWLINE]可使斡耳朵每回合再+1 [ICON_GreatGeneral] 大将军点数，并使其从此城的牧场中获得+2 [ICON_Production] 生产力。无法建造在已拥有兵营的军营中。</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_TSIKHE_UPGRADE_NAME" Language="zh_Hans_CN">
+			<Text>堡垒·升级</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_TSIKHE_UPGRADE_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>格鲁吉亚特色建筑堡垒的升级。[NEWLINE]看来您城市里的工程师要比一般人优秀得多。文艺复兴城墙的升级将使此城外部防御力量提升到（名副其实的）最高水平。可额外提供+2 [ICON_Housing] 住房、+1 [ICON_Amenities] 宜居度及+1 [ICON_Faith] 信仰值。</Text>
+		</Row>
+
+		<!-- 原版建筑升级的更新 -->
+		<Replace Tag="LOC_BUILDING_PALACE_UPGRADE_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>改善后的宫殿终于配得上它的主要居住者——那就是您！[NEWLINE]为此城提供+1 [ICON_PressureUp] 忠诚度压力。</Text>
+		</Replace>
+		<Replace Tag="LOC_BUILDING_AMPHITHEATER_UPGRADE_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>升级后的古罗马剧场可容纳更多观众。[NEWLINE]使此城中每个 [ICON_Citizen] 公民可提供+0.2 [ICON_Culture] 文化值。</Text>
+		</Replace>
+		<Replace Tag="LOC_BUILDING_LIBRARY_UPGRADE_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>升级后的图书馆可储存更多瓦瓷字板、羊皮纸文献和出版书籍。市民将更常前去参观。[NEWLINE]使此城中每个 [ICON_Citizen] 公民可提供+0.2 [ICON_Science] 科技值。</Text>
+		</Replace>
+		<Replace Tag="LOC_BUILDING_MADRASA_UPGRADE_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>阿拉伯特色建筑伊斯兰学校的升级。翻修之后可允许女性公民也接受教育。[NEWLINE]使此城中每个 [ICON_Citizen] 公民可提供+0.3 [ICON_Science] 科技值。</Text>
+		</Replace>
+		<Replace Tag="LOC_BUILDING_UNIVERSITY_UPGRADE_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>一所扩升后的大学可被允许研究非专业性科学。[NEWLINE]使此城中每个 [ICON_Citizen] 公民可提供+0.2 [ICON_Science] 科技值。</Text>
+		</Replace>
+		<Replace Tag="LOC_BUILDING_MARKET_UPGRADE_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>升级后的市场可容纳更多的商人与店铺。[NEWLINE]可分别从 [ICON_Resource_Citrus] 柑橘、[ICON_Resource_Olives] 橄榄、[ICON_Resource_Cocoa] 可可豆、[ICON_Resource_Spices] 香料、[ICON_Resource_Sugar] 糖以及 [ICON_Resource_Tea] 茶叶资源中获得+3 [ICON_Gold] 金币。</Text>
+		</Replace>
+		<Replace Tag="LOC_BUILDING_LIGHTHOUSE_UPGRADE_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>升级后的灯塔可让渔船航行更远。[NEWLINE]为此城所有渔船和渔场改良设施额外提供+1 [ICON_Food] 食物。</Text>
+		</Replace>
+		<Replace Tag="LOC_BUILDING_SEAPORT_UPGRADE_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>港口码头设施的升级可增加其容量，使城市得以快速发展。[NEWLINE]+1 [ICON_TradeRoute] 贸易路线容量。港口可获得等同于 [ICON_Gold] 金币加成的 [ICON_Production] 生产力加成。可从此城每个渔船和渔场改良设施中获得+1 [ICON_Gold] 金币。可为此城中每个海上石油钻机提供+3 [ICON_Production] 生产力。</Text>
+		</Replace>
+		<!-- DLC: 波兰更新 -->
+		<Replace Tag="LOC_BUILDING_SUKIENNICE_UPGRADE_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>波兰特色建筑纺织会馆的升级。[NEWLINE]每回合可额外+1 [ICON_GreatMerchant] 大商人点数。可分别从 [ICON_Resource_Citrus] 柑橘、[ICON_Resource_Olives] 橄榄、[ICON_Resource_Cocoa] 可可豆、[ICON_Resource_Spices] 香料、[ICON_Resource_Sugar] 糖以及 [ICON_Resource_Tea] 茶叶资源中获得+3 [ICON_Gold] 金币。</Text>
+		</Replace>
+	</LocalizedText>
+</GameData>

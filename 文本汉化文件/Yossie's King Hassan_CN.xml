@@ -1,0 +1,611 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!-- Yossie's King Hassan_CN -->
+<!-- Author: Clear8Sky -->
+<!-- DateCreated: 4/19/2020 10:59:39 PM -->
+<GameData>
+	<LocalizedText>
+		<!--功能类文本-->
+		<Row Tag="LOC_CIVILIZATION_YNL_NIZARI_NAME" Language="zh_Hans_CN">
+			<Text>阿萨辛</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_YNL_NIZARI_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>阿萨辛帝国</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_YNL_NIZARI_ADJECTIVE" Language="zh_Hans_CN">
+			<Text>阿萨辛的</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_CIVILIZATION_YNL_NIZARI_NAME" Language="zh_Hans_CN">
+			<Text>鹰之巢</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_CIVILIZATION_YNL_NIZARI_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>训练建造者+50% [ICON_Production] 生产力。[NEWLINE]审判官可额外进行一次清除异端。[NEWLINE]与信仰其他宗教的文明单位对抗时+4 [ICON_Strength] 战斗力。</Text>
+		</Row>
+
+		<Row Tag="LOC_LEADER_YNL_KING_HASSAN_NAME" Language="zh_Hans_CN">
+			<Text>王哈桑</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_LEADER_YNL_KING_HASSAN_NAME" Language="zh_Hans_CN">
+			<Text>死告天使</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_LEADER_YNL_KING_HASSAN_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>若您在敌方城市境内消灭一名敌方单位，则该敌方城市失去20点忠诚度。[NEWLINE]与处于 [ICON_GLORY_DARK_AGE] 黑暗时代的文明单位对抗时+8 [ICON_Strength] 战斗力。[NEWLINE]库里耶改良设施若与水渠相邻则提供+2 [ICON_Culture] 文化值。</Text>
+		</Row>
+		<Row Tag="LOC_LEADER_YNL_KING_HASSAN_DOM_TEXT" Language="zh_Hans_CN">
+			<Text>——交出首级吧。</Text>
+		</Row>
+
+		<Row Tag="LOC_DISTRICT_MAUSOLEUM_OF_THE_EVENING_BELL_NAME" Language="zh_Hans_CN">
+			<Text>晚钟陵墓</Text>
+		</Row>
+		<Row Tag="LOC_DISTRICT_MAUSOLEUM_OF_THE_EVENING_BELL_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>阿萨辛的特色区域，取代圣地。[NEWLINE][NEWLINE]提供+2 [ICON_GreatProphet] 大预言家点数、+1 [ICON_GreatEngineer] 大工程师点数、+1 [ICON_GreatScientist] 大科学家点数以及+1 [ICON_GreatMerchant] 大商人点数。从每个相邻的其他区域中获得+1 [ICON_Production] 生产力。同时解锁特色项目——杰迪代的宣召。完成该项目可获得 [ICON_GreatAdmiral] 海军统帅和 [ICON_GreatGeneral] 大将军点数奖励。</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_LEADER_DISTRICT_MAUSOLEUM_OF_THE_EVENING_BELL_NAME" Language="zh_Hans_CN">
+			<Text>阿萨辛的特色区域：晚钟陵墓</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_DISTRICTS_PAGE_DISTRICT_MAUSOLEUM_OF_THE_EVENING_BELL_CHAPTER_HISTORY_PARA_1" Language="zh_Hans_CN">
+			<Text></Text>
+		</Row>
+
+		<Row Tag="LOC_TRAIT_UNIT_YNL_ASSASSIN_NAME" Language="zh_Hans_CN">
+			<Text>阿萨辛的特色单位：暗杀者</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_YNL_ASSASSIN_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>阿萨辛的中世纪特色近战单位。单位 [ICON_Damaged] 受损时 [ICON_Strength] 战斗力不会降低。与敌方单位距离超过1格时将保持隐形。拥有3 [ICON_Movement] 移动力。</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_YNL_ASSASSIN_NAME" Language="zh_Hans_CN">
+			<Text>暗杀者</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_YNL_ASSASSIN_CHAPTER_HISTORY_PARA_1" Language="zh_Hans_CN">
+			<Text></Text>
+		</Row>
+
+		<Row Tag="LOC_IMPROVEMENT_YNL_KULLIYE_NAME" Language="zh_Hans_CN">
+			<Text>库里耶</Text>
+		</Row>
+		<Row Tag="LOC_IMPROVEMENT_YNL_KULLIYE_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>解锁建造者建造阿萨辛特色改良设施库里耶的能力。[NEWLINE][NEWLINE]+1 [ICON_Production] 生产力、+3 [ICON_Faith] 信仰值、+1 [ICON_Amenities] 宜居度，并提供+3 [ICON_Housing] 住房。每座城市仅能建造一个。可以建造在平原、草原和沙漠上。</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_CIVILIZATION_IMPROVEMENT_YNL_KULLIYE_NAME" Language="zh_Hans_CN">
+			<Text>阿萨辛德特色改良设施：库里耶</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_IMPROVEMENTS_PAGE_IMPROVEMENT_YNL_KULLIYE_CHAPTER_HISTORY_PARA_1" Language="zh_Hans_CN">
+			<Text></Text>
+		</Row>
+		<!-- 对话类文本 -->
+		<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_HUMAN_LEADER_YNL_KING_HASSAN_ANY" Language="zh_Hans_CN">
+			<Text>吾等欣然接受汝之友善请求。</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_HUMAN_LEADER_YNL_KING_HASSAN_ANY" Language="zh_Hans_CN">
+			<Text>汝此时并未使吾等提起兴致。</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DECLARE_FRIEND_FROM_AI_LEADER_YNL_KING_HASSAN_ANY" Language="zh_Hans_CN">
+			<Text>汝愿正式宣言与吾等之羁绊吗？</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_YNL_KING_HASSAN_ANY" Language="zh_Hans_CN">
+			<Text>吾等甚是愉悦。</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_YNL_KING_HASSAN_ANY" Language="zh_Hans_CN">
+			<Text>容吾等拒绝。</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_HUMAN_LEADER_YNL_KING_HASSAN_ANY" Language="zh_Hans_CN">
+			<Text>血洒大地，沃野荒枯于夜幕之下……现在，交出首级来！</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_YNL_KING_HASSAN_ANY" Language="zh_Hans_CN">
+			<Text>聆听吧。晚钟已揭示汝之名。</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DEFEAT_FROM_AI_LEADER_YNL_KING_HASSAN_ANY" Language="zh_Hans_CN">
+			<Text>吾身本为尸骸之躯……不过是回归大地罢……</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DEFEAT_FROM_HUMAN_LEADER_YNL_KING_HASSAN_ANY" Language="zh_Hans_CN">
+			<Text>吾身本为尸骸之躯……不过是回归大地罢……</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_DELEGATION_FROM_HUMAN_LEADER_YNL_KING_HASSAN_ANY" Language="zh_Hans_CN">
+			<Text>吾等欢迎汝之使团来访首都。</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_DELEGATION_FROM_HUMAN_LEADER_YNL_KING_HASSAN_ANY" Language="zh_Hans_CN">
+			<Text>请容吾等回绝汝使团之来访。</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DELEGATION_FROM_AI_LEADER_YNL_KING_HASSAN_ANY" Language="zh_Hans_CN">
+			<Text>汝愿迎接吾等派遣前去访都之使团吗？</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_DELEGATION_FROM_AI_LEADER_YNL_KING_HASSAN_ANY" Language="zh_Hans_CN">
+			<Text>甚好！</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_DELEGATION_FROM_AI_LEADER_YNL_KING_HASSAN_ANY" Language="zh_Hans_CN">
+			<Text>吾等甚是遗憾，择日或再商议。</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DENOUNCE_FROM_HUMAN_LEADER_YNL_KING_HASSAN_ANY" Language="zh_Hans_CN">
+			<Text>挑衅被教团选中的献身者罪大无比，汝必将为此付出代价。</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DENOUNCE_FROM_AI_LEADER_YNL_KING_HASSAN_ANY" Language="zh_Hans_CN">
+			<Text>汝即为另一位异教之徒，欲与吾等教团分庭抗礼。[NEWLINE]（谴责你）</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_EMBASSY_FROM_HUMAN_LEADER_YNL_KING_HASSAN_ANY" Language="zh_Hans_CN">
+			<Text>吾等欣然欢迎汝于阿萨辛首都筑建大使馆。</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_EMBASSY_FROM_HUMAN_LEADER_YNL_KING_HASSAN_ANY" Language="zh_Hans_CN">
+			<Text>吾等此时尚未提起兴致。</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_EMBASSY_FROM_AI_LEADER_YNL_KING_HASSAN_ANY" Language="zh_Hans_CN">
+			<Text>汝愿同意吾等于汝之首都筑建大使馆吗？</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_EMBASSY_FROM_AI_LEADER_YNL_KING_HASSAN_ANY" Language="zh_Hans_CN">
+			<Text>吾等甚悦！</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_EMBASSY_FROM_AI_LEADER_YNL_KING_HASSAN_ANY" Language="zh_Hans_CN">
+			<Text>颇为遗憾。</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_LEADER_YNL_KING_HASSAN_ANY" Language="zh_Hans_CN">
+			<Text>吾，即为哈桑中的哈桑。吾不持名号。方便称呼其名即可。</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_VISIT_RECIPIENT_LEADER_YNL_KING_HASSAN_ANY" Language="zh_Hans_CN">
+			<Text>附近有吾等之城市，愿前去参观吗？汝可参加即将到来的庆祝仪式。</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_POSITIVE_LEADER_YNL_KING_HASSAN_ANY" Language="zh_Hans_CN">
+			<Text>当然。亲临并拜访汝城市之发展可谓幸事。</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_NO_MANS_INFO_EXCHANGE_LEADER_YNL_KING_HASSAN_ANY" Language="zh_Hans_CN">
+			<Text>汝与吾等相距甚远，然或可将各自首都示于彼此地图之上？</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_GREETING_LEADER_YNL_KING_HASSAN_ANY" Language="zh_Hans_CN">
+			<Text>汝愿从吾等中获取何物？</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_KUDO_EXIT_LEADER_YNL_KING_HASSAN_ANY" Language="zh_Hans_CN">
+			<Text>汝为值得的信赖者。特别是那颗优秀的心。不论面临任何事却不动摇的精神正是，吾等所需之物。</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_EXIT_LEADER_YNL_KING_HASSAN_ANY" Language="zh_Hans_CN">
+			<Text>聆听那钟声。今日似乎有特别沉重的首级。</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_MAKE_ALLIANCE_FROM_HUMAN_LEADER_YNL_KING_HASSAN_ANY" Language="zh_Hans_CN">
+			<Text>吾等欣然接受汝之结盟请求。</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_MAKE_ALLIANCE_FROM_HUMAN_LEADER_YNL_KING_HASSAN_ANY" Language="zh_Hans_CN">
+			<Text>吾等此时尚未提起兴致。</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_ALLIANCE_FROM_AI_LEADER_YNL_KING_HASSAN_ANY" Language="zh_Hans_CN">
+			<Text>汝愿与吾等相结盟吗？</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_MAKE_ALLIANCE_FROM_AI_LEADER_YNL_KING_HASSAN_ANY" Language="zh_Hans_CN">
+			<Text>吾等甚悦！</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_MAKE_ALLIANCE_FROM_AI_LEADER_YNL_KING_HASSAN_ANY" Language="zh_Hans_CN">
+			<Text>颇为遗憾。</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_DEAL_AI_ACCEPT_DEAL_LEADER_YNL_KING_HASSAN_ANY" Language="zh_Hans_CN">
+			<Text>好，吾等乐于接受此次交易。</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_DEAL_AI_REFUSE_DEAL_LEADER_YNL_KING_HASSAN_ANY" Language="zh_Hans_CN">
+			<Text>吾等无法接受此次交易。</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_MAKE_DEAL_FROM_AI_LEADER_YNL_KING_HASSAN_ANY" Language="zh_Hans_CN">
+			<Text>甚为感谢。吾等认为这将对双方都有益处。</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_MAKE_DEAL_FROM_AI_LEADER_YNL_KING_HASSAN_ANY" Language="zh_Hans_CN">
+			<Text>吾等须言，略感失望。</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_DEAL_AI_ADJUST_DEAL_LEADER_YNL_KING_HASSAN_ANY" Language="zh_Hans_CN">
+			<Text>此次交易更受吾等喜爱。</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_AI_REFUSE_DEMAND_LEADER_YNL_KING_HASSAN_ANY" Language="zh_Hans_CN">
+			<Text>提出索求会令汝一事无成。</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_AI_ACCEPT_DEMAND_LEADER_YNL_KING_HASSAN_ANY" Language="zh_Hans_CN">
+			<Text>吾等将会遵从。</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_HUMAN_ACCEPT_DEMAND_FROM_AI_LEADER_YNL_KING_HASSAN_ANY" Language="zh_Hans_CN">
+			<Text>汝接受吾等之索求。明智之举。</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_HUMAN_REFUSE_DEMAND_FROM_AI_LEADER_YNL_KING_HASSAN_ANY" Language="zh_Hans_CN">
+			<Text>为满足吾等索求，吾等将不得不采取其他手段！</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_AI_ACCEPT_DEAL_LEADER_YNL_KING_HASSAN_ANY" Language="zh_Hans_CN">
+			<Text>吾等接受汝之和平协约。</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_AI_REFUSE_DEAL_LEADER_YNL_KING_HASSAN_ANY" Language="zh_Hans_CN">
+			<Text>汝与吾等之间毫无和平可言！</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_FROM_AI_LEADER_YNL_KING_HASSAN_ANY" Language="zh_Hans_CN">
+			<Text>讲和，可否？</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_MAKE_PEACE_FROM_AI_LEADER_YNL_KING_HASSAN_ANY" Language="zh_Hans_CN">
+			<Text>战争，已经结束。</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_MAKE_PEACE_FROM_AI_LEADER_YNL_KING_HASSAN_ANY" Language="zh_Hans_CN">
+			<Text>那么，战争继续。</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_OPEN_BORDERS_FROM_HUMAN_LEADER_YNL_KING_HASSAN_ANY" Language="zh_Hans_CN">
+			<Text>吾等愿为汝之子民开放边境。</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_OPEN_BORDERS_FROM_HUMAN_LEADER_YNL_KING_HASSAN_ANY" Language="zh_Hans_CN">
+			<Text>吾等此时尚未提起兴致。</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_OPEN_BORDERS_FROM_AI_LEADER_YNL_KING_HASSAN_ANY" Language="zh_Hans_CN">
+			<Text>汝愿开放边境以利吾等使民横越之需？</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_OPEN_BORDERS_FROM_AI_LEADER_YNL_KING_HASSAN_ANY" Language="zh_Hans_CN">
+			<Text>吾等甚悦！</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_OPEN_BORDERS_FROM_AI_LEADER_YNL_KING_HASSAN_ANY" Language="zh_Hans_CN">
+			<Text>颇为遗憾。</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_DONT_SETTLE_NEAR_ME_AI_RESPONSE_POSITIVE_LEADER_YNL_KING_HASSAN_ANY" Language="zh_Hans_CN">
+			<Text>吾等诚挚致歉！吾等并未察觉与汝之城市相距如此之近。</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_DONT_SETTLE_NEAR_ME_AI_RESPONSE_NEGATIVE_LEADER_YNL_KING_HASSAN_ANY" Language="zh_Hans_CN">
+			<Text>吾等使民需要土地。汝为何者，敢言吾等不可定居于此处？</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_DONT_SETTLE_NEAR_ME_AI_LEADER_YNL_KING_HASSAN_ANY" Language="zh_Hans_CN">
+			<Text>汝之子民定居地距吾等过于相近，汝应考虑寻找别处领地。</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_DONT_SETTLE_NEAR_ME_HUMAN_RESPONSE_POSITIVE_LEADER_YNL_KING_HASSAN_ANY" Language="zh_Hans_CN">
+			<Text>感谢。</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_DONT_SETTLE_NEAR_ME_HUMAN_RESPONSE_NEGATIVE_LEADER_YNL_KING_HASSAN_ANY" Language="zh_Hans_CN">
+			<Text>若汝不尊重吾等之领土，汝之领土也将不会得到吾等尊重。</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_AI_RESPONSE_POSITIVE_LEADER_YNL_KING_HASSAN_ANY" Language="zh_Hans_CN">
+			<Text>致歉，吾等只是寻找蛮族并清除他们。</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_AI_RESPONSE_NEGATIVE_LEADER_YNL_KING_HASSAN_ANY" Language="zh_Hans_CN">
+			<Text>吾等乐于指挥军队四处讨伐，若汝知吾等之意，则可显示吾等之强大。</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_STOP_SPYING_ON_ME_AI_RESPONSE_POSITIVE_LEADER_YNL_KING_HASSAN_ANY" Language="zh_Hans_CN">
+			<Text>汝所言极是。吾等因采取此等策略而倍感歉意。再无下例。</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_STOP_SPYING_ON_ME_AI_RESPONSE_NEGATIVE_LEADER_YNL_KING_HASSAN_ANY" Language="zh_Hans_CN">
+			<Text>哈？汝凭何断定吾等会做出如此承诺？</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_STOP_DIGGING_UP_ARTIFACTS_AI_RESPONSE_POSITIVE_LEADER_YNL_KING_HASSAN_ANY" Language="zh_Hans_CN">
+			<Text>吾等方才意识到，汝竟将此地据为己有。何其幼稚之错误！</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_STOP_DIGGING_UP_ARTIFACTS_AI_RESPONSE_NEGATIVE_LEADER_YNL_KING_HASSAN_ANY" Language="zh_Hans_CN">
+			<Text>任何人皆有权解开历史谜团，汝不可对其自作主张，据为己有！</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_STOP_CONVERTING_MY_CITIES_AI_RESPONSE_POSITIVE_LEADER_YNL_KING_HASSAN_ANY" Language="zh_Hans_CN">
+			<Text>尽管吾等尊重汝之意愿，然吾等失望于汝并未发现汝自身之错误。</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_STOP_CONVERTING_MY_CITIES_AI_RESPONSE_NEGATIVE_LEADER_YNL_KING_HASSAN_ANY" Language="zh_Hans_CN">
+			<Text>不然，此为最佳旨意。汝终将见证，吾等确信。</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_LEADER_YNL_KING_HASSAN_ANY" Language="zh_Hans_CN">
+			<Text>汝之军队距吾等帝国边境太近了。希望汝仅是参观吾等帝国的优美村落。</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_HUMAN_RESPONSE_POSITIVE_LEADER_YNL_KING_HASSAN_ANY" Language="zh_Hans_CN">
+			<Text>感谢。</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_STOP_SPYING_ON_ME_LEADER_YNL_KING_HASSAN_ANY" Language="zh_Hans_CN">
+			<Text>吾等早知汝如此卑躬屈膝是为了派遣间谍，暗中监视吾等。立刻带走他们！</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_STOP_SPYING_ON_ME_HUMAN_RESPONSE_POSITIVE_LEADER_YNL_KING_HASSAN_ANY" Language="zh_Hans_CN">
+			<Text>感谢。</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_STOP_SPYING_ON_ME_HUMAN_RESPONSE_NEGATIVE_LEADER_YNL_KING_HASSAN_ANY" Language="zh_Hans_CN">
+			<Text>吾等定将此次耻辱铭记于心。吾等定会！</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_STOP_DIGGING_UP_ARTIFACTS_LEADER_YNL_KING_HASSAN_ANY" Language="zh_Hans_CN">
+			<Text>吾等文明之沉淀绝非汝所能掠夺。立刻离开吾等帝国领土！</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_STOP_DIGGING_UP_ARTIFACTS_HUMAN_RESPONSE_POSITIVE_LEADER_YNL_KING_HASSAN_ANY" Language="zh_Hans_CN">
+			<Text>感谢。</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_STOP_DIGGING_UP_ARTIFACTS_HUMAN_RESPONSE_NEGATIVE_LEADER_YNL_KING_HASSAN_ANY" Language="zh_Hans_CN">
+			<Text>若汝不尊重吾等之领土，汝之领土也将不会得到吾等尊重。</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_STOP_CONVERTING_MY_CITIES_LEADER_YNL_KING_HASSAN_ANY" Language="zh_Hans_CN">
+			<Text>汝之传教使者在吾等国民中并不受欢迎。吾等要求汝必须将其遣回！</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_STOP_CONVERTING_MY_CITIES_HUMAN_RESPONSE_POSITIVE_LEADER_YNL_KING_HASSAN_ANY" Language="zh_Hans_CN">
+			<Text>感谢。</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_STOP_CONVERTING_MY_CITIES_HUMAN_RESPONSE_NEGATIVE_LEADER_YNL_KING_HASSAN_ANY" Language="zh_Hans_CN">
+			<Text>吾等向汝保证，汝迟早必将自食其恶果！</Text>
+		</Row>
+		<!-- 对随机议程的赞誉对话 -->
+		<Row Tag="LOC_DIPLO_KUDO_LEADER_YNL_KING_HASSAN_REASON_AGENDA_HIGH_CULTURE" Language="zh_Hans_CN">
+			<Text>吾等对汝之子民独特而繁盛的文化发展印象深刻。</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_KUDO_LEADER_YNL_KING_HASSAN_REASON_AGENDA_HIGH_HAPPINESS" Language="zh_Hans_CN">
+			<Text>吾等听闻汝之子民欲庆祝汝之统治。值得赞赏，继续让他们幸福吧！</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_KUDO_LEADER_YNL_KING_HASSAN_REASON_AGENDA_HIGH_INCOME" Language="zh_Hans_CN">
+			<Text>汝之国库十分充裕。财力雄厚总有益处，不是吗？</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_KUDO_LEADER_YNL_KING_HASSAN_REASON_AGENDA_HIGH_INDUSTRY" Language="zh_Hans_CN">
+			<Text>吾等对汝之子民工作的效率表示由衷赞赏！</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_KUDO_LEADER_YNL_KING_HASSAN_REASON_AGENDA_MODIFIER_NOT_COMPETING_MINORS" Language="zh_Hans_CN">
+			<Text>吾等为弱小文明真正的朋友。吾等感激汝认清事实。</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_KUDO_LEADER_YNL_KING_HASSAN_REASON_AGENDA_HIGH_POPULATION" Language="zh_Hans_CN">
+			<Text>汝文明之子民数量着实令吾等印象深刻。</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_KUDO_LEADER_YNL_KING_HASSAN_REASON_AGENDA_HIGH_SCIENCE" Language="zh_Hans_CN">
+			<Text>汝文明科研之深度在吾等心中留下了深刻印象。</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_KUDO_LEADER_YNL_KING_HASSAN_REASON_AGENDA_HIGH_STANDING_ARMY" Language="zh_Hans_CN">
+			<Text>吾等尊重一位拥有强大军事实力之文明领袖。</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_KUDO_LEADER_YNL_KING_HASSAN_REASON_AGENDA_ENJOYS_WAR" Language="zh_Hans_CN">
+			<Text>文明之魂正是于战争中所体现，祝武运昌隆！</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_KUDO_LEADER_YNL_KING_HASSAN_REASON_AGENDA_MODIFIER_GREAT_PERSON_ADVOCATE_LAG" Language="zh_Hans_CN">
+			<Text>世界伟人相较于汝更乐于前来吾等之帝国，吾等甚欣。</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_KUDO_LEADER_YNL_KING_HASSAN_REASON_AGENDA_MODIFIER_WONDER_ADVOCATE_LAG" Language="zh_Hans_CN">
+			<Text>汝愿将世界奇观留于吾等帝国，吾等甚欢。</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_KUDO_LEADER_YNL_KING_HASSAN_REASON_AGENDA_HIGH_PROTECT_CITY_STATES" Language="zh_Hans_CN">
+			<Text>汝给予城邦文明之庇护为全世界树立了榜样。</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_KUDO_LEADER_YNL_KING_HASSAN_REASON_AGENDA_MED_PROTECT_CITY_STATES" Language="zh_Hans_CN">
+			<Text>强者理应护佑弱者。吾等欣然见于汝能应允。</Text>
+		</Row>
+		<!--对未来随机议程的赞誉对话（尚未实施）-->
+		<Row Tag="LOC_DIPLO_KUDO_LEADER_YNL_KING_HASSAN_REASON_AGENDA_HIGH_AIRPOWER" Language="zh_Hans_CN">
+			<Text>吾等必须承认，汝之空军实力十分强大，不可忽视。甚好。</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_KUDO_LEADER_YNL_KING_HASSAN_REASON_AGENDA_PROTECTS_CITY_STATES" Language="zh_Hans_CN">
+			<Text>给予无法自理之人以关照是一件令吾等钦佩之事。</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_KUDO_LEADER_YNL_KING_HASSAN_REASON_AGENDA_CLEARS_BARBARIAN_CAMPS" Language="zh_Hans_CN">
+			<Text>蛮族长久以来困扰吾等，感谢汝出手相助。</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_KUDO_LEADER_YNL_KING_HASSAN_REASON_AGENDA_ENVIRONMENT" Language="zh_Hans_CN">
+			<Text>全世界之子民仅有一个地球，吾等欣然得知慎待这片大地之人并非仅有吾等。</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_KUDO_LEADER_YNL_KING_HASSAN_REASON_AGENDA_EXPLOITATION" Language="zh_Hans_CN">
+			<Text>世界存在即为汝与吾等所用。尽其所能改造利用，汝即可拥有一切！</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_KUDO_LEADER_YNL_KING_HASSAN_REASON_AGENDA_SAME_GOVERNMENT" Language="zh_Hans_CN">
+			<Text>吾等察觉汝与吾等志同道合，特此赞扬汝之新政体实践。</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_KUDO_LEADER_YNL_KING_HASSAN_REASON_AGENDA_HIGH_NUKE_LOVE" Language="zh_Hans_CN">
+			<Text>英雄所见略同。此项科技颇具用途……</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_KUDO_LEADER_YNL_KING_HASSAN_REASON_AGENDA_HIGH_FAITH" Language="zh_Hans_CN">
+			<Text>愿汝之家族平安和谐。得见另一位与吾等同样虔诚之人，甚是激励吾等！</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_KUDO_LEADER_YNL_KING_HASSAN_REASON_AGENDA_LOW_EXPLORATION" Language="zh_Hans_CN">
+			<Text>甚好，感谢。将世界之探索交于吾等之手。</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_KUDO_LEADER_YNL_KING_HASSAN_REASON_AGENDA_PARANOID" Language="zh_Hans_CN">
+			<Text>察现汝之帝国并不对吾等构成威胁，吾等甚欣。</Text>
+		</Row>
+		<!-- 对随机议程的警告对话 -->
+		<Row Tag="LOC_DIPLO_WARNING_LEADER_YNL_KING_HASSAN_REASON_AGENDA_LOW_CULTURE" Language="zh_Hans_CN">
+			<Text>汝并未施措良多以发展一派强大文化。关于汝之子民，吾等又能记住什么？</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_LEADER_YNL_KING_HASSAN_REASON_AGENDA_LOW_HAPPINESS" Language="zh_Hans_CN">
+			<Text>汝或许应为子民之宜居稍作调查。吾等认为子民对汝之统治并不满意。</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_LEADER_YNL_KING_HASSAN_REASON_AGENDA_LOW_INCOME" Language="zh_Hans_CN">
+			<Text>汝之帝国即将步入财政赤字。债台高筑，汝又将如何生存？</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_LEADER_YNL_KING_HASSAN_REASON_AGENDA_MODIFIER_COMPETING_MINORS" Language="zh_Hans_CN">
+			<Text>汝正于危险境地与城邦共商事业。不如将其留给吾等。</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_LEADER_YNL_KING_HASSAN_REASON_AGENDA_LOW_INDUSTRY" Language="zh_Hans_CN">
+			<Text>汝之子民懒惰而与现世格格不入。若汝无法发展任何生产，汝之文明不久后即被遗忘。</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_LEADER_YNL_KING_HASSAN_REASON_AGENDA_LOW_POPULATION" Language="zh_Hans_CN">
+			<Text>汝之帝国人口稀少。必将难以完成任何目标。</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_LEADER_YNL_KING_HASSAN_REASON_AGENDA_LOW_SCIENCE" Language="zh_Hans_CN">
+			<Text>汝并未潜心钻研科技发展。汝之子民又怎能跟上时代步伐？</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_LEADER_YNL_KING_HASSAN_REASON_AGENDA_LOW_STANDING_ARMY" Language="zh_Hans_CN">
+			<Text>汝之军队过于羸弱。难道汝对生命安危毫不恐惧？</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_LEADER_YNL_KING_HASSAN_REASON_AGENDA_PARANOID" Language="zh_Hans_CN">
+			<Text>汝之都城过于靠近，汝之军队过于强盛。吾等甚危！</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_LEADER_YNL_KING_HASSAN_REASON_AGENDA_MODIFIER_GREAT_PERSON_ADVOCATE_LEAD" Language="zh_Hans_CN">
+			<Text>汝对吾等梦寐以求之伟人提出招募，令吾等颇为困扰。</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_LEADER_YNL_KING_HASSAN_REASON_AGENDA_MODIFIER_WONDER_ADVOCATE_LEAD" Language="zh_Hans_CN">
+			<Text>汝不知吾等才是世界奇观之筑建者？</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_LEADER_YNL_KING_HASSAN_REASON_AGENDA_HIGH_ATTACK_CITY_STATES" Language="zh_Hans_CN">
+			<Text>唯有懦夫才会进攻微权小国。汝对吾等毫无价值。</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_LEADER_YNL_KING_HASSAN_REASON_AGENDA_MED_ATACK_CITY_STATES" Language="zh_Hans_CN">
+			<Text>请仔细反思此次警告。勿再入侵微权势力。</Text>
+		</Row>
+		<!--对未来随机议程的警告对话（尚未实施）-->
+		<Row Tag="LOC_DIPLO_WARNING_LEADER_YNL_KING_HASSAN_REASON_AGENDA_LOW_AIRPOWER" Language="zh_Hans_CN">
+			<Text>仅仅稳固地面实力不足为荣。汝应尝试建立空军势力。</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_LEADER_YNL_KING_HASSAN_REASON_AGENDA_ATTACKS_CITY_STATES" Language="zh_Hans_CN">
+			<Text>威吓弱小，可悲可叹。</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_LEADER_YNL_KING_HASSAN_REASON_AGENDA_IGNORES_BARBARIAN_CAMPS" Language="zh_Hans_CN">
+			<Text>汝怎能允许蛮族在汝之帝国边境闲荡？</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_LEADER_YNL_KING_HASSAN_REASON_AGENDA_ENVIRONMENT" Language="zh_Hans_CN">
+			<Text>吾等须言，汝于地球之破毁不仅使汝受难，且使汝邻同样遭祸。</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_LEADER_YNL_KING_HASSAN_REASON_AGENDA_EXPLOITATION" Language="zh_Hans_CN">
+			<Text>富饶之地环绕于汝！汝怎能视而不见？</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_LEADER_YNL_KING_HASSAN_REASON_AGENDA_DIFFERENT_GOVERNMENT" Language="zh_Hans_CN">
+			<Text>汝与吾等意识形态之歧始于早期。吾等并不赞赏汝理束子民之法……</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_LEADER_YNL_KING_HASSAN_REASON_AGENDA_LOW_NUKE_LOVE" Language="zh_Hans_CN">
+			<Text>核子武器乃是未来！汝怎能视不得见？</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_LEADER_YNL_KING_HASSAN_REASON_AGENDA_LOW_FAITH" Language="zh_Hans_CN">
+			<Text>何种信仰指引于汝？无疑，汝不可毫无所奉。来，让汝之子民看到光明！</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_LEADER_YNL_KING_HASSAN_REASON_AGENDA_HIGH_EXPLORATION" Language="zh_Hans_CN">
+			<Text>世间可探索之事物有限，吾等不可容忍其他先于吾等探险使民而出发之人。</Text>
+		</Row>
+		<!-- 领袖专有百科文本 -->
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_YNL_KING_HASSAN_CHAPTER_CAPSULE_BODY" Language="zh_Hans_CN">
+			<Text>一位戴着骷髅面具的暗杀者。[NEWLINE]是在暗杀教团作为Assassin成立之后，用『山之翁』之名代替称号诞生的，最初的哈桑·萨巴赫。</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_YNL_KING_HASSAN_CHAPTER_DETAILED_BODY" Language="zh_Hans_CN">
+			<Text>暗杀教团内没有任何人见过他也是理所应当的，因为在瞻仰其面貌的瞬间，目击者就会当场失去性命。[NEWLINE][NEWLINE]身为最初『山之翁』的他，选择了监督教团的腐败并判断罪孽的监视者之路。[NEWLINE]虽然教团是遵从神的旨意进行正确的行动，但是对普通人来说，这种行为难免是不正确的。所以，此人绝对不允许教团内有腐败之事发生。[NEWLINE]因为，本应遵从神之教诲的人们，却沉迷欲望不可自拔。[NEWLINE]这才是对神最大的亵渎。</Text>
+		</Row>
+
+		<!-- 领袖专有历史文本 -->
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_YNL_KING_HASSAN_CHAPTER_HISTORY_PARA_1" Language="zh_Hans_CN">
+			<Text></Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_YNL_KING_HASSAN_CHAPTER_HISTORY_PARA_2" Language="zh_Hans_CN">
+			<Text></Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_YNL_KING_HASSAN_CHAPTER_HISTORY_PARA_3" Language="zh_Hans_CN">
+			<Text></Text>
+		</Row>
+
+		<!-- 文明专有历史文本 -->
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_YNL_NIZARI_CHAPTER_HISTORY_PARA_1" Language="zh_Hans_CN">
+			<Text></Text>
+		</Row>
+
+		<!-- 文明的公民姓名 -->
+		<Row Tag="LOC_CITIZEN_NIZARI_MALE_1" Language="zh_Hans_CN">
+			<Text>艾哈麦德·查拉比</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_NIZARI_MALE_2" Language="zh_Hans_CN">
+			<Text>阿卜杜勒·阿齐兹·哈基姆</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_NIZARI_MALE_3" Language="zh_Hans_CN">
+			<Text>加麦尔·阿卜杜勒·纳赛尔</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_NIZARI_MALE_4" Language="zh_Hans_CN">
+			<Text>阿里·伊本·阿比·塔利布</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_NIZARI_MALE_5" Language="zh_Hans_CN">
+			<Text>努斯雷特·戈科奇</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_NIZARI_FEMALE_1" Language="zh_Hans_CN">
+			<Text>卡迪加·宾特·库瓦利德</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_NIZARI_FEMALE_2" Language="zh_Hans_CN">
+			<Text>艾莎·宾特·阿比·巴克</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_NIZARI_FEMALE_3" Language="zh_Hans_CN">
+			<Text>沙贾尔·杜尔</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_NIZARI_FEMALE_4" Language="zh_Hans_CN">
+			<Text>拉齐娅·苏尔塔纳</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_NIZARI_FEMALE_5" Language="zh_Hans_CN">
+			<Text>扎伊纳布·宾特·贾什</Text>
+		</Row>
+
+		<!-- 文明的城市名称-->
+		<Row Tag="LOC_CIVLIZATION_NIZARI_CITY_1" Language="zh_Hans_CN">
+			<Text>鹰之巢</Text>
+		</Row>
+		<Row Tag="LOC_CIVLIZATION_NIZARI_CITY_2" Language="zh_Hans_CN">
+			<Text>巴尼亚斯</Text>
+		</Row>
+		<Row Tag="LOC_CIVLIZATION_NIZARI_CITY_3" Language="zh_Hans_CN">
+			<Text>马斯亚夫</Text>
+		</Row>
+		<Row Tag="LOC_CIVLIZATION_NIZARI_CITY_4" Language="zh_Hans_CN">
+			<Text>哈马</Text>
+		</Row>
+		<Row Tag="LOC_CIVLIZATION_NIZARI_CITY_5" Language="zh_Hans_CN">
+			<Text>巴达赫尚</Text>
+		</Row>
+		<Row Tag="LOC_CIVLIZATION_NIZARI_CITY_6" Language="zh_Hans_CN">
+			<Text>苏丹尼耶</Text>
+		</Row>
+		<Row Tag="LOC_CIVLIZATION_NIZARI_CITY_7" Language="zh_Hans_CN">
+			<Text>艾哈迈德纳加尔</Text>
+		</Row>
+		<Row Tag="LOC_CIVLIZATION_NIZARI_CITY_8" Language="zh_Hans_CN">
+			<Text>基尔凯埃</Text>
+		</Row>
+		<Row Tag="LOC_CIVLIZATION_NIZARI_CITY_9" Language="zh_Hans_CN">
+			<Text>亚兹德</Text>
+		</Row>
+		<Row Tag="LOC_CIVLIZATION_NIZARI_CITY_10" Language="zh_Hans_CN">
+			<Text>克尔曼</Text>
+		</Row>
+		<Row Tag="LOC_CIVLIZATION_NIZARI_CITY_11" Language="zh_Hans_CN">
+			<Text>库姆</Text>
+		</Row>
+		<Row Tag="LOC_CIVLIZATION_NIZARI_CITY_12" Language="zh_Hans_CN">
+			<Text>玛赫拉特</Text>
+		</Row>
+		<Row Tag="LOC_CIVLIZATION_NIZARI_CITY_13" Language="zh_Hans_CN">
+			<Text>大不里士</Text>
+		</Row>
+		<Row Tag="LOC_CIVLIZATION_NIZARI_CITY_14" Language="zh_Hans_CN">
+			<Text>兰姆萨</Text>
+		</Row>
+		<Row Tag="LOC_CIVLIZATION_NIZARI_CITY_15" Language="zh_Hans_CN">
+			<Text>格德库</Text>
+		</Row>
+		<Row Tag="LOC_CIVLIZATION_NIZARI_CITY_16" Language="zh_Hans_CN">
+			<Text>库赫斯坦</Text>
+		</Row>
+		<Row Tag="LOC_CIVLIZATION_NIZARI_CITY_17" Language="zh_Hans_CN">
+			<Text>加兹温</Text>
+		</Row>
+
+		<!-- 领袖引言 -->
+		<Row Tag="LOC_LEADER_YNL_KING_HASSAN_QUOTE" Language="zh_Hans_CN">
+			<Text>喜欢之物？——首级。</Text>
+		</Row>
+
+		<!-- 特色项目 -->
+		<Row Tag="LOC_PROJECT_DAWA_JADIDA_NAME" Language="zh_Hans_CN">
+			<Text>杰迪代的宣召</Text>
+		</Row>
+		<Row Tag="LOC_PROJECT_DAWA_JADIDA_SHORT_NAME" Language="zh_Hans_CN">
+			<Text>杰迪代的宣召</Text>
+		</Row>
+		<Row Tag="LOC_PROJECT_DAWA_JADIDA_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>阿萨辛的特色项目，执行项目时每回合提供 [ICON_Culture] 文化值、[ICON_Science] 科技值、[ICON_Faith] 信仰值以及 [ICON_Gold] 金币，并且每次项目完成时可获得 [ICON_GreatGeneral] 大将军和 [ICON_GreatAdmiral] 海军统帅的 [ICON_GreatPerson] 伟人点数奖励。</Text>
+		</Row>
+		<!-- RF专用 -->
+
+		<Row Tag="LOC_DIPLO_KUDO_LEADER_YNL_KING_HASSAN_REASON_AGENDA_CURMUDGEON_POSITIVE" Language="zh_Hans_CN">
+			<Text>一位伟大的统治者不会因异性之阴谋而分散心力，汝是否赞成？</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_LEADER_YNL_KING_HASSAN_REASON_AGENDA_CURMUDGEON_NEGATIVE" Language="zh_Hans_CN">
+			<Text>与吾等闲谈之外，汝难道再无其他更有意义之事需要完成？实在令人分心、适得其反。</Text>
+		</Row>
+
+		<Row Tag="LOC_DIPLO_KUDO_LEADER_YNL_KING_HASSAN_REASON_AGENDA_FLIRTATIOUS_POSITIVE" Language="zh_Hans_CN">
+			<Text>吾等钦佩于汝。无疑，许多人都敬仰于汝，然吾等为汝最重要的仰慕者。</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_LEADER_YNL_KING_HASSAN_REASON_AGENDA_FLIRTATIOUS_NEGATIVE" Language="zh_Hans_CN">
+			<Text>汝虽言汝仅为汝之子民利益而谈判，但吾等认为汝不过是妒忌于吾等之外交关系。</Text>
+		</Row>
+
+		<Row Tag="LOC_DIPLO_KUDO_LEADER_YNL_KING_HASSAN_REASON_AGENDA_GOSSIP_POSITIVE" Language="zh_Hans_CN">
+			<Text>汝与吾等之联系建立于了解他国机密之上，甚令吾等满意。</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_LEADER_YNL_KING_HASSAN_REASON_AGENDA_GOSSIP_NEGATIVE" Language="zh_Hans_CN">
+			<Text>吾等时常思索为何汝言甚少。吾等认为汝腹中无言。</Text>
+		</Row>
+
+		<Row Tag="LOC_DIPLO_KUDO_LEADER_YNL_KING_HASSAN_REASON_AGENDA_SYCOPHANT_GOLDEN_AGE" Language="zh_Hans_CN">
+			<Text>吾等之使民中，诗人与哲人将汝之文明视为世界之光，吾等必须赞同。</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_LEADER_YNL_KING_HASSAN_REASON_AGENDA_SYCOPHANT_DARK_AGE" Language="zh_Hans_CN">
+			<Text>汝应立志成为世界之上最值得信仰之榜样！汝若带领子民走向荣耀，必将受到爱戴与拥护。</Text>
+		</Row>
+
+		<Row Tag="LOC_DIPLO_KUDO_LEADER_YNL_KING_HASSAN_REASON_AGENDA_SYMPATHIZER_DARK_AGE" Language="zh_Hans_CN">
+			<Text>吾等文明仰慕汝心怀坚韧与决心，解决当下汝所面临之麻烦。</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_LEADER_YNL_KING_HASSAN_REASON_AGENDA_SYMPATHIZER_GOLDEN_AGE" Language="zh_Hans_CN">
+			<Text>汝之子民所言之“光荣时代”，于吾等看来却如沾沾自喜。吾等期待汝之帝国堕落之日。</Text>
+		</Row>
+		<!-- 战斗加成文本 -->
+		<Row Tag="LOC_TRAIT_COMBAT_BONUS_VS_DARK_AGE_CIV_YNL_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>与处于 [ICON_GLORY_DARK_AGE] 黑暗时代的文明对抗时+8 [ICON_Strength] 战斗力。</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_COMBAT_BONUS_VS_DARK_AGE_YNL_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>与处于 [ICON_GLORY_DARK_AGE] 黑暗时代的文明对抗时+8 [ICON_Strength] 战斗力。</Text>
+		</Row>
+	</LocalizedText>
+</GameData>

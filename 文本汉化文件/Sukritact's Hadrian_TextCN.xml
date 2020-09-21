@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Sukritact's Hadrian_TextCN -->
+<!-- Author: 春 -->
+<!-- DateCreated: 5/22/2020 11:58:38 PM -->
+<GameData>
+	<LocalizedText>
+		<Row Tag="LOC_LEADER_SUK_HADRIAN_NAME" Language="zh_Hans_CN">
+			<Text>哈德良</Text>
+		</Row>
+		<!--ULA-->
+		<Row Tag="LOC_TRAIT_LEADER_SUK_GREEKLING_NAME" Language="zh_Hans_CN">
+			<Text>小希腊儿</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_LEADER_SUK_GREEKLING_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>建造军营、剧院广场、学院和圣地的第一座建筑时+50% [ICON_Production] 生产力，且这些建筑可提供双倍产出（标准速度下）。拥有奇观的城市可无视 [ICON_Citizen] 人口限制多建造一个区域。</Text>
+		</Row>
+		<!--<Row Tag="LOC_TRAIT_LEADER_SUK_GREEKLING_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>拥有驻军的城市建造区域及建筑时+10% [ICON_Production] 生产力。国内 [ICON_TradeRoute] 贸易路线可根据起始城市中现有的区域为始末两座城市均提供额外收益。（浴场+1 [ICON_Food] 食物，军营+1 [ICON_Production] 生产力，剧院广场+1 [ICON_Culture] 文化值，学院+1 [ICON_Science] 科技值，圣地+1 [ICON_Faith] 信仰值）</Text>
+		</Row>-->
+		<!--Agenda-->
+		<Row Tag="LOC_AGENDA_SUK_HADRIANS_WALL_NAME" Language="zh_Hans_CN">
+			<Text>哈德良长城</Text>
+		</Row>
+		<Row Tag="LOC_AGENDA_SUK_HADRIANS_WALL_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>动用军队积极保卫他的帝国，抵御蛮族，喜欢同样这么做的文明。不喜欢有强大军队但忽视了蛮族营寨的文明。</Text>
+		</Row>
+		<!--Cities-->
+		<Row Tag="LOC_DIPLO_KUDO_LEADER_SUK_HADRIAN_REASON_ANY" Language="zh_Hans_CN">
+			<Text>（您清除了蛮族营寨）</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MODIFIER_SUK_HADRIANS_WALL_CLEARING" Language="zh_Hans_CN">
+			<Text>哈德良很高兴你消灭了蛮族。</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_LEADER_SUK_HADRIAN_REASON_ANY" Language="zh_Hans_CN">
+			<Text>（您有一支强大的军队，但是没有帮助消灭蛮族）</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MODIFIER_SUK_HADRIANS_WALL_IGNORING" Language="zh_Hans_CN">
+			<Text>哈德良很失望你忽略了蛮族。</Text>
+		</Row>
+		<!--Diplo-->
+		<Row Tag="LOC_LOADING_INFO_LEADER_SUK_HADRIAN" Language="zh_Hans_CN">
+			<Text>哈德良皇帝，您的多才多艺是您能给予罗马的最大礼物。在建筑师们深思熟虑的策划下，罗马的城市将在艺术和科学领域蓬勃发展。在您的人民享受劳动果实的同时，您的军团也要时刻保持警惕，时刻准备维护罗马的和平。</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_SUK_HADRIAN_ANY" Language="zh_Hans_CN">
+			<Text>真遗憾。</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_SUK_HADRIAN_ANY" Language="zh_Hans_CN">
+			<Text>十分感谢。</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DECLARE_FRIEND_FROM_AI_LEADER_SUK_HADRIAN_ANY" Language="zh_Hans_CN">
+			<Text>我代表罗马献上我们的友谊。</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_HUMAN_LEADER_SUK_HADRIAN_ANY" Language="zh_Hans_CN">
+			<Text>罗马的友谊不是那么容易赢得的。你必须证明你的价值。</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_HUMAN_LEADER_SUK_HADRIAN_ANY" Language="zh_Hans_CN">
+			<Text>罗马欣然接受。</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_SUK_HADRIAN_ANY" Language="zh_Hans_CN">
+			<Text>有时候，最好的防御就是进攻，准备迎战吧。</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_HUMAN_LEADER_SUK_HADRIAN_ANY" Language="zh_Hans_CN">
+			<Text>元老院的老家伙们说我多疑是因为我过于谨慎。你证明他们错了，谢谢你。</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DEFEAT_FROM_HUMAN_LEADER_SUK_HADRIAN_ANY" Language="zh_Hans_CN">
+			<Text>诸神从我手中夺走了安提诺乌斯，现在又夺走了罗马。他们下次会来夺走我的生命吗？</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DEFEAT_FROM_AI_LEADER_SUK_HADRIAN_ANY" Language="zh_Hans_CN">
+			<Text>诸神从我手中夺走了安提诺乌斯，现在又夺走了罗马。他们下次会来夺走我的生命吗？</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DELEGATION_FROM_AI_LEADER_SUK_HADRIAN_ANY" Language="zh_Hans_CN">
+			<Text>我派遣了代表团与你会面，他们从家乡带去了橄榄油。</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_DELEGATION_FROM_HUMAN_LEADER_SUK_HADRIAN_ANY" Language="zh_Hans_CN">
+			<Text>我不能接受。</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_DELEGATION_FROM_HUMAN_LEADER_SUK_HADRIAN_ANY" Language="zh_Hans_CN">
+			<Text>贵国代表团似乎做了军队未尝做过的事情，突破了我们的城墙。我感谢你的礼物。</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DENOUNCE_FROM_AI_LEADER_SUK_HADRIAN_ANY" Language="zh_Hans_CN">
+			<Text>罗马不能容忍这种侮辱！你们这些没教化的野蛮人！[NEWLINE]（谴责你）</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DENOUNCE_FROM_HUMAN_LEADER_SUK_HADRIAN_ANY" Language="zh_Hans_CN">
+			<Text>你侮辱强大的罗马？你是想要出丑？</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_LEADER_SUK_HADRIAN_ANY" Language="zh_Hans_CN">
+			<Text>你好！我是普布利乌斯·埃利乌斯·哈德良：哲学家、战士、建筑师，同时任罗马皇帝。告诉我，你喜欢我的庄园吗？</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_VISIT_RECIPIENT_LEADER_SUK_HADRIAN_ANY" Language="zh_Hans_CN">
+			<Text>我们附近的一座城市刚好完成了新的公共浴场。你愿意来体验一下我们的热情好客，看看罗马的繁华吗？</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_POSITIVE_LEADER_SUK_HADRIAN_ANY" Language="zh_Hans_CN">
+			<Text>我很乐意接受。</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_NO_MANS_INFO_EXCHANGE_LEADER_SUK_HADRIAN_ANY" Language="zh_Hans_CN">
+			<Text>没有城市能与永恒之城媲美，但我还是想看看你们的首都。</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_GREETING_LEADER_SUK_HADRIAN_ANY" Language="zh_Hans_CN">
+			<Text>欢迎。</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_EXIT_LEADER_SUK_HADRIAN_ANY" Language="zh_Hans_CN">
+			<Text>你为什么不尽你的责任把这些蛮族赶跑呢？</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_KUDO_EXIT_LEADER_SUK_HADRIAN_ANY" Language="zh_Hans_CN">
+			<Text>消灭蛮族将使我们双方繁荣昌盛。谢谢你。</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_ALLIANCE_FROM_AI_LEADER_SUK_HADRIAN_ANY" Language="zh_Hans_CN">
+			<Text>你愿意结成同盟吗？</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_MAKE_DEAL_FROM_AI_LEADER_SUK_HADRIAN_ANY" Language="zh_Hans_CN">
+			<Text>{LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_SUK_HADRIAN_ANY}</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_MAKE_DEAL_FROM_AI_LEADER_SUK_HADRIAN_ANY" Language="zh_Hans_CN">
+			<Text>{LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_SUK_HADRIAN_ANY}</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_AI_ACCEPT_DEAL_LEADER_SUK_HADRIAN_ANY" Language="zh_Hans_CN">
+			<Text>很好，这场战争已经打得太久了。</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_AI_REFUSE_DEAL_LEADER_SUK_HADRIAN_ANY" Language="zh_Hans_CN">
+			<Text>不。我不能接受。</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_FROM_AI_LEADER_SUK_HADRIAN_ANY" Language="zh_Hans_CN">
+			<Text>这场战争打得很精彩，但现在该是和平的时候了。你同意吗？</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_OPEN_BORDERS_FROM_HUMAN_LEADER_SUK_HADRIAN_ANY" Language="zh_Hans_CN">
+			<Text>罗马对所有心怀善意的人开放。</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_OPEN_BORDERS_FROM_HUMAN_LEADER_SUK_HADRIAN_ANY" Language="zh_Hans_CN">
+			<Text>为了我国人民的安全，我必须拒绝你的请求。希望你能理解。</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_OPEN_BORDERS_FROM_AI_LEADER_SUK_HADRIAN_ANY" Language="zh_Hans_CN">
+			<Text>你能允许我们的部队通过你的领土吗？</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_LEADER_SUK_HADRIAN_ANY" Language="zh_Hans_CN">
+			<Text>我筑起这些城墙是有原因的，虽然我希望你没打算让它们派上用场。</Text>
+		</Row>
+		<!--Quote and Pedia-->
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_SUK_HADRIAN_QUOTE" Language="zh_Hans_CN">
+			<Text>纤细的灵魂，温柔、飘忽的灵魂，你是我肉体的伴侣，我的肉体曾让你栖身暂住，你很快就要堕入那凄凄惨惨、悲悲戚戚、荒凉空虚的地方去，再也享受不到往日的欢乐。请再等一下，让我再一次看一眼这熟悉的景色、熟悉的事物，以后永远也看不到了……让我努力睁着双眼走向死亡吧……</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_SUK_HADRIAN_TITLE" Language="zh_Hans_CN">
+			<Text>哈德良</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_SUK_HADRIAN_SUBTITLE" Language="zh_Hans_CN">
+			<Text>奥古斯都和罗马皇帝，祖国之父</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_SUK_HADRIAN_CHAPTER_CAPSULE_BODY" Language="zh_Hans_CN">
+			<Text>罗马是值得您信任的文明，它可以一直发展，最终成为游戏中最强大的帝国。哈德良对建筑的热爱，使他的城市在任何领域都能够脱颖而出。</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_SUK_HADRIAN_CHAPTER_DETAILED_BODY" Language="zh_Hans_CN">
+			<Text>罗马想要快速占领城市，然后迅速沿着道路进行工程建设。在适当地方进行工程建设后，可以在他们的城市添加浴场，城市会快速增长（在哈德良统治下，比起图拉真需要花更多时间来建设城市，但潜在的收益更多）。“条条大路通罗马”的能力让他们从城市网络中获得了稳定收益（国际路线也适用，并不是所有 [ICON_TradeRoute] 贸易路线都是国内贸易）。考虑到这些扩张会导致冲突，所以军团出现了。罗马军团建造堡垒的能力会比其他文明提前两个时代出现。对其进行有效使用是维持他广阔和强大帝国的关键。</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_SUK_HADRIAN_CHAPTER_HISTORY_PARA_1" Language="zh_Hans_CN">
+			<Text>哈德良（76-138年）是罗马第十四任皇帝（公元117年8月10日至公元138年7月10日），是五贤帝中的第三位（涅尔瓦、图拉真、哈德良、安东尼·庇护和马可·奥勒留），他公正地统治着罗马。哈德良出生于帕布利乌斯·埃利乌斯·哈德良纳斯，可能在伊斯帕尼亚岛，哈德良最著名的是他在整个罗马帝国建造了大量建筑工程，特别是在英国北部的哈德良长城。</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_SUK_HADRIAN_CHAPTER_HISTORY_PARA_2" Language="zh_Hans_CN">
+			<Text>年轻时，哈德良在家乡伊塔利卡伊斯帕尼亚（今西班牙塞维利亚）受过良好的教育，14岁左右时前往罗马。他的第一次兵役是在涅尔瓦皇帝手下担任保民官。涅尔瓦死后，图拉真继位。图拉真皇帝是第一位出身于外省的罗马统治者。后来的传记作者试图将图拉真和哈德良的出生地点都定在罗马城，不过为西班牙裔，一些人认为这一共性是图拉真选择哈德良作为继承人的原因（尽管大多数学者对此有争议）。公元117年，图拉真死于西里西亚战役，哈德良指挥他的后卫军，据信图拉真没有指定继承人。图拉真的妻子普罗提娜（她很喜欢哈德良）签署了继承文件，人们认为是她，而不是皇帝，收养了哈德良。无论如何，众所周知，图拉真尊重哈德良，并认为他是他的继任者，即使他没有正式任命他。哈德良对图拉真的贡献是有据可查的，他在成为罗马皇帝之前担任过许多重要的职位。</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_SUK_HADRIAN_CHAPTER_HISTORY_PARA_3" Language="zh_Hans_CN">
+			<Text>【译者注：正在翻译……】[NEWLINE][NEWLINE]His popularity as emperor is attested to by the fact that Hadrian was absent from Rome for the better part of his reign. Earlier Roman rulers, such as Nero, were harshly criticized for spending less time away from the city. Professor D. Brendan Nagle writes that Hadrian “spent most of his reign (twelve out of twenty-one years) traveling all over the Empire visiting the provinces, overseeing the administration, and checking the discipline of the army. He was a brilliant administrator who concerned himself with all aspects of government and the administration of justice” (278). His devotion to the army was such that he would sleep and eat among the common soldiers and he is commonly depicted in military attire even though his regime is marked by relative peace.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_SUK_HADRIAN_CHAPTER_HISTORY_PARA_4" Language="zh_Hans_CN">
+			<Text>Hadrian’s building projects are perhaps his most enduring legacy. He established cities throughout the Balkan Peninsula, Egypt, Asia Minor, and Greece. His love for Greece and Greek literature was such that he was known as `Graeculus’ (Greekling) in his youth and his philhellenism did not dissipate with age. He visited Greece at least twice (probably more) and participated in the Eleusinian Mysteries, of which he was an initiate. The Arch of Hadrian, constructed by the citizens of Athens in 131/132 CE, honor Hadrian as the founder of the city. Inscriptions on the arch name Theseus (the traditional founder) but add Hadrian owing to the latter’s substantial contributions to Athens (such as the Temple of Zeus). He dedicated a number of sites in Greece to his young lover Antinous, who drowned in the Nile River in 130 CE. Hadrian was deeply attached to Antinous and the young man’s death so greatly affected the emperor that he had him deified (from which the mystery cult in honor of Antinous grew). In Egypt he founded the city of Antinopolis in his memory.  In Rome he rebuilt the Pantheon (which had been destroyed by fire) and Trajan’s Forum as well as funding construction of other buildings, baths, and villas. Many of these structures survived intact for centuries, some as late as the 19th century CE, and the Pantheon, still perfectly preserved, may be visited in the present day. Hadrian had a great interest in architecture and seems to have contributed ideas, or even plans, to the architects though scholars no longer believe that he was the lead architect on any single project.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_SUK_HADRIAN_CHAPTER_HISTORY_PARA_5" Language="zh_Hans_CN">
+			<Text>Of all his significant monuments and buildings, Hadrian’s Wall in north Britain is the most famous. Construction of the wall, known in antiquity as Vallum Hadriani, was begun around 122 CE and corresponded to Hadrian’s visit to the province. It marked the northern boundary of the Roman Empire in Britain but the length and breadth of the project (stretching, as it did, from coast to coast) suggests that the more important purpose of the wall was a show of Rome’s power. The wall was originally 9.7 feet wide (3 metres) and 16-20 feet high (six metres) east of the River Irthing, all built of stone, and 20 feet wide (6 metres) by 11.feet high (3.5 metres) west of the river, made up of stone and turf, stretching 73 miles (120 km) across uneven terrain. It was built in six years by the legions stationed in Britain. There were between 14-17 fortifications along the length of the wall and a Vallum (a ditch purposefully constructed of earthworks) which ran parallel to the wall. The Vallum measured 20 feet (6 metres) wide by 10 feet (3 metres) deep flanked by large mounds of tightly packed earth. As Hadrian’s foreign policy was “peace through strength” it is thought that the wall, which was originally plastered and white washed, would have clearly represented the might of the Roman Empire.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_SUK_HADRIAN_CHAPTER_HISTORY_PARA_6" Language="zh_Hans_CN">
+			<Text>Although Hadrian was a learned and cultivated man, his policy of peaceful relations and negotiations was not always adhered to. In 130 CE, Hadrian visited Jerusalem, which was still in ruins from the First Roman-Jewish War of 66-73 CE. He rebuilt the city according to his own designs and renamed it Aelia Capitolina Jupiter Capitolinus after himself and the king of the Roman gods. When he built a temple to Jupiter on the ruins of the Temple of Solomon (the so-called Second Temple, considered sacred by the Jews), the populace rose up under the leadership of Simon bar Kokhbah in what has come to be known as bar Kokhbah’s Revolt (132-136 CE). Roman losses in this campaign were enormous but Jewish losses were no less significant. By the time the rebellion was put down, 580,000 Jews had been killed and over 1000 towns and villages destroyed. Hadrian then banished the remaining Jews from the region and renamed it Syria Palaestina after the traditional enemies of the Jewish people, the Philistines. He ordered a public burning of the Torah, executed the Jewish scholars, and prohibited the practice and observance of Judaism.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_SUK_HADRIAN_CHAPTER_HISTORY_PARA_7" Language="zh_Hans_CN">
+			<Text>His health now failing, Hadrian returned to Rome and occupied himself by writing poetry and tending to administrative affairs. He named as his successor Antoninus Pius on the stipulation that Antoninus would adopt the young Marcus Aurelius to follow. Hadrian died in 138 CE, presumably of a heart attack, at the age of 62. He was buried first at Puteoli, on the grounds of the former estate of the Rhetorician Cicero (as homage to Hadrian’s love of learning) but when Antoninus Pius completed the great Tomb of Hadrian in Rome the following year, his body was cremated and the ashes interred there with his wife and son. Antoninus Pius had Hadrian deified and temples built in his honor. The historian Gibbon writes that Hadrian’s rule was, “the period in the history of the world during which the condition of the human race was most happy and prosperous…when the vast extent of the Roman Empire was governed by absolute power under the guidance of virtue and wisdom” (61). Although Hadrian was not universally admired during his life, or since his death, his reign is generally considered in keeping with Gibbon’s estimation.</Text>
+		</Row>
+	</LocalizedText>
+</GameData>

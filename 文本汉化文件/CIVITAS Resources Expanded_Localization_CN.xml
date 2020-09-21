@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!-- CIVITAS Resources Expanded_Localization_CN -->
+<!-- Author: Clear8Sky -->
+<!-- DateCreated: 3/14/2020 2:15:21 PM -->
+<GameData>
+	<LocalizedText>
+		<!--<Replace Tag="LOC_BELIEF_GODDESS_OF_FESTIVALS_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>从 [ICON_RESOURCE_WINE] 葡萄酒、[ICON_RESOURCE_INCENSE] 熏香、[ICON_RESOURCE_P0K_PAPYRUS] 纸莎草、[ICON_RESOURCE_P0K_MAPLE] 枫树、[ICON_RESOURCE_COCOA] 可可豆、[ICON_RESOURCE_TOBACCO] 烟草、[ICON_RESOURCE_COFFEE] 咖啡和[ICON_RESOURCE_TEA] 茶叶的种植园中获得+1 [ICON_Food] 食物。</Text>
+		</Replace>
+		<Replace Tag="LOC_BELIEF_ORAL_TRADITION_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>从[ICON_RESOURCE_BANANAS] 香蕉、[ICON_RESOURCE_CITRUS] 柑橘、[ICON_RESOURCE_CVS_POMEGRANATES] 石榴、[ICON_RESOURCE_P0K_PLUMS] 李子、[ICON_RESOURCE_COTTON] 棉花、[ICON_RESOURCE_DYES] 染料、[ICON_RESOURCE_SILK] 丝绸、[ICON_RESOURCE_SPICES] 香料和[ICON_RESOURCE_SUGAR] 糖的种植园中获得+1 [ICON_Culture] 文化值</Text>
+		</Replace>-->
+		<Row Tag="LOC_RESOURCE_P0K_PENGUINS_NAME" Language="zh_Hans_CN">
+			<Text>企鹅</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_RESOURCES_PAGE_RESOURCE_P0K_PENGUINS_CHAPTER_HISTORY_PARA_1" Language="zh_Hans_CN">
+			<Text>企鹅在世界各地都广受欢迎，主要是因为它们不同寻常的站姿、蹒跚前行的姿态、令人印象深刻的游泳能力以及（同其他鸟类相比）不太惧怕人类。它们那引人注目的黑白羽毛常被比作一套白领西装。一些艺术家和作家曾错误地认为企鹅生活在北极。尽管几乎所有企鹅物种都原产于南半球，但它们并非只在像南极洲这样的寒冷气候地带中被发现。事实上，只有少数企鹅生活在南极附近。温带地区生活有几种企鹅，其中一种叫加拉帕戈斯企鹅，它们就生活在赤道附近。大多数企鹅以在水下游泳时捕获的磷虾、鱼、鱿鱼和其他海洋生物为食。它们一半时间行走在陆地上，一半时间遨游在海洋中。</Text>
+		</Row>
+		<Row Tag="LOC_RESOURCE_CVS_POMEGRANATES_NAME" Language="zh_Hans_CN">
+			<Text>石榴</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_RESOURCES_PAGE_RESOURCE_CVS_POMEGRANATES_CHAPTER_HISTORY_PARA_1" Language="zh_Hans_CN">
+			<Text>古埃及人曾将石榴视为繁荣与雄心的象征。据最古老的医学著作之一——埃伯斯纸莎草所记载，从大约1500年前，埃及人便用石榴治疗绦虫及其他感染。在迦太基将其传入罗马之前，希腊人就已经对这种水果很熟悉了，它在许多神话和艺术作品中都有体现。在古希腊神话中，石榴被称为“死人的果实”，石榴籽被认为是从阿多尼斯的血液中迸出的。</Text>
+		</Row>
+		<Row Tag="LOC_RESOURCE_P0K_PAPYRUS_NAME" Language="zh_Hans_CN">
+			<Text>纸莎草</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_RESOURCES_PAGE_RESOURCE_P0K_PAPYRUS_CHAPTER_HISTORY_PARA_1" Language="zh_Hans_CN">
+			<Text>作为一种书写材料，纸莎草被用于记录赞美圣歌、宗教经典、宗教告诫、交流信件、官方文件、公告声明、爱情诗集、医学文本、科技手册、书面存档、巫术专著和文学著作。现存的纸莎草卷轴，从碎片大小到一页长度，再到著名的埃伯斯纸莎草——在一卷65英尺（20米）长卷轴上多达110页的著作。《埃伯斯纸草》是一本医学著作，经常为古埃及医学和巫术的关联提供引证。同卡恩妇科纸莎草、伦敦医疗纸莎草和埃德温·史密斯纸莎草等这仅举几例的纸莎草卷轴一起，这些纸莎草卷轴证明了古埃及人渊博的医学知识和高超的医术，以及他们是如何处理重伤和轻伤、对待各种疾病以及类似癌症和心脏病等严重病患的。焦虑、抑郁和精神创伤的病例也曾在埃及的医学文献中被讨论过，堕胎、节育、月经痉挛和不孕等问题也同样如此。</Text>
+		</Row>
+		<Row Tag="LOC_RESOURCE_P0K_MAPLE_NAME" Language="zh_Hans_CN">
+			<Text>枫糖</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_RESOURCES_PAGE_RESOURCE_P0K_MAPLE_CHAPTER_HISTORY_PARA_1" Language="zh_Hans_CN">
+			<Text>北美最早的英法殖民者很快就从美洲东部的土著部落那里获得了枫树的赏赐。这些先驱者们很快开始用糖槭树的甜汁制作出了属于自己的枫糖和糖浆。从红枫树上，他们学会了制造墨水和染料。开拓者约翰·史密斯是最早描述美洲原住民制糖过程的人之一。他还提到了其他有趣的枫树用途，比如美洲土著人从树皮里酿造出止咳药。而且无论古今，枫木都是高级家具、橱柜、地板和家用器具的首选木材。</Text>
+		</Row>
+		<Row Tag="LOC_RESOURCE_P0K_OPAL_NAME" Language="zh_Hans_CN">
+			<Text>猫眼石</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_RESOURCES_PAGE_RESOURCE_P0K_OPAL_CHAPTER_HISTORY_PARA_1" Language="zh_Hans_CN">
+			<Text>作家们曾把猫眼石比作火山、星系与烟花。崇拜者们给猫眼石取了一些特别的诗意名字，如潘多拉、世界之光和女皇。在古罗马，这块宝石象征着爱与希望。许多文明都认为猫眼石具有超自然的起源和能力。在阿拉伯传说里它于闪电中从天而降。古希腊人相信猫眼石给了他们主人所预言的礼物，并保护他们远离疾病。欧洲人一直认为它是希望、纯洁和真理的象征。</Text>
+		</Row>
+		<Row Tag="LOC_RESOURCE_P0K_PLUMS_NAME" Language="zh_Hans_CN">
+			<Text>李子</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_RESOURCES_PAGE_RESOURCE_P0K_PLUMS_CHAPTER_HISTORY_PARA_1" Language="zh_Hans_CN">
+			<Text>李子很可能是人类最早培育的水果之一。李子家族有记载的历史可以追溯到古希腊，当时在欧洲和西亚种植李子已经有几个世纪了。事实上，李子曾被认为是巴比伦空中花园里的众多植物之一。据说古罗马人熟悉超过300多种如李子一般多汁的水果。</Text>
+		</Row>
+	</LocalizedText>
+</GameData>

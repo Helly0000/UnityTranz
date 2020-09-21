@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!-- Borobudur_Localization_CN -->
+<!-- Author: 春 -->
+<!-- DateCreated: 4/1/2020 11:23:42 AM -->
+<GameData>
+	<LocalizedText>
+		<Row Tag="LOC_BUILDING_BOROBUDUR_NAME" Language="zh_Hans_CN">
+			<Text>婆罗浮屠</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_BOROBUDUR_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>外国城市的每个奢侈品资源可使您通往该城市的的贸易路线获得+1 [ICON_Faith] 信仰值。6单元格内的每个种植园改良设施产出+1 [ICON_Faith] 信仰值。免费获得一名使徒和一名上师。必须已创立宗教并建有寺庙，必须建造在雨林上。</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_BOROBUDUR_QUOTE" Language="zh_Hans_CN">
+			<Text>婆罗浮屠是一件令人赞叹的雄伟艺术品。大片的建筑群被繁密的热带植被覆盖，各个不同方位皆呈现出美丽与精致，整体体现了对称性和规律性。[NEWLINE]——托马斯·斯坦福·佛莱士爵士</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_WONDERS_PAGE_BUILDING_BOROBUDUR_CHAPTER_HISTORY_PARA_1" Language="zh_Hans_CN">
+			<Text>婆罗浮屠是一座9世纪的大乘佛教寺庙，位于马格朗摄政区，距离印尼爪哇岛中部的蒙蒂兰不远。它是世界上最大的佛寺。寺庙由9个堆叠的平台构成，其中有6个正方形和3个环形，顶层的中心是圆形的。它装饰了2672块浮雕和504座佛教雕像。顶层环绕着72尊佛像，每尊都位于一座雕孔的舍利塔内。</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_WONDERS_PAGE_BUILDING_BOROBUDUR_CHAPTER_HISTORY_PARA_2" Language="zh_Hans_CN">
+			<Text>寺庙建于公元9世纪的夏伦德拉王朝时期，它的设计遵循爪哇佛教的建筑风格，融合了印尼本土的祭祖习俗和佛教的涅槃观念。寺庙展现了芨多艺术的影响，表明了印度对这一地区的影响。但也有足够的本土场景和元素，彰显了婆罗浮屠的印尼特色。这个遗迹是供奉佛祖的圣地，也是佛教徒朝圣的场所。朝圣者从遗迹的底部开始，沿着遗迹的道路，通过三层平台到达顶部，象征着佛教理念里的三界：欲界、色界、无色界。遗迹引导朝圣者通过一个宽敞的阶梯和走廊，1460块叙事浮雕的镶嵌在墙上和栏杆上。婆罗浮屠是世界上最大、最完整的佛寺建筑群之一。</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_WONDERS_PAGE_BUILDING_BOROBUDUR_CHAPTER_HISTORY_PARA_3" Language="zh_Hans_CN">
+			<Text>有证据表明，婆罗浮屠建于9世纪，后来在14世纪随着爪哇印度教王国的衰落和爪哇人皈依伊斯兰教而被遗弃。1814年，当时爪哇岛的英国统治者托马斯·斯坦福·莱佛士爵士从印尼本地人那里得知了它的方位，从而让全世界得以认识到它。婆罗浮屠后来经过几次修复维护得以保存。印尼政府和联合国教科文组织在1975年至1982年间进行了规模最大的修复工程，随后该遗迹被联合国教科文组织列为世界遗产。</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_WONDERS_PAGE_BUILDING_BOROBUDUR_CHAPTER_HISTORY_PARA_4" Language="zh_Hans_CN">
+			<Text>婆罗浮屠是世界上最大的佛寺，与缅甸的蒲甘和柬埔寨的吴哥窟齐名，是东南亚最伟大的考古遗迹之一。婆罗浮屠仍然是受欢迎的朝圣之地，印尼的佛教徒会在这里庆祝卫塞节。婆罗浮屠是印尼最受欢迎的旅游景点。</Text>
+		</Row>
+	</LocalizedText>
+</GameData>

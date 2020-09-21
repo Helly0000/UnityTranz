@@ -1,0 +1,345 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!-- RBU_Base_Localization_CN -->
+<!-- Author: Clear8Sky -->
+<!-- DateCreated: 3/18/2020 3:09:44 PM -->
+<GameData>
+	<LocalizedText>
+		<!-- 名称 -->
+		<Replace Tag="LOC_BUILDING_AIRPORT_UPGRADE_NAME" Language="zh_Hans_CN">
+			<Text>机场·升级</Text>
+		</Replace>
+		<Replace Tag="LOC_BUILDING_AMPHITHEATER_UPGRADE_NAME" Language="zh_Hans_CN">
+			<Text>古罗马剧场·升级</Text>
+		</Replace>
+		<Replace Tag="LOC_BUILDING_ARENA_UPGRADE_NAME" Language="zh_Hans_CN">
+			<Text>竞技场·升级</Text>
+		</Replace>
+		<Replace Tag="LOC_BUILDING_ARMORY_UPGRADE_NAME" Language="zh_Hans_CN">
+			<Text>兵工厂·升级</Text>
+		</Replace>
+		<Replace Tag="LOC_BUILDING_BANK_UPGRADE_NAME" Language="zh_Hans_CN">
+			<Text>银行·升级</Text>
+		</Replace>
+		<Replace Tag="LOC_BUILDING_BARRACKS_UPGRADE_NAME" Language="zh_Hans_CN">
+			<Text>兵营·升级</Text>
+		</Replace>
+		<Replace Tag="LOC_BUILDING_BROADCAST_CENTER_UPGRADE_NAME" Language="zh_Hans_CN">
+			<Text>广播中心·升级</Text>
+		</Replace>
+		<Replace Tag="LOC_BUILDING_CASTLE_UPGRADE_NAME" Language="zh_Hans_CN">
+			<Text>中世纪城墙·升级</Text>
+		</Replace>
+		<Replace Tag="LOC_BUILDING_CATHEDRAL_UPGRADE_NAME" Language="zh_Hans_CN">
+			<Text>大教堂·升级</Text>
+		</Replace>
+		<Replace Tag="LOC_BUILDING_DAR_E_MEHR_UPGRADE_NAME" Language="zh_Hans_CN">
+			<Text>拜火神庙·升级</Text>
+		</Replace>
+		<Replace Tag="LOC_BUILDING_ELECTRONICS_FACTORY_UPGRADE_NAME" Language="zh_Hans_CN">
+			<Text>电子厂·升级</Text>
+		</Replace>
+		<Replace Tag="LOC_BUILDING_FACTORY_UPGRADE_NAME" Language="zh_Hans_CN">
+			<Text>工厂·升级</Text>
+		</Replace>
+		<Replace Tag="LOC_BUILDING_FILM_STUDIO_UPGRADE_NAME" Language="zh_Hans_CN">
+			<Text>电影制片厂·升级</Text>
+		</Replace>
+		<Replace Tag="LOC_BUILDING_GRANARY_UPGRADE_NAME" Language="zh_Hans_CN">
+			<Text>粮仓·升级</Text>
+		</Replace>
+		<Replace Tag="LOC_BUILDING_GURDWARA_UPGRADE_NAME" Language="zh_Hans_CN">
+			<Text>谒师所·升级</Text>
+		</Replace>
+		<Replace Tag="LOC_BUILDING_HANGAR_UPGRADE_NAME" Language="zh_Hans_CN">
+			<Text>机库·升级</Text>
+		</Replace>
+		<Replace Tag="LOC_BUILDING_LIBRARY_UPGRADE_NAME" Language="zh_Hans_CN">
+			<Text>图书馆·升级</Text>
+		</Replace>
+		<Replace Tag="LOC_BUILDING_LIGHTHOUSE_UPGRADE_NAME" Language="zh_Hans_CN">
+			<Text>灯塔·升级</Text>
+		</Replace>
+		<Replace Tag="LOC_BUILDING_MADRASA_UPGRADE_NAME" Language="zh_Hans_CN">
+			<Text>伊斯兰学校·升级</Text>
+		</Replace>
+		<Replace Tag="LOC_BUILDING_MARKET_UPGRADE_NAME" Language="zh_Hans_CN">
+			<Text>市场·升级</Text>
+		</Replace>
+		<Replace Tag="LOC_BUILDING_MEETING_HOUSE_UPGRADE_NAME" Language="zh_Hans_CN">
+			<Text>礼拜堂·升级</Text>
+		</Replace>
+		<Replace Tag="LOC_BUILDING_MILITARY_ACADEMY_UPGRADE_NAME" Language="zh_Hans_CN">
+			<Text>军事学院·升级</Text>
+		</Replace>
+		<Replace Tag="LOC_BUILDING_MONUMENT_UPGRADE_NAME" Language="zh_Hans_CN">
+			<Text>纪念碑·升级</Text>
+		</Replace>
+		<Replace Tag="LOC_BUILDING_MOSQUE_UPGRADE_NAME" Language="zh_Hans_CN">
+			<Text>清真寺·升级</Text>
+		</Replace>
+		<Replace Tag="LOC_BUILDING_MUSEUM_ART_UPGRADE_NAME" Language="zh_Hans_CN">
+			<Text>艺术博物馆·升级</Text>
+		</Replace>
+		<Replace Tag="LOC_BUILDING_MUSEUM_ARTIFACT_UPGRADE_NAME" Language="zh_Hans_CN">
+			<Text>考古博物馆·升级</Text>
+		</Replace>
+		<Replace Tag="LOC_BUILDING_PAGODA_UPGRADE_NAME" Language="zh_Hans_CN">
+			<Text>宝塔·升级</Text>
+		</Replace>
+		<Replace Tag="LOC_BUILDING_PALACE_UPGRADE_NAME" Language="zh_Hans_CN">
+			<Text>宫殿·升级</Text>
+		</Replace>
+		<Replace Tag="LOC_BUILDING_POWER_PLANT_UPGRADE_NAME" Language="zh_Hans_CN">
+			<Text>发电厂·升级</Text>
+		</Replace>
+		<Replace Tag="LOC_BUILDING_RESEARCH_LAB_UPGRADE_NAME" Language="zh_Hans_CN">
+			<Text>研究实验室·升级</Text>
+		</Replace>
+		<Replace Tag="LOC_BUILDING_SEAPORT_UPGRADE_NAME" Language="zh_Hans_CN">
+			<Text>码头·升级</Text>
+		</Replace>
+		<Replace Tag="LOC_BUILDING_SEWER_UPGRADE_NAME" Language="zh_Hans_CN">
+			<Text>下水道·升级</Text>
+		</Replace>
+		<Replace Tag="LOC_BUILDING_SHIPYARD_UPGRADE_NAME" Language="zh_Hans_CN">
+			<Text>造船厂·升级</Text>
+		</Replace>
+		<Replace Tag="LOC_BUILDING_SHRINE_UPGRADE_NAME" Language="zh_Hans_CN">
+			<Text>神社·升级</Text>
+		</Replace>
+		<Replace Tag="LOC_BUILDING_STABLE_UPGRADE_NAME" Language="zh_Hans_CN">
+			<Text>马厩·升级</Text>
+		</Replace>
+		<Replace Tag="LOC_BUILDING_STADIUM_UPGRADE_NAME" Language="zh_Hans_CN">
+			<Text>体育场·升级</Text>
+		</Replace>
+		<Replace Tag="LOC_BUILDING_STAR_FORT_UPGRADE_NAME" Language="zh_Hans_CN">
+			<Text>文艺复兴城墙·升级</Text>
+		</Replace>
+		<Replace Tag="LOC_BUILDING_STAVE_CHURCH_UPGRADE_NAME" Language="zh_Hans_CN">
+			<Text>木板教堂·升级</Text>
+		</Replace>
+		<Replace Tag="LOC_BUILDING_STOCK_EXCHANGE_UPGRADE_NAME" Language="zh_Hans_CN">
+			<Text>证券交易所·升级</Text>
+		</Replace>
+		<Replace Tag="LOC_BUILDING_STUPA_UPGRADE_NAME" Language="zh_Hans_CN">
+			<Text>窣堵波·升级</Text>
+		</Replace>
+		<Replace Tag="LOC_BUILDING_SYNAGOGUE_UPGRADE_NAME" Language="zh_Hans_CN">
+			<Text>犹太教堂·升级</Text>
+		</Replace>
+		<Replace Tag="LOC_BUILDING_TEMPLE_UPGRADE_NAME" Language="zh_Hans_CN">
+			<Text>寺庙·升级</Text>
+		</Replace>
+		<Replace Tag="LOC_BUILDING_UNIVERSITY_UPGRADE_NAME" Language="zh_Hans_CN">
+			<Text>大学·升级</Text>
+		</Replace>
+		<Replace Tag="LOC_BUILDING_WALLS_UPGRADE_NAME" Language="zh_Hans_CN">
+			<Text>远古城墙·升级</Text>
+		</Replace>
+		<Replace Tag="LOC_BUILDING_WAT_UPGRADE_NAME" Language="zh_Hans_CN">
+			<Text>佛寺·升级</Text>
+		</Replace>
+		<Replace Tag="LOC_BUILDING_WATER_MILL_UPGRADE_NAME" Language="zh_Hans_CN">
+			<Text>水磨·升级</Text>
+		</Replace>
+		<Replace Tag="LOC_BUILDING_WORKSHOP_UPGRADE_NAME" Language="zh_Hans_CN">
+			<Text>工作坊·升级</Text>
+		</Replace>
+		<Replace Tag="LOC_BUILDING_ZOO_UPGRADE_NAME" Language="zh_Hans_CN">
+			<Text>动物园·升级</Text>
+		</Replace>
+		<!-- 描述 -->
+		<Replace Tag="LOC_BUILDING_AMPHITHEATER_UPGRADE_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>升级后的古罗马剧场可容纳更多观众。</Text>
+		</Replace>
+		<Replace Tag="LOC_BUILDING_AIRPORT_UPGRADE_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>升级后的机场将接待更多来自世界各地的游客。[NEWLINE]所有 [ICON_Tourism] 旅游业绩产出提高5%，且航空港额外+1空中单位槽位。</Text>
+		</Replace>
+		<Replace Tag="LOC_BUILDING_ARENA_UPGRADE_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>升级后的竞技场可容纳更多观众、举办角斗士比赛。[NEWLINE]可分别从 [ICON_Resource_Coffee] 咖啡、[ICON_Resource_Jade] 玉、[ICON_Resource_Marble] 大理石及 [ICON_Resource_Silk] 丝绸资源中获得+2 [ICON_Culture] 文化值。</Text>
+		</Replace>
+		<Replace Tag="LOC_BUILDING_ARMORY_UPGRADE_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>我们的部队在兵工厂升级后可获得更好的装备。[NEWLINE]所有在此城训练的陆地战斗单位攻击时获得+3 [ICON_Strength] 战斗力。</Text>
+		</Replace>
+		<Replace Tag="LOC_BUILDING_BANK_UPGRADE_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>由于银行的升级，这座城市的贸易正在蓬勃发展。[NEWLINE]从本市出发的国际 [ICON_TradeRoute] 贸易路线获得+4 [ICON_Gold] 金币；国内 [ICON_TradeRoute] 贸易路线获得+2 [ICON_Gold] 金币。可分别从 [ICON_Resource_Diamonds] 钻石、[ICON_Resource_Gold] 黄金及 [ICON_Resource_Silver] 银资源中获得+3 [ICON_Gold] 金币。</Text>
+		</Replace>
+		<Replace Tag="LOC_BUILDING_BARRACKS_UPGRADE_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>升级后的兵营可提高军营区域的生产效率。[NEWLINE]可从营地改良设施中获得+2 [ICON_Production] 生产力。无法建造在已拥有马厩的军营中。</Text>
+		</Replace>
+		<Replace Tag="LOC_BUILDING_BROADCAST_CENTER_UPGRADE_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>升级后的广播中心可存储更多音乐，并可每天不间断进行广播。[NEWLINE]为广播中心提供+1 [ICON_GreatWork_Music] 音乐巨作槽位，并为6个单元格内的每个市中心提供+1 [ICON_Amenities] 宜居度。</Text>
+		</Replace>
+		<Replace Tag="LOC_BUILDING_CASTLE_UPGRADE_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>升级中世纪城墙可进一步增强城市的外部防御力量。</Text>
+		</Replace>
+		<Replace Tag="LOC_BUILDING_CATHEDRAL_UPGRADE_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>对大礼堂的翻修是最受宗教界人们欢迎的活动之一。</Text>
+		</Replace>
+		<Replace Tag="LOC_BUILDING_DAR_E_MEHR_UPGRADE_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>对拜火神庙的翻修是最受宗教界人们欢迎的活动之一。</Text>
+		</Replace>
+		<Replace Tag="LOC_BUILDING_ELECTRONICS_FACTORY_UPGRADE_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>日本特色建筑电子厂的升级。[NEWLINE]为9个单元格内的每座城市额外提供+2 [ICON_Production] 生产力。从建造完成或上一次修复开始，每经历一个时代则额外+3 [ICON_Production] 生产力。在完成“电力”科技后，该升级建筑可为其所在城市额外+3 [ICON_Culture] 文化值。</Text>
+		</Replace>
+		<Replace Tag="LOC_BUILDING_FACTORY_UPGRADE_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>工厂的升级将大幅提高工业区的产能。[NEWLINE]使6个单元格内的所有城市额外提供+1 [ICON_Production] 生产力的加成。从建造完成或上一次修复开始，每经历一个时代则额外+2 [ICON_Production] 生产力。</Text>
+		</Replace>
+		<Replace Tag="LOC_BUILDING_FILM_STUDIO_UPGRADE_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>美国特色建筑电影制片厂的升级。[NEWLINE]额外提供+2 [ICON_GreatWork_Music] 音乐巨作槽位，并为9个单元格内每个市中心额外提供+2 [ICON_Amenities] 宜居度。</Text>
+		</Replace>
+		<Replace Tag="LOC_BUILDING_GRANARY_UPGRADE_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>粮仓升级后可增加粮食库存。[NEWLINE]可分别从香蕉 [ICON_Resource_Bananas] 和葡萄酒 [ICON_Resource_Wine] 资源中获得+2 [ICON_Food] 食物。</Text>
+		</Replace>
+		<Replace Tag="LOC_BUILDING_GURDWARA_UPGRADE_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>对谒师所的翻修是最受宗教界人们欢迎的活动之一。</Text>
+		</Replace>
+		<Replace Tag="LOC_BUILDING_HANGAR_UPGRADE_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>升级后的机库可容纳民用飞机和更先进的空军装备。[NEWLINE]使航空港区域额外+1空中单位槽位，且为所在城市提供+2 [ICON_Tourism] 旅游业绩。所有在此城训练的空中战斗单位攻击时获得+3 [ICON_Strength] 战斗力。</Text>
+		</Replace>
+		<Replace Tag="LOC_BUILDING_LIBRARY_UPGRADE_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>升级后的图书馆可储存更多瓦瓷字板、羊皮纸文献和出版书籍。市民将更常前去参观。</Text>
+		</Replace>
+		<Replace Tag="LOC_BUILDING_LIGHTHOUSE_UPGRADE_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>升级后的灯塔可让渔船航行更远。[NEWLINE]为此城所有渔船改良设施额外产出+1 [ICON_Food] 食物。</Text>
+		</Replace>
+		<Replace Tag="LOC_BUILDING_MADRASA_UPGRADE_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>阿拉伯特色建筑伊斯兰学校的升级。翻修之后可允许女性公民也接受教育。</Text>
+		</Replace>
+		<Replace Tag="LOC_BUILDING_MARKET_UPGRADE_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>升级后的市场可容纳更多的商人与店铺。[NEWLINE]可分别从 [ICON_Resource_Citrus] 柑橘、[ICON_Resource_Cocoa] 可可豆、[ICON_Resource_Spices] 香料、[ICON_Resource_Sugar] 糖以及 [ICON_Resource_Tea] 茶叶资源中获得+3 [ICON_Gold] 金币。</Text>
+		</Replace>
+		<Replace Tag="LOC_BUILDING_MEETING_HOUSE_UPGRADE_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>对礼拜堂的翻修是最受宗教界人们欢迎的活动之一。</Text>
+		</Replace>
+		<Replace Tag="LOC_BUILDING_MILITARY_ACADEMY_UPGRADE_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>升级后的军事学院扩建了可容纳更多学生的校园园区。[NEWLINE]在此城训练的所有军事单位可获得双倍夹击 [ICON_Strength] 战斗力加成。</Text>
+		</Replace>
+		<Replace Tag="LOC_BUILDING_MONUMENT_UPGRADE_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>人们终于可以在纪念碑上写下他们伟大领袖的名字——那就是您！人们因纪念碑的翻修而欢欣鼓舞，士兵也因此士气高涨。[NEWLINE]此城训练的军事单位在与 [ICON_Barbarian] 蛮族战斗时获得+2 [ICON_Strength] 战斗力。</Text>
+		</Replace>
+		<Replace Tag="LOC_BUILDING_MOSQUE_UPGRADE_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>对清真寺的翻修是最受宗教界人们欢迎的活动之一。</Text>
+		</Replace>
+		<Replace Tag="LOC_BUILDING_MUSEUM_ART_UPGRADE_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>升级后的艺术博物馆可举办商业展览会。[NEWLINE]可从此城中每件非宗教 [ICON_GreatWork_Writing] [ICON_GreatWork_Artifact] [ICON_GreatWork_Portrait] [ICON_GreatWork_Landscape] [ICON_GreatWork_Sculpture] [ICON_GreatWork_Music] 巨作中获得+2 [ICON_Gold] 金币。</Text>
+		</Replace>
+		<Replace Tag="LOC_BUILDING_MUSEUM_ARTIFACT_UPGRADE_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>升级后的考古博物馆可举办商业展览会。[NEWLINE]可从此城中每件非宗教 [ICON_GreatWork_Writing] [ICON_GreatWork_Artifact] [ICON_GreatWork_Portrait] [ICON_GreatWork_Landscape] [ICON_GreatWork_Sculpture] [ICON_GreatWork_Music] 巨作中获得+2 [ICON_Gold] 金币。</Text>
+		</Replace>
+		<Replace Tag="LOC_BUILDING_PAGODA_UPGRADE_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>对宝塔的翻修是最受宗教界人们欢迎的活动之一。</Text>
+		</Replace>
+		<Replace Tag="LOC_BUILDING_PALACE_UPGRADE_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>改善后的宫殿终于配得上它的主要居住者——那就是您！</Text>
+		</Replace>
+		<Replace Tag="LOC_BUILDING_POWER_PLANT_UPGRADE_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>升级后的发电厂是真正的区域性工业中心。[NEWLINE]可为9个单元格内每个市中心提供+2 [ICON_Production] 生产力，并使此城建造的每个区域可额外提供+2 [ICON_Production] 生产力。此城的每个油井改良设施可额外提供+3 [ICON_Production] 生产力。</Text>
+		</Replace>
+		<Replace Tag="LOC_BUILDING_RESEARCH_LAB_UPGRADE_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>升级后的研究实验室将可进行更尖端的科技研发项目。[NEWLINE]可为9个单元格内每个市中心提供+2 [ICON_Science] 科技值。此城内的 [ICON_Resource_Oil] 石油资源可提供+2 [ICON_Science] 科技值，[ICON_Resource_Aluminum] 铝和 [ICON_Resource_Copper] 铜资源可提供+3 [ICON_Science] 科技值，[ICON_Resource_Uranium] 铀资源可提供+4 [ICON_Science] 科技值。</Text>
+		</Replace>
+		<Replace Tag="LOC_BUILDING_SEAPORT_UPGRADE_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>港口码头设施的升级可增加其容量，使城市得以快速发展。[NEWLINE]+1 [ICON_TradeRoute] 贸易路线容量。港口可获得等同于 [ICON_Gold] 金币加成的 [ICON_Production] 生产力加成。可从此城每个渔船改良设施中获得+1 [ICON_Gold] 金币。可为此城中每个海上石油钻机提供+3 [ICON_Production] 生产力。</Text>
+		</Replace>
+		<Replace Tag="LOC_BUILDING_SEWER_UPGRADE_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>一个升级的下水道可服务于更多的市民。</Text>
+		</Replace>
+		<Replace Tag="LOC_BUILDING_SHRINE_UPGRADE_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>修缮一新的神社可吸引来自帝国遥远角落的更多追随者。</Text>
+		</Replace>
+		<Replace Tag="LOC_BUILDING_STABLE_UPGRADE_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>升级后的马厩提高了牧场的效率。[NEWLINE]可从牧场改良设施中获得+2 [ICON_Production] 生产力。无法建造在已拥有兵营的军营中。</Text>
+		</Replace>
+		<Replace Tag="LOC_BUILDING_SHIPYARD_UPGRADE_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>升级后的造船厂可为海军提供先进改良和新式装备。[NEWLINE]从建造完成或上一次修复开始，每经历一个时代则额外+1 [ICON_Production] 生产力。在此城训练的所有海上战斗单位攻击时获得+3 [ICON_Strength] 战斗力。</Text>
+		</Replace>
+		<Replace Tag="LOC_BUILDING_STADIUM_UPGRADE_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>体育场在扩修后可容纳更多球迷，举办更多大型体育赛事。[NEWLINE]此城内所有 [ICON_Tourism] 旅游业绩加成提高5%。可为9单元格内的每个市中心提供+1 [ICON_Amenities] 宜居度。</Text>
+		</Replace>
+		<Replace Tag="LOC_BUILDING_STAR_FORT_UPGRADE_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>看来您城市里的工程师要比一般人优秀得多。文艺复兴城墙的升级将使此城外部防御力量提升到（名副其实的）最高水平。</Text>
+		</Replace>
+		<Replace Tag="LOC_BUILDING_STAVE_CHURCH_UPGRADE_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>挪威特色建筑木板教堂的升级。[NEWLINE]为此城内每个伐木场提供+3 [ICON_Faith] 信仰值。为木板教堂额外+1 [ICON_GreatWork_Relic] 遗物槽位。可分别从 [ICON_Resource_Dyes] 染料、[ICON_Resource_Incense] 熏香及 [ICON_Resource_Tobacco] 烟草资源中获得+3 [ICON_Faith] 信仰值。</Text>
+		</Replace>
+		<Replace Tag="LOC_BUILDING_STOCK_EXCHANGE_UPGRADE_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>升级后的证券交易所是真正的区域性商业中心。[NEWLINE]为9个单元格内每个市中心提供+2 [ICON_Gold] 金币，并使此城内建造的每个区域可额外提供+2 [ICON_Gold] 金币。</Text>
+		</Replace>
+		<Replace Tag="LOC_BUILDING_STUPA_UPGRADE_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>对窣堵波的翻修是最受宗教界人们欢迎的活动之一。</Text>
+		</Replace>
+		<Replace Tag="LOC_BUILDING_SYNAGOGUE_UPGRADE_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>对犹太教堂的翻修是最受宗教界人们欢迎的活动之一。</Text>
+		</Replace>
+		<Replace Tag="LOC_BUILDING_TEMPLE_UPGRADE_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>对寺庙的翻修是最受宗教界人们欢迎的活动之一。[NEWLINE]可使寺庙额外+1 [ICON_GreatWork_Relic] 遗物槽位。可分别从 [ICON_Resource_Dyes] 染料、[ICON_Resource_Incense] 熏香及 [ICON_Resource_Tobacco] 烟草资源中获得+3 [ICON_Faith] 信仰值。</Text>
+		</Replace>
+		<Replace Tag="LOC_BUILDING_UNIVERSITY_UPGRADE_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>一所扩升后的大学可被允许研究非专业性科学。</Text>
+		</Replace>
+		<Replace Tag="LOC_BUILDING_WALLS_UPGRADE_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>升级后的远古城墙可提高一半外部防御力量。</Text>
+		</Replace>
+		<Replace Tag="LOC_BUILDING_WATER_MILL_UPGRADE_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>升级后的水磨也可用于羊毛织物的精整加工。[NEWLINE]可分别从 [ICON_Resource_Sheep] 羊、[ICON_Resource_Furs] 皮草及 [ICON_Resource_Cotton] 棉花资源中获得+2 [ICON_Production] 生产力。城市必须与河流相邻。</Text>
+		</Replace>
+		<Replace Tag="LOC_BUILDING_WAT_UPGRADE_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>对佛寺的翻修是最受宗教界人们欢迎的活动之一。</Text>
+		</Replace>
+		<Replace Tag="LOC_BUILDING_WORKSHOP_UPGRADE_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>升级后的工坊可加快附近生产作业效率。[NEWLINE]可为此城内每个伐木场、采石场及产出资源的矿山改良设施提供+1 [ICON_Production] 生产力。</Text>
+		</Replace>
+		<Replace Tag="LOC_BUILDING_ZOO_UPGRADE_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>翻新后的动物园可引进新动物物种以供人们参观。[NEWLINE]为此城+4 [ICON_Tourism] 旅游业绩。</Text>
+		</Replace>
+		<!-- DLC: 阿兹特克 -->
+		<Replace Tag="LOC_BUILDING_TLACHTLI_UPGRADE_NAME" Language="zh_Hans_CN">
+			<Text>蹴球场·升级</Text>
+		</Replace>
+		<Replace Tag="LOC_BUILDING_TLACHTLI_UPGRADE_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>阿兹特克特色建筑蹴球场的升级。[NEWLINE]可分别从 [ICON_Resource_Coffee] 咖啡、[ICON_Resource_Jade] 玉、[ICON_Resource_Marble] 大理石及 [ICON_Resource_Silk] 丝绸资源中获得+2 [ICON_Culture] 文化值。</Text>
+		</Replace>
+		<!-- DLC: 波兰 -->
+		<Replace Tag="LOC_BUILDING_SUKIENNICE_UPGRADE_NAME" Language="zh_Hans_CN">
+			<Text>纺织会馆·升级</Text>
+		</Replace>
+		<Replace Tag="LOC_BUILDING_SUKIENNICE_UPGRADE_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>波兰特色建筑纺织会馆的升级。[NEWLINE]每回合可额外+1 [ICON_GreatMerchant] 大商人点数。可分别从 [ICON_Resource_Citrus] 柑橘、[ICON_Resource_Cocoa] 可可豆、[ICON_Resource_Spices] 香料、[ICON_Resource_Sugar] 糖以及 [ICON_Resource_Tea] 茶叶资源中获得+3 [ICON_Gold] 金币。</Text>
+		</Replace>
+		<!-- DLC: 马其顿 -->
+		<Replace Tag="LOC_BUILDING_BASILIKOI_PAIDES_UPGRADE_NAME" Language="zh_Hans_CN">
+			<Text>皇家学堂·升级</Text>
+		</Replace>
+		<Replace Tag="LOC_BUILDING_BASILIKOI_PAIDES_UPGRADE_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>马其顿特色建筑皇家学堂的升级。[NEWLINE]可从营地改良设施获得+2 [ICON_Production] 生产力。每回合可额外+1 [ICON_GreatScientist] 大科学家点数。无法建造在已拥有马厩的军营中。</Text>
+		</Replace>
+		<!-- DLC: 高棉 -->
+		<Replace Tag="LOC_BUILDING_PRASAT_UPGRADE_NAME" Language="zh_Hans_CN">
+			<Text>高棉庙堂·升级</Text>
+		</Replace>
+		<Replace Tag="LOC_BUILDING_PRASAT_UPGRADE_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>高棉特色建筑高棉庙堂的升级。[NEWLINE]为此城+3 [ICON_Tourism] 旅游业绩。可使高棉庙堂额外+1 [ICON_GreatWork_Relic] 遗物槽位。可分别从 [ICON_Resource_Dyes] 染料、[ICON_Resource_Incense] 熏香及 [ICON_Resource_Tobacco] 烟草资源中获得+3 [ICON_Faith] 信仰值。</Text>
+		</Replace>
+		<!-- 特性 -->
+		<Replace Tag="LOC_ABILITY_ARMORY_UPGRADE_ATTACK_BUFF_NAME" Language="zh_Hans_CN">
+			<Text>升级后的兵工厂</Text>
+		</Replace>
+		<Replace Tag="LOC_ABILITY_ARMORY_UPGRADE_ATTACK_BUFF_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>陆地战斗单位在攻击时可+3 [ICON_Strength] 战斗力。</Text>
+		</Replace>
+		<Replace Tag="LOC_ABILITY_SHIPYARD_UPGRADE_ATTACK_BUFF_NAME" Language="zh_Hans_CN">
+			<Text>升级后的造船厂</Text>
+		</Replace>
+		<Replace Tag="LOC_ABILITY_SHIPYARD_UPGRADE_ATTACK_BUFF_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>海上战斗单位在攻击时可+3 [ICON_Strength] 战斗力。</Text>
+		</Replace>
+		<Replace Tag="LOC_ABILITY_HANGAR_UPGRADE_ATTACK_BUFF_NAME" Language="zh_Hans_CN">
+			<Text>升级后的机库</Text>
+		</Replace>
+		<Replace Tag="LOC_ABILITY_HANGAR_UPGRADE_ATTACK_BUFF_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>空中战斗单位在攻击时可+3 [ICON_Strength] 战斗力。</Text>
+		</Replace>
+	</LocalizedText>
+</GameData>

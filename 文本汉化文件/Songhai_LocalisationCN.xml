@@ -1,0 +1,360 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Songhai_LocalisationCN -->
+<!-- Author: 春 -->
+<!-- DateCreated: 5/20/2020 5:00:25 PM -->
+<GameData>
+	<LocalizedText>
+		<!--Civilization-->
+		<Row Tag="LOC_CIVILIZATION_CVS_SONGHAI_NAME" Language="zh_Hans_CN">
+			<Text>桑海</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_CVS_SONGHAI_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>桑海帝国</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_CVS_SONGHAI_ADJECTIVE" Language="zh_Hans_CN">
+			<Text>桑海的</Text>
+		</Row>
+		<!--UA-->
+		<Row Tag="LOC_TRAIT_CIVILIZATION_CVS_SONGHAI_UA_NAME" Language="zh_Hans_CN">
+			<Text>非洲编年史</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_CIVILIZATION_CVS_SONGHAI_UA_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>河流可为相邻单位提供双倍 [ICON_Damaged] 生命值恢复。[ICON_TRADEROUTE] 贸易路线每经过一个 [ICON_TRADINGPOST] 贸易站，则产出+1 [ICON_SCIENCE] 科技值。与其他文明交战时，历史时刻可额外提供+1时代积分。</Text>
+		</Row>
+		<!--<Row Tag="LOC_MODIFIER_CVS_SONGHAI_UA_RIVER_DISTRICT_CAMPUS" Language="zh_Hans_CN">
+			<Text>+{1_num} [ICON_SCIENCE] 科技值 来自邻接 {1_Num : plural 1?river; other?river tiles;}</Text>
+		</Row>
+		<Row Tag="LOC_MODIFIER_CVS_SONGHAI_UA_RIVER_DISTRICT_THEATER" Language="zh_Hans_CN">
+			<Text>+{1_num} [ICON_CULTURE] 文化值 来自邻接 {1_Num : plural 1?river; other?river tiles;}</Text>
+		</Row>
+		<Row Tag="LOC_MODIFIER_CVS_SONGHAI_UA_RIVER_DISTRICT_HOLY_SITE" Language="zh_Hans_CN">
+			<Text>+{1_num} [ICON_FAITH] 信仰值 来自邻接 {1_Num : plural 1?river; other?river tiles;}</Text>
+		</Row>
+		<Row Tag="LOC_MODIFIER_CVS_SONGHAI_UA_RIVER_DISTRICT_COMMERCIAL_HUB" Language="zh_Hans_CN">
+			<Text>+{1_num} [ICON_GOLD] 金币 来自邻接 {1_Num : plural 1?river; other?river tiles;}</Text>
+		</Row>
+		<Row Tag="LOC_MODIFIER_CVS_SONGHAI_UA_RIVER_DISTRICT_INDUSTRIAL_ZONE" Language="zh_Hans_CN">
+			<Text>+{1_num} [ICON_PRODUCTION] 生产力 来自邻接 {1_Num : plural 1?river; other?river tiles;}</Text>
+		</Row>-->
+		<!--UI-->
+		<Row Tag="LOC_BUILDING_CVS_SONGHAI_UI_NAME" Language="zh_Hans_CN">
+			<Text>清真寺学院</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_CVS_SONGHAI_UI_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>桑海特色建筑，取代大学。提供+1 [ICON_GREATWRITER] 大作家点数，提供+2 [ICON_GREATWORK_WRITING] 著作巨作槽位。该城市的 [ICON_GREATWORK_WRITING] 著作产出+2 [ICON_SCIENCE] 科技值。</Text>
+		</Row>
+		<!--UU-->
+		<Row Tag="LOC_UNIT_CVS_SONGHAI_UU_NAME" Language="zh_Hans_CN">
+			<Text>桑海骑兵</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_CVS_SONGHAI_UU_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>桑海中世纪特色轻骑兵单位，取代追猎者。无视跨越河流的 [ICON_MOVEMENT] 移动力消耗和 [ICON_STRENGTH] 战斗力减益。</Text>
+		</Row>
+		<!--Places-->
+		<Row Tag="LOC_NAMED_DESERT_AZWAGH" Language="zh_Hans_CN">
+			<Text>阿扎瓦格沙漠</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_DESERT_TENERE" Language="zh_Hans_CN">
+			<Text>泰内雷沙漠</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_MOUNTAIN_AIR" Language="zh_Hans_CN">
+			<Text>艾尔高原</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_LAKE_GOSSI" Language="zh_Hans_CN">
+			<Text>哥斯湖</Text>
+		</Row>
+		<!--Cities-->
+		<Replace Tag="LOC_CITY_NAME_GAO" Language="zh_Hans_CN"><!--已在马里文明中出现-->
+			<Text>加奥</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_TIMBUKTU" Language="zh_Hans_CN"><!--已在马里文明中出现-->
+			<Text>廷巴克图</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_JENNE" Language="zh_Hans_CN"><!--已在马里文明中出现-->
+			<Text>杰内</Text>
+		</Replace>
+		<Row Tag="LOC_CITY_NAME_KUKIYA" Language="zh_Hans_CN">
+			<Text>库基亚</Text>
+		</Row>
+		<Replace Tag="LOC_CITY_NAME_WALATA" Language="zh_Hans_CN"><!--已在马里文明中出现-->
+			<Text>瓦拉塔</Text>
+		</Replace>
+		<Row Tag="LOC_CITY_NAME_GOUNDAM" Language="zh_Hans_CN">
+			<Text>贡达姆</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_BAMAKO" Language="zh_Hans_CN">
+			<Text>巴马科</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_TAGHAZA" Language="zh_Hans_CN">
+			<Text>塔阿扎</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_AGADEZ" Language="zh_Hans_CN">
+			<Text>阿加德兹</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_ESSOUK" Language="zh_Hans_CN">
+			<Text>埃索克</Text>
+		</Row>
+		<Replace Tag="LOC_CITY_NAME_AWDAGHUST" Language="zh_Hans_CN"><!--已在马里文明中出现-->
+			<Text>奥达戈斯特</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_SEGU" Language="zh_Hans_CN"><!--已在马里文明中出现-->
+			<Text>塞古</Text>
+		</Replace>
+		<Row Tag="LOC_CITY_NAME_ARAOUANE" Language="zh_Hans_CN">
+			<Text>阿拉万</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_TAOUDENNI" Language="zh_Hans_CN">
+			<Text>陶代尼</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SANSANDING" Language="zh_Hans_CN">
+			<Text>桑桑丁</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_BANAMBA" Language="zh_Hans_CN">
+			<Text>巴南巴</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_BIRNIN_KEBBI" Language="zh_Hans_CN">
+			<Text>比尔宁凯比</Text>
+		</Row>
+		<Replace Tag="LOC_CITY_NAME_KUMBI_SALEH" Language="zh_Hans_CN"><!--已在马里文明中出现-->
+			<Text>昆比撒勒</Text>
+		</Replace>
+		<Row Tag="LOC_CITY_NAME_KANO" Language="zh_Hans_CN">
+			<Text>卡诺</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_GWANDU" Language="zh_Hans_CN">
+			<Text>昆杜</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_ZAZZAU" Language="zh_Hans_CN">
+			<Text>赞赞</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_KAYI" Language="zh_Hans_CN">
+			<Text>凯伊</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_TENENKOU" Language="zh_Hans_CN">
+			<Text>泰南库</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_DOUENTZA" Language="zh_Hans_CN">
+			<Text>杜安扎</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SARAFERE" Language="zh_Hans_CN">
+			<Text>萨拉费雷</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_RAS_KEBDANA" Language="zh_Hans_CN">
+			<Text>拉斯·基布达纳</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_YATENGA" Language="zh_Hans_CN">
+			<Text>雅膝加</Text>
+		</Row>
+		<Replace Tag="LOC_CITY_NAME_NIORO" Language="zh_Hans_CN"><!--已在马里文明中出现-->
+			<Text>尼奥罗</Text>
+		</Replace>
+		<Row Tag="LOC_CITY_NAME_MASINA" Language="zh_Hans_CN">
+			<Text>马西纳</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_ARGUNGU" Language="zh_Hans_CN">
+			<Text>阿贡古</Text>
+		</Row>
+		<Replace Tag="LOC_CITY_NAME_MOPTI" Language="zh_Hans_CN"><!--已在马里文明中出现-->
+			<Text>莫普提</Text>
+		</Replace>
+		<Row Tag="LOC_CITY_NAME_OUATAGOUNA" Language="zh_Hans_CN">
+			<Text>卡塔工纳</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_TEKEDDA" Language="zh_Hans_CN">
+			<Text>特可达</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_OUADANE" Language="zh_Hans_CN">
+			<Text>瓦丹</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_NIAMEY" Language="zh_Hans_CN">
+			<Text>尼亚美</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SAN" Language="zh_Hans_CN">
+			<Text>桑</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_BOUSSA" Language="zh_Hans_CN">
+			<Text>布萨</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_TONDIBI" Language="zh_Hans_CN">
+			<Text>通迪比</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_DORI" Language="zh_Hans_CN">
+			<Text>多利</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_BAMBA" Language="zh_Hans_CN">
+			<Text>邦巴</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_TORODI" Language="zh_Hans_CN">
+			<Text>托罗迪</Text>
+		</Row>
+		<!--Citizens-->
+		<Row Tag="LOC_CITIZEN_CVS_SONGHAI_MALE_1" Language="zh_Hans_CN">
+			<Text>阿卜杜</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_CVS_SONGHAI_MALE_2" Language="zh_Hans_CN">
+			<Text>巴库</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_CVS_SONGHAI_MALE_3" Language="zh_Hans_CN">
+			<Text>登布</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_CVS_SONGHAI_MALE_4" Language="zh_Hans_CN">
+			<Text>伊德瑞斯</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_CVS_SONGHAI_MALE_5" Language="zh_Hans_CN">
+			<Text>依市马拉</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_CVS_SONGHAI_MALE_6" Language="zh_Hans_CN">
+			<Text>加西</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_CVS_SONGHAI_MALE_7" Language="zh_Hans_CN">
+			<Text>加图</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_CVS_SONGHAI_MALE_8" Language="zh_Hans_CN">
+			<Text>考苏</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_CVS_SONGHAI_MALE_9" Language="zh_Hans_CN">
+			<Text>穆萨</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_CVS_SONGHAI_MALE_10" Language="zh_Hans_CN">
+			<Text>拉明</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_CVS_SONGHAI_FEMALE_1" Language="zh_Hans_CN">
+			<Text>阿贾拉图</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_CVS_SONGHAI_FEMALE_2" Language="zh_Hans_CN">
+			<Text>宾图</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_CVS_SONGHAI_FEMALE_3" Language="zh_Hans_CN">
+			<Text>哈当</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_CVS_SONGHAI_FEMALE_4" Language="zh_Hans_CN">
+			<Text>简宝</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_CVS_SONGHAI_FEMALE_5" Language="zh_Hans_CN">
+			<Text>卡蒂</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_CVS_SONGHAI_FEMALE_6" Language="zh_Hans_CN">
+			<Text>玛库托</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_CVS_SONGHAI_FEMALE_7" Language="zh_Hans_CN">
+			<Text>塔诺</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_CVS_SONGHAI_FEMALE_8" Language="zh_Hans_CN">
+			<Text>桑吉</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_CVS_SONGHAI_FEMALE_9" Language="zh_Hans_CN">
+			<Text>雅玛</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_CVS_SONGHAI_FEMALE_10" Language="zh_Hans_CN">
+			<Text>妮玛</Text>
+		</Row>
+		<!--Info-->
+		<Row Tag="LOC_CIVINFO_CVS_SONGHAI_LOCATION" Language="zh_Hans_CN">
+			<Text>西非</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_CVS_SONGHAI_SIZE" Language="zh_Hans_CN">
+			<Text>约140万平方公里</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_CVS_SONGHAI_POPULATION" Language="zh_Hans_CN">
+			<Text>未知</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_CVS_SONGHAI_CAPITAL" Language="zh_Hans_CN">
+			<Text>加奥</Text>
+		</Row>
+		<!--Pedia-->
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_CVS_SONGHAI_CHAPTER_HISTORY_PARA_1" Language="zh_Hans_CN">
+			<Text>桑海帝国是西非的一个伟大的贸易国家，位于尼日尔河中游，即现今的马里的中部，并最终向西扩张至大西洋沿岸，向东扩张至尼日尔和尼日利亚。</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_CVS_SONGHAI_CHAPTER_HISTORY_PARA_2" Language="zh_Hans_CN">
+			<Text>虽然据说桑海人在公元800年左右就在加奥建立了自己的城市，但直到11世纪初迪亚科索伊王——他将桑海该信为伊斯兰教，统治时期才将加奥作为首都。</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_CVS_SONGHAI_CHAPTER_HISTORY_PARA_3" Language="zh_Hans_CN">
+			<Text>从1325年至1375年，马里统治者将加奥纳入了帝国统治，加奥在接下来的30年里繁荣发展。约1335年，迪亚王让位于逊尼，其中一位领袖苏莱曼·马尔，据说他赢回了加奥的独立。桑海的沧桑随着1464年的逊尼·阿里的到来而结束。</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_CVS_SONGHAI_CHAPTER_HISTORY_PARA_4" Language="zh_Hans_CN">
+			<Text>他击退了莫西人对桑海的第二大城市廷巴克图的进攻，并在拜贾加拉打败了多贡人和富拉尼人，使帝国于1468年摆脱了迫在眉睫的危机。他后来从廷巴克图驱逐了图阿雷格人——他们从1433年就占领了廷巴克图。后来他经过7年的围攻，于1473年占领了杰内。到1476年，桑海控制了廷巴克图以西的尼日尔中部的湖泊地带</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_CVS_SONGHAI_CHAPTER_HISTORY_PARA_5" Language="zh_Hans_CN">
+			<Text>1480年，桑海挫败了莫西人对瓦拉塔的进攻，随后又阻止了尼日尔河谷南部边缘地带所有住民的进攻。逊尼·阿里的国民政策是调解异教的牧民和穆斯林城市居民的利益，桑海帝国需要依赖他们的财富和学问。</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_CVS_SONGHAI_CHAPTER_HISTORY_PARA_6" Language="zh_Hans_CN">
+			<Text>他的儿子逊尼·巴鲁完全支持牧民派，被叛乱者穆罕默德·伊本·阿比·巴克尔·杜尔——又被称为穆罕默德·阿斯基亚（他连结了苏丹西部，成为一整个帝国）所废黜。他也曾与莫西人雅膝加作战，在如今的尼日利亚西北部对抗过博古人，尽管收效甚微。但他成功发动了反对迪亚拉人、塞内加的福塔托罗王国和东部的豪萨部族的战争。</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_CVS_SONGHAI_CHAPTER_HISTORY_PARA_7" Language="zh_Hans_CN">
+			<Text>为了控制北部的商贸市场，他命令军队在埃尔的阿加德兹及其附近建立了殖民地。1528年，他被长子穆萨废黜。 在历任王朝的纷争中，城镇中的穆斯林一直充当中间角色，与几内亚中部的阿坎进行着利润丰厚的黄金贸易。和平和繁荣在阿斯基亚达吾德统治后随着摩洛哥苏丹艾哈迈德·曼苏尔对塔阿扎的盐矿发起的突袭而结束。</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_CVS_SONGHAI_CHAPTER_HISTORY_PARA_8" Language="zh_Hans_CN">
+			<Text>情况在穆罕默德·巴尼的治下更加恶化，最终在伊沙克二世时期，摩洛哥军队使用先进的火枪击溃了桑海军队，先是在通比迪，然后是廷巴克图和加奥。桑海牧民的游击式反击未能恢复帝国，其经济和政治中心仍掌控在摩洛哥人手里。</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_BUILDINGS_PAGE_BUILDING_CVS_SONGHAI_UI_CHAPTER_HISTORY_PARA_1" Language="zh_Hans_CN">
+			<Text>在逊尼·阿里对桑科雷地区的学者采取的镇压政策之后，伊斯兰学术复兴在阿斯基亚大帝治下到来，桑海城市成为繁荣的学术和商业中心。Jiiray意为“清真寺”，这里有图书馆和来自廷巴克图和杰内这样的大城市的学者、神学家、医生和穆斯林法学家，所有费用都由国王承担。因此，这些城市中最重要的商品是书籍和手稿，它们卖得比其他商品都要贵。</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_CVS_SONGHAI_UU_CHAPTER_HISTORY_PARA_1" Language="zh_Hans_CN">
+			<Text>跟他们北方的对手一样，桑海也拥有重骑兵部队，在形式和功能上类似于欧洲的骑士。与欧洲一样，马匹来自上层社会，配备最好的武器和盔甲，只有贵族会带着它们去打仗。这些马匹的主人组成“战争武器”，并且被称为Bari Koy，或“马的主人”。</Text>
+		</Row>
+		<!--Mod Support | Rule with Faith-->
+		<Row Tag="LOC_CIVILIZATION_CVS_SONGHAI_DESCRIPTION_JFD_CIVILIZATION" Language="zh_Hans_CN">
+			<Text>桑海帝国</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNMENT_JFD_EMPIRE_LEADER_TITLE_CVS_SONGHAI" Language="zh_Hans_CN">
+			<Text>希</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNMENT_JFD_EMPIRE_LEADER_TITLE_CVS_SONGHAI_FEMININE" Language="zh_Hans_CN">
+			<Text>希</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNMENT_JFD_CHIEFDOM_LEADER_TITLE_CVS_SONGHAI" Language="zh_Hans_CN">
+			<Text>恩甘加</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNMENT_JFD_CHIEFDOM_LEADER_TITLE_CVS_SONGHAI_FEMININE" Language="zh_Hans_CN">
+			<Text>恩甘加</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNMENT_JFD_HORDE_LEADER_TITLE_CVS_SONGHAI" Language="zh_Hans_CN">
+			<Text>军阀</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNMENT_JFD_HORDE_LEADER_TITLE_CVS_SONGHAI_FEMININE" Language="zh_Hans_CN">
+			<Text>军阀</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNMENT_JFD_POLIS_LEADER_TITLE_CVS_SONGHAI" Language="zh_Hans_CN">
+			<Text>恩甘加</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNMENT_JFD_POLIS_LEADER_TITLE_CVS_SONGHAI_FEMININE" Language="zh_Hans_CN">
+			<Text>恩甘加</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNMENT_JFD_AUTOCRACY_LEADER_TITLE_CVS_SONGHAI" Language="zh_Hans_CN">
+			<Text>图安</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNMENT_JFD_AUTOCRACY_LEADER_TITLE_CVS_SONGHAI_FEMININE" Language="zh_Hans_CN">
+			<Text>图安尼</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNMENT_JFD_OLIGARCHY_LEADER_TITLE_CVS_SONGHAI" Language="zh_Hans_CN">
+			<Text>姆韦尼</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNMENT_JFD_OLIGARCHY_LEADER_TITLE_CVS_SONGHAI_FEMININE" Language="zh_Hans_CN">
+			<Text>姆韦尼</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNMENT_JFD_CLASSICAL_DEMOCRACY_LEADER_TITLE_CVS_SONGHAI" Language="zh_Hans_CN">
+			<Text>姆韦尼</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNMENT_JFD_CLASSICAL_DEMOCRACY_LEADER_TITLE_CVS_SONGHAI_FEMININE" Language="zh_Hans_CN">
+			<Text>姆韦尼</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNMENT_JFD_REPUBLIC_LEADER_TITLE_CVS_SONGHAI" Language="zh_Hans_CN">
+			<Text>姆韦尼</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNMENT_JFD_REPUBLIC_LEADER_TITLE_CVS_SONGHAI_FEMININE" Language="zh_Hans_CN">
+			<Text>姆韦尼</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNMENT_JFD_MONARCHY_LEADER_TITLE_CVS_SONGHAI" Language="zh_Hans_CN">
+			<Text>希</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNMENT_JFD_MONARCHY_LEADER_TITLE_CVS_SONGHAI_FEMININE" Language="zh_Hans_CN">
+			<Text>希</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNMENT_JFD_LIBERAL_DEMOCRACY_LEADER_TITLE_CVS_SONGHAI" Language="zh_Hans_CN">
+			<Text>希</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNMENT_JFD_LIBERAL_DEMOCRACY_LEADER_TITLE_CVS_SONGHAI_FEMININE" Language="zh_Hans_CN">
+			<Text>希</Text>
+		</Row>
+	</LocalizedText>
+</GameData>

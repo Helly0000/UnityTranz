@@ -1,0 +1,219 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!-- Lincoln_Localization_CN -->
+<!-- Author: 春 -->
+<!-- DateCreated: 4/9/2020 10:33:06 PM -->
+<GameData>
+	<LocalizedText>
+		<Row Tag="LOC_TRAIT_LEADER_GEDEMO_LINCOLN_NAME" Language="zh_Hans_CN">
+			<Text>伟大的解放者</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_LEADER_GEDEMO_LINCOLN_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>城市可从6格范围内您的每座其他城市中获得+1 [ICON_PRODUCTION] 生产力，[ICON_DISTRICT_INDUSTRIAL_ZONE] 工业区每回合+3忠诚度，但种植园改良设施每回合-3忠诚度。[ICON_Unit] 单位据于种植园中时获得+10 [ICON_Strength] 战斗力。亚伯拉罕·林肯拥有2个特色单位：“莫尼特”号装甲战舰和美国陆军工程兵团。</Text>
+		</Row>
+
+		<Row Tag="LOC_LEADER_GEDEMO_LINCOLN" Language="zh_Hans_CN">
+			<Text>亚伯拉罕·林肯</Text>
+		</Row>
+
+		<Row Tag="LOC_LOADING_INFO_LEADER_GEDEMO_LINCOLN" Language="zh_Hans_CN">
+			<Text>美国人民欢迎您的归来，林肯总统！您出身卑微，却成为美国最伟大的政治家之一。您是一位技巧精湛的演说家，也是一位品德高尚的人，1861年，七个州脱离联邦，成立了美利坚联盟国，在美国面临最大挑战的时候，您团结人民，捍卫了所有人的自由。总统先生，您激发了你们军队的决心，使得联邦获得了这场内战的胜利，增强了你的人民在自由中保持团结的决心，在一个民有、民治的政府之下维护它赖以建立的自由理想。林肯总统，无论面临什么挑战宪法意志的挑战，美国都坚定地和您站在一起。你能维护先辈们给予美国人民的自由吗？你能保证一个稳固的联盟，以其力量和决心来引导他们走向一个不确定的未来吗？你能建立一个经得起时间考验的文明吗？ </Text>
+		</Row>
+		<!--Civilopedia-->
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_GEDEMO_LINCOLN_TITLE" Language="zh_Hans_CN">
+			<Text>美利坚合众国第16任总统</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_GEDEMO_LINCOLN_SUBTITLE" Language="zh_Hans_CN">
+			<Text>总统</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_GEDEMO_LINCOLN_QUOTE" Language="zh_Hans_CN">
+			<Text>无论你是什么人，请做一个好人。</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_GEDEMO_LINCOLN_CHAPTER_HISTORY_PARA_1" Language="zh_Hans_CN">
+			<Text>他分别于1860年11月和1864年11月两次当选美国总统，是美国历史上第一个共和党出身的总统。他领导美国经历了历史上最严重的一次宪法、军事和道德危机——南北战争，并成功地维持住了联邦。正是在这一次战争中，他批准了废除奴隶制的美国宪法第十三修正案。他赢得了这场战争。在南方联盟的阴谋策划下，他于五天之后被刺杀身亡，未能完成他的第二任任期。 林肯出生于一个普通家庭，在经历了不顺的童年和青春期后，他凭借他的自学天赋学习了法律并成为了一名旅行律师。他逐步进入政坛，在一段时间内领导了辉格党并在19世纪30年代当选为伊利诺伊州众议院议员，然后在19世纪40年代当选联邦众议员。美国已经就奴隶制问题经历了一段矛盾对立的紧张时期，林肯反对将奴隶制扩大到新联邦州。1858年，林肯通过与支持各州有权实行或不实行奴隶制的斯蒂芬·A·道格拉斯的一系列辩论而声名鹊起。在这种声望之下，林肯被新成立的共和党选定为1860年总统大选的候选人。在南方各州的阻挠下，他仍赢得了大部分北方州的支持并于1860年当选美国总统。这次选举的结果是七个蓄奴州迅速地脱离了联邦，成立了美利坚联盟国。尽管联邦尝试妥协寻求和解，但很快其他州也加入了联盟。</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_GEDEMO_LINCOLN_CHAPTER_HISTORY_PARA_2" Language="zh_Hans_CN">
+			<Text>1861年4月12日，南方军队对萨姆特要塞的进攻迫使北方大部分地区重新团结在国家和林肯总统之下，将施政重心放在战争之上。他们的目标是重新统一国家。随着南方进入叛乱状态，林肯行使其权力，暂停人身保护令，允许在未经审判的情况下逮捕和拘留数千名同情分裂主义的嫌疑人 。战争期间，他一直为废除奴隶制而战，特别是通过了1863年1月1日生效的《解放黑人奴隶宣言》，鼓励中立州逐步废除奴隶制度。这项宣言也是最终导致国会通过了宪法第十三修正案，并于1865年12月给予所有奴隶自由的第一步。林肯密切关注战争的进展，特别是主导将军们的任命，包括尤利西斯·S·格兰特。在内阁中，他集中了党内各种不同的领导人并迫使他们进行合作。在他的指令下，战争开始时联邦建立了海上封锁以瘫痪南方的贸易，控制了边境州和南方的河流通信网络，并直到1865年格兰特取得成功之前，一直不知疲倦地试图攻占南方联盟位于弗吉尼亚州里士满的首都。一连串战役的胜利以及与民主党达成的协议确保了他在1864年的连任。在南方联盟战败后，林肯试图在连任就职演说中与南方达成和解，并呼吁绥靖。 但是，由于在1865年4月14日，他遭到拥护南方的约翰·威尔克斯·布斯的刺杀，他的重建计划未能得见天日。林肯谋杀案是美国第一桩总统遭刺杀的案件，整个国家都沉浸在悲痛之中。历史学家和公众都认为林肯是美国最伟大的总统之一。</Text>
+		</Row>
+
+		<!--Diplomacy-->
+		<!--FIRST MEET-->
+		<!--First AI line-->
+		<Row Tag="LOC_DIPLO_FIRST_MEET_LEADER_GEDEMO_LINCOLN_ANY" Language="zh_Hans_CN">
+			<Text>向你致以问候，我是林肯总统。我是一个追求诚恳的外交关系的人，我会要求你们以同样的方式对待我。现在，让我们言归正传吧。</Text>
+		</Row>
+		<!--AI invitation to visit nearby City-->
+		<Row Tag="LOC_DIPLO_FIRST_MEET_VISIT_RECIPIENT_LEADER_GEDEMO_LINCOLN_ANY" Language="zh_Hans_CN">
+			<Text>美利坚合众国人民欢迎你们！</Text>
+		</Row>
+		<!--AI accepts Human invitation-->
+		<Row Tag="LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_POSITIVE_LEADER_GEDEMO_LINCOLN_ANY" Language="zh_Hans_CN">
+			<Text>谢谢你。</Text>
+		</Row>
+		<!--AI invitation to exchange Capital Information-->
+		<Row Tag="LOC_DIPLO_FIRST_MEET_NO_MANS_INFO_EXCHANGE_LEADER_GEDEMO_LINCOLN_ANY" Language="zh_Hans_CN">
+			<Text>你愿意交换一些信息吗？</Text>
+		</Row>
+		<!--GREETINGS-->
+		<Row Tag="LOC_DIPLO_GREETING_LEADER_GEDEMO_LINCOLN_ANY" Language="zh_Hans_CN">
+			<Text>你好。</Text>
+		</Row>
+		<!--DELEGATION-->
+		<!--AI Accepts-->
+		<Row Tag="LOC_DIPLO_ACCEPT_DELEGATION_FROM_HUMAN_LEADER_GEDEMO_LINCOLN_ANY" Language="zh_Hans_CN">
+			<Text>我愉快地接受你的代表团。</Text>
+		</Row>
+		<!--AI Rejects-->
+		<Row Tag="LOC_DIPLO_REJECT_DELEGATION_FROM_HUMAN_LEADER_GEDEMO_LINCOLN_ANY" Language="zh_Hans_CN">
+			<Text>很不幸，不行。</Text>
+		</Row>
+		<!--AI Requests -->
+		<Row Tag="LOC_DIPLO_DELEGATION_FROM_AI_LEADER_GEDEMO_LINCOLN_ANY" Language="zh_Hans_CN">
+			<Text>我派遣了一个贸易代表团，并带上了一些礼物：毛纺织品、皮革和棉花。这些是我们能够出售给你们的商品样品。</Text>
+		</Row>
+		<!--OPEN BORDERS-->
+		<!--AI accepts from human-->
+		<Row Tag="LOC_DIPLO_ACCEPT_OPEN_BORDERS_FROM_HUMAN_LEADER_GEDEMO_LINCOLN_ANY" Language="zh_Hans_CN">
+			<Text>着手干吧！</Text>
+		</Row>
+		<!--AI rejects from human-->
+		<Row Tag="LOC_DIPLO_REJECT_OPEN_BORDERS_FROM_HUMAN_LEADER_GEDEMO_LINCOLN_ANY" Language="zh_Hans_CN">
+			<Text>你是在提出一些明知我不会接受的交易吗？</Text>
+		</Row>
+		<!--AI requests from human-->
+		<Row Tag="LOC_DIPLO_OPEN_BORDERS_FROM_AI_LEADER_GEDEMO_LINCOLN_ANY" Language="zh_Hans_CN">
+			<Text>我相信，允许我们两个伟大国家之间的自由通行符合我们的共同利益。</Text>
+		</Row>
+		<!--DECLARE FRIENDSHIP-->
+		<!--AI accepts from human-->
+		<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_HUMAN_LEADER_GEDEMO_LINCOLN_ANY" Language="zh_Hans_CN">
+			<Text>很好！</Text>
+		</Row>
+		<!--AI Rejects from human -->
+		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_HUMAN_LEADER_GEDEMO_LINCOLN_ANY" Language="zh_Hans_CN">
+			<Text>你不是认真的吧。</Text>
+		</Row>
+		<!--AI Requests friendship from human-->
+		<Row Tag="LOC_DIPLO_DECLARE_FRIEND_FROM_AI_LEADER_GEDEMO_LINCOLN_ANY" Language="zh_Hans_CN">
+			<Text>让我们宣布友谊，共同追求一个更美好的世界。</Text>
+		</Row>
+		<!--Human accepts AI requests, AI responds-->
+		<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_GEDEMO_LINCOLN_ANY" Language="zh_Hans_CN">
+			<Text>感谢你，朋友。</Text>
+		</Row>
+		<!--Human rejects AI requests, AI responds-->
+		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_GEDEMO_LINCOLN_ANY" Language="zh_Hans_CN">
+			<Text>真遗憾。</Text>
+		</Row>
+		<!--ALLIANCE-->
+		<!--AI Requests an alliance from human-->
+		<Row Tag="LOC_DIPLO_MAKE_ALLIANCE_FROM_AI_LEADER_GEDEMO_LINCOLN_ANY" Language="zh_Hans_CN">
+			<Text>你愿意结成同盟吗？</Text>
+		</Row>
+		<!--KUDOS & WARNINGS-->
+		<!--AI Kudos-->
+		<Row Tag="LOC_DIPLO_KUDO_EXIT_LEADER_GEDEMO_LINCOLN_ANY" Language="zh_Hans_CN">
+			<Text>历史会铭记你的伟业。</Text>
+		</Row>
+		<!--AI Warnings-->
+		<Row Tag="LOC_DIPLO_WARNING_EXIT_LEADER_GEDEMO_LINCOLN_ANY" Language="zh_Hans_CN">
+			<Text>我不禁注意到你是多么可悲，当我注意到这一点时，我忍不住要告知其他人。</Text>
+		</Row>
+		<!--AI warns player for border troops-->
+		<Row Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_LEADER_GEDEMO_LINCOLN_ANY" Language="zh_Hans_CN">
+			<Text>你们军队部署的位置有些令人担忧。为了未来的和平，我建议你撤离。你对此有什么要说的吗？</Text>
+		</Row>
+		<!--TRADE-->
+		<!--AI Accepts Deal-->
+		<Row Tag="LOC_DIPLO_ACCEPT_MAKE_DEAL_FROM_AI_LEADER_GEDEMO_LINCOLN_ANY" Language="zh_Hans_CN">
+			<Text>{LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_GEDEMO_LINCOLN_ANY}</Text>
+		</Row>
+		<!--AI Rejects Deal-->
+		<Row Tag="LOC_DIPLO_REJECT_MAKE_DEAL_FROM_AI_LEADER_GEDEMO_LINCOLN_ANY" Language="zh_Hans_CN">
+			<Text>{LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_GEDEMO_LINCOLN_ANY}</Text>
+		</Row>
+		<!--DENOUNCE-->
+		<!--From Human-->
+		<Row Tag="LOC_DIPLO_DENOUNCE_FROM_HUMAN_LEADER_GEDEMO_LINCOLN_ANY" Language="zh_Hans_CN">
+			<Text>你愚蠢的举动玷污了自己的名誉。</Text>
+		</Row>
+		<!--From AI-->
+		<Row Tag="LOC_DIPLO_DENOUNCE_FROM_AI_LEADER_GEDEMO_LINCOLN_ANY" Language="zh_Hans_CN">
+			<Text>我受够你了。我已经告知世界上的其他领导人，与你们合作是一个错误！[NEWLINE]（谴责你）</Text>
+		</Row>
+		<!--DECLARE WAR-->
+		<!--Human Declares War-->
+		<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_HUMAN_LEADER_GEDEMO_LINCOLN_ANY" Language="zh_Hans_CN">
+			<Text>和平已经被打破。很不幸来到了战争时刻。</Text>
+		</Row>
+		<!--AI Declares War-->
+		<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_GEDEMO_LINCOLN_ANY" Language="zh_Hans_CN">
+			<Text>你对我的外交努力无动于衷，现在是开战的时候了。</Text>
+		</Row>
+		<!--MAKE PEACE-->
+		<!--AI accepts from human-->
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_AI_ACCEPT_DEAL_LEADER_GEDEMO_LINCOLN_ANY" Language="zh_Hans_CN">
+			<Text>我们不能让战争来决定我们的未来，现在是和解的时候了。</Text>
+		</Row>
+		<!--AI refuses human-->
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_AI_REFUSE_DEAL_LEADER_GEDEMO_LINCOLN_ANY" Language="zh_Hans_CN">
+			<Text>不可能有和平，也许下一次吧。</Text>
+		</Row>
+		<!--AI requests from human-->
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_FROM_AI_LEADER_GEDEMO_LINCOLN_ANY" Language="zh_Hans_CN">
+			<Text>为了我们两国的利益，让我们讲和吧。</Text>
+		</Row>
+		<!--DEFEAT-->
+		<!--AI is Defeated-->
+		<Row Tag="LOC_DIPLO_DEFEAT_FROM_AI_LEADER_GEDEMO_LINCOLN_ANY" Language="zh_Hans_CN">
+			<Text>这是所有自由的人们的失败，所有自由的政府的失败。这是全人类的巨大损失。</Text>
+		</Row>
+		<!--Human is Defeated (will see this in hotseat)-->
+		<Row Tag="LOC_DIPLO_DEFEAT_FROM_HUMAN_LEADER_GEDEMO_LINCOLN_ANY" Language="zh_Hans_CN">
+			<Text>[LOC_DIPLO_DEFEAT_FROM_AI_LEADER_GEDEMO_LINCOLN_ANY]</Text>
+		</Row>
+
+
+		<Row Tag="LOC_AGENDA_GEDEMO_LINCOLN_NAME" Language="zh_Hans_CN">
+			<Text>分裂的房子</Text>
+		</Row>
+		<Row Tag="LOC_AGENDA_GEDEMO_LINCOLN_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>试图保持他的城市忠诚，不喜欢无法维持忠诚度的文明。喜欢因忠诚压力而获得城市的文明。</Text>
+		</Row>
+
+
+		<Row Tag="LOC_UNIT_GEDEMO_USACE_NAME" Language="zh_Hans_CN">
+			<Text>美国陆军工程兵团</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_GEDEMO_USACE_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>亚伯拉罕·林肯作为领袖时的特色单位，取代军事工程师。初始拥有6 [ICON_Charges] 劳动力。[NEWLINE]军营中建有兵营即可训练或购买，而非兵工厂。</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_CIVILIZATION_UNIT_GEDEMO_USACE_NAME" Language="zh_Hans_CN">
+			<Text>亚伯拉罕·林肯的特色单位：美国陆军工程兵团</Text>
+		</Row>
+
+		<Row Tag="LOC_UNIT_GEDEMO_MONITOR_NAME" Language="zh_Hans_CN">
+			<Text>“莫尼特”号装甲战舰</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_GEDEMO_MONITOR_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>亚伯拉罕·林肯作为领袖时的工业时代特色海军近战单位，取代装甲舰。训练或购买费用更高，且 [ICON_Gold] 维护费稍高。但是更为强大，并且可以攻击两次，还可以进行短距 [ICON_Ranged] 远程攻击。</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_CIVILIZATION_UNIT_GEDEMO_MONITOR_NAME" Language="zh_Hans_CN">
+			<Text>亚伯拉罕·林肯的特色单位：“莫尼特”号装甲战舰</Text>
+		</Row>
+
+
+
+		<Row Tag="LOC_ABILITY_LINCOLN_NAME" Language="zh_Hans_CN">
+			<Text>解放者</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_LINCOLN_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>占领种植园时+10 [ICON_Strength] 战斗力。</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_MONITORATTACK_NAME" Language="zh_Hans_CN">
+			<Text>“莫尼特”号装甲战舰连续攻击</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_MONITORATTACK_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>进行两次攻击。</Text>
+		</Row>
+	</LocalizedText>
+</GameData>

@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!-- Leaning_Tower_Localization_CN -->
+<!-- Author: Clear8Sky -->
+<!-- DateCreated: 4/1/2020 4:50:33 PM -->
+<GameData>
+	<LocalizedText>
+		<Row Tag="LOC_BUILDING_LEANING_TOWER_NAME" Language="zh_Hans_CN">
+			<Text>比萨斜塔</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_LEANING_TOWER_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>港口可从每个相邻区域中获得+1.5 [ICON_Gold] 金币。该城市训练的所有海军单位+25%战斗经验值。从现代开始，该城市向其他文明的 [ICON_Tourism] 旅游业绩+100%。必须建造在市中心旁。需要港口。</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_LEANING_TOWER_QUOTE" Language="zh_Hans_CN">
+			<Text>自然是无情且亘古不变的，它并不关心其背后隐藏的原因和行动是否被人所理解。[NEWLINE]——伽利略·伽利莱</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_WONDERS_PAGE_BUILDING_LEANING_TOWER_CHAPTER_HISTORY_PARA_1" Language="zh_Hans_CN">
+			<Text>【译者注：正在翻译……】[NEWLINE][NEWLINE]The Leaning Tower of Pisa is the campanile, or freestanding bell tower, of the cathedral of the Italian city of Pisa, known worldwide for its nearly four-degree lean, the result of an unstable foundation. The tower is situated behind the Pisa Cathedral and is the third-oldest structure in the city's Cathedral Square (Piazza del Duomo), after the cathedral and the Pisa Baptistry.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_WONDERS_PAGE_BUILDING_LEANING_TOWER_CHAPTER_HISTORY_PARA_2" Language="zh_Hans_CN">
+			<Text>The tower's tilt began during construction in the 12th century, due to soft ground on one side, which was unable to properly support the structure's weight. The tilt increased in the decades before the structure was completed in the 14th century. It gradually increased until the structure was stabilized (and the tilt partially corrected) by efforts in the late 20th and early 21st centuries.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_WONDERS_PAGE_BUILDING_LEANING_TOWER_CHAPTER_HISTORY_PARA_3" Language="zh_Hans_CN">
+			<Text>The height of the tower is 55.86 metres (183.27 feet) from the ground on the low side and 56.67 metres (185.93 feet) on the high side. The width of the walls at the base is 2.44 m (8 ft 0.06 in). Its weight is estimated at 14,500 metric tons (16,000 short tons). The tower has 296 or 294 steps; the seventh floor has two fewer steps on the north-facing staircase. In 1990 the tower leaned at an angle of 5.5 degrees, but following remedial work between 1993 and 2001 this was reduced to 3.97 degrees, reducing the overhang by 45 cm at a cost of £200m. It lost a further 4 cm of tilt in the two decades to 2018.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_WONDERS_PAGE_BUILDING_LEANING_TOWER_CHAPTER_HISTORY_PARA_4" Language="zh_Hans_CN">
+			<Text></Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_LEANING_TOWER_HARBOR_DISTRICT_GOLD" Language="zh_Hans_CN">
+			<Text>+{1_num} [ICON_Gold] 金币 来自邻接 {1_Num : plural 1?district; other?districts;}（比萨斜塔）</Text>
+		</Row>
+	</LocalizedText>
+</GameData>

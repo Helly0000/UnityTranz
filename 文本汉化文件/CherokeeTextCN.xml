@@ -1,0 +1,601 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- CherokeeTextCN -->
+<!-- Author: 春 -->
+<!-- DateCreated: 5/23/2020 9:08:38 AM -->
+<GameData>
+	<LocalizedText>
+		<!--CIVILIZATION-->
+		<Row Tag="LOC_CIVILIZATION_ENIGMA_CHEROKEE_NAME" Language="zh_Hans_CN">
+			<Text>切罗基</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_ENIGMA_CHEROKEE_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>切罗基帝国</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_ENIGMA_CHEROKEE_ADJECTIVE" Language="zh_Hans_CN">
+			<Text>切罗基的</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_ENIGMA_CHEROKEE_DESCRIPTION_JFD_CIVILIZATION" Language="zh_Hans_CN">
+			<Text>切罗基文明</Text>
+		</Row>
+		<!--Pedia-->
+		<Row Tag="LOC_CIVINFO_ENIGMA_CHEROKEE_LOCATION" Language="zh_Hans_CN">
+			<Text>美国东南部</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_ENIGMA_CHEROKEE_POPULATION" Language="zh_Hans_CN">
+			<Text>31万6049人</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_ENIGMA_CHEROKEE_SIZE" Language="zh_Hans_CN">
+			<Text>未知</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_ENIGMA_CHEROKEE_CAPITAL" Language="zh_Hans_CN">
+			<Text>埃可塔</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_ENIGMA_CHEROKEE_CHAPTER_HISTORY_PARA_1" Language="zh_Hans_CN">
+			<Text>【译者注：正在翻译，这也太长了草……】[NEWLINE][NEWLINE]The Cherokee are one of the indigenous people of the Southeastern Woodlands. Prior to the 18th century, they were concentrated in southwestern North Carolina, southeastern Tennessee, and the tips of western South Carolina and northeastern Georgia.  A Cherokee language name for Cherokee people is Aniyvwiyai, translating as "Principal People". Tsalagi is the Cherokee word for Cherokee.  Many theories, though none proven, abound about the origin of the name "Cherokee". It may have originally been derived from the Choctaw word Cha-la-kee, which means "people who live in the mountains", or Choctaw Chi-luk-ik-bi, meaning "people who live in the cave country".  The earliest Spanish transliteration of the name, from 1755, is recorded as Tchalaquei.  Another theory is that "Cherokee" derives from a Lower Creek word Cvlakke.  The Iroquois Five Nations based in New York have historically called the Cherokee Oyata'ge'ronoñ ("inhabitants of the cave country").  Also the word Cherokee means “people of different speech.”</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_ENIGMA_CHEROKEE_CHAPTER_HISTORY_PARA_2" Language="zh_Hans_CN">
+			<Text>Anthropologists and historians have two main theories of Cherokee origins. One is that the Cherokee, an Iroquoian-speaking people, are relative latecomers to Southern Appalachia, who may have migrated in late prehistoric times from northern areas around the Great Lakes, the traditional territory of the Haudenosaunee nations and other Iroquoian-speaking peoples. Another theory is that the Cherokee had been in the Southeast for thousands of years.  Researchers in the 19th century recorded conversations with elders who recounted an oral tradition of the Cherokee people migrating south from the Great Lakes region in ancient times.  They may have moved south into Muscogee Creek territory and settled at the sites of mounds built by the Mississippian culture and earlier moundbuilders. In the 19th century, European-American settlers mistakenly attributed several Mississippian culture sites in Georgia to the Cherokee, including Moundville and Etowah Mounds. However, other evidence shows that the Cherokee did not reach this part of Georgia until the late 18th century and could not have built the mounds.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_ENIGMA_CHEROKEE_CHAPTER_HISTORY_PARA_3" Language="zh_Hans_CN">
+			<Text>However, true contemporary accounts of the Cherokee culture begin in the 18th century.  With the growth of the deerskin trade, the Cherokee were considered valuable trading partners, since deer-skins from the cooler country of their mountain hunting-grounds were of a better quality than those supplied by the lowland tribes who were neighbors of the English colonists.  In 1721, the Cherokee ceded lands in South Carolina. In 1730, at Nikwasi, a former Mississippian culture site, a Scots adventurer, Sir Alexander Cuming, crowned Moytoy of Tellico as "Emperor" of the Cherokee. Moytoy agreed to recognize King George II of Great Britain as the Cherokee protector. Cuming arranged to take seven prominent Cherokee, including Attakullakulla, to London, England. There the Cherokee delegation signed the Treaty of Whitehall with the British. Moytoy's son, Amo-sgasite (Dreadful Water), attempted to succeed him as "Emperor" in 1741, but the Cherokee elected their own leader, Conocotocko (Old Hop) of Chota.  Political power among the Cherokee remained decentralized, and towns acted autonomously. In 1735 the Cherokee were estimated to have sixty-four towns and villages, and 6,000 fighting men. In 1738 and 1739 smallpox epidemics broke out among the Cherokee, who had no natural immunity to the new infectious disease. Nearly half their population died within a year. Hundreds of other Cherokee committed suicide due to their losses and disfigurement from the disease.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_ENIGMA_CHEROKEE_CHAPTER_HISTORY_PARA_4" Language="zh_Hans_CN">
+			<Text>King George III's Royal Proclamation of 1763 forbade British settlements west of the Appalachian crest, as his government tried to afford some protection from colonial encroachment to the Cherokee and other tribes. The Crown found the ruling difficult to enforce with colonists.  In 1771–1772, North Carolinian settlers squatted on Cherokee lands in Tennessee, forming the Watauga Association.  Daniel Boone and his party tried to settle in Kentucky, but the Shawnee, Delaware, Mingo, and some Cherokee attacked a scouting and forage party that included Boone's son. The American Indians used this territory as a hunting ground by right of conquest; it had hardly been inhabited for years. The conflict in Kentucky sparked the beginning of what was known as Dunmore's War (1773–1774).  In 1776, allied with the Shawnee led by Cornstalk, Cherokee attacked settlers in South Carolina, Georgia, Virginia, and North Carolina in the Second Cherokee War. Overhill Cherokee Nancy Ward, Dragging Canoe's cousin, warned settlers of impending attacks. Provincial militias retaliated, destroying more than 50 Cherokee towns. North Carolina militia in 1776 and 1780 invaded and destroyed the Overhill towns. In 1777, surviving Cherokee town leaders signed treaties with the new states.  Dragging Canoe and his band settled along Chickamauga Creek near present-day Chattanooga, Tennessee, where they established 11 new towns. Chickamauga Town was his headquarters and the colonists tended to call his entire band the Chickamauga to distinguish them from other Cherokee. From here he fought a guerrilla war against settlers, which lasted from 1776 to 1794. These are known informally as the Cherokee–American wars, but this is not an historians' term. The first Treaty of Tellico Blockhouse, signed November 7, 1794, finally brought peace between the Cherokee and Americans, who had achieved independence from the British Crown. In 1805, the Cherokee ceded their lands between the Cumberland and Duck rivers (i.e. the Cumberland Plateau) to Tennessee.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_ENIGMA_CHEROKEE_CHAPTER_HISTORY_PARA_5" Language="zh_Hans_CN">
+			<Text>George Washington sought to 'civilize' Southeastern American Indians, through programs overseen by the Indian Agent Benjamin Hawkins. He encouraged the Cherokee to abandon their communal land-tenure and settle on individual farmsteads, which was facilitated by the destruction of many American Indian towns during the American Revolutionary War. The deerskin trade brought white-tailed deer to the brink of extinction, and as pigs and cattle were introduced, they became the principal sources of meat. The government supplied the tribes with spinning wheels and cotton-seed, and men were taught to fence and plow the land, in contrast to their traditional division in which crop cultivation was woman's labor. Americans instructed the women in weaving. Eventually Hawkins helped them set up smithys, gristmills and cotton plantations.  The Cherokee organized a national government under Principal Chiefs Little Turkey (1788–1801), Black Fox (1801–1811), and Pathkiller (1811–1827), all former warriors of Dragging Canoe. The 'Cherokee triumvirate' of James Vann and his protégés The Ridge and Charles R. Hicksadvocated acculturation, formal education, and modern methods of farming. In 1801 they invited Moravian missionaries from North Carolina to teach Christianity and the 'arts of civilized life.' The Moravians and later Congregationalist missionaries ran boarding schools, and a select few students were educated at the American Board of Commissioners for Foreign Missions school in Connecticut.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_ENIGMA_CHEROKEE_CHAPTER_HISTORY_PARA_6" Language="zh_Hans_CN">
+			<Text>The Cherokee allied with the U.S. against the nativist and pro-British Red Stick faction of the Upper Creek in the Creek War during the War of 1812. Cherokee warriors led by Major Ridge played a major role in General Andrew Jackson's victory at the Battle of Horseshoe Bend. Major Ridge moved his family to Rome, Georgia, where he built a substantial house, developed a large plantation and ran a ferry on the Oostanaula River. Although he never learned English, he sent his son and nephews to New England to be educated in mission schools. His interpreter and protégé Chief John Ross, the descendant of several generations of Cherokee women and Scots fur-traders, built a plantation and operated a trading firm and a ferry at Ross' Landing (Chattanooga, Tennessee). During this period, divisions arose between the acculturated elite and the great majority of Cherokee, who clung to traditional ways of life.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_ENIGMA_CHEROKEE_CHAPTER_HISTORY_PARA_7" Language="zh_Hans_CN">
+			<Text>Around 1809 Sequoyah began developing a written form of the Cherokee language. He spoke no English, but his experiences as a silversmith dealing regularly with white settlers, and as a warrior at Horseshoe Bend, convinced him the Cherokee needed to develop writing. In 1821, he introduced Cherokee syllabary, the first written syllabic form of an American Indian language outside of Central America. Initially his innovation was opposed by both Cherokee traditionalists and white missionaries, who sought to encourage the use of English. When Sequoyah taught children to read and write with the syllabary, he reached the adults. By the 1820s, the Cherokee had a higher rate of literacy than the whites around them in Georgia.  In 1819, the Cherokee began holding council meetings at New Town, at the headwaters of the Oostanaula (near present-day Calhoun, Georgia). In November 1825, New Town became the capital of the Cherokee Nation, and was renamed New Echota, after the Overhill Cherokee principal town of Chota.  Sequoyah's syllabary was adopted. They had developed a police force, a judicial system, and a National Committee.  In 1827, the Cherokee Nation drafted a Constitution modeled on the United States, with executive, legislative and judicial branches and a system of checks and balances. The two-tiered legislature was led by Major Ridge and his son John Ridge. Convinced the tribe's survival required English-speaking leaders who could negotiate with the U.S., the legislature appointed John Ross as Principal Chief. A printing press was established at New Echota by the Vermont missionary Samuel Worcester and Major Ridge's nephew Elias Boudinot, who had taken the name of his white benefactor, a leader of the Continental Congress and New Jersey Congressman. They translated the Bible into Cherokee syllabary. Boudinot published the first edition of the bilingual 'Cherokee Phoenix,' the first American Indian newspaper, in February 1828.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_ENIGMA_CHEROKEE_CHAPTER_HISTORY_PARA_8" Language="zh_Hans_CN">
+			<Text>During the first decades of the 19th century, Georgia focused on removing the Cherokee's neighbors, the Lower Creek. The Georgia Governor George Troup and his cousin William McIntosh, chief of the Lower Creek, signed the Treaty of Indian Springs (1825), ceding the last Muscogee (Creek) lands claimed by Georgia. The state's northwestern border reached the Chattahoochee, the border of the Cherokee Nation. In 1829, gold was discovered at Dahlonega, on Cherokee land claimed by Georgia. The Georgia Gold Rush was the first in U.S. history, and state officials demanded that the federal government expel the Cherokee. When Andrew Jackson was inaugurated as President in 1829, Georgia gained a strong ally in Washington. In 1830 Congress passed the Indian Removal Act, authorizing the forcible relocation of American Indians east of the Mississippi to a new Indian Territory.  Andrew Jackson said the removal policy was an effort to prevent the Cherokee from facing extinction as a people, which he considered the fate that "the Mohegan, the Narragansett, and the Delaware" had suffered.  But, there is ample evidence that the Cherokee were adapting modern farming techniques. A modern analysis shows that the area was in general in a state of economic surplus and could have accommodated both the Cherokee and new settlers.  The Cherokee brought their grievances to a US judicial review that set a precedent in Indian Country. John Ross traveled to Washington, D.C., and won support from National Republican Party leaders Henry Clay and Daniel Webster. Samuel Worcester campaigned on behalf of the Cherokee in New England, where their cause was taken up by Ralph Waldo Emerson (see Emerson's 1838 letter to Martin Van Buren). In June 1830, a delegation led by Chief Ross defended Cherokee rights before the U.S. Supreme Court in Cherokee Nation v. Georgia.  In 1831 Georgia militia arrested Samuel Worcester for residing on Indian lands without a state permit, imprisoning him in Milledgeville. In Worcester v. Georgia (1832), the US Supreme Court Chief Justice John Marshall ruled that American Indian nations were "distinct, independent political communities retaining their original natural rights," and entitled to federal protection from the actions of state governments that infringed on their sovereignty.  Worcester v. Georgia is considered one of the most important dicta in law dealing with Native Americans.  Jackson ignored the Supreme Court's ruling, as he needed to conciliate Southern sectionalism during the era of the Nullification Crisis. His landslide reelection in 1832 emboldened calls for Cherokee removal. Georgia sold Cherokee lands to its citizens in a Land Lottery, and the state militia occupied New Echota. The Cherokee National Council, led by John Ross, fled to Red Clay, a remote valley north of Georgia's land claim. Ross had the support of Cherokee traditionalists, who could not imagine removal from their ancestral lands.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_ENIGMA_CHEROKEE_CHAPTER_HISTORY_PARA_9" Language="zh_Hans_CN">
+			<Text>John Ross gathered over 15,000 signatures for a petition to the U.S. Senate, insisting that the treaty was invalid because it did not have the support of the majority of the Cherokee people. The Senate passed the Treaty of New Echota by a one-vote margin. It was enacted into law in May 1836.  Two years later President Martin Van Buren ordered 7,000 Federal troops and state militia under General Winfield Scott into Cherokee lands to evict the tribe. Over 16,000 Cherokee were forcibly relocated westward to Indian Territory in 1838–1839, a migration known as the Trail of Tears or in Cherokee Nvna Daula Tsvyi (The Trail Where They Cried), although it is described by another word Tlo-va-sa(The Removal). Marched over 800 miles (1,300 km) across Tennessee, Kentucky, Illinois, Missouri and Arkansas, the people suffered from disease, exposure and starvation, and as many as 4,000 died.  As some Cherokees were slaveholders, they took enslaved African Americans with them west of the Mississippi. Intermarried European Americans and missionaries also walked the Trail of Tears. Ross preserved a vestige of independence by negotiating permission for the Cherokee to conduct their own removal under U.S. supervision.  In keeping with the tribe's "blood law" that prescribed the death penalty for Cherokee who sold lands, Ross's son arranged the murder of the leaders of the "Treaty Party". On June 22, 1839, a party of twenty-five Ross supporters assassinated Major Ridge, John Ridge and Elias Boudinot. The party included Daniel Colston, John Vann, Archibald, James and Joseph Spear. Boudinot's brother Stand Watie fought and survived that day, escaping to Arkansas.  In 1827, Sequoyah had led a delegation of Old Settlers to Washington, D.C. to negotiate for the exchange of Arkansas land for land in Indian Territory. After the Trail of Tears, he helped mediate divisions between the Old Settlers and the rival factions of the more recent arrivals. In 1839, as President of the Western Cherokee, Sequoyah signed an Act of Union with John Ross that reunited the two groups of the Cherokee Nation.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_ENIGMA_CHEROKEE_CHAPTER_HISTORY_PARA_10" Language="zh_Hans_CN">
+			<Text>The American Civil War was devastating for both East and Western Cherokee. The Eastern Band, aided by William Thomas, became the Thomas Legion of Cherokee Indians and Highlanders, fighting for the Confederacy in the American Civil War.  Cherokee in Indian Territory divided into Union and Confederate factions, with most supporting the Confederacy.  Stand Watie, the leader of the Ridge Party, raised a regiment for Confederate service in 1861. John Ross, who had reluctantly agreed to ally with the Confederacy, was captured by Federal troops in 1862. He lived in self-imposed exile in Philadelphia, supporting the Union. In Indian Territory, the national council of those who supported the Union voted to abolish slavery in the Cherokee Nation in 1863, but they were not the majority slaveholders and the vote had little effect on those supporting the Confederacy.  Watie was elected Principal Chief of the pro-Confederacy majority. A master of hit-and-run cavalry tactics, Watie fought those Cherokee loyal to John Ross and Federal troops in Indian Territory and Arkansas, capturing Union supply trains and steamboats, and saving a Confederate army by covering their retreat after the Battle of Pea Ridge in March 1862. He became a Brigadier General of the Confederate States; the only other American Indian to hold the rank in the American Civil War was Ely S. Parker with the Union Army. On June 25, 1865, two months after Robert E. Lee surrendered at Appomattox, Stand Watie became the last Confederate General to stand down.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_ENIGMA_CHEROKEE_CHAPTER_HISTORY_PARA_11" Language="zh_Hans_CN">
+			<Text>By the late 19th century, the Eastern Band of Cherokee were laboring under the constraints of a segregated society. In the aftermath of Reconstruction, conservative white Democrats regained power in North Carolina and other southern states. They proceeded to effectively disenfranchise all blacks and many poor whites by new constitutions and laws related to voter registration and elections. They passed Jim Crow laws that divided society into "white" and "colored", mostly to control freedmen. Cherokee and other Native Americans were classified on the colored side and suffered the same racial segregation and disenfranchisement as former slaves. They also often lost their historical documentation for identification as Indians, when the Southern states classified them as colored. Blacks and Native Americans would not have their constitutional rights as US citizens enforced until after the Civil Rights Movement secured passage of civil rights legislation in the mid-1960s, and the federal government began to monitor voter registration and elections, as well as other programs.</Text>
+		</Row>
+		<!--Trait-->
+		<Row Tag="LOC_TRAIT_CIVILIZATION_ENIGMA_SEQUOYAH_SYLLABARY_NAME" Language="zh_Hans_CN">
+			<Text>塞阔雅音节</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_CIVILIZATION_ENIGMA_SEQUOYAH_SYLLABARY_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>每当 [ICON_Capital] 首都已拥有的专业化区域于其他城市建成时，可获得1个 [ICON_TECHBOOSTED] 尤里卡。当文明处于 [ICON_GLORY_DARK_AGE] 黑暗时代时，[ICON_TECHBOOSTED] 尤里卡额外提升（对应科技解锁所需科技值总量的）15%。当商人经过区域时，获得少量 [ICON_GREATSCIENTIST] 大科学家点数奖励。</Text>
+		</Row>
+		<!--Cities-->
+		<Row Tag="LOC_CITY_NAME_ENIGMA_CHEROKEE_1" Language="zh_Hans_CN">
+			<Text>埃可塔</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_ENIGMA_CHEROKEE_2" Language="zh_Hans_CN">
+			<Text>塔纳西</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_ENIGMA_CHEROKEE_3" Language="zh_Hans_CN">
+			<Text>西蒂科</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_ENIGMA_CHEROKEE_4" Language="zh_Hans_CN">
+			<Text>塔利夸</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_ENIGMA_CHEROKEE_5" Language="zh_Hans_CN">
+			<Text>基沃</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_ENIGMA_CHEROKEE_6" Language="zh_Hans_CN">
+			<Text>塔拉西</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_ENIGMA_CHEROKEE_7" Language="zh_Hans_CN">
+			<Text>科韦</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_ENIGMA_CHEROKEE_8" Language="zh_Hans_CN">
+			<Text>基图瓦</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_ENIGMA_CHEROKEE_9" Language="zh_Hans_CN">
+			<Text>阿尤瓦西-埃格瓦哈</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_ENIGMA_CHEROKEE_10" Language="zh_Hans_CN">
+			<Text>奇克莫加</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_ENIGMA_CHEROKEE_11" Language="zh_Hans_CN">
+			<Text>阿尼-库萨蒂-伊</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_ENIGMA_CHEROKEE_12" Language="zh_Hans_CN">
+			<Text>塔斯基吉</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_ENIGMA_CHEROKEE_13" Language="zh_Hans_CN">
+			<Text>伊苏尼古</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_ENIGMA_CHEROKEE_14" Language="zh_Hans_CN">
+			<Text>达夸伊</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_ENIGMA_CHEROKEE_15" Language="zh_Hans_CN">
+			<Text>米阿洛夫</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_ENIGMA_CHEROKEE_16" Language="zh_Hans_CN">
+			<Text>托莫特利</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_ENIGMA_CHEROKEE_17" Language="zh_Hans_CN">
+			<Text>甘萨吉伊</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_ENIGMA_CHEROKEE_18" Language="zh_Hans_CN">
+			<Text>杜吉鲁伊</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_ENIGMA_CHEROKEE_19" Language="zh_Hans_CN">
+			<Text>库尔塞茨伊</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_ENIGMA_CHEROKEE_20" Language="zh_Hans_CN">
+			<Text>铁索菲尔</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_ENIGMA_CHEROKEE_21" Language="zh_Hans_CN">
+			<Text>努努伊</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_ENIGMA_CHEROKEE_22" Language="zh_Hans_CN">
+			<Text>奇尔豪伊</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_ENIGMA_CHEROKEE_23" Language="zh_Hans_CN">
+			<Text>云萨伊</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_ENIGMA_CHEROKEE_24" Language="zh_Hans_CN">
+			<Text>埃拉特西</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_ENIGMA_CHEROKEE_25" Language="zh_Hans_CN">
+			<Text>沃托加</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_ENIGMA_CHEROKEE_26" Language="zh_Hans_CN">
+			<Text>蒂克瓦利西</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_ENIGMA_CHEROKEE_27" Language="zh_Hans_CN">
+			<Text>奥康尼</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_ENIGMA_CHEROKEE_28" Language="zh_Hans_CN">
+			<Text>甘-迪迦-杜洪伊</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_ENIGMA_CHEROKEE_29" Language="zh_Hans_CN">
+			<Text>尼可瓦西</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_ENIGMA_CHEROKEE_30" Language="zh_Hans_CN">
+			<Text>埃拉沃迪</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_ENIGMA_CHEROKEE_31" Language="zh_Hans_CN">
+			<Text>塔立垮</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_ENIGMA_CHEROKEE_32" Language="zh_Hans_CN">
+			<Text>伊特伊</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_ENIGMA_CHEROKEE_33" Language="zh_Hans_CN">
+			<Text>活水城</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_ENIGMA_CHEROKEE_34" Language="zh_Hans_CN">
+			<Text>长岛</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_ENIGMA_CHEROKEE_35" Language="zh_Hans_CN">
+			<Text>乌鸦城</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_ENIGMA_CHEROKEE_36" Language="zh_Hans_CN">
+			<Text>瞭望山城</Text>
+		</Row>
+		<!--Citizens-->
+		<Row Tag="LOC_CITIZEN_ENIGMA_CHEROKEE_MALE_1" Language="zh_Hans_CN">
+			<Text>卡努纳</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_ENIGMA_CHEROKEE_MALE_2" Language="zh_Hans_CN">
+			<Text>达斯图</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_ENIGMA_CHEROKEE_MALE_3" Language="zh_Hans_CN">
+			<Text>阿特萨达</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_ENIGMA_CHEROKEE_MALE_4" Language="zh_Hans_CN">
+			<Text>茨伊</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_ENIGMA_CHEROKEE_MALE_5" Language="zh_Hans_CN">
+			<Text>乌纳杜蒂</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_ENIGMA_CHEROKEE_MALE_6" Language="zh_Hans_CN">
+			<Text>阿托希</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_ENIGMA_CHEROKEE_MALE_7" Language="zh_Hans_CN">
+			<Text>沃哈利</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_ENIGMA_CHEROKEE_MALE_8" Language="zh_Hans_CN">
+			<Text>阿胡利</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_ENIGMA_CHEROKEE_MALE_9" Language="zh_Hans_CN">
+			<Text>迪瓦利</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_ENIGMA_CHEROKEE_MALE_10" Language="zh_Hans_CN">
+			<Text>韦萨</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_ENIGMA_CHEROKEE_MODERN_MALE_1" Language="zh_Hans_CN">
+			<Text>威廉</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_ENIGMA_CHEROKEE_MODERN_MALE_2" Language="zh_Hans_CN">
+			<Text>鲍勃</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_ENIGMA_CHEROKEE_MODERN_MALE_3" Language="zh_Hans_CN">
+			<Text>富兰克林</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_ENIGMA_CHEROKEE_MODERN_MALE_4" Language="zh_Hans_CN">
+			<Text>克莱门特</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_ENIGMA_CHEROKEE_MODERN_MALE_5" Language="zh_Hans_CN">
+			<Text>约翰</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_ENIGMA_CHEROKEE_MODERN_MALE_6" Language="zh_Hans_CN">
+			<Text>尼姆罗德</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_ENIGMA_CHEROKEE_MODERN_MALE_7" Language="zh_Hans_CN">
+			<Text>汤姆</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_ENIGMA_CHEROKEE_MODERN_MALE_8" Language="zh_Hans_CN">
+			<Text>雷德伯德</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_ENIGMA_CHEROKEE_MODERN_MALE_9" Language="zh_Hans_CN">
+			<Text>查尔斯</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_ENIGMA_CHEROKEE_MODERN_MALE_10" Language="zh_Hans_CN">
+			<Text>内德</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_ENIGMA_CHEROKEE_FEMALE_1" Language="zh_Hans_CN">
+			<Text>奥丝拉</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_ENIGMA_CHEROKEE_FEMALE_2" Language="zh_Hans_CN">
+			<Text>阿蒂拉</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_ENIGMA_CHEROKEE_FEMALE_3" Language="zh_Hans_CN">
+			<Text>塔亚尼塔</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_ENIGMA_CHEROKEE_FEMALE_4" Language="zh_Hans_CN">
+			<Text>乌芮嘉</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_ENIGMA_CHEROKEE_FEMALE_5" Language="zh_Hans_CN">
+			<Text>沃娅</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_ENIGMA_CHEROKEE_FEMALE_6" Language="zh_Hans_CN">
+			<Text>戈拉</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_ENIGMA_CHEROKEE_FEMALE_7" Language="zh_Hans_CN">
+			<Text>加利拉希</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_ENIGMA_CHEROKEE_FEMALE_8" Language="zh_Hans_CN">
+			<Text>尤娜</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_ENIGMA_CHEROKEE_FEMALE_9" Language="zh_Hans_CN">
+			<Text>伊诺拉</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_ENIGMA_CHEROKEE_FEMALE_10" Language="zh_Hans_CN">
+			<Text>卡玛玛</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_ENIGMA_CHEROKEE_MODERN_FEMALE_1" Language="zh_Hans_CN">
+			<Text>南希</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_ENIGMA_CHEROKEE_MODERN_FEMALE_2" Language="zh_Hans_CN">
+			<Text>金伯莉</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_ENIGMA_CHEROKEE_MODERN_FEMALE_3" Language="zh_Hans_CN">
+			<Text>玛丽</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_ENIGMA_CHEROKEE_MODERN_FEMALE_4" Language="zh_Hans_CN">
+			<Text>珍妮</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_ENIGMA_CHEROKEE_MODERN_FEMALE_5" Language="zh_Hans_CN">
+			<Text>伊丽莎白</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_ENIGMA_CHEROKEE_MODERN_FEMALE_6" Language="zh_Hans_CN">
+			<Text>苏珊娜</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_ENIGMA_CHEROKEE_MODERN_FEMALE_7" Language="zh_Hans_CN">
+			<Text>凯特</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_ENIGMA_CHEROKEE_MODERN_FEMALE_8" Language="zh_Hans_CN">
+			<Text>莎拉</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_ENIGMA_CHEROKEE_MODERN_FEMALE_9" Language="zh_Hans_CN">
+			<Text>贝蒂</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_ENIGMA_CHEROKEE_MODERN_FEMALE_10" Language="zh_Hans_CN">
+			<Text>阿米莉亚</Text>
+		</Row>
+		<!--LEADER (ROSS)-->
+		<Row Tag="LOC_LEADER_ENIGMA_ROSS_NAME" Language="zh_Hans_CN">
+			<Text>约翰·罗斯</Text>
+		</Row>
+		<!--Agenda-->
+		<Row Tag="LOC_AGENDA_ENIGMA_CHEROKEE_MOSES_NAME" Language="zh_Hans_CN">
+			<Text>切罗基的摩西</Text>
+		</Row>
+		<Row Tag="LOC_AGENDA_ENIGMA_CHEROKEE_MOSES_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>喜欢那些与他有外交协议的国家，尤其如果他们军事力量薄弱。憎恨那些攻击邻居的人——如果他们完成军营项目，仇恨更甚。</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_KUDO_LEADER_ENIGMA_ROSS_REASON_FRIENDLY" Language="zh_Hans_CN">
+			<Text>（您采取了外交行动）</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MODIFIER_AGENDA_ENIGMA_CHEROKEE_MOSES_FRIENDLY" Language="zh_Hans_CN">
+			<Text>约翰·罗斯欣赏你外交上的开放态度。</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_KUDO_LEADER_ENIGMA_ROSS_REASON_FRIENDLY_LOW_ARMY" Language="zh_Hans_CN">
+			<Text>（您在保持和平的同时采取了外交行动）</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MODIFIER_AGENDA_ENIGMA_CHEROKEE_MOSES_FRIENDLY_LOW_ARMY" Language="zh_Hans_CN">
+			<Text>约翰·罗斯没有把你的存在视为威胁。</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_LEADER_ENIGMA_ROSS_REASON_WAR_WITH_NEIGHBORS" Language="zh_Hans_CN">
+			<Text>（您向邻国宣战）</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MODIFIER_AGENDA_ENIGMA_CHEROKEE_MOSES_WAR_WITH_NEIGHBORS" Language="zh_Hans_CN">
+			<Text>约翰·罗斯觉得你无休止的战争威胁到了他的人民。</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_LEADER_ENIGMA_ROSS_REASON_WAR_WITH_NEIGHBORS_ENCAMPMENT" Language="zh_Hans_CN">
+			<Text>（你们向邻国发动战争的同时还在厉兵秣马）</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MODIFIER_AGENDA_ENIGMA_CHEROKEE_MOSES_WAR_WITH_NEIGHBORS_ENCAMPMENT" Language="zh_Hans_CN">
+			<Text>约翰·罗斯对你的军队和嗜血感到担忧。</Text>
+		</Row>
+		<!--DOM-->
+		<Row Tag="LOC_LOADING_INFO_LEADER_ENIGMA_ROSS" Language="zh_Hans_CN">
+			<Text>切罗基人的两匹狼的寓言是真实的，而你，约翰·罗斯首领，站在和平的一方。向你的邻居寻求指导和学习，将科学之光、源源不断的贸易以及安全的同盟带给你的人民。只有在必要的时候才去战斗，并在战斗中学习。和平启程吧，切罗基之狼！</Text>
+		</Row>
+		<!--Traits-->
+		<Row Tag="LOC_TRAIT_LEADER_ENIGMA_NATIONAL_PARTY_NAME" Language="zh_Hans_CN">
+			<Text>国家党</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_LEADER_ENIGMA_NATIONAL_PARTY_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>文明处于 [ICON_GLORY_DARK_AGE] 黑暗时代时，忠诚度已满的城市中每3个 [ICON_Citizen] 公民可提供+1 [ICON_PRODUCTION] 生产力。外交政策可为从 [ICON_Capital] 首都出发的国际 [ICON_TradeRoute] 贸易路线提供+1 [ICON_SCIENCE] 科技值。由市政“启蒙运动”可解锁特色项目：议会改革。</Text>
+		</Row>
+		<!--Civilopedia-->
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_ENIGMA_ROSS_TITLE" Language="zh_Hans_CN">
+			<Text>约翰·罗斯</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_ENIGMA_ROSS_SUBTITLE" Language="zh_Hans_CN">
+			<Text>切罗基首席族长</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_ENIGMA_ROSS_QUOTE" Language="zh_Hans_CN">
+			<Text>我们不堪重负！每当我们反省自己所处之境时，我们心生厌恶，难以言表。而此等处境，则是由那些毫无原则的人的鲁莽行为所致；他们在面对我们认真、严正的多次抗议时，却还如此灵活地推行他们的计策，以致将其强加于美国政府之上。</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_ENIGMA_ROSS_CHAPTER_HISTORY_PARA_1" Language="zh_Hans_CN">
+			<Text>【译者注：正在翻译……】[NEWLINE][NEWLINE]John Ross (Cherokee: guwisguwi) (October 3, 1790 – August 1, 1866), (meaning in Cherokee: "Mysterious Little White Bird"), was the Principal Chief of the Cherokee Nation from 1828–1866, serving longer in this position than any other person. Described as the Moses of his people, Ross influenced the Indian nation through such tumultuous events as the relocation to Indian Territory and the American Civil War.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_ENIGMA_ROSS_CHAPTER_HISTORY_PARA_2" Language="zh_Hans_CN">
+			<Text>John Ross was the son of a Cherokee mother and a Scottish father. His mother and maternal grandmother were of mixed Scots-Cherokee ancestry, since his maternal grandfather was another Scottish immigrant. As a result, young John (one-eighth Cherokee by blood quantum) grew up bilingual and bicultural, an experience that served him well when his parents decided to send him to schools that served other mixed-race Cherokee. After graduation, he was appointed an Indian agent in 1811. During the War of 1812, he served as adjutant of a Cherokee regiment under the command of Andrew Jackson. After the Red Stick War ended, Ross demonstrated his business acumen by starting a tobacco farm in Tennessee. In 1816, he built a warehouse and trading post on the Tennessee River north of the mouth of Chattanooga Creek, and started a ferry service that carried passengers from the south side of the river (Cherokee Nation) to the north side (USA). His businesses served as the start of a community known as Ross's Landing on the Tennessee River (now modern-day Chattanooga, Tennessee). Concurrently, John Ross developed a keen interest in Cherokee politics, attracting the attention of the Cherokee elders, especially Principal Chiefs Pathkiller and Charles R. Hicks, who, along with Major Ridge, became his political mentors.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_ENIGMA_ROSS_CHAPTER_HISTORY_PARA_3" Language="zh_Hans_CN">
+			<Text>Ross first went to Washington, D.C. in 1816 as part of a Cherokee delegation to negotiate issues of national boundaries, land ownership and white encroachment. As the only delegate fluent in English, Ross became the principal negotiator, despite his relative youth. When he returned to the Cherokee Nation in 1817, he was elected to the National Council. He became council president in the following year. The majority of the council were men like Ross, who were wealthy, educated, English-speaking and of mixed blood. Even the traditionalist full-blood Cherokee perceived that he had the skills necessary to contest the whites' demands that the Cherokee cede their land and move beyond the Mississippi River. In this position, Ross's first action was to reject an offer of $200,000 from the US Indian agent made for the Cherokee to voluntarily relocate. Thereafter Ross made more trips to Washington, even as white demands intensified. In 1824, Ross boldly petitioned Congress for redress of Cherokee grievances, the first time a tribe had ever shown the audacity to do such a thing. Along the way, Ross built political support in the capital for the Cherokee cause.  Both Pathkiller and Charles R. Hicks died in January 1827. Hicks's brother, William, was appointed interim chief. Ross and Major Ridge shared responsibilities for the affairs of the tribe. William Hicks did not impress the Cherokee as a leader. They elected Ross as permanent principal chief in October 1828. He remained so until he died.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_ENIGMA_ROSS_CHAPTER_HISTORY_PARA_4" Language="zh_Hans_CN">
+			<Text>The issue of removal split the Cherokee Nation politically. Ross, backed by the majority, tried repeatedly to stop white political powers from forcing the tribe to move. They became known as the National Party. Others, who came to believe that further resistance would be futile, wanted to seek the best settlement they could get. They formed the "Treaty Party" or "Ridge Party," led by Major Ridge. The Treaty Party was convinced to sign the Treaty of New Echota on December 29, 1835, requiring the Cherokee to leave by 1838. Neither Ross nor the council approved it, but the Federal government regarded the treaty as valid. It would send the Army to move those who did not depart by 1838 in an action known ever after as the "Trail of Tears." About one-fourth of the Cherokee forced to move died along the trail. The dead included Ross's wife, Quatie.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_ENIGMA_ROSS_CHAPTER_HISTORY_PARA_5" Language="zh_Hans_CN">
+			<Text>Ross tried unsuccessfully to restore political unity after the arrival in Indian Territory. Unknown people assassinated the leaders of the Treaty Party, except for Stand Watie, who escaped and became Ross's most implacable foe. Soon, the issue of slavery refueled the old division. The Treaty Party morphed into the "Southern Party," while the National Party largely became the "Union Party." Ross initially counseled neutrality, believing that joining in the "white man's war" would be disastrous for the tribe. After Union Forces abandoned their forts in Indian Territory, Ross reversed himself and signed a treaty with the Confederacy. He later fled to Union-held Kansas and Stand Watie became the de facto chief. The Confederates lost the war, Watie became the last Confederate general to surrender, and Ross returned to his post as principal chief. Confronted with negotiating the Reconstruction Treaty with the United States, he made yet another trip to Washington, where he died on August 1, 1866.</Text>
+		</Row>
+		<!--Diplomacy-->
+		<!--FIRST MEET-->
+		<!--First AI line-->
+		<Row Tag="LOC_DIPLO_FIRST_MEET_LEADER_ENIGMA_ROSS_ANY" Language="zh_Hans_CN">
+			<Text>你好。我是约翰·罗斯，切罗基的大首领。我代表全体人民邀请你，请不要拘束。</Text>
+		</Row>
+		<!--AI invitation to visit nearby City-->
+		<Row Tag="LOC_DIPLO_FIRST_MEET_VISIT_RECIPIENT_LEADER_ENIGMA_ROSS_ANY" Language="zh_Hans_CN">
+			<Text></Text>
+		</Row>
+		<!--AI accepts Human invitation-->
+		<Row Tag="LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_POSITIVE_LEADER_ENIGMA_ROSS_ANY" Language="zh_Hans_CN">
+			<Text></Text>
+		</Row>
+		<!--AI invitation to exchange Capital Information-->
+		<Row Tag="LOC_DIPLO_FIRST_MEET_NO_MANS_INFO_EXCHANGE_LEADER_ENIGMA_ROSS_ANY" Language="zh_Hans_CN">
+			<Text>来吧，参观一下埃可塔的议会。首领们会张开双臂欢迎外国人。</Text>
+		</Row>
+		<!--GREETINGS-->
+		<Row Tag="LOC_DIPLO_GREETING_LEADER_ENIGMA_ROSS_ANY" Language="zh_Hans_CN">
+			<Text>今天什么风把你吹来了？</Text>
+		</Row>
+		<!--DELEGATION-->
+		<!--AI Accepts-->
+		<Row Tag="LOC_DIPLO_ACCEPT_DELEGATION_FROM_HUMAN_LEADER_ENIGMA_ROSS_ANY" Language="zh_Hans_CN">
+			<Text>我会像自己人一样欢迎他们。</Text>
+		</Row>
+		<!--AI Rejects-->
+		<Row Tag="LOC_DIPLO_REJECT_DELEGATION_FROM_HUMAN_LEADER_ENIGMA_ROSS_ANY" Language="zh_Hans_CN">
+			<Text>现在我无法接受。</Text>
+		</Row>
+		<!--AI Requests -->
+		<Row Tag="LOC_DIPLO_DELEGATION_FROM_AI_LEADER_ENIGMA_ROSS_ANY" Language="zh_Hans_CN">
+			<Text>我派遣了一个迪达恩维斯基去祝福你的人民，你会欢迎吗？</Text>
+		</Row>
+		<!--OPEN BORDERS-->
+		<!--AI accepts from human-->
+		<Row Tag="LOC_DIPLO_ACCEPT_OPEN_BORDERS_FROM_HUMAN_LEADER_ENIGMA_ROSS_ANY" Language="zh_Hans_CN">
+			<Text>非常令人愉快。</Text>
+		</Row>
+		<!--AI rejects from human-->
+		<Row Tag="LOC_DIPLO_REJECT_OPEN_BORDERS_FROM_HUMAN_LEADER_ENIGMA_ROSS_ANY" Language="zh_Hans_CN">
+			<Text>不，下次吧。</Text>
+		</Row>
+		<!--AI requests from human-->
+		<Row Tag="LOC_DIPLO_OPEN_BORDERS_FROM_AI_LEADER_ENIGMA_ROSS_ANY" Language="zh_Hans_CN">
+			<Text>如果你们愿意，我会开放我的边界。</Text>
+		</Row>
+		<!--DECLARE FRIENDSHIP-->
+		<!--AI accepts from human-->
+		<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_HUMAN_LEADER_ENIGMA_ROSS_ANY" Language="zh_Hans_CN">
+			<Text>你是这个世界上少有的英明领导者之一。我接受。</Text>
+		</Row>
+		<!--AI Rejects from human -->
+		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_HUMAN_LEADER_ENIGMA_ROSS_ANY" Language="zh_Hans_CN">
+			<Text>下次吧。</Text>
+		</Row>
+		<!--AI Requests friendship from human-->
+		<Row Tag="LOC_DIPLO_DECLARE_FRIEND_FROM_AI_LEADER_ENIGMA_ROSS_ANY" Language="zh_Hans_CN">
+			<Text>你已经证明自己献身于所有人。你愿意加入切罗基，让世上的暴君们知道，他们的残暴是不受欢迎的吗？</Text>
+		</Row>
+		<!--Human accepts AI requests, AI responds-->
+		<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_ENIGMA_ROSS_ANY" Language="zh_Hans_CN">
+			<Text>对我们两国人民来说，这将是美妙的一天。</Text>
+		</Row>
+		<!--Human rejects AI requests, AI responds-->
+		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_ENIGMA_ROSS_ANY" Language="zh_Hans_CN">
+			<Text>真可惜。</Text>
+		</Row>
+		<!--ALLIANCE-->
+		<!--AI Requests an alliance from human-->
+		<Row Tag="LOC_DIPLO_MAKE_ALLIANCE_FROM_AI_LEADER_ENIGMA_ROSS_ANY" Language="zh_Hans_CN">
+			<Text>即便是红首领也看到了我们同盟的价值，即使对他们来说只有战略上的意义。你说呢？</Text>
+		</Row>
+		<!--KUDOS & WARNINGS-->
+		<!--AI Kudos-->
+		<Row Tag="LOC_DIPLO_KUDO_EXIT_LEADER_ENIGMA_ROSS_ANY" Language="zh_Hans_CN">
+			<Text>你是个英明而仁慈的首领。</Text>
+		</Row>
+		<!--AI Warnings-->
+		<Row Tag="LOC_DIPLO_WARNING_EXIT_LEADER_ENIGMA_ROSS_ANY" Language="zh_Hans_CN">
+			<Text>不要把我当成一个被动的傻瓜。</Text>
+		</Row>
+		<!--AI warns player for border troops-->
+		<Row Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_LEADER_ENIGMA_ROSS_ANY" Language="zh_Hans_CN">
+			<Text>立即撤出你的部队。我们两国人民不应该流血。</Text>
+		</Row>
+		<!--TRADE-->
+		<!--AI Accepts Deal-->
+		<Row Tag="LOC_DIPLO_ACCEPT_MAKE_DEAL_FROM_AI_LEADER_ENIGMA_ROSS_ANY" Language="zh_Hans_CN">
+			<Text>我相信各首领都会批准的。</Text>
+		</Row>
+		<!--AI Rejects Deal-->
+		<Row Tag="LOC_DIPLO_REJECT_MAKE_DEAL_FROM_AI_LEADER_ENIGMA_ROSS_ANY" Language="zh_Hans_CN">
+			<Text>你的条件根本不公平。</Text>
+		</Row>
+		<!--DENOUNCE-->
+		<!--From Human-->
+		<Row Tag="LOC_DIPLO_DENOUNCE_FROM_HUMAN_LEADER_ENIGMA_ROSS_ANY" Language="zh_Hans_CN">
+			<Text>我知道你是一个怪物。野蛮的狼无法隐藏自己的本性。</Text>
+		</Row>
+		<!--From AI-->
+		<Row Tag="LOC_DIPLO_DENOUNCE_FROM_AI_LEADER_ENIGMA_ROSS_ANY" Language="zh_Hans_CN">
+			<Text>你的所作所为不可能不被注意到，议会同意现在是时候为你的罪行定罪了。</Text>
+		</Row>
+		<!--Rationale-->
+		<Row Tag="LOC_DIPLO_DENOUNCE_REASON_FROM_AI_LEADER_ANY_REASON_ENIGMA_CHEROKEE_MOSES_STRONG_MILITARY" Language="zh_Hans_CN">
+			<Text>（您向邻国宣战）</Text>
+		</Row>
+		<!--DECLARE WAR-->
+		<!--Human Declares War-->
+		<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_HUMAN_LEADER_ENIGMA_ROSS_ANY" Language="zh_Hans_CN">
+			<Text>红首领们一直等待这一刻的到来。</Text>
+		</Row>
+		<!--AI Declares War-->
+		<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_ENIGMA_ROSS_ANY" Language="zh_Hans_CN">
+			<Text>虽然我不喜欢这样的行为，但忽视你的所作所为是不明智的。我不允许你把我的人民踩在脚下。</Text>
+		</Row>
+		<!--MAKE PEACE-->
+		<!--AI accepts from human-->
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_AI_ACCEPT_DEAL_LEADER_ENIGMA_ROSS_ANY" Language="zh_Hans_CN">
+			<Text>这场战争终于可以结束了。</Text>
+		</Row>
+		<!--AI refuses human-->
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_AI_REFUSE_DEAL_LEADER_ENIGMA_ROSS_ANY" Language="zh_Hans_CN">
+			<Text>虽然它沉重地压在我的心头，但我们不能停止战斗。</Text>
+		</Row>
+		<!--AI requests from human-->
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_FROM_AI_LEADER_ENIGMA_ROSS_ANY" Language="zh_Hans_CN">
+			<Text>我们难以禁受，我们的心灵也厌恶了。是时候结束了。</Text>
+		</Row>
+		<!--DEFEAT-->
+		<!--AI is Defeated-->
+		<Row Tag="LOC_DIPLO_DEFEAT_FROM_AI_LEADER_ENIGMA_ROSS_ANY" Language="zh_Hans_CN">
+			<Text>你使我们失去了国家；我们被剥夺了公民权。我们被剥夺了人类大家庭的成员资格！我们没有土地，没有家，也没有可以称之为安息之所的地方。你说呢，暴君？</Text>
+		</Row>
+		<!--Human is Defeated (will see this in hotseat)-->
+		<Row Tag="LOC_DIPLO_DEFEAT_FROM_HUMAN_LEADER_ENIGMA_ROSS_ANY" Language="zh_Hans_CN">
+			<Text>在我的生涯中，我从来没有想过自己会以征服者的身份为人所知，但在这件事上，你让我别无选择。</Text>
+		</Row>
+		<!--COUNCIL REFORM-->
+		<Row Tag="LOC_RESOURCE_ENIGMA_ROSS_NAME" Language="zh_Hans_CN">
+			<Text>议会改革</Text>
+		</Row>
+		<Row Tag="LOC_PROJECT_ENIGMA_COUNCIL_REFORM_NAME" Language="zh_Hans_CN">
+			<Text>议会改革</Text>
+		</Row>
+		<Row Tag="LOC_PROJECT_ENIGMA_COUNCIL_REFORM_SHORT_NAME" Language="zh_Hans_CN">
+			<Text>议会改革</Text>
+		</Row>
+		<Row Tag="LOC_PROJECT_ENIGMA_COUNCIL_REFORM_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>约翰·罗斯作为领袖时的特色项目，由市政“启蒙运动”解锁，完成费用昂贵。项目进行时，每回合提供 [ICON_FOOD] 食物，如果文明处于 [ICON_GLORY_DARK_AGE] 黑暗时代似时完成该项目，则完成时还将获得 [ICON_SCIENCE] 科技值。文明每进入一个新时代，且 [ICON_Capital] 首都在当前时代第一次完成时，奖励一个外交政策槽位。</Text>
+		</Row>
+		<!--COUNCIL LODGE-->
+		<Row Tag="LOC_BUILDING_ENIGMA_COUNCIL_NAME" Language="zh_Hans_CN">
+			<Text>议会屋</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_ENIGMA_COUNCIL_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>切罗基的特色建筑，由市政“历史记录”解锁。训练商人和建造区域+20% [ICON_PRODUCTION] 生产力。拥有议会屋的城市在文明处于 [ICON_GLORY_DARK_AGE] 黑暗时代时不会受到忠诚度惩罚。</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_BUILDINGS_PAGE_BUILDING_ENIGMA_COUNCIL_CHAPTER_HISTORY_PARA_1" Language="zh_Hans_CN">
+			<Text>【译者注：正在翻译……】[NEWLINE][NEWLINE]The Council House was seven-sided and provided seven sections of seats within, giving each clan a section for its representatives within the governmental structure. The seven sections of seats surrounded the sacred fire, for ceremonies.  Each village of the Cherokees had two governmental units to meet in this house: a white and red government. During times of peace the white government had complete control of all affairs dealing with the village. This government consisted of older and wiser men and women who would not make foolish decisions. In times of war all duties fell on the red government which consisted of younger men who would do well in battle. There was also a Medicine Chief who would break the tie during voting when the Red Chief and White Chief could not agree on an issue.</Text>
+		</Row>
+		<!--ANIWINA-->
+		<Row Tag="LOC_UNIT_ENIGMA_ANIWINA_NAME" Language="zh_Hans_CN">
+			<Text>阿尼维纳</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_ENIGMA_ANIWINA_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>切罗基文艺复兴时期特色近战单位，取代火枪手。触发 [ICON_TECHBOOSTED] 尤里卡或消耗 [ICON_GREATSCIENTIST] 大科学家时可获得经验值。驻扎在友好领土上时+7 [ICON_Strength] 战斗力；文明处于 [ICON_GLORY_DARK_AGE] 黑暗时代时，阿尼维纳可通过在友好领土上的战斗产出 [ICON_GREATSCIENTIST] 大科学家点数。</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_ENIGMA_ANIWINA_CHAPTER_HISTORY_PARA_1" Language="zh_Hans_CN">
+			<Text>【译者注：正在翻译……】[NEWLINE][NEWLINE]Before the 18th century, Cherokee political leadership (much like that of the neighboring Muscogee and Natchez tribes) was dual or shared by two chiefs: "white" (peace) and "red" (war) leaders. During a conflict, the red chief would organize young men into war parties. He was assisted by a deputy chief, a speaker and messengers. Decisions were made by a war council composed of delegates from the seven Cherokee clans. War women, including the "beloved woman" (Ghigau), could participate in the council or accompany war parties. Scouts and medicine men would round out the war party.</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_ENIGMA_ANIWINA_NAME" Language="zh_Hans_CN">
+			<Text>血仇报复</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_ENIGMA_ANIWINA_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>[ICON_Movement] 移动时无视丘陵地形影响，且在丘陵上时获得额外 [ICON_Strength] 战斗力。可在攻击后移动，在首都所在大陆上时无视区域控制。</Text>
+		</Row>
+		<!--MOD SUPPORT-->
+		<!--JFD Rule with Faith-->
+		<Row Tag="LOC_POLITICIAN_ENIGMA_CHEROKEE_MALE_1" Language="zh_Hans_CN">
+			<Text>阿塔库拉库拉</Text>
+		</Row>
+		<Row Tag="LOC_POLITICIAN_ENIGMA_CHEROKEE_MALE_2" Language="zh_Hans_CN">
+			<Text>莫伊托</Text>
+		</Row>
+		<Row Tag="LOC_POLITICIAN_ENIGMA_CHEROKEE_MALE_3" Language="zh_Hans_CN">
+			<Text>朱纳卢斯卡</Text>
+		</Row>
+		<Row Tag="LOC_POLITICIAN_ENIGMA_CHEROKEE_MALE_4" Language="zh_Hans_CN">
+			<Text>因卡拉谭伽</Text>
+		</Row>
+		<Row Tag="LOC_POLITICIAN_ENIGMA_CHEROKEE_MALE_5" Language="zh_Hans_CN">
+			<Text>奧康斯托塔</Text>
+		</Row>
+		<Row Tag="LOC_POLITICIAN_ENIGMA_CHEROKEE_MALE_6" Language="zh_Hans_CN">
+			<Text>加农达利吉</Text>
+		</Row>
+		<Row Tag="LOC_POLITICIAN_ENIGMA_CHEROKEE_MALE_7" Language="zh_Hans_CN">
+			<Text>斯卡特列洛斯基</Text>
+		</Row>
+		<Row Tag="LOC_POLITICIAN_ENIGMA_CHEROKEE_MALE_8" Language="zh_Hans_CN">
+			<Text>奥斯特纳科</Text>
+		</Row>
+		<Row Tag="LOC_POLITICIAN_ENIGMA_CHEROKEE_MALE_9" Language="zh_Hans_CN">
+			<Text>沙拉迪</Text>
+		</Row>
+		<Row Tag="LOC_POLITICIAN_ENIGMA_CHEROKEE_MALE_10" Language="zh_Hans_CN">
+			<Text>塞阔雅</Text>
+		</Row>
+		<Row Tag="LOC_POLITICIAN_ENIGMA_CHEROKEE_MALE_11" Language="zh_Hans_CN">
+			<Text>加拉吉纳</Text>
+		</Row>
+		<Row Tag="LOC_POLITICIAN_ENIGMA_CHEROKEE_MALE_12" Language="zh_Hans_CN">
+			<Text>基斯夸塔罗尼</Text>
+		</Row>
+		<Row Tag="LOC_POLITICIAN_ENIGMA_CHEROKEE_MALE_13" Language="zh_Hans_CN">
+			<Text>康诺科托科</Text>
+		</Row>
+		<Row Tag="LOC_POLITICIAN_ENIGMA_CHEROKEE_FEMALE_1" Language="zh_Hans_CN">
+			<Text>奎提</Text>
+		</Row>
+		<Row Tag="LOC_POLITICIAN_ENIGMA_CHEROKEE_FEMALE_2" Language="zh_Hans_CN">
+			<Text>南耶希</Text>
+		</Row>
+	</LocalizedText>
+</GameData>

@@ -1,0 +1,229 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- SAILOR_Darius_TextCN -->
+<!-- Author: 春 -->
+<!-- DateCreated: 5/30/2020 0:10:06 AM -->
+<GameData>
+	<LocalizedText>
+		<Replace Language="zh_Hans_CN" Tag="LOC_LEADER_CVS_DARIUS_NAME">
+			<Text>大流士一世</Text>
+		</Replace>
+		<Replace Language="zh_Hans_CN" Tag="LOC_TRAIT_LEADER_CVS_DARIUS_UA_NAME">
+			<Text>皇家公路</Text>
+		</Replace>
+		<Replace Language="zh_Hans_CN" Tag="LOC_TRAIT_LEADER_CVS_DARIUS_UA_DESCRIPTION">
+			<Text>改良过的单元格会自动在周围单元格生成道路。[ICON_Governor] 总督就职的城市，每个总督头衔提供+5% [ICON_Gold] 金币、+1 [ICON_Amenities] 宜居度，激活 [ICON_GreatMerchant] 大商人可奖励1个 [ICON_Governor] 总督头衔。</Text>
+		</Replace>
+
+		<!--DOM-->
+		<Row Tag="LOC_LOADING_INFO_LEADER_CVS_DARIUS" Language="zh_Hans_CN">
+			<Text>大流士一世，你的子民期待你再一次为波斯带来力量并将它带回那些荣耀的日子里！祖先建立的帝国必将再次崛起，战胜敌人，给世界带来和平与秩序！万王之王！你会垂听这些恳求吗？你能建立起一个经得住时间考验的文明吗？</Text>
+		</Row>
+
+		<!--Civilopedia-->
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_CVS_DARIUS_TITLE" Language="zh_Hans_CN">
+			<Text>大流士一世</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_CVS_DARIUS_SUBTITLE" Language="zh_Hans_CN">
+			<Text>大流士大帝</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_CVS_DARIUS_QUOTE" Language="zh_Hans_CN">
+			<Text>赖阿胡拉马兹达之恩宠，寡人为王；阿胡拉马兹达授王国予寡人。</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_CVS_DARIUS_CHAPTER_HISTORY_PARA_1" Language="zh_Hans_CN">
+			<Text></Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_CVS_DARIUS_CHAPTER_HISTORY_PARA_2" Language="zh_Hans_CN">
+			<Text></Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_CVS_DARIUS_CHAPTER_HISTORY_PARA_3" Language="zh_Hans_CN">
+			<Text></Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_CVS_DARIUS_CHAPTER_HISTORY_PARA_4" Language="zh_Hans_CN">
+			<Text></Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_CVS_DARIUS_CHAPTER_HISTORY_PARA_5" Language="zh_Hans_CN">
+			<Text></Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_CVS_DARIUS_CHAPTER_HISTORY_PARA_6" Language="zh_Hans_CN">
+			<Text></Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_CVS_DARIUS_CHAPTER_HISTORY_PARA_7" Language="zh_Hans_CN">
+			<Text></Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_CVS_DARIUS_CHAPTER_HISTORY_PARA_8" Language="zh_Hans_CN">
+			<Text></Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_CVS_DARIUS_CHAPTER_HISTORY_PARA_9" Language="zh_Hans_CN">
+			<Text></Text>
+		</Row>
+
+		<!--Diplomacy-->
+		<!--FIRST MEET-->
+		<!--First AI line-->
+		<Row Tag="LOC_DIPLO_FIRST_MEET_LEADER_CVS_DARIUS_ANY" Language="zh_Hans_CN">
+			<Text>祝你平安！我是大流士，众多国王中最伟大和杰出的人，当然，你肯定早有耳闻……</Text>
+		</Row>
+		<!--AI invitation to visit nearby City-->
+		<Row Tag="LOC_DIPLO_FIRST_MEET_VISIT_RECIPIENT_LEADER_CVS_DARIUS_ANY" Language="zh_Hans_CN">
+			<Text>来吧，并为波斯城市的宏伟而惊叹！我保证你从未见过这样的城市。</Text>
+		</Row>
+		<!--AI accepts Human invitation-->
+		<Row Tag="LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_POSITIVE_LEADER_CVS_DARIUS_ANY" Language="zh_Hans_CN">
+			<Text>好吧。</Text>
+		</Row>
+		<!--AI invitation to exchange Capital Information-->
+		<Row Tag="LOC_DIPLO_FIRST_MEET_NO_MANS_INFO_EXCHANGE_LEADER_CVS_DARIUS_ANY" Language="zh_Hans_CN">
+			<Text>波斯在历史上有过许多首都，所以让我来确保你的地图是最新的，而我也该搞清楚你是从哪来的……</Text>
+		</Row>
+
+		<!--GREETINGS-->
+		<Row Tag="LOC_DIPLO_GREETING_LEADER_CVS_DARIUS_ANY" Language="zh_Hans_CN">
+			<Text>祝好。</Text>
+		</Row>
+
+		<!--DELEGATION-->
+		<!--AI Accepts-->
+		<Row Tag="LOC_DIPLO_ACCEPT_DELEGATION_FROM_HUMAN_LEADER_CVS_DARIUS_ANY" Language="zh_Hans_CN">
+			<Text>我收下你的使者带来的礼物。</Text>
+		</Row>
+		<!--AI Rejects-->
+		<Row Tag="LOC_DIPLO_REJECT_DELEGATION_FROM_HUMAN_LEADER_CVS_DARIUS_ANY" Language="zh_Hans_CN">
+			<Text>你的东西只会玷污神圣殿堂！我拒绝。</Text>
+		</Row>
+		<!--AI Requests -->
+		<Row Tag="LOC_DIPLO_DELEGATION_FROM_AI_LEADER_CVS_DARIUS_ANY" Language="zh_Hans_CN">
+			<Text>我的外交官给你带去了波斯精美的纺织品和地毯样品，和一些我们新铸的硬币，它叫做达利克，猜猜看是以谁的名字命名的？</Text>
+		</Row>
+
+		<!--OPEN BORDERS-->
+		<!--AI accepts from human-->
+		<Row Tag="LOC_DIPLO_ACCEPT_OPEN_BORDERS_FROM_HUMAN_LEADER_CVS_DARIUS_ANY" Language="zh_Hans_CN">
+			<Text>我容许你的百姓踏入七境之地，然而他们会受到密切注意。</Text>
+		</Row>
+		<!--AI rejects from human-->
+		<Row Tag="LOC_DIPLO_REJECT_OPEN_BORDERS_FROM_HUMAN_LEADER_CVS_DARIUS_ANY" Language="zh_Hans_CN">
+			<Text>你们不配让波斯开放领土。</Text>
+		</Row>
+		<!--AI requests from human-->
+		<Row Tag="LOC_DIPLO_OPEN_BORDERS_FROM_AI_LEADER_CVS_DARIUS_ANY" Language="zh_Hans_CN">
+			<Text>波斯伟大之至，允许你们的百姓过来，并且这些伟大可能会影响你们。</Text>
+		</Row>
+
+		<!--DECLARE FRIENDSHIP-->
+		<!--AI accepts from human-->
+		<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_HUMAN_LEADER_CVS_DARIUS_ANY" Language="zh_Hans_CN">
+			<Text>我，万王之王大流士，接受你的友谊提议。</Text>
+		</Row>
+		<!--AI Rejects from human -->
+		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_HUMAN_LEADER_CVS_DARIUS_ANY" Language="zh_Hans_CN">
+			<Text>告诉我，你能想象狮子和老鼠做朋友吗？哈！</Text>
+		</Row>
+		<!--AI Requests friendship from human-->
+		<Row Tag="LOC_DIPLO_DECLARE_FRIEND_FROM_AI_LEADER_CVS_DARIUS_ANY" Language="zh_Hans_CN">
+			<Text>我，万王之王大流士向你伸出友谊之手。接受吧，你将会被称为万友之友。</Text>
+		</Row>
+		<!--Human accepts AI requests, AI responds-->
+		<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_CVS_DARIUS_ANY" Language="zh_Hans_CN">
+			<Text>你不会后悔这个决定的。</Text>
+		</Row>
+		<!--Human rejects AI requests, AI responds-->
+		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_CVS_DARIUS_ANY" Language="zh_Hans_CN">
+			<Text>你会为背叛大流士而后悔的！</Text>
+		</Row>
+
+		<!--ALLIANCE-->
+		<!--AI Requests an alliance from human-->
+		<Row Tag="LOC_DIPLO_MAKE_ALLIANCE_FROM_AI_LEADER_CVS_DARIUS_ANY" Language="zh_Hans_CN">
+			<Text>我宣布，你很适合站在我们这边。你认为呢，我们能成为盟友吗？</Text>
+		</Row>
+		<!--AI warns player for border troops-->
+		<Row Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_LEADER_CVS_DARIUS_ANY" Language="zh_Hans_CN">
+			<Text>我听说有一群跳骚集中在波斯边境？噢，原来是你的军队，马上撤军，否则我会亲自动手。</Text>
+		</Row>
+
+		<!--TRADE-->
+		<!--AI Accepts Deal-->
+		<Row Tag="LOC_DIPLO_ACCEPT_MAKE_DEAL_FROM_AI_LEADER_CVS_DARIUS_ANY" Language="zh_Hans_CN">
+			<Text>同意。</Text>
+		</Row>
+		<!--AI Rejects Deal-->
+		<Row Tag="LOC_DIPLO_REJECT_MAKE_DEAL_FROM_AI_LEADER_CVS_DARIUS_ANY" Language="zh_Hans_CN">
+			<Text>我的回答是……不！</Text>
+		</Row>
+
+		<!--DENOUNCE-->
+		<!--From Human-->
+		<Row Tag="LOC_DIPLO_DENOUNCE_FROM_HUMAN_LEADER_CVS_DARIUS_ANY" Language="zh_Hans_CN">
+			<Text>噢，抱歉，你说什么？我往往不会理会哭哭啼啼的懦夫的哀鸣……</Text>
+		</Row>
+		<!--From AI-->
+		<Row Tag="LOC_DIPLO_DENOUNCE_FROM_AI_LEADER_CVS_DARIUS_ANY" Language="zh_Hans_CN">
+			<Text>你的无能玷污了世界！如果你的文明像雪花一样消失在沙漠的热浪中，世界会欢欣鼓舞！[NEWLINE]（谴责你）</Text>
+		</Row>
+
+		<!--DECLARE WAR-->
+		<!--Human Declares War-->
+		<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_HUMAN_LEADER_CVS_DARIUS_ANY" Language="zh_Hans_CN">
+			<Text>你比我低贱，就跟驴崽子一样卑贱！我要把你碾碎！</Text>
+		</Row>
+		<!--AI Declares War-->
+		<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_CVS_DARIUS_ANY" Language="zh_Hans_CN">
+			<Text>你的贪婪和无能令我别我选择：开战吧！</Text>
+		</Row>
+
+		<!--MAKE PEACE-->
+		<!--AI accepts from human-->
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_AI_ACCEPT_DEAL_LEADER_CVS_DARIUS_ANY" Language="zh_Hans_CN">
+			<Text>我们将这称为之平手，是吗？ </Text>
+		</Row>
+		<!--AI refuses human-->
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_AI_REFUSE_DEAL_LEADER_CVS_DARIUS_ANY" Language="zh_Hans_CN">
+			<Text>怯懦只会更加激励我！不久后你的文明就只剩下灰烬！</Text>
+		</Row>
+		<!--AI requests from human-->
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_FROM_AI_LEADER_CVS_DARIUS_ANY" Language="zh_Hans_CN">
+			<Text>我觉得我们的小争执已经达到目的了，你不觉得吗？也许在我们重蹈覆辙之前应该短暂喘息一下。</Text>
+		</Row>
+
+		<!--DEFEAT-->
+		<!--AI is Defeated-->
+		<Row Tag="LOC_DIPLO_DEFEAT_FROM_AI_LEADER_CVS_DARIUS_ANY" Language="zh_Hans_CN">
+			<Text>我诅咒你！历史上最伟大的君主的鲜血溅到了你的手上！</Text>
+		</Row>
+		<!--Human is Defeated (will see this in hotseat)-->
+		<Row Tag="LOC_DIPLO_DEFEAT_FROM_HUMAN_LEADER_CVS_DARIUS_ANY" Language="zh_Hans_CN">
+			<Text>我诅咒你！历史上最伟大的君主的鲜血溅到了你的手上！</Text>
+		</Row>
+
+		<!--LEADER AGENDA-->
+		<Row Tag="LOC_AGENDA_CVS_DARIUS_NAME" Language="zh_Hans_CN">
+			<Text>万王之王</Text>
+		</Row>
+		<Row Tag="LOC_AGENDA_CVS_DARIUS_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>尊敬处于黄金时代的文明，鄙视处于黑暗时代的文明。</Text>
+		</Row>
+
+		<Row Tag="LOC_DIPLO_KUDO_LEADER_CVS_DARIUS_REASON_GOLDEN_SHOWERS" Language="zh_Hans_CN">
+			<Text>（您处于黑暗时代）</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MODIFIER_CVS_DARIUS_GOLDEN_SHOWERS" Language="zh_Hans_CN">
+			<Text>你的文明处于黑暗时代，大流士感到厌恶。</Text>
+		</Row>
+
+		<Row Tag="LOC_DIPLO_KUDO_LEADER_CVS_DARIUS_REASON_GOLDEN_AGE" Language="zh_Hans_CN">
+			<Text>（你处于黄金时代）</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MODIFIER_CVS_DARIUS_GOLDEN_AGE" Language="zh_Hans_CN">
+			<Text>你的文明处于黄金时代，大流士感到印象深刻。</Text>
+		</Row>
+
+		<!--AI Kudos-->
+		<Row Tag="LOC_DIPLO_KUDO_EXIT_LEADER_CVS_DARIUS_ANY" Language="zh_Hans_CN">
+			<Text>你的文明令人震撼！你的统治为人民带来繁荣昌盛。</Text>
+		</Row>
+		<!--AI Warnings-->
+		<Row Tag="LOC_DIPLO_WARNING_EXIT_LEADER_CVS_DARIUS_ANY" Language="zh_Hans_CN">
+			<Text>看看你的人民是如何在你的无能污秽中沉沦的！你的文明处于你失败的阴影中！</Text>
+		</Row>
+	</LocalizedText>
+</GameData>

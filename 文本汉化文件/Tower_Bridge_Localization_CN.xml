@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!-- Tower_Bridge_Localization_CN -->
+<!-- Author: 春 -->
+<!-- DateCreated: 4/30/2020 12:07:21 AM -->
+<GameData>
+	<LocalizedText>
+		<Row Tag="LOC_BUILDING_TOWER_BRIDGE_NAME" Language="zh_Hans_CN">
+			<Text>伦敦塔桥</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_TOWER_BRIDGE_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>位于首都所在大陆的城市+8% [ICON_Production] 生产力，不位于首都大陆的城市+8% [ICON_Gold] 金币。每回合奖励3点 [ICON_RESOURCE_COAL] 煤。[NEWLINE]陆地单位无需上船即可从此处通过。可被视为现代道路，并且桥两端的陆地单元格将自动创建道路（如果道路未存在的话）。[NEWLINE]必须修建在海岸上。必须修建在相隔1格且关于伦敦塔桥对称的两个陆地单元格之间。伦敦塔桥左右两侧必须各有至少1个水域单元格。不能建造在湖泊上。</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_TOWER_BRIDGE_QUOTE" Language="zh_Hans_CN">
+			<Text>建设国家的政治家和功成名就的战士，他们只受权力本能的影响，受爱国之心的激励。这就是组成帝国的感情与方法。——本杰明·迪斯雷利</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_WONDERS_PAGE_BUILDING_TOWER_BRIDGE_CHAPTER_HISTORY_PARA_1" Language="zh_Hans_CN">
+			<Text>塔桥是1886年至1894年间于伦敦建造的一座由桥拱和吊桥组成的桥。这座桥横跨泰晤士河，毗邻伦敦塔，已成为伦敦的标志性象征。因此，塔桥有时会与伦敦桥混淆，后者位于上游约0.5英里（0.80公里）处。伦敦塔桥是由桥屋持有和维护的五座伦敦桥之一，桥屋是由伦敦金融城公司监管的一个慈善信托机构。这是该信托机构中唯一一座不直接连接伦敦金融城与南华克河岸的桥梁，它的北部连接陶尔哈姆莱茨。</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_WONDERS_PAGE_BUILDING_TOWER_BRIDGE_CHAPTER_HISTORY_PARA_2" Language="zh_Hans_CN">
+			<Text>这座桥包括两个桥塔，桥塔的上部由两条水平人行道连接在一起，它们设计用来承受桥上悬空部分对桥塔朝向陆地一侧施加的水平拉力。悬空部分的力的垂直分量和两个人行道的垂直反作用力由两座坚固的塔承担。每座塔的基座上都安装有基轴和操作机械。在21世纪初头十年的修复工作之前，这座桥的色彩设计可以追溯到1977年，当时它被漆成了红色、白色和蓝色，以纪念英国女王伊丽莎白二世的银禧庆典。它的颜色后来恢复到蓝色和白色。</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_WONDERS_PAGE_BUILDING_TOWER_BRIDGE_CHAPTER_HISTORY_PARA_3" Language="zh_Hans_CN">
+			<Text></Text>
+		</Row>
+	</LocalizedText>
+</GameData>

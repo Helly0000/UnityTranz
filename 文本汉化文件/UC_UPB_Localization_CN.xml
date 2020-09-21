@@ -1,0 +1,85 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!-- UC_UPB_Localization_CN -->
+<!-- Author: Clear8Sky -->
+<!-- DateCreated: 3/26/2020 10:51:25 PM -->
+<GameData>
+	<LocalizedText>
+		<!-- 综述文本 -->
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGEGROUP_JNR_URBANCOMPLEXITY_NAME" Language="zh_Hans_CN">
+			<Text>城市复杂性</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_JNR_UC_INTRODUCTION_CHAPTER_CONTENT_TITLE" Language="zh_Hans_CN">
+			<Text>介绍</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_JNR_UC_INTRODUCTION_CHAPTER_CONTENT_PARA_1" Language="zh_Hans_CN">
+			<Text>“城市复杂性”是一个模组系列，旨在更深入地建设与发展您的城市，同时在真实性与游戏性之间取得平衡。在启用这一系列模组后，选择要建造的区域和建筑不再是一件简单的小事，不再像从既定的建造顺序中依次打勾那样容易。相反，适当考虑当地环境及其他部分因素，如周围邻接的加成、可利用的地形、城市中其他已有的区域，等等，这会为您带来很大的回报。</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_JNR_UC_INTRODUCTION_CHAPTER_CONTENT_PARA_2" Language="zh_Hans_CN">
+			<Text>亲爱的玩家，</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_JNR_UC_INTRODUCTION_CHAPTER_CONTENT_PARA_3" Language="zh_Hans_CN">
+			<Text>文明百科中的以下页面将作为引导，带您了解“城市复杂性”系列模组的大致内容。请认真阅读这些文字，并留意哪些特性是可利用的以及如何利用的。</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_JNR_UC_INTRODUCTION_CHAPTER_CONTENT_PARA_4" Language="zh_Hans_CN">
+			<Text>随时欢迎反馈。请不要犹豫来和我交流您的思考、想法与建议。[NEWLINE]我希望我的模组能为您游玩文明VI平添几分乐趣，并能让您用新的方式去建设您的帝国。祝您玩得开心，也愿您能经受住时间的考验，最终获得胜利！</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_JNR_UC_INTRODUCTION_CHAPTER_CONTENT_PARA_5" Language="zh_Hans_CN">
+			<Text>模组作者：JNR，[NEWLINE]文本翻译：Clear8Sky。</Text>
+		</Row>
+		<!-- UPB 文本 -->
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_JNR_UC_DISTRICT_UNIT_PRODUCTION_CHAPTER_JNRUPBBASE_TITLE" Language="zh_Hans_CN">
+			<Text>主题化区域的单位训练加成</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_JNR_UC_DISTRICT_UNIT_PRODUCTION_CHAPTER_JNRUPBBASE_PARA_1" Language="zh_Hans_CN">
+			<Text>城市里每种 [ICON_District] 区域可为某种类型 [ICON_Unit] 单位的训练提供+20% [ICON_Production] 生产力。每种区域可加快一或两种类型单位的训练速度。这会给您城市内的区域提供更多加成，激励您以更新颖的思路去特化您的城市，抛弃以往标准化的建造顺序。</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_JNR_UC_DISTRICT_UNIT_PRODUCTION_CHAPTER_JNRUPBBASE_PARA_2" Language="zh_Hans_CN">
+			<Text>[ICON_DISTRICT_CITY_CENTER] 市中心可加快 [ICON_Citizen] 开拓者的训练速度（仅限于沿海城市的市中心！）。</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_JNR_UC_DISTRICT_UNIT_PRODUCTION_CHAPTER_JNRUPBBASE_PARA_3" Language="zh_Hans_CN">
+			<Text>[ICON_DISTRICT_ENCAMPMENT] 军营可加快 [ICON_Ranged] 远程单位和 [ICON_Fortified] 抗骑兵单位的训练速度。</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_JNR_UC_DISTRICT_UNIT_PRODUCTION_CHAPTER_JNRUPBBASE_PARA_4" Language="zh_Hans_CN">
+			<Text>[ICON_DISTRICT_INDUSTRIAL_ZONE] 工业区可加快 [ICON_Bombard] 攻城单位的训练速度。</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_JNR_UC_DISTRICT_UNIT_PRODUCTION_CHAPTER_JNRUPBBASE_PARA_5" Language="zh_Hans_CN">
+			<Text>[ICON_DISTRICT_ENTERTAINMENT] 娱乐中心可加快 [ICON_Ability] 重骑兵单位的训练速度。</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_JNR_UC_DISTRICT_UNIT_PRODUCTION_CHAPTER_JNRUPBBASE_PARA_6" Language="zh_Hans_CN">
+			<Text>[ICON_DISTRICT_COMMERCIAL_HUB] 商业中心可加快 [ICON_Movement] 轻骑兵单位的训练速度。</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_JNR_UC_DISTRICT_UNIT_PRODUCTION_CHAPTER_JNRUPBBASE_PARA_7" Language="zh_Hans_CN">
+			<Text>[ICON_DISTRICT_AQUEDUCT] 水渠可加快 [ICON_Charges] 建造者的训练速度。</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_JNR_UC_DISTRICT_UNIT_PRODUCTION_CHAPTER_JNRUPBBASE_PARA_8" Language="zh_Hans_CN">
+			<Text>[ICON_DISTRICT_HARBOR] 港口可加快 [ICON_TradeRoute] 商人的训练速度。</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_JNR_UC_DISTRICT_UNIT_PRODUCTION_CHAPTER_JNRUPBBASE_PARA_9" Language="zh_Hans_CN">
+			<Text>[ICON_DISTRICT_CAMPUS] 学院可加快 [ICON_Formation] 支援单位的训练速度。</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_JNR_UC_DISTRICT_UNIT_PRODUCTION_CHAPTER_JNRUPBBASE_PARA_10" Language="zh_Hans_CN">
+			<Text>[ICON_DISTRICT_THEATER] 剧院广场可加快 [ICON_Strength] 近战单位的训练速度。</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_JNR_UC_DISTRICT_UNIT_PRODUCTION_CHAPTER_JNRUPBBASE_PARA_11" Language="zh_Hans_CN">
+			<Text>[ICON_DISTRICT_HOLYSITE] 圣地可加快 [ICON_Terrain] 侦查单位的训练速度。</Text>
+		</Row>
+		<!--<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_JNR_UC_DISTRICT_UNIT_PRODUCTION_CHAPTER_JNRUPBXP1_TITLE" Language="zh_Hans_CN">
+			<Text>迭起兴衰</Text>
+		</Row>-->
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_JNR_UC_DISTRICT_UNIT_PRODUCTION_CHAPTER_JNRUPBXP1_PARA_1" Language="zh_Hans_CN">
+			<Text>[ICON_DISTRICT_WONDER] 市政广场可加快 [ICON_VisSecret] 间谍的训练速度。</Text>
+		</Row>
+		<!--<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_JNR_UC_DISTRICT_UNIT_PRODUCTION_CHAPTER_JNRUPBXP2_TITLE" Language="zh_Hans_CN">
+			<Text>风起云涌</Text>
+		</Row>-->
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_JNR_UC_DISTRICT_UNIT_PRODUCTION_CHAPTER_JNRUPBXP2_PARA_1" Language="zh_Hans_CN">
+			<Text>[ICON_DISTRICT_SPACEPORT] 宇航中心可加快 [ICON_AntiAir_Large] 末日机甲的训练速度。</Text>
+		</Row>
+		<!--<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_JNR_UC_DISTRICT_UNIT_PRODUCTION_CHAPTER_JNRUPBP0KSC_TITLE" Language="zh_Hans_CN">
+			<Text>模组 - Satrap''s Court - 作者：P0kiehl</Text>
+		</Row>-->
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_JNR_UC_DISTRICT_UNIT_PRODUCTION_CHAPTER_JNRUPBP0KSC_PARA_1" Language="zh_Hans_CN">
+			<Text>[ICON_DISTRICT_WONDER] 总督府（Satrap's Court）可加快 [ICON_VisSecret] 间谍的训练速度。</Text>
+		</Row>
+	</LocalizedText>
+</GameData>

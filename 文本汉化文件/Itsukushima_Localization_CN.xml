@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!-- Itsukushima_Localization_CN -->
+<!-- Author: Clear8Sky -->
+<!-- DateCreated: 4/1/2020 4:08:25 PM -->
+<GameData>
+	<LocalizedText>
+		<Row Tag="LOC_BUILDING_ITSUKUSHIMA_NAME" Language="zh_Hans_CN">
+			<Text>严岛神社</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_ITSUKUSHIMA_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>可为圣地提供来自海岸的大量邻接加成（+2 [ICON_Faith] 信仰值）；可为剧院广场提供来自海岸的标准邻接加成（+1 [ICON_Culture] 文化值）。该城市的市中心免费获得纪念碑，且城市内所有单元格+1魅力。必须建造在相邻圣地的海岸上。</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_ITSUKUSHIMA_QUOTE" Language="zh_Hans_CN">
+			<Text>除己之外，再无其他，能助你强大，使你聪敏，予你万贯。万事万物皆存于内己，勿从外界找寻力量。[NEWLINE]——宫本武藏</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_WONDERS_PAGE_BUILDING_ITSUKUSHIMA_CHAPTER_HISTORY_PARA_1" Language="zh_Hans_CN">
+			<Text>【译者注：正在翻译……】[NEWLINE][NEWLINE]Itsukushima Shrine is a Shinto shrine on the island of Itsukushima (popularly known as Miyajima), best known for its "floating" torii gate. It is in the city of Hatsukaichi in Hiroshima Prefecture in Japan. The shrine complex is listed as a UNESCO World Heritage Site, and the Japanese government has designated several buildings and possessions as National Treasures. The Itsukushima shrine is one of Japan's most popular tourist attractions. It is most famous for its dramatic gate, or torii on the outskirts of the shrine , the sacred peaks of Mount Misen, extensive forests, and its aesthetic ocean view.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_WONDERS_PAGE_BUILDING_ITSUKUSHIMA_CHAPTER_HISTORY_PARA_2" Language="zh_Hans_CN">
+			<Text>Itsukushima jinja was the chief Shinto shrine (ichinomiya) of Aki Province. It is said to have been erected in 593 supposedly by Saeki Kuramoto during the Suiko period. However, the present shrine has been popularly attributed to Taira no Kiyomori, a prominent warlord (daimyo) who contributed heavily to the building of the shrine during his time as governor of Aki Province in 1168. Another renowned patron of the shrine was the warlord Mori Motonari, lord of Choshu, who was responsible for rebuilding the honden in 1571. It is important to note, however, that as a result of waging war against Sue Takafusa there in 1555, Motonari is said to have tainted the island's grounds by battling on the island. This relates to the strict notions of sacred purity that Shinto shrines stand for.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_WONDERS_PAGE_BUILDING_ITSUKUSHIMA_CHAPTER_HISTORY_PARA_3" Language="zh_Hans_CN">
+			<Text>The Itsukushima shrine is dedicated to the three daughters of Susano-o no Mikoto: Ichikishimahime no mikoto, Tagorihime no mikoto, and Tagitsuhime no mikoto. Otherwise known as the sanjoshin or "three female deities", these Shinto deities are the goddesses of seas and storms. Kiyomori believed the goddesses to be "manifestations of Kannon," therefore the island was understood as the home of the bodhisattva. In Japanese, Itsukushima translates to mean "island dedicated to the gods" In fact, the island itself is also considered to be a god, which is why the shrine was built on the outskirts of the island.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_WONDERS_PAGE_BUILDING_ITSUKUSHIMA_CHAPTER_HISTORY_PARA_4" Language="zh_Hans_CN">
+			<Text>The most recognizable and celebrated feature of the Itsukushima shrine, is its fifty-foot tall vermilion otorii gate ("great gate"), built of decay-resistant camphor wood. The placement of an additional leg in front of and behind each main pillar identifies the torii as reflecting the style of Ryōbu Shintō (dual Shinto), a medieval school of esoteric Japanese Buddhism associated with the Shingon Sect. The torii appears to be floating only at high tide. When the tide is low, it is only approachable by foot from the island. Gathering shellfish near the gate is also popular at low tide. At night, powerful lights on the shore illuminate the torii.</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_ITSUKUSHIMA_THEATER_COAST_CULTURE" Language="zh_Hans_CN">
+			<Text>+{1_num} [ICON_Culture] 文化值 来自邻接海岸（严岛神社）</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_ITSUKUSHIMA_HOLY_SITE_COAST_FAITH" Language="zh_Hans_CN">
+			<Text>+{1_num} [ICON_Faith] 信仰值 来自邻接海岸（严岛神社）</Text>
+		</Row>
+	</LocalizedText>
+</GameData>

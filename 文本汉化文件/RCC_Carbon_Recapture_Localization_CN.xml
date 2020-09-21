@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!-- RCC_Carbon_Recapture_Localization_CN -->
+<!-- Author: Clear8Sky -->
+<!-- DateCreated: 3/27/2020 4:35:48 PM -->
+<GameData>
+	<LocalizedText>
+		<Row Tag="LOC_CIVIC_GLOBAL_WARMING_MITIGATION_DESCRIPTION_JNR_RCC" Language="zh_Hans_CN">
+			<Text>碳捕集项目将更加有效（减少50点而非30点），并在每次完成时获得15点 [ICON_Favor] 外交支持。[NEWLINE]{LOC_CIVIC_GLOBAL_WARMING_MITIGATION_DESCRIPTION}</Text>
+		</Row>
+		<Row Tag="LOC_PROJECT_CARBON_RECAPTURE_DESCRIPTION_JNR_RCC" Language="zh_Hans_CN">
+			<Text>可在有工业区的城市完成此项目。项目完成时，该文明的终身碳排放量减少30点；解锁“全球变暖减缓学”市政后，则改为减少50点，并获得15点 [ICON_FAVOR] 外交支持。此项目可将碳债务清空，并降低累积的全球二氧化碳排放量。</Text>
+		</Row>
+	</LocalizedText>
+</GameData>

@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!-- Bamyan_Localization_CN -->
+<!-- Author: 春 -->
+<!-- DateCreated: 4/1/2020 12:40:34 PM -->
+<GameData>
+	<LocalizedText>
+		<Row Tag="LOC_BUILDING_BAMYAN_NAME" Language="zh_Hans_CN">
+			<Text>巴米扬大佛</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_BAMYAN_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>每条国际贸易路线产出+1 [ICON_Faith] 信仰值。其他文明通往所在文明的贸易路线可为双方提供+1 [ICON_Faith] 信仰值。6单元格内的农场和牧场产出+1 [ICON_Faith] 信仰值。提供2个 [ICON_GreatWork_Relic] 遗物巨作槽位，并获得1个 [ICON_GreatWork_Relic] 遗物。必须建在靠近山脉的平原、草原或沙漠上。</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_BAMYAN_QUOTE" Language="zh_Hans_CN">
+			<Text>王城东北山阿有石佛立像，高百四五十尺，金色晃曜，宝饰焕烂。[NEWLINE]——玄奘《大唐西域记》</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_WONDERS_PAGE_BUILDING_BAMYAN_CHAPTER_HISTORY_PARA_1" Language="zh_Hans_CN">
+			<Text>巴米扬大佛是雕刻在阿富汗中部哈扎拉贾特地区巴米扬山谷悬崖边上的两尊6世纪释迦牟尼佛像，位于喀布尔西北230公里（140英里）处，海拔2500米（8200英尺）。这两尊雕像建于公元507年（较小的一尊）和554年（较大的一尊），代表了犍陀罗艺术的经典混合风格。他们分别有35米和53米（115和174英尺）高。</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_WONDERS_PAGE_BUILDING_BAMYAN_CHAPTER_HISTORY_PARA_2" Language="zh_Hans_CN">
+			<Text>佛像的主体部分直接在砂岩峭崖上开凿而成，但枝节部分是用禾杆混合泥浆塑成模型并涂上灰泥。为了突出佛像的脸部表情、手部细节和长袍褶皱而涂上的漆（较大的一尊涂成胭脂红，较小的一尊涂上多种颜色）在很久以前就已经完全磨损殆尽了。雕像手臂的下半截同样用禾杆混合泥浆而成，由木制骨架支撑。据说雕像脸部上半部使用巨大的木制面具或铸件制成。从照片可以看到，一排排的孔洞里树有木桩来固定外部的灰泥。</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_WONDERS_PAGE_BUILDING_BAMYAN_CHAPTER_HISTORY_PARA_3" Language="zh_Hans_CN">
+			<Text>2001年3月，在塔利班宣布了它们是偶像后，塔利班领导人毛拉·穆罕默德·奥马尔下令炸毁了这些雕像。在接下来的几周，一名访问美国的特使称毁灭这些雕像是为了抗议国际世界的援助，而这些援助在阿富汗正值饥荒之际被专门用于维护佛像。而阿富汗外长则称毁坏这些雕像只是为了毁灭圣像。</Text>
+		</Row>
+	</LocalizedText>
+</GameData>

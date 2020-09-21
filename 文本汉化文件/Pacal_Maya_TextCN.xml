@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Pacal_Maya_TextCN -->
+<!-- Author: 春 -->
+<!-- DateCreated: 5/29/2020 11:33:06 PM -->
+<GameData>
+	<LocalizedText>
+		<!--LEADER-->
+		<Row Tag="LOC_LEADER_LEU_PACAL_NAME" Language="zh_Hans_CN">
+			<Text>巴加尔</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_LEU_PACAL_TITLE" Language="zh_Hans_CN">
+			<Text>巴加尔大帝</Text>
+		</Row>
+		
+		<Row Tag="PEDIA_LEADERS_PAGE_LEADER_LEU_PACAL_SUBTITLE" Language="zh_Hans_CN">
+			<Text>帕伦克的统治者</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_LEU_PACAL_01" Language="zh_Hans_CN">
+			<Text>帕伦克</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_LEU_PACAL_QUOTE" Language="zh_Hans_CN">
+			<Text>我若将你毁灭，亦会反噬我身。[NEWLINE]我若予你尊敬，亦使自己得荣。</Text>
+		</Row>
+		<Row Tag="LOC_LOADING_INFO_LEADER_LEU_PACAL" Language="zh_Hans_CN">
+			<Text>巴加尔大帝，你随着预言而到来。你是伊察纳姆的右手，是太阳之盾！你的天文学家们探究星空，观测金星划过的轨迹，它预兆着建造宫殿的良辰吉日，让帕伦克被全世界所仰慕！做好准备吧，巴加尔大帝，现在是你实现星辰的预言的时候了。</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_LEADER_LEU_PACAL_NAME" Language="zh_Hans_CN">
+			<Text>卡盾之盛</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_LEADER_LEU_PACAL_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>正在建造奇观的城市，农场提供+1 [ICON_PRODUCTION] 生产力。奇观建造完成时可从相邻每个农场和天文台获得 [ICON_SCIENCE] 科技值和 [ICON_FAITH] 信仰值奖励；文明处于 [ICON_GLORY_GOLDEN_AGE] 黄金时代时奖励更多；每次进入新时代时，再次触发该奖励。</Text>
+		</Row>
+		<Row Tag="LOC_STATUS_MESSAGE_PACAL_SCIENCE_AND_FAITH" Language="zh_Hans_CN">
+			<Text>新的一次卡盾周期在您的庙宇中到来，为您提供{1_Science} [ICON_SCIENCE] 科技值和{2_Faith} [ICON_FAITH] 信仰值！</Text>
+		</Row>
+		<Row Tag="LOC_STATUS_MESSAGE_PACAL_SCIENCE" Language="zh_Hans_CN">
+			<Text>新的一次卡盾周期在您的庙宇中到来，为您提供 {1_Science} [ICON_SCIENCE] 科技值！</Text>
+		</Row>
+		<Row Tag="LOC_STATUS_MESSAGE_PACAL_FAITH" Language="zh_Hans_CN">
+			<Text>新的一次卡盾周期在您的庙宇中到来，为您提供 {1_Faith} [ICON_FAITH]信仰值！</Text>
+		</Row>
+		<Row Tag="LOC_STATUS_MESSAGE_PACAL_WONDER_BUILT_SCIENCE_AND_FAITH" Language="zh_Hans_CN">
+			<Text>{1_Wonder}奇观的天文观测为您提供{2_Science} [ICON_SCIENCE] 科技值和{3_Faith} [ICON_FAITH] 信仰值！</Text>
+		</Row>
+		<Row Tag="LOC_STATUS_MESSAGE_GOLDEN_AGE_PACAL_WONDER_BUILT_SCIENCE_AND_FAITH" Language="zh_Hans_CN">
+			<Text>处于 [ICON_GLORY_GOLDEN_AGE] 黄金时代时的{1_Wonder}奇观为您提供{2_Science} [ICON_SCIENCE] 科技值和{3_Faith} [ICON_FAITH] 信仰值！</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_LEU_PACAL_CHAPTER_CAPSULE_BODY" Language="zh_Hans_CN">
+			<Text>巴加尔拥有建造奇观的强大动力，特别是当目标是科技胜利或宗教胜利时。</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_LEU_PACAL_CHAPTER_DETAILED_BODY" Language="zh_Hans_CN">
+			<Text>当以巴加尔作为玛雅领袖进行游戏时，您应重点去为之后欲建造的奇观腾好地方。尽可能提前进入黄金时代，这样您从奇观中积攒的加成奖励就会成倍增加！</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_LEU_PACAL_CHAPTER_HISTORY_PARA_1" Language="zh_Hans_CN">
+			<Text>【译者注：正在翻译……】[NEWLINE][NEWLINE]K'inich Janaab Pakal I, also known as Pacal, Pacal the Great, 8 Ahau and Sun Shield, (March, 603 - August, 683) was ajaw of the Maya city-state of Palenque in the Late Classic period of pre-Columbian Mesoamerican chronology. He acceded to the throne in July 615 and ruled until his death. During a reign of 68 years, the longest known regnal period in the history of the Americas, the 30th longest worldwide and longest until Frederick III in the 15th century, Pakal was responsible for the construction or extension of some of Palenque's most notable surviving inscriptions and monumental architecture.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_LEU_PACAL_CHAPTER_HISTORY_PARA_2" Language="zh_Hans_CN">
+			<Text>Pakal ascended the throne at age 12 and lived to the age of 80.  He expanded Palenque's power in the western part of the Maya states and initiated a building program at his capital that produced some of Maya civilization's finest art and architecture.  In 626 Pakal married Ix Tz'akbu Ajaw who was born in Uxte'k'uh.  Tz'akbu Ajaw was a descendant of the Toktahn dynasty, the original dynasty of Palenque.  In 628, one of Pakal's officials, was captured by Piedras Negras.  Six days later Nuun Ujol Chaak, ajaw of Santa Elena, was captured and taken to Palenque.  Having been appointed ajaw at the age of twelve, Pakal's mother was a regent to him, over the years she slowly lost power.  In 659 Pakal captured six prisoners, One of them, Ahiin Chan Ahk, was from Pipa'.  In 663 another lord of Pipa' was killed by Pakal.  In 647 K'inich Janaab Pakal began his first construction project.  Of all Pakal's construction projects, perhaps the most accomplished is the Palace of Palenque.  The building was already in existence, but Pakal made it much larger than it was.  Pakal started his construction by adding monument rooms onto the old level of the building.  The monuments and text associated with K'inich Janaab Pakal I are: Oval Palace Tablet, Hieroglyphic Stairway, House C texts, Subterranean Thrones and Tableritos, Olvidado piers and sarcophagus texts.</Text>
+		</Row>
+		
+		<Row Tag="LOC_AGENDA_LEU_PACAL_NAME" Language="zh_Hans_CN">
+			<Text>《波波尔·乌》</Text>
+		</Row>
+		<Row Tag="LOC_AGENDA_LEU_PACAL_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>尊敬顺应时代潮流的文明，尊敬在新时代到来时进入黄金时代的文明。不喜欢拥有许多奇观而进入黑暗时代的文明。</Text>
+		</Row>
+		
+		<Row Tag="LOC_DIPLO_MODIFIER_LEU_PACAL_POSITIVE" Language="zh_Hans_CN">
+			<Text>巴加尔喜欢进入黄金时代的文明。</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_KUDO_EXIT_LEADER_LEU_PACAL_ANY" Language="zh_Hans_CN">
+			<Text>啊，看来你遵循了祖辈，这新一次的周期为你带来了繁荣，愿我们的繁荣超越万世万代。</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_KUDO_LEADER_LEU_PACAL_REASON_ANY" Language="zh_Hans_CN">
+			<Text>（您处于黄金时代）</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MODIFIER_LEU_PACAL_NEGATIVE" Language="zh_Hans_CN">
+			<Text>巴加尔不喜欢拥有很多奇怪而处于黑暗时代的文明。</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_EXIT_LEADER_LEU_PACAL_ANY" Language="zh_Hans_CN">
+			<Text>我想知道，你现在所受的苦难，是叫祖辈受辱，还是叫子孙后代也深受苦楚？</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_LEADER_LEU_PACAL_REASON_ANY" Language="zh_Hans_CN">
+			<Text>（您拥有很多的奇观，而进入了黑暗时代）</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_LEADER_LEU_PACAL_ANY" Language="zh_Hans_CN">
+			<Text>哈，是的。我的天文学家们预言了你的到来。欢迎来到宏伟的帕伦克城，你可以称我为太阳之盾。</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_VISIT_RECIPIENT_LEADER_LEU_PACAL_ANY" Language="zh_Hans_CN">
+			<Text>没有什么比我们的天文台更适合观测星辰的地方了。来吧，凝视夜空！</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_POSITIVE_LEADER_LEU_PACAL_ANY" Language="zh_Hans_CN">
+			<Text>昏星说你要同意，它总是对的。</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_NO_MANS_INFO_EXCHANGE_LEADER_LEU_PACAL_ANY" Language="zh_Hans_CN">
+			<Text>你看过了我的城市，但那还不是最大最宏伟的！让我们来补救这个遗憾！来看看帕伦克的三大神庙吧！</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DELEGATION_FROM_AI_LEADER_LEU_PACAL_ANY" Language="zh_Hans_CN">
+			<Text>我派遣了天文学家到你的领地观测夜空，交流我们的知识和科学。你会接受吗？</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_DELEGATION_FROM_HUMAN_LEADER_LEU_PACAL_ANY" Language="zh_Hans_CN">
+			<Text>星辰告诉我，这是明智的安排。</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_DELEGATION_FROM_HUMAN_LEADER_LEU_PACAL_ANY" Language="zh_Hans_CN">
+			<Text>不，不，星辰对此的预测不会是巧合的，我很抱歉。</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_GREETING_LEADER_LEU_PACAL_ANY" Language="zh_Hans_CN">
+			<Text>希望夏曼·艾克在你到来的路上指引了你。</Text>
+		</Row>
+		
+		<Row Tag="LOC_DIPLO_OPEN_BORDERS_FROM_AI_LEADER_LEU_PACAL_ANY" Language="zh_Hans_CN">
+			<Text>开放边境会让知识在我们之间更自由地传播，你考虑考虑？</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_OPEN_BORDERS_FROM_HUMAN_LEADER_LEU_PACAL_ANY" Language="zh_Hans_CN">
+			<Text>将你的智慧传播给我的人民。</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_OPEN_BORDERS_FROM_HUMAN_LEADER_LEU_PACAL_ANY" Language="zh_Hans_CN">
+			<Text>不，这不符合预测。</Text>
+		</Row>
+		
+		<Row Tag="LOC_DIPLO_DECLARE_FRIEND_FROM_AI_LEADER_LEU_PACAL_ANY" Language="zh_Hans_CN">
+			<Text>你也是智慧的学者！我建议我们团结起来，互帮互助，你同意吗？</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_HUMAN_LEADER_LEU_PACAL_ANY" Language="zh_Hans_CN">
+			<Text>我们为知识而寻求的朋友。</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_HUMAN_LEADER_LEU_PACAL_ANY" Language="zh_Hans_CN">
+			<Text>恐怕不行，但不要让此成为你寻求知识的阻碍。</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DENOUNCE_FROM_HUMAN_LEADER_LEU_PACAL_ANY" Language="zh_Hans_CN">
+			<Text>预言说你是个暴君，我希望他们误读了。</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DENOUNCE_FROM_AI_LEADER_LEU_PACAL_ANY" Language="zh_Hans_CN">
+			<Text>你是一个无知、愚蠢、野蛮的蠢货，完全不懂得科学！快滚！[NEWLINE]（谴责你）</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_MAKE_DEAL_FROM_AI_LEADER_LEU_PACAL_ANY" Language="zh_Hans_CN">
+			<Text>星辰一致。</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_MAKE_DEAL_FROM_AI_LEADER_LEU_PACAL_ANY" Language="zh_Hans_CN">
+			<Text>这是非常不明智的。</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_ALLIANCE_FROM_AI_LEADER_LEU_PACAL_ANY" Language="zh_Hans_CN">
+			<Text>星辰诸神告诉我，这是一个明智的提议。你的天文学家们也跟你说过同样的话吗？</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_LEADER_LEU_PACAL_ANY" Language="zh_Hans_CN">
+			<Text>一些马普切人已经注意到你们在边境聚集。当心，马普切的意志比你们想象的更坚定。</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_HUMAN_LEADER_LEU_PACAL_ANY" Language="zh_Hans_CN">
+			<Text>你不可能反抗我们，知识、建筑和预言都站在我们这边。</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_LEU_PACAL_ANY" Language="zh_Hans_CN">
+			<Text>我现在就将你打倒，以实现预言。然后将你的城市治理到一个你永远无法企及的高度。</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_AI_ACCEPT_DEAL_LEADER_LEU_PACAL_ANY" Language="zh_Hans_CN">
+			<Text>一切都应验了。是的，现在是实现和平的时候了。</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_AI_REFUSE_DEAL_LEADER_LEU_PACAL_ANY" Language="zh_Hans_CN">
+			<Text>星辰不同意你的提议，恶魔。</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_FROM_AI_LEADER_LEU_PACAL_ANY" Language="zh_Hans_CN">
+			<Text>我们的鲜血溅满大地，是时候再次向星空寻求指引了，停止暴力吧。</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DEFEAT_FROM_HUMAN_LEADER_LEU_PACAL_ANY" Language="zh_Hans_CN">
+			<Text>我是对的，一如既往。你永远不可能与我们对抗。</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DEFEAT_FROM_AI_LEADER_LEU_PACAL_ANY" Language="zh_Hans_CN">
+			<Text>我背弃了先祖的训诫吗？我不是为星辰建造了纪念碑，好让它们指引我吗？这看起来是我的最后一个周期了……</Text>
+		</Row>
+	</LocalizedText>
+</GameData>

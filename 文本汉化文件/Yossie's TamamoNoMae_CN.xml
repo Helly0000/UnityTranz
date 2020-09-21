@@ -1,0 +1,593 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!-- Yossie's TamamoNoMae_CN -->
+<!-- Author: Clear8Sky -->
+<!-- DateCreated: 4/24/2020 5:50:15 PM -->
+<GameData>
+	<LocalizedText>
+		<!-- 文明 -->
+		<Row Tag="LOC_CIVILIZATION_YNL_YAMATO_DYNASTY_NAME" Language="zh_Hans_CN">
+			<Text>大和王朝</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_YNL_YAMATO_DYNASTY_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>大和王朝</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_YNL_YAMATO_DYNASTY_ADJECTIVE" Language="zh_Hans_CN">
+			<Text>大和王朝的</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_CIVILIZATION_YNL_YAMATO_DYNASTY_NAME" Language="zh_Hans_CN">
+			<Text>岛屿之国的心志</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_CIVILIZATION_YNL_YAMATO_DYNASTY_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>靠近海岸的城市+3 [ICON_Housing] 住房。从草原地形中获得+1 [ICON_Faith] 信仰值。有驻军的城市每回合+2忠诚度。</Text>
+		</Row>
+
+		<!-- 领袖 -->
+		<Row Tag="LOC_LEADER_YNL_TAMAMO_NAME" Language="zh_Hans_CN">
+			<Text>玉藻前</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_LEADER_YNL_TAMAMO_NAME" Language="zh_Hans_CN">
+			<Text>水天日光天照八野镇石</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_LEADER_YNL_TAMAMO_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>大和王朝每拥有一种奢侈品资源，则其军事单位战斗时获得+1 [ICON_Strength] 战斗力。所有军事单位每回合结束时恢复 [ICON_Damaged] 生命值，即使该单位已经攻击或移动。消灭敌方单位时可产出等同于其50% [ICON_Strength] 战斗力的 [ICON_Science] 科技值。</Text>
+		</Row>
+		<Row Tag="LOC_LEADER_YNL_TAMAMO_DOM_TEXT" Language="zh_Hans_CN">
+			<Text>喜欢的东西吗？那当然是即使有点小那也是完美的我的小窝！当然，能变大就更好了。</Text>
+		</Row>
+
+		<!-- UI -->
+		<Row Tag="LOC_IMPROVEMENT_YNL_SESSYOUSEKI_NAME" Language="zh_Hans_CN">
+			<Text>杀生石</Text>
+		</Row>
+		<Row Tag="LOC_IMPROVEMENT_YNL_SESSYOUSEKI_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>解锁建造者建造大和王朝特色改良设施杀生石的能力。[NEWLINE][NEWLINE]+1 [ICON_Science] 科技值、+1 [ICON_Culture] 文化值、+1 [ICON_Faith] 信仰值，若与圣地相邻则再+2 [ICON_Faith] 信仰值。每相邻一个雨林则额外+1 [ICON_Faith] 信仰值，每相邻一个森林同样额外+1 [ICON_Faith] 信仰值。每座城市仅能建造一个。无法建在丘陵上。</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_CIVILIZATION_IMPROVEMENT_YNL_SESSYOUSEKI_NAME" Language="zh_Hans_CN">
+			<Text>大和王朝特色改良设施：杀生石</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_IMPROVEMENTS_PAGE_IMPROVEMENT_YNL_SESSYOUSEKI_CHAPTER_HISTORY_PARA_1" Language="zh_Hans_CN">
+			<Text></Text>
+		</Row>
+
+		<!-- UB -->
+		<Row Tag="LOC_BUILDING_YNL_CHEMICAL_PLANT_NAME" Language="zh_Hans_CN">
+			<Text>化工厂</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_YNL_CHEMICAL_PLANT_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>大和王朝的特色建筑，取代工厂。为9格范围内所有城市提供+4 [ICON_Production] 生产力。解锁科技“电力”后，化工厂可额外为所在城市提供+4 [ICON_Science] 科技值。上述 [ICON_Production] 生产力加成每座城市仅能获得一次，即使该市中心9格范围内有多个化工厂，也无法获得多重加成。</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_CIVILIZATION_BUILDING_YNL_CHEMICAL_PLANT_NAME" Language="zh_Hans_CN">
+			<Text>大和王朝的特色建筑：化工厂</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_BUILDINGS_PAGE_BUILDING_YNL_CHEMICAL_PLANT_CHAPTER_HISTORY_PARA_1" Language="zh_Hans_CN">
+			<Text></Text>
+		</Row>
+
+		<!-- Leader Dialog -->
+		<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_HUMAN_LEADER_YNL_TAMAMO_ANY" Language="zh_Hans_CN">
+			<Text>我接受你的友谊啦，希望能够和谐相处呀！</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_HUMAN_LEADER_YNL_TAMAMO_ANY" Language="zh_Hans_CN">
+			<Text>我现在还不是很感兴趣哦。</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DECLARE_FRIEND_FROM_AI_LEADER_YNL_TAMAMO_ANY" Language="zh_Hans_CN">
+			<Text>你想来正式宣布下我们之间的友谊嘛？</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_YNL_TAMAMO_ANY" Language="zh_Hans_CN">
+			<Text>太棒啦！</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_YNL_TAMAMO_ANY" Language="zh_Hans_CN">
+			<Text>啊啦～真是遗憾呐……</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_HUMAN_LEADER_YNL_TAMAMO_ANY" Language="zh_Hans_CN">
+			<Text>要和我打？！我很火大，真的很火大！</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_YNL_TAMAMO_ANY" Language="zh_Hans_CN">
+			<Text>知道天国吧，需要我来给你带个路么…？</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DEFEAT_FROM_AI_LEADER_YNL_TAMAMO_ANY" Language="zh_Hans_CN">
+			<Text>这仇我记下了……</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DEFEAT_FROM_HUMAN_LEADER_YNL_TAMAMO_ANY" Language="zh_Hans_CN">
+			<Text>这仇我记下了……</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_DELEGATION_FROM_HUMAN_LEADER_YNL_TAMAMO_ANY" Language="zh_Hans_CN">
+			<Text>我们很开心能迎接贵国代表团来到我们首都。</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_DELEGATION_FROM_HUMAN_LEADER_YNL_TAMAMO_ANY" Language="zh_Hans_CN">
+			<Text>出于礼仪，我们谢绝你的代表团的访问。</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DELEGATION_FROM_AI_LEADER_YNL_TAMAMO_ANY" Language="zh_Hans_CN">
+			<Text>你可以在首都接待一下我们的外交代表团嘛？</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_DELEGATION_FROM_AI_LEADER_YNL_TAMAMO_ANY" Language="zh_Hans_CN">
+			<Text>太好啦！</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_DELEGATION_FROM_AI_LEADER_YNL_TAMAMO_ANY" Language="zh_Hans_CN">
+			<Text>哎呀～真是遗憾，那就改天吧。</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DENOUNCE_FROM_HUMAN_LEADER_YNL_TAMAMO_ANY" Language="zh_Hans_CN">
+			<Text>挑衅被天皇选中的献身者罪大无比。你一定会为此付出代价的。</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DENOUNCE_FROM_AI_LEADER_YNL_TAMAMO_ANY" Language="zh_Hans_CN">
+			<Text>你是又一个令人讨厌的阴阳师！你背叛了天皇！[NEWLINE]（谴责你）</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_EMBASSY_FROM_HUMAN_LEADER_YNL_TAMAMO_ANY" Language="zh_Hans_CN">
+			<Text>我们乐于应许你在我们首都建立大使馆。</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_EMBASSY_FROM_HUMAN_LEADER_YNL_TAMAMO_ANY" Language="zh_Hans_CN">
+			<Text>嘛…目前我们还不太感兴趣。</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_EMBASSY_FROM_AI_LEADER_YNL_TAMAMO_ANY" Language="zh_Hans_CN">
+			<Text>你能同意我们在你首都建立大使馆嘛？</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_EMBASSY_FROM_AI_LEADER_YNL_TAMAMO_ANY" Language="zh_Hans_CN">
+			<Text>哦～！太好啦！</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_EMBASSY_FROM_AI_LEADER_YNL_TAMAMO_ANY" Language="zh_Hans_CN">
+			<Text>咕…那好吧。</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_LEADER_YNL_TAMAMO_ANY" Language="zh_Hans_CN">
+			<Text>初次见面，旅行者哟。你应该明白站在你面前的是伟大与崇高的化身！</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_VISIT_RECIPIENT_LEADER_YNL_TAMAMO_ANY" Language="zh_Hans_CN">
+			<Text>这附近有一座我的城市，想去看一下嘛？你可以来参加我们即将举行的庆祝活动哦！</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_POSITIVE_LEADER_YNL_TAMAMO_ANY" Language="zh_Hans_CN">
+			<Text>那是必然。很开心能近距离地参观你不断成长的城市。</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_NO_MANS_INFO_EXCHANGE_LEADER_YNL_TAMAMO_ANY" Language="zh_Hans_CN">
+			<Text>我们之间并不相邻，但或许我们可以在彼此的地图上标出自己的首都？</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_GREETING_LEADER_YNL_TAMAMO_ANY" Language="zh_Hans_CN">
+			<Text>你想要我什么呀？</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_KUDO_EXIT_LEADER_YNL_TAMAMO_ANY" Language="zh_Hans_CN">
+			<Text>你对创造秘诀的精通，让我的人民羡慕不已。</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_EXIT_LEADER_YNL_TAMAMO_ANY" Language="zh_Hans_CN">
+			<Text>其他人都在伸手触天，而你却还在抓刨泥土。</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_MAKE_ALLIANCE_FROM_HUMAN_LEADER_YNL_TAMAMO_ANY" Language="zh_Hans_CN">
+			<Text>我们很高兴能接受你提出的结盟议求。</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_MAKE_ALLIANCE_FROM_HUMAN_LEADER_YNL_TAMAMO_ANY" Language="zh_Hans_CN">
+			<Text>嘛…目前我们还不太感兴趣。</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_ALLIANCE_FROM_AI_LEADER_YNL_TAMAMO_ANY" Language="zh_Hans_CN">
+			<Text>你愿意…原意和我结盟嘛？</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_MAKE_ALLIANCE_FROM_AI_LEADER_YNL_TAMAMO_ANY" Language="zh_Hans_CN">
+			<Text>Mikon～☆！太开心啦！</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_MAKE_ALLIANCE_FROM_AI_LEADER_YNL_TAMAMO_ANY" Language="zh_Hans_CN">
+			<Text>呜…果然不行啊……</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_DEAL_AI_ACCEPT_DEAL_LEADER_YNL_TAMAMO_ANY" Language="zh_Hans_CN">
+			<Text>嗯，我很高兴接受这次协议。</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_DEAL_AI_REFUSE_DEAL_LEADER_YNL_TAMAMO_ANY" Language="zh_Hans_CN">
+			<Text>唔…这次我不能接受。</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_MAKE_DEAL_FROM_AI_LEADER_YNL_TAMAMO_ANY" Language="zh_Hans_CN">
+			<Text>谢谢。我想这对我们双方都有好处。</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_MAKE_DEAL_FROM_AI_LEADER_YNL_TAMAMO_ANY" Language="zh_Hans_CN">
+			<Text>我必须说，我有一点点失望……</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_DEAL_AI_ADJUST_DEAL_LEADER_YNL_TAMAMO_ANY" Language="zh_Hans_CN">
+			<Text>这次交易更合我的胃口。</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_AI_REFUSE_DEMAND_LEADER_YNL_TAMAMO_ANY" Language="zh_Hans_CN">
+			<Text>向我索取对你是没有任何好处的哦～</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_AI_ACCEPT_DEMAND_LEADER_YNL_TAMAMO_ANY" Language="zh_Hans_CN">
+			<Text>咕…我会照做的……</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_HUMAN_ACCEPT_DEMAND_FROM_AI_LEADER_YNL_TAMAMO_ANY" Language="zh_Hans_CN">
+			<Text>你能接受我的索取，这是明智之举。</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_HUMAN_REFUSE_DEMAND_FROM_AI_LEADER_YNL_TAMAMO_ANY" Language="zh_Hans_CN">
+			<Text>哦～？那我或许会采取其他方式，来满足我的需求。</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_AI_ACCEPT_DEAL_LEADER_YNL_TAMAMO_ANY" Language="zh_Hans_CN">
+			<Text>我…接受你的议和条款。</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_AI_REFUSE_DEAL_LEADER_YNL_TAMAMO_ANY" Language="zh_Hans_CN">
+			<Text>我们之间没有和解可言！！</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_FROM_AI_LEADER_YNL_TAMAMO_ANY" Language="zh_Hans_CN">
+			<Text>疼疼疼，Stop！Stop Please！</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_MAKE_PEACE_FROM_AI_LEADER_YNL_TAMAMO_ANY" Language="zh_Hans_CN">
+			<Text>哈…战争终于结束了。</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_MAKE_PEACE_FROM_AI_LEADER_YNL_TAMAMO_ANY" Language="zh_Hans_CN">
+			<Text>嘁，那就继续打吧。</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_OPEN_BORDERS_FROM_HUMAN_LEADER_YNL_TAMAMO_ANY" Language="zh_Hans_CN">
+			<Text>我们很乐意为你的人民开放边境。</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_OPEN_BORDERS_FROM_HUMAN_LEADER_YNL_TAMAMO_ANY" Language="zh_Hans_CN">
+			<Text>嘛…目前我们还不太感兴趣。</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_OPEN_BORDERS_FROM_AI_LEADER_YNL_TAMAMO_ANY" Language="zh_Hans_CN">
+			<Text>看在可爱的我的面子上，你就开放一下边境，让我的下属们通过，可以嘛？</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_OPEN_BORDERS_FROM_AI_LEADER_YNL_TAMAMO_ANY" Language="zh_Hans_CN">
+			<Text>太好啦！</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_OPEN_BORDERS_FROM_AI_LEADER_YNL_TAMAMO_ANY" Language="zh_Hans_CN">
+			<Text>哦…那好吧……</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_DONT_SETTLE_NEAR_ME_AI_RESPONSE_POSITIVE_LEADER_YNL_TAMAMO_ANY" Language="zh_Hans_CN">
+			<Text>啊啦～实在抱歉！我没注意到你的城市会离得这么近。</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_DONT_SETTLE_NEAR_ME_AI_RESPONSE_NEGATIVE_LEADER_YNL_TAMAMO_ANY" Language="zh_Hans_CN">
+			<Text>哼！我的王朝需要土地，你又有什么资格说我不能占据这里？</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_DONT_SETTLE_NEAR_ME_AI_LEADER_YNL_TAMAMO_ANY" Language="zh_Hans_CN">
+			<Text>你的人民住的太近了啊！你应该考虑让他们去别处定居。</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_DONT_SETTLE_NEAR_ME_HUMAN_RESPONSE_POSITIVE_LEADER_YNL_TAMAMO_ANY" Language="zh_Hans_CN">
+			<Text>嗯，那就好。</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_DONT_SETTLE_NEAR_ME_HUMAN_RESPONSE_NEGATIVE_LEADER_YNL_TAMAMO_ANY" Language="zh_Hans_CN">
+			<Text>哦～？你要是不尊重我的领土，那休怪我以牙还牙！</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_AI_RESPONSE_POSITIVE_LEADER_YNL_TAMAMO_ANY" Language="zh_Hans_CN">
+			<Text>啊…抱歉，我只是在四处找寻蛮族并剿灭他们。</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_AI_RESPONSE_NEGATIVE_LEADER_YNL_TAMAMO_ANY" Language="zh_Hans_CN">
+			<Text>我喜欢四处行军的感觉，你看嘛，这样显得我兵力很强大。</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_STOP_SPYING_ON_ME_AI_RESPONSE_POSITIVE_LEADER_YNL_TAMAMO_ANY" Language="zh_Hans_CN">
+			<Text>好吧，你说得对。很抱歉对你用了这样的手段。我保证下不为例。</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_STOP_SPYING_ON_ME_AI_RESPONSE_NEGATIVE_LEADER_YNL_TAMAMO_ANY" Language="zh_Hans_CN">
+			<Text>哈？！你凭什么认为我会做出那样的承诺？</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_STOP_DIGGING_UP_ARTIFACTS_AI_RESPONSE_POSITIVE_LEADER_YNL_TAMAMO_ANY" Language="zh_Hans_CN">
+			<Text>我才意识到，你竟然都已经把这些土地占为己有了。这是多么幼稚的一个错误啊。</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_STOP_DIGGING_UP_ARTIFACTS_AI_RESPONSE_NEGATIVE_LEADER_YNL_TAMAMO_ANY" Language="zh_Hans_CN">
+			<Text>任何人都有权利解开历史的谜团。你不能将其占为己有！</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_STOP_CONVERTING_MY_CITIES_AI_RESPONSE_POSITIVE_LEADER_YNL_TAMAMO_ANY" Language="zh_Hans_CN">
+			<Text>虽然我很尊重你的意愿，但我实在是很失望，你还没意识到你自身的错误。</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_STOP_CONVERTING_MY_CITIES_AI_RESPONSE_NEGATIVE_LEADER_YNL_TAMAMO_ANY" Language="zh_Hans_CN">
+			<Text>嘛嘛～，先别急着否定。我以巫女的身份向你保证，这一定是最佳选择！你会明白的。</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_LEADER_YNL_TAMAMO_ANY" Language="zh_Hans_CN">
+			<Text>你的军队离我的王朝边境太近啦！当然，我希望他们只是在欣赏我王朝那些风景如画的乡村风光。</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_HUMAN_RESPONSE_POSITIVE_LEADER_YNL_TAMAMO_ANY" Language="zh_Hans_CN">
+			<Text>嗯，那就好。</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_STOP_SPYING_ON_ME_LEADER_YNL_TAMAMO_ANY" Language="zh_Hans_CN">
+			<Text>嘁！我早该知道你如此的卑躬屈膝，就是为了通过暗中监视来对付我。让你的间谍离我远点，现在！</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_STOP_SPYING_ON_ME_HUMAN_RESPONSE_POSITIVE_LEADER_YNL_TAMAMO_ANY" Language="zh_Hans_CN">
+			<Text>哼，但愿如此。</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_STOP_SPYING_ON_ME_HUMAN_RESPONSE_NEGATIVE_LEADER_YNL_TAMAMO_ANY" Language="zh_Hans_CN">
+			<Text>我会永远记住这次耻辱。你给我等着！</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_STOP_DIGGING_UP_ARTIFACTS_LEADER_YNL_TAMAMO_ANY" Language="zh_Hans_CN">
+			<Text>我决不允许你来掠夺我大和王朝的文化史。立刻离开我的领地！</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_STOP_DIGGING_UP_ARTIFACTS_HUMAN_RESPONSE_POSITIVE_LEADER_YNL_TAMAMO_ANY" Language="zh_Hans_CN">
+			<Text>那就好。</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_STOP_DIGGING_UP_ARTIFACTS_HUMAN_RESPONSE_NEGATIVE_LEADER_YNL_TAMAMO_ANY" Language="zh_Hans_CN">
+			<Text>呵…你要是不尊重我的领土，那休怪我以牙还牙！</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_STOP_CONVERTING_MY_CITIES_LEADER_YNL_TAMAMO_ANY" Language="zh_Hans_CN">
+			<Text>我的人民并不欢迎你的传道者。我要求你必须撤走他们！立刻！</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_STOP_CONVERTING_MY_CITIES_HUMAN_RESPONSE_POSITIVE_LEADER_YNL_TAMAMO_ANY" Language="zh_Hans_CN">
+			<Text>嗯，那样最好。</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_STOP_CONVERTING_MY_CITIES_HUMAN_RESPONSE_NEGATIVE_LEADER_YNL_TAMAMO_ANY" Language="zh_Hans_CN">
+			<Text>啧！你给我记好，你迟早会为此付出代价的……</Text>
+		</Row>
+		<!-- 对随机议程的赞誉对话 -->
+		<Row Tag="LOC_DIPLO_KUDO_LEADER_YNL_TAMAMO_REASON_AGENDA_HIGH_CULTURE" Language="zh_Hans_CN">
+			<Text>喔～！你的人民发展出了优秀的特色文化，实在令我印象深刻！</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_KUDO_LEADER_YNL_TAMAMO_REASON_AGENDA_HIGH_HAPPINESS" Language="zh_Hans_CN">
+			<Text>我听说了哟，你的人民想要庆祝你的统治。呀～，你做的确实很棒，值得让他们如此高兴。</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_KUDO_LEADER_YNL_TAMAMO_REASON_AGENDA_HIGH_INCOME" Language="zh_Hans_CN">
+			<Text>哇～！！好多钱呐……[NEWLINE]收…收入这么高，很不错，对吧？（吞口水）</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_KUDO_LEADER_YNL_TAMAMO_REASON_AGENDA_HIGH_INDUSTRY" Language="zh_Hans_CN">
+			<Text>嗯～嗯～，我由衷地祝贺你的人民生产效率如此之高。</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_KUDO_LEADER_YNL_TAMAMO_REASON_AGENDA_MODIFIER_NOT_COMPETING_MINORS" Language="zh_Hans_CN">
+			<Text>我们是那些弱小文明真正的朋友！我也很感激你能承认这一事实。</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_KUDO_LEADER_YNL_TAMAMO_REASON_AGENDA_HIGH_POPULATION" Language="zh_Hans_CN">
+			<Text>你的国家人口众多，热闹非凡，令我震惊！</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_KUDO_LEADER_YNL_TAMAMO_REASON_AGENDA_HIGH_SCIENCE" Language="zh_Hans_CN">
+			<Text>好厉害～！你科研的深度让我印象深刻。</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_KUDO_LEADER_YNL_TAMAMO_REASON_AGENDA_HIGH_STANDING_ARMY" Language="zh_Hans_CN">
+			<Text>我所喜欢的这位领袖，拥有令人震撼的军事实力～[NEWLINE]（向你投来爱慕的目光）</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_KUDO_LEADER_YNL_TAMAMO_REASON_AGENDA_ENJOYS_WAR" Language="zh_Hans_CN">
+			<Text>文明真正的灵魂，会在战斗中展露无遗。愿最为优秀的人能够取胜！</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_KUDO_LEADER_YNL_TAMAMO_REASON_AGENDA_MODIFIER_GREAT_PERSON_ADVOCATE_LAG" Language="zh_Hans_CN">
+			<Text>看来那些伟人们更喜欢我的大和王朝呀，我很开心～！</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_KUDO_LEADER_YNL_TAMAMO_REASON_AGENDA_MODIFIER_WONDER_ADVOCATE_LAG" Language="zh_Hans_CN">
+			<Text>你能把奇观建筑留给我们，我真是太开心啦！</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_KUDO_LEADER_YNL_TAMAMO_REASON_AGENDA_HIGH_PROTECT_CITY_STATES" Language="zh_Hans_CN">
+			<Text>你对那些小城邦的生存保护，为我，甚至全世界，树立了榜样。</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_KUDO_LEADER_YNL_TAMAMO_REASON_AGENDA_MED_PROTECT_CITY_STATES" Language="zh_Hans_CN">
+			<Text>强者本就应该保护弱者。很开心看到你也能同意这一观点。</Text>
+		</Row>
+		<!--对未来随机议程的赞誉对话（尚未实施）-->
+		<Row Tag="LOC_DIPLO_KUDO_LEADER_YNL_TAMAMO_REASON_AGENDA_HIGH_AIRPOWER" Language="zh_Hans_CN">
+			<Text>哇～！我必须得说，你的空军真的不好惹。太强了……</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_KUDO_LEADER_YNL_TAMAMO_REASON_AGENDA_PROTECTS_CITY_STATES" Language="zh_Hans_CN">
+			<Text>能去照顾那些已经无法自理的人，我觉得是一件很了不起的事情呐～</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_KUDO_LEADER_YNL_TAMAMO_REASON_AGENDA_CLEARS_BARBARIAN_CAMPS" Language="zh_Hans_CN">
+			<Text>一直以来，这些像金时带来的静电一般令人讨厌的蛮族，都是大家的麻烦。很感谢你能消灭他们！</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_KUDO_LEADER_YNL_TAMAMO_REASON_AGENDA_ENVIRONMENT" Language="zh_Hans_CN">
+			<Text>我们只有这一个地球，我很高兴我不是唯一对此表示敬畏的人。你说是吧？</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_KUDO_LEADER_YNL_TAMAMO_REASON_AGENDA_EXPLOITATION" Language="zh_Hans_CN">
+			<Text>整个世界都是供我们自由索取的，想要什么我们就能拿什么！不是嘛？</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_KUDO_LEADER_YNL_TAMAMO_REASON_AGENDA_SAME_GOVERNMENT" Language="zh_Hans_CN">
+			<Text>喔～！你和我志趣相投呀！我必须赞扬你对新政体的实践。</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_KUDO_LEADER_YNL_TAMAMO_REASON_AGENDA_HIGH_NUKE_LOVE" Language="zh_Hans_CN">
+			<Text>伟大的思想总是相似的！那项科技可真的太有用啦……</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_KUDO_LEADER_YNL_TAMAMO_REASON_AGENDA_HIGH_FAITH" Language="zh_Hans_CN">
+			<Text>愿你永享和平。能看到另一个和我一样虔诚的人，让我振奋不已！</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_KUDO_LEADER_YNL_TAMAMO_REASON_AGENDA_LOW_EXPLORATION" Language="zh_Hans_CN">
+			<Text>嗯！很好！探索这种事，交给我就可以了嘛～</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_KUDO_LEADER_YNL_TAMAMO_REASON_AGENDA_PARANOID" Language="zh_Hans_CN">
+			<Text>很…很高兴你的帝国没有对我构成威胁，可以松口气了。呼～</Text>
+		</Row>
+		<!-- 对随机议程的警告对话 -->
+		<Row Tag="LOC_DIPLO_WARNING_LEADER_YNL_TAMAMO_REASON_AGENDA_LOW_CULTURE" Language="zh_Hans_CN">
+			<Text>要发展强势的文化，你做的还远远不够呀。我们又能记住你的什么呢？</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_LEADER_YNL_TAMAMO_REASON_AGENDA_LOW_HAPPINESS" Language="zh_Hans_CN">
+			<Text>这边建议你调查一下你们城市的宜居度哦～！我觉得人民并不太满意你的统治呢……</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_LEADER_YNL_TAMAMO_REASON_AGENDA_LOW_INCOME" Language="zh_Hans_CN">
+			<Text>啊啦，你的帝国快要走向破产咯～你该怎么从堆积如山的债务里活下来呢？</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_LEADER_YNL_TAMAMO_REASON_AGENDA_MODIFIER_COMPETING_MINORS" Language="zh_Hans_CN">
+			<Text>与城邦携手合作会让你身陷险境哦，不如把它们交给我吧。</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_LEADER_YNL_TAMAMO_REASON_AGENDA_LOW_INDUSTRY" Language="zh_Hans_CN">
+			<Text>啧，你的人民真是又懒又蠢。如果你的国家生产不出任何东西，那你的文明将很快被遗忘掉。</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_LEADER_YNL_TAMAMO_REASON_AGENDA_LOW_POPULATION" Language="zh_Hans_CN">
+			<Text>你的国家人口稀少，想要做成一件事挺难的……</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_LEADER_YNL_TAMAMO_REASON_AGENDA_LOW_SCIENCE" Language="zh_Hans_CN">
+			<Text>你在科研上花的时间也太少了吧，这…你的人民该怎样才不会被时代淘汰啊？</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_LEADER_YNL_TAMAMO_REASON_AGENDA_LOW_STANDING_ARMY" Language="zh_Hans_CN">
+			<Text>你的军队力量真的薄弱。呵，你难道不担心你的生存问题？</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_LEADER_YNL_TAMAMO_REASON_AGENDA_PARANOID" Language="zh_Hans_CN">
+			<Text>呜呀～！？你的城市离我太近了！你的军队也太强大了！你…你别吓唬我啊！</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_LEADER_YNL_TAMAMO_REASON_AGENDA_MODIFIER_GREAT_PERSON_ADVOCATE_LEAD" Language="zh_Hans_CN">
+			<Text>问题就在于…你把我朝思暮想的伟人给抢走了！你…！</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_LEADER_YNL_TAMAMO_REASON_AGENDA_MODIFIER_WONDER_ADVOCATE_LEAD" Language="zh_Hans_CN">
+			<Text>哼，你难道还不清楚，我们才是杰出的奇观建造这吗？！</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_LEADER_YNL_TAMAMO_REASON_AGENDA_HIGH_ATTACK_CITY_STATES" Language="zh_Hans_CN">
+			<Text>嘁！只有懦夫才会攻击世界上的小国家。你这种人，对我毫无价值！</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_LEADER_YNL_TAMAMO_REASON_AGENDA_MED_ATACK_CITY_STATES" Language="zh_Hans_CN">
+			<Text>别把这警告当耳旁风！不准再攻击城邦！</Text>
+		</Row>
+		<!--对未来随机议程的警告对话（尚未实施）-->
+		<Row Tag="LOC_DIPLO_WARNING_LEADER_YNL_TAMAMO_REASON_AGENDA_LOW_AIRPOWER" Language="zh_Hans_CN">
+			<Text>唔～仅仅是脚踏实地还不足为荣，你真的应该试着建立你的空军了……</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_LEADER_YNL_TAMAMO_REASON_AGENDA_ATTACKS_CITY_STATES" Language="zh_Hans_CN">
+			<Text>恃强凌弱，哼！真是可悲！</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_LEADER_YNL_TAMAMO_REASON_AGENDA_IGNORES_BARBARIAN_CAMPS" Language="zh_Hans_CN">
+			<Text>你怎么能容忍蛮族这种像静电一样的存在，游荡在你领土附近，胡作非为？[NEWLINE]（静电会把玉藻前的毛搞得噼里啪啦的，让她很是不适。）</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_LEADER_YNL_TAMAMO_REASON_AGENDA_ENVIRONMENT" Language="zh_Hans_CN">
+			<Text>我必须告诉你！你对地球的破坏，可不止影响你自己，还会影响你的邻居！知道吗？！</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_LEADER_YNL_TAMAMO_REASON_AGENDA_EXPLOITATION" Language="zh_Hans_CN">
+			<Text>你看看你周围那肥沃的土地，你怎么能忽视它们的存在呢？</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_LEADER_YNL_TAMAMO_REASON_AGENDA_DIFFERENT_GOVERNMENT" Language="zh_Hans_CN">
+			<Text>哎呀哎呀…可惜，我们的意识形态已经出现分歧了。我无法赞同你治国的方式……</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_LEADER_YNL_TAMAMO_REASON_AGENDA_LOW_NUKE_LOVE" Language="zh_Hans_CN">
+			<Text>核…什么来着…对，核武器，它就是未来！你怎么能对它视而不见？</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_LEADER_YNL_TAMAMO_REASON_AGENDA_LOW_FAITH" Language="zh_Hans_CN">
+			<Text>是什么在引领着你呢？嘛…我知道，你肯定有自己的信仰。来，把光明带给你的人民吧！</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_LEADER_YNL_TAMAMO_REASON_AGENDA_HIGH_EXPLORATION" Language="zh_Hans_CN">
+			<Text>你…！可探索的东西就那么多！我不能容忍任何人比我的探险家出发的还要早！</Text>
+		</Row>
+
+		<!-- 领袖专有百科文本 -->
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_YNL_TAMAMO_CHAPTER_CAPSULE_BODY" Language="zh_Hans_CN">
+			<Text>日本三大上位妖怪之一</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_YNL_TAMAMO_CHAPTER_DETAILED_BODY" Language="zh_Hans_CN">
+			<Text>想成为良妻的愿望越来越强的巫女咒术师。[NEWLINE][NEWLINE]在平安时代末期，侍奉过鸟羽天皇的绝世美女。[NEWLINE]或说是白面金毛九尾狐所假扮成的样子。[NEWLINE]发生了各种事情最后被宫廷所追捕，在那须野与人类进行了一场大决战后，就被乖乖退治了啊什么的。</Text>
+		</Row>
+
+		<!-- 领袖专有历史文本 -->
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_YNL_TAMAMO_CHAPTER_HISTORY_PARA_1" Language="zh_Hans_CN">
+			<Text></Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_YNL_TAMAMO_CHAPTER_HISTORY_PARA_2" Language="zh_Hans_CN">
+			<Text></Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_YNL_TAMAMO_CHAPTER_HISTORY_PARA_3" Language="zh_Hans_CN">
+			<Text></Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_YNL_TAMAMO_CHAPTER_HISTORY_PARA_4" Language="zh_Hans_CN">
+			<Text></Text>
+		</Row>
+
+		<!-- 文明专有历史文本 -->
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_YNL_YAMATO_DYNASTY_CHAPTER_HISTORY_PARA_1" Language="zh_Hans_CN">
+			<Text></Text>
+		</Row>
+
+		<!-- 文明的公民姓名 -->
+		<Row Tag="LOC_CITIZEN_YAMATO_DYNASTY_MALE_1" Language="zh_Hans_CN">
+			<Text>源赖朝</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_YAMATO_DYNASTY_MALE_2" Language="zh_Hans_CN">
+			<Text>吉田兼好</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_YAMATO_DYNASTY_MALE_3" Language="zh_Hans_CN">
+			<Text>鸭长明</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_YAMATO_DYNASTY_MALE_4" Language="zh_Hans_CN">
+			<Text>慈円</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_YAMATO_DYNASTY_FEMALE_1" Language="zh_Hans_CN">
+			<Text>阿佛尼</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_YAMATO_DYNASTY_FEMALE_2" Language="zh_Hans_CN">
+			<Text>藤原得子</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_YAMATO_DYNASTY_FEMALE_3" Language="zh_Hans_CN">
+			<Text>北条时子</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_YAMATO_DYNASTY_FEMALE_4" Language="zh_Hans_CN">
+			<Text>宜秋门院丹后</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_YAMATO_DYNASTY_FEMALE_5" Language="zh_Hans_CN">
+			<Text>弁内侍</Text>
+		</Row>
+
+		<!-- 文明的城市名称 -->
+		<Row Tag="LOC_CIVLIZATION_YAMATO_DYNASTY_CITY_0" Language="zh_Hans_CN">
+			<Text>京都</Text>
+		</Row>
+		<Row Tag="LOC_CIVLIZATION_YAMATO_DYNASTY_CITY_1" Language="zh_Hans_CN">
+			<Text>向岛</Text>
+		</Row>
+		<Row Tag="LOC_CIVLIZATION_YAMATO_DYNASTY_CITY_2" Language="zh_Hans_CN">
+			<Text>长冈京</Text>
+		</Row>
+		<Row Tag="LOC_CIVLIZATION_YAMATO_DYNASTY_CITY_3" Language="zh_Hans_CN">
+			<Text>宇治</Text>
+		</Row>
+		<Row Tag="LOC_CIVLIZATION_YAMATO_DYNASTY_CITY_4" Language="zh_Hans_CN">
+			<Text>城阳</Text>
+		</Row>
+		<Row Tag="LOC_CIVLIZATION_YAMATO_DYNASTY_CITY_5" Language="zh_Hans_CN">
+			<Text>八幡</Text>
+		</Row>
+		<Row Tag="LOC_CIVLIZATION_YAMATO_DYNASTY_CITY_6" Language="zh_Hans_CN">
+			<Text>京田边</Text>
+		</Row>
+		<Row Tag="LOC_CIVLIZATION_YAMATO_DYNASTY_CITY_7" Language="zh_Hans_CN">
+			<Text>木津川</Text>
+		</Row>
+		<Row Tag="LOC_CIVLIZATION_YAMATO_DYNASTY_CITY_8" Language="zh_Hans_CN">
+			<Text>龟冈</Text>
+		</Row>
+		<Row Tag="LOC_CIVLIZATION_YAMATO_DYNASTY_CITY_9" Language="zh_Hans_CN">
+			<Text>南丹</Text>
+		</Row>
+		<Row Tag="LOC_CIVLIZATION_YAMATO_DYNASTY_CITY_10" Language="zh_Hans_CN">
+			<Text>福知山</Text>
+		</Row>
+		<Row Tag="LOC_CIVLIZATION_YAMATO_DYNASTY_CITY_11" Language="zh_Hans_CN">
+			<Text>舞鹤</Text>
+		</Row>
+		<Row Tag="LOC_CIVLIZATION_YAMATO_DYNASTY_CITY_12" Language="zh_Hans_CN">
+			<Text>绫部</Text>
+		</Row>
+		<Row Tag="LOC_CIVLIZATION_YAMATO_DYNASTY_CITY_13" Language="zh_Hans_CN">
+			<Text>宫津</Text>
+		</Row>
+		<Row Tag="LOC_CIVLIZATION_YAMATO_DYNASTY_CITY_14" Language="zh_Hans_CN">
+			<Text>京丹后</Text>
+		</Row>
+		<Row Tag="LOC_CIVLIZATION_YAMATO_DYNASTY_CITY_15" Language="zh_Hans_CN">
+			<Text>镰仓</Text>
+		</Row>
+		<Row Tag="LOC_CIVLIZATION_YAMATO_DYNASTY_CITY_16" Language="zh_Hans_CN">
+			<Text>奈良</Text>
+		</Row>
+		<Row Tag="LOC_CIVLIZATION_YAMATO_DYNASTY_CITY_17" Language="zh_Hans_CN">
+			<Text>那须盐原</Text>
+		</Row>
+
+		<!-- 领袖引言 -->
+		<Row Tag="LOC_LEADER_YNL_TAMAMO_QUOTE" Language="zh_Hans_CN">
+			<Text>Mikon～！</Text>
+		</Row>
+
+		<!-- RF专用 -->
+		<Row Tag="LOC_DIPLO_KUDO_LEADER_YNL_TAMAMO_REASON_AGENDA_CURMUDGEON_POSITIVE" Language="zh_Hans_CN">
+			<Text>哼哼～一位伟大的领袖，是不会因异性的阴谋诡计而分散注意力的哟，你同意吧？</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_LEADER_YNL_TAMAMO_REASON_AGENDA_CURMUDGEON_NEGATIVE" Language="zh_Hans_CN">
+			<Text>哈…你难道除了和我闲聊，就没别的事可做了吗？这反而让人分心，适得其反。</Text>
+		</Row>
+
+		<Row Tag="LOC_DIPLO_KUDO_LEADER_YNL_TAMAMO_REASON_AGENDA_FLIRTATIOUS_POSITIVE" Language="zh_Hans_CN">
+			<Text>我喜欢你！嘛～虽然我们中间有不少人都是如此…但我一定是最喜欢你的！！</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_LEADER_YNL_TAMAMO_REASON_AGENDA_FLIRTATIOUS_NEGATIVE" Language="zh_Hans_CN">
+			<Text>唔…你说你是为了人民利益来和我谈判，但怎么看都感觉你是在嫉妒我的人际关系……</Text>
+		</Row>
+
+		<Row Tag="LOC_DIPLO_KUDO_LEADER_YNL_TAMAMO_REASON_AGENDA_GOSSIP_POSITIVE" Language="zh_Hans_CN">
+			<Text>我们之间的关系，是建立在知晓他人秘密的基础上的。嘿嘿，这样还挺不错的！</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_LEADER_YNL_TAMAMO_REASON_AGENDA_GOSSIP_NEGATIVE" Language="zh_Hans_CN">
+			<Text>哎呀…我时不时就会想…为什么你发言甚少。我觉得可能是你本来就没什么好说的。</Text>
+		</Row>
+
+		<Row Tag="LOC_DIPLO_KUDO_LEADER_YNL_TAMAMO_REASON_AGENDA_SYCOPHANT_GOLDEN_AGE" Language="zh_Hans_CN">
+			<Text>大和王朝的诗人和哲学家将你的文明视为世界之光，我同意他们的观点。</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_LEADER_YNL_TAMAMO_REASON_AGENDA_SYCOPHANT_DARK_AGE" Language="zh_Hans_CN">
+			<Text>你要有雄心成为真正的世界榜样！如果带领你的人民走向辉煌，你将受到他们的爱戴。</Text>
+		</Row>
+
+		<Row Tag="LOC_DIPLO_KUDO_LEADER_YNL_TAMAMO_REASON_AGENDA_SYMPATHIZER_DARK_AGE" Language="zh_Hans_CN">
+			<Text>你用意志力和决心，去面对当前的难关，这一点让我，也让大和王朝十分敬佩。</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_LEADER_YNL_TAMAMO_REASON_AGENDA_SYMPATHIZER_GOLDEN_AGE" Language="zh_Hans_CN">
+			<Text>呵呵…现在你的人民还在所谓的“光荣时代”里自我陶醉。期待你的衰败早日来临哟～</Text>
+		</Row>
+		
+		<!-- GS专用 -->
+		<Row Tag="LOC_BUILDING_YNL_CHEMICAL_PLANT_EXPANSION2_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>大和王朝的特色建筑。解锁“电力”科技后提供+4 [ICON_Science] 科技值。其 [ICON_Production] 生产力加成延伸到9格范围内的所有市中心（前提是其尚未从其他的化工厂获得加成）。</Text>
+		</Row>
+	</LocalizedText>
+</GameData>

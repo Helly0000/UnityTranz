@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!-- Suk Fuji_Localization_CN -->
+<!-- Author: Clear8Sky -->
+<!-- DateCreated: 3/13/2020 4:55:19 PM -->
+<GameData>
+	<LocalizedText>
+		<Row Tag="LOC_FEATURE_SUK_FUJI_NAME" Language="zh_Hans_CN">
+			<Text>富士山</Text>
+		</Row>
+		<Row Tag="LOC_FEATURE_SUK_FUJI_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>上占1个单元格的自然奇观。无法逾越，为相邻单元格所建造的区域额外提供2点对应类型的 [ICON_GreatPerson] 伟人点数。</Text>
+		</Row>
+		<Row Tag="LOC_FEATURE_SUK_FUJI_QUOTE" Language="zh_Hans_CN">
+			<Text>“一寸寸，[NEWLINE]小蜗牛，[NEWLINE]爬向富士山！”[NEWLINE]– 小林一茶</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_FEATURES_PAGE_FEATURE_SUK_FUJI_CHAPTER_HISTORY_PARA_1" Language="zh_Hans_CN">
+			<Text>富士山是一座活火山，是日本最高的山峰。它高约12000英尺，常被云层包围，从东京可以看到它那著名的雪顶轮廓。这座雄伟的高山是无数艺术作品的主题——诗歌、歌曲、照片、雕塑和绘画。富士山也是日本的“三圣山”之一，与泰特山和哈古山并列。富士山也是全日本引以为豪的美丽象征。</Text>
+		</Row>
+		<Row Tag="LOC_FEATURE_SUK_FUJI_XP2_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>占1个单元格无法逾越的自然奇观。以火山形式出现，并为相邻单元格所建造的区域额外+2点对应类型的 [ICON_GreatPerson] 伟人点数，若区域位于火山土上则改为额外+4点 [ICON_GreatPerson] 伟人点数。喷发时提供少量产出，有极高几率造成建筑与区域的损坏。不常喷发，但总处于活跃状态。</Text>
+		</Row>
+		<Row Tag="LOC_RANDOM_EVENT_FUJI_GENTLE_NAME" Language="zh_Hans_CN">
+			<Text>温和性喷发</Text>
+		</Row>
+		<Row Tag="LOC_RANDOM_EVENT_FUJI_GENTLE_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>樱花丛中，人们忧心忡忡。而艺术家们则看着富士山上冉冉升起的烟柱，陶醉在诗情画意中。</Text>
+		</Row>
+		<Row Tag="LOC_RANDOM_EVENT_FUJI_CATASTROPHIC_NAME" Language="zh_Hans_CN">
+			<Text>灾难性喷发</Text>
+		</Row>
+		<Row Tag="LOC_RANDOM_EVENT_FUJI_CATASTROPHIC_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>诗人们描写着今天发生的恐怖事件，因为火山碎屑流吞噬了曾经平静的富士山周围的一切。</Text>
+		</Row>
+	</LocalizedText>
+</GameData>

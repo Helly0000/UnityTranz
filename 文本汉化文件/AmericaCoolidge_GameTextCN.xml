@@ -1,0 +1,218 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- AmericaCoolidge_GameTextCN -->
+<!-- Author: 春 -->
+<!-- DateCreated: 5/21/2020 00:05:47 AM -->
+<GameData>
+	<LocalizedText>
+		<!--MOD-->
+		<Row Tag="LOC_MOD_JFD_AMERICA_COOLIDGE_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>------------------------------------[NEWLINE]领袖名称 -- 卡尔文·柯立芝[NEWLINE][NEWLINE]领袖特性 - 咆哮的二十年代[NEWLINE]解锁新的经济政策时可获得忠诚度奖励。忠诚度已满的城市+5% [ICON_GOLD] 金币、[ICON_PRODUCTION] 生产力的产出，并且可以进行特色项目“放松企业管制”。[NEWLINE][NEWLINE]特色项目 - 放松企业管制[NEWLINE]卡尔文·柯立芝作为领袖时的特色项目。项目进行时提供 [ICON_GOLD] 金币和 [ICON_CULTURE] 文化值，项目完成时获得 [ICON_GREATENGINEER] 大工程师点数和 [ICON_GREATMERCHANT] 大商人点数。只能在忠诚度已满的城市进行。[NEWLINE][NEWLINE]领袖议程 - 哈密顿经济学[NEWLINE]试图保持人民的幸福和繁荣。尊重拥有相同政体和大量 [ICON_GOLD] 金币的文明。认为政体相同但 [ICON_GOLD] 金币匮乏的文明是管制过严的。</Text>
+		</Row>
+		<!--LEADER-->
+		<Row Tag="LOC_LEADER_JFD_COOLIDGE_NAME" Language="zh_Hans_CN">
+			<Text>卡尔文·柯立芝</Text>
+		</Row>
+		<!--Agenda-->
+		<Row Tag="LOC_AGENDA_JFD_HAMILTONIAN_ECONOMICS_NAME" Language="zh_Hans_CN">
+			<Text>哈密顿经济学</Text>
+		</Row>
+		<Row Tag="LOC_AGENDA_JFD_HAMILTONIAN_ECONOMICS_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>试图保持人民的幸福和繁荣。尊重拥有相同政体和大量 [ICON_GOLD] 金币的文明。认为政体相同但 [ICON_GOLD] 金币匮乏的文明是管制过严的。</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_KUDO_LEADER_JFD_COOLIDGE_REASON_LEADS_GOLD_AND_SAME_GOVERNMENT" Language="zh_Hans_CN">
+			<Text>（你们政体相同并且您有大量金币）</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MODIFIER_AGENDA_JFD_HAMILTONIAN_ECONOMICS_LEADS_GOLD_AND_SAME_GOVERNMENT" Language="zh_Hans_CN">
+			<Text>卡尔文·柯立芝对你们政府的繁荣表示敬意。</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_LEADER_JFD_COOLIDGE_REASON_LAGS_GOLD_AND_SAME_GOVERNMENT" Language="zh_Hans_CN">
+			<Text>（你们政体相同但金币匮乏）</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MODIFIER_AGENDA_JFD_HAMILTONIAN_ECONOMICS_LAGS_GOLD_AND_SAME_GOVERNMENT" Language="zh_Hans_CN">
+			<Text>卡尔文·柯立芝认为你的政府管制过严。</Text>
+		</Row>
+		<!--DOM-->
+		<Row Tag="LOC_LOADING_INFO_LEADER_JFD_COOLIDGE" Language="zh_Hans_CN">
+			<Text>这是一个勤劳创新、繁荣发展的时代。在这样一个混乱的时代，美国人民需要一个沉默、谦逊、体贴、受人尊重的总统。让你的人民在这个新时代的道路上走下去，他们将会感到富足并创造繁荣。</Text>
+		</Row>
+		<!--Traits-->
+		<Row Tag="LOC_TRAIT_LEADER_JFD_ROARING_TWENTIES_NAME" Language="zh_Hans_CN">
+			<Text>咆哮的二十年代</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_LEADER_JFD_ROARING_TWENTIES_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>解锁新的经济政策时获得忠诚度奖励。忠诚度已满的城市+5% [ICON_GOLD] 金币、[ICON_PRODUCTION] 生产力的产出，并且可以进行特色项目“放松企业管制”。</Text>
+		</Row>
+		<!--Civilopedia-->
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_JFD_COOLIDGE_TITLE" Language="zh_Hans_CN">
+			<Text>卡尔文·柯立芝</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_JFD_COOLIDGE_SUBTITLE" Language="zh_Hans_CN">
+			<Text>美利坚合众国总统</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_JFD_COOLIDGE_QUOTE" Language="zh_Hans_CN">
+			<Text>美国人的要紧事就是做买卖。</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_JFD_COOLIDGE_CHAPTER_HISTORY_PARA_1" Language="zh_Hans_CN">
+			<Text>卡尔文·柯立芝于1872年7月14日出生于佛蒙特州南部一个与世隔绝的小村庄普利茅斯。他是英属殖民地时期的新英格兰人后裔。他的父亲是一个节俭、勤劳、自力更生的商店业主和农民，积极地参与当地政治。卡尔文是一个腼腆和虚弱的男孩，持重、节俭、勤奋、沉默寡言。但他从母亲那里——一个他记得“带有点神秘和诗意的女人”——获得了走出普利茅斯诺奇村的向往。[NEWLINE][NEWLINE]柯立芝于1891年进入阿默斯特学院并以优异成绩毕业。在那里他成为了一名出色的辩论者，他的教授激发了他为公众服务的理想。由于负担不起法学院的学费，他在马萨诸塞州北安普敦的一家律师事务所担任职员并学习法律。1897年他获得了律师资格，次年在北安普敦开设了办公室。他在当地非常地成功。1905年，他迎娶了格蕾丝·古德修——一位迷人而活泼的老师。他们有两个儿子：生于1906年的约翰和生于1908年的卡尔文。[NEWLINE][NEWLINE]柯立芝活跃于当地的共和党政治活动，担任了市议会议员、市律师、汉普夏县法院书记员和共和党市委员会主席。他在马萨诸塞州众议院和北安普敦市任职了两届。1911年，他被选为州参议员，两年后，多亏了他的运气、工作的努力、谨慎而熟练的政治策略，他成为了州参议员的主席。这是成为副州长的传统一步；他于1915年被选为副州长，并在1916年和1917年再次当选。与此同时，他获得了“忠诚的党内人士”、“强有力的萨缪尔·W·麦考尔参议员的拥护者”、“可靠的商界人士”和“政府经济和效率的捍卫者”的名声。柯立芝还赢得了波士顿百货公司老板弗兰克·W·斯特恩斯的友谊，后者成为了柯立芝在政治上的热情的助推器。[NEWLINE][NEWLINE]但柯立芝并不是一个心胸狭窄的人。他的信条是通过平衡所有合法利益来促进稳定与和谐。因此，他支持妇女参政、参议院普选、设立公共服务委员会、立法禁止低于成本的售价来削弱竞争、保护儿童和女工人、产妇援助立法和州储蓄银行保险制度。1918年当选州长后，柯立芝推动州政府进行了意义深远的重组，支持通过反牟取暴利立法，并赢得了在调解劳资纠纷方面的公正声誉。但使他闻名全国的是1919年的波士顿警察罢工。他避免卷入这场争端，因为他无权干涉法律。即使在警察罢工时，柯立芝也没有采取行动，直到波士顿市长控制了局势。柯立芝的好运再次来临；他——而不是市长，因为维护法律和秩序而受到赞赏。他对美国劳工联合会主席塞缪尔·龚帕斯对于请求恢复被撤职的罢工者的职务的回复——“在危害公共安全的前提下绝对不会有罢工的权利，不论是任何人，任何地方，任何时间”——使他成为一个广受欢迎的英雄并在那一天的秋季赢得了马萨诸塞州有史以来最多的州长选票，而获得了连任。第二年，在共和党全国代表大会上，大众代表们反对该党领袖对副总统候选人的选择，并在第一轮投票中提名柯立芝为候选人。[NEWLINE][NEWLINE]柯立芝觉得副总统的工作既让人懊恼又无意义。他主持参议院并应总统沃伦·G·哈定的要求低调地参加了内阁会议，但在政府决策中没有充当活跃的角色，由此获得了“沉默的卡尔文”的绰号。[NEWLINE][NEWLINE]1923年哈定的去世使柯立芝一跃而入主白宫。前任总统执政时期的腐败行为被曝光是新总统面临的主要问题。但他本人诚实正直的声誉、及时地任命了特别检察官调查蒂波特山油田丑闻并起诉违法者，在司法部长哈里·多尔蒂拒绝向参议院调查人员公开司法文件后，解除了其职务，这些措施有效地化解了腐败。同时，他在1924年通过巧妙地操作赞助为自己的提名铺平了道路。共和党在1924年的大选主题是繁荣、政府金融和“和柯立芝一起酷”。他大获全胜。[NEWLINE][NEWLINE]除了立法规范和稳定混乱的无线电工业、对商用航空的补贴和促进、以及建立了更有效的解决铁路劳工纠纷的机制的1926年《铁路劳工法》以外，新的柯立芝政府在国内领域基本上是负面记录。暴动者和军人在国会中的分裂阻碍了柯立芝的发展；此外，他不是一个强有力的领导，他的性格使他不愿意采取可能引起麻烦的举动。他还被他的观念所束缚——坚信行政人员的职责仅仅是执行国会通过的法案。最重要的是，他对政府经济的忠诚、允许私营企业进行尽可能广范围的经营的信条、企业自律的信念、对宪法规定的国家权力的狭窄定义以及“涓滴理论”——这些限制了他。[NEWLINE][NEWLINE]柯立芝的国内政策与这些哲学信念相一致。他强烈支持财政部长安德鲁·梅隆关于减税以刺激投资的提议，1926年的税收法案将最高附加税从40%削减到20%，废除了赠予税，并将遗产税减半。他否决了一战退伍军人奖金法案（1924年），但国会推翻了他的否决。他在监管委员会中任命了许多同情企业的人士。他两次否决了麦克纳里-霍根法案，该法案旨在通过补贴将剩余农产品倾销到国外，以提振国内价格。柯立芝未能成功通过允许企业出售或租赁的马斯尔肖尔斯法案，在1928年否决了一项有关政府运作的法案。他削减了用于防洪和联邦水资源开发的开支。他反对减少保护性关税。他不仅没有遏制，而且还鼓励了股市投机，这在1929年造成了灾难性的后果。[NEWLINE][NEWLINE]柯立芝将大部分的外交事务交给了国务卿查尔斯·埃文斯·休斯和后来的弗兰克·B·凯洛格。美国政府在外交领域的主要成就有：建立了专业的公务员制度、对中国修改关税和治外法权条约的要求持谨慎和同情态度、努力恢复与拉美国家的友谊。[NEWLINE][NEWLINE]柯立芝有一个促进国际稳定与和平的模糊而理想主义的愿望。但他反对美国加入当时成立的国际联盟，认为国际联盟是行不通的。他觉得哈定之前承诺美国加入国际法庭约束了他，但在其他成员发对参议院反国际主义者提出的意见时，柯立芝从未获得过国际法庭的批准便否决了它。虽然他确实发挥了他的影响力，使《凯洛格-白里安非战公约》（1928年）获得批准，但他是迫于公众舆论，本人对此条约的意义并没有抱任何幻想。他支持休斯为解决赔款纠纷所做的努力；但他坚决反对取消一战同盟国的债务，据说，他曾说过，“他们花钱了，不是吗?”他在1927年日内瓦会议上为裁军所作努力是失败的。[NEWLINE][NEWLINE]然而柯立芝很受欢迎，并很有可能在1928年连任。但1927年8月2日，他公开宣布，“我决定不在1928年竞选总统。”1924年，他的儿子卡尔文的去世使他对政治失去了兴趣；他和他的妻子都感受到了总统职位带来的身体上的压力，他也对经济的持续健康表示怀疑。1933年1月5日，他因为冠状动脉血栓而逝世于北安普顿。[NEWLINE][NEWLINE]柯立芝不是一个具有远见卓识的领导人。但无论回想起来他有什么缺点，他都符合那个时代人们对稳定和正常生活的向往。</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_JFD_COOLIDGE_CHAPTER_CAPSULE_BODY" Language="zh_Hans_CN">
+			<Text>柯立芝沉默地注视着经济的发展。只要他注意自己的经济政策，他的人民就会努力工作，繁荣昌盛。</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_JFD_COOLIDGE_CHAPTER_DETAILED_BODY" Language="zh_Hans_CN">
+			<Text>在游戏前期，美国的优势在于他们满忠诚度的城市带来的生产力和金币奖励。如果他们想要保持繁荣，他们就会希望通过解锁新的经济政策来保持城市的忠诚。经济政策槽转变为了通配政策槽，所以他们对政体的选择格外重要，尽管古典共和和商人共和国就有助于美国达成文化胜利。他们还应该考虑在市政广场建造国家历史博物馆。电影制片厂、国家公园的加成以及两个工业时代后的特色单位使得美国从20世纪开始闪耀光芒。</Text>
+		</Row>
+		<!--Diplomacy-->
+		<!--FIRST MEET-->
+		<!--First AI line-->
+		<Row Tag="LOC_DIPLO_FIRST_MEET_LEADER_JFD_COOLIDGE_ANY" Language="zh_Hans_CN">
+			<Text>我是卡尔文·柯立芝总统。欢迎来到美利坚合众国。</Text>
+		</Row>
+		<!--AI invitation to visit nearby City-->
+		<Row Tag="LOC_DIPLO_FIRST_MEET_VISIT_RECIPIENT_LEADER_JFD_COOLIDGE_ANY" Language="zh_Hans_CN">
+			<Text>我邀请你到我附近的城市来和我交谈。</Text>
+		</Row>
+		<!--AI accepts Human invitation-->
+		<Row Tag="LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_POSITIVE_LEADER_JFD_COOLIDGE_ANY" Language="zh_Hans_CN">
+			<Text>同意。</Text>
+		</Row>
+		<!--AI invitation to exchange Capital Information-->
+		<Row Tag="LOC_DIPLO_FIRST_MEET_NO_MANS_INFO_EXCHANGE_LEADER_JFD_COOLIDGE_ANY" Language="zh_Hans_CN">
+			<Text>我邀请你和我交换一下我们首都的情况。</Text>
+		</Row>
+		<!--GREETINGS-->
+		<Row Tag="LOC_DIPLO_GREETING_LEADER_JFD_COOLIDGE_ANY" Language="zh_Hans_CN">
+			<Text>……</Text>
+		</Row>
+		<!--DELEGATION-->
+		<!--AI Accepts-->
+		<Row Tag="LOC_DIPLO_ACCEPT_DELEGATION_FROM_HUMAN_LEADER_JFD_COOLIDGE_ANY" Language="zh_Hans_CN">
+			<Text>我同意。</Text>
+		</Row>
+		<!--AI Rejects-->
+		<Row Tag="LOC_DIPLO_REJECT_DELEGATION_FROM_HUMAN_LEADER_JFD_COOLIDGE_ANY" Language="zh_Hans_CN">
+			<Text>我拒绝。</Text>
+		</Row>
+		<!--AI Requests -->
+		<Row Tag="LOC_DIPLO_DELEGATION_FROM_AI_LEADER_JFD_COOLIDGE_ANY" Language="zh_Hans_CN">
+			<Text>我想派遣一个代表团到你那边去。</Text>
+		</Row>
+		<!--OPEN BORDERS-->
+		<!--AI accepts from human-->
+		<Row Tag="LOC_DIPLO_ACCEPT_OPEN_BORDERS_FROM_HUMAN_LEADER_JFD_COOLIDGE_ANY" Language="zh_Hans_CN">
+			<Text>同意。</Text>
+		</Row>
+		<!--AI rejects from human-->
+		<Row Tag="LOC_DIPLO_REJECT_OPEN_BORDERS_FROM_HUMAN_LEADER_JFD_COOLIDGE_ANY" Language="zh_Hans_CN">
+			<Text>拒绝。</Text>
+		</Row>
+		<!--AI requests from human-->
+		<Row Tag="LOC_DIPLO_OPEN_BORDERS_FROM_AI_LEADER_JFD_COOLIDGE_ANY" Language="zh_Hans_CN">
+			<Text>我请求与你达成开放边界协议。</Text>
+		</Row>
+		<!--DECLARE FRIENDSHIP-->
+		<!--AI accepts from human-->
+		<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_HUMAN_LEADER_JFD_COOLIDGE_ANY" Language="zh_Hans_CN">
+			<Text>同意。</Text>
+		</Row>
+		<!--AI Rejects from human -->
+		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_HUMAN_LEADER_JFD_COOLIDGE_ANY" Language="zh_Hans_CN">
+			<Text>不可能。</Text>
+		</Row>
+		<!--AI Requests friendship from human-->
+		<Row Tag="LOC_DIPLO_DECLARE_FRIEND_FROM_AI_LEADER_JFD_COOLIDGE_ANY" Language="zh_Hans_CN">
+			<Text>我请求与贵国政府公开发表友好声明。</Text>
+		</Row>
+		<!--Human accepts AI requests, AI responds-->
+		<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_JFD_COOLIDGE_ANY" Language="zh_Hans_CN">
+			<Text>……</Text>
+		</Row>
+		<!--Human rejects AI requests, AI responds-->
+		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_JFD_COOLIDGE_ANY" Language="zh_Hans_CN">
+			<Text>……</Text>
+		</Row>
+		<!--ALLIANCE-->
+		<!--AI Requests an alliance from human-->
+		<Row Tag="LOC_DIPLO_MAKE_ALLIANCE_FROM_AI_LEADER_JFD_COOLIDGE_ANY" Language="zh_Hans_CN">
+			<Text>我请求与贵国政府结盟。</Text>
+		</Row>
+		<!--KUDOS & WARNINGS-->
+		<!--AI Kudos-->
+		<Row Tag="LOC_DIPLO_KUDO_EXIT_LEADER_JFD_COOLIDGE_ANY" Language="zh_Hans_CN">
+			<Text>维持繁荣！</Text>
+		</Row>
+		<!--AI Warnings-->
+		<Row Tag="LOC_DIPLO_WARNING_EXIT_LEADER_JFD_COOLIDGE_ANY" Language="zh_Hans_CN">
+			<Text>监管导致贫困。</Text>
+		</Row>
+		<!--AI warns player for border troops-->
+		<Row Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_LEADER_JFD_COOLIDGE_ANY" Language="zh_Hans_CN">
+			<Text>小心你的军事行动。</Text>
+		</Row>
+		<!--TRADE-->
+		<!--AI Accepts Deal-->
+		<Row Tag="LOC_DIPLO_ACCEPT_MAKE_DEAL_FROM_AI_LEADER_JFD_COOLIDGE_ANY" Language="zh_Hans_CN">
+			<Text>{LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_JFD_COOLIDGE_ANY}</Text>
+		</Row>
+		<!--AI Rejects Deal-->
+		<Row Tag="LOC_DIPLO_REJECT_MAKE_DEAL_FROM_AI_LEADER_JFD_COOLIDGE_ANY" Language="zh_Hans_CN">
+			<Text>{LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_JFD_COOLIDGE_ANY}</Text>
+		</Row>
+		<!--DENOUNCE-->
+		<!--From Human-->
+		<Row Tag="LOC_DIPLO_DENOUNCE_FROM_HUMAN_LEADER_JFD_COOLIDGE_ANY" Language="zh_Hans_CN">
+			<Text>……</Text>
+		</Row>
+		<!--From AI-->
+		<Row Tag="LOC_DIPLO_DENOUNCE_FROM_AI_LEADER_JFD_COOLIDGE_ANY" Language="zh_Hans_CN">
+			<Text>……[NEWLINE]（谴责你）</Text>
+		</Row>
+		<!--Rationale-->
+		<Row Tag="LOC_DIPLO_DENOUNCE_REASON_FROM_AI_LEADER_ANY_REASON_JFD_HAMILTONIAN_ECONOMICS_LAGS_GOLD_AND_SAME_GOVERNMENT" Language="zh_Hans_CN">
+			<Text>（你们政体相同但金币匮乏）</Text>
+		</Row>
+		<!--DECLARE WAR-->
+		<!--Human Declares War-->
+		<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_HUMAN_LEADER_JFD_COOLIDGE_ANY" Language="zh_Hans_CN">
+			<Text>……</Text>
+		</Row>
+		<!--AI Declares War-->
+		<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_JFD_COOLIDGE_ANY" Language="zh_Hans_CN">
+			<Text>那么就是要战争了。</Text>
+		</Row>
+		<!--MAKE PEACE-->
+		<!--AI accepts from human-->
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_AI_ACCEPT_DEAL_LEADER_JFD_COOLIDGE_ANY" Language="zh_Hans_CN">
+			<Text>同意。</Text>
+		</Row>
+		<!--AI refuses human-->
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_AI_REFUSE_DEAL_LEADER_JFD_COOLIDGE_ANY" Language="zh_Hans_CN">
+			<Text>拒绝。</Text>
+		</Row>
+		<!--AI requests from human-->
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_FROM_AI_LEADER_JFD_COOLIDGE_ANY" Language="zh_Hans_CN">
+			<Text>我恳求和平。</Text>
+		</Row>
+		<!--DEFEAT-->
+		<!--AI is Defeated-->
+		<Row Tag="LOC_DIPLO_DEFEAT_FROM_AI_LEADER_JFD_COOLIDGE_ANY" Language="zh_Hans_CN">
+			<Text>……</Text>
+		</Row>
+		<!--Human is Defeated (will see this in hotseat)-->
+		<Row Tag="LOC_DIPLO_DEFEAT_FROM_HUMAN_LEADER_JFD_COOLIDGE_ANY" Language="zh_Hans_CN">
+			<Text>{LOC_DIPLO_DEFEAT_FROM_AI_LEADER_JFD_COOLIDGE_ANY}</Text>
+		</Row>
+		<!--DEREGULATE BUSINESSES-->
+		<Row Tag="LOC_RESOURCE_JFD_COOLIDGE_NAME" Language="zh_Hans_CN">
+			<Text>放松企业管制</Text>
+		</Row>
+		<Row Tag="LOC_PROJECT_JFD_DEREGULATE_BUSINESSES_NAME" Language="zh_Hans_CN">
+			<Text>放松企业管制</Text>
+		</Row>
+		<Row Tag="LOC_PROJECT_JFD_DEREGULATE_BUSINESSES_SHORT_NAME" Language="zh_Hans_CN">
+			<Text>放松企业管制</Text>
+		</Row>
+		<Row Tag="LOC_PROJECT_JFD_DEREGULATE_BUSINESSES_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>卡尔文·柯立芝作为领袖时的特色项目。项目进行时提供 [ICON_GOLD] 金币和 [ICON_CULTURE] 文化值，项目完成时获得 [ICON_GREATENGINEER] 大工程师点数和 [ICON_GREATMERCHANT] 大商人点数。只能在忠诚度已满的城市进行。</Text>
+		</Row>
+	</LocalizedText>
+</GameData>

@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!-- Sukritact's Tonle Sap_Localization_CN -->
+<!-- Author: Clear8Sky -->
+<!-- DateCreated: 3/13/2020 9:51:53 PM -->
+<GameData>
+	<LocalizedText>
+		<Row Tag="LOC_FEATURE_SUK_TONLESAP_NAME" Language="zh_Hans_CN">
+			<Text>洞里萨湖</Text>
+		</Row>
+		<Row Tag="LOC_FEATURE_SUK_TONLESAP_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>在湖泊地形上占2个单元格的自然奇观。可作为淡水源，并提供+3 [ICON_Food] 食物、+2 [ICON_Production] 生产力。经过该奇观相邻单元格的建造者额外+1行动力。</Text>
+		</Row>
+		<Row Tag="LOC_FEATURE_SUK_TONLESAP_QUOTE" Language="zh_Hans_CN">
+			<Text>“在一年当中有超过五个月的时间，这片柬埔寨的大湖——洞里萨湖都覆盖着一片广阔的土地；这段时期过后，湖水深度因大量蒸发而降低，但其宽度却几乎不变。”[NEWLINE]– 亨利·穆奥</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_FEATURES_PAGE_FEATURE_SUK_TONLESAP_CHAPTER_HISTORY_PARA_1" Language="zh_Hans_CN">
+			<Text>洞里萨湖（Tonlé Sap）俗称“大湖”（Great Lake），泛指季节性泛滥的淡水湖、洞里萨湖和一条连接该湖和湄公河的附属河流，即长120公里的洞里萨河。它们构成了复杂的水文系统的核心部分，坐落于12876平方公里的柬埔寨漫滩上，覆盖着有天然农耕环境的地块，而这些地块每年会从湄公河中补充水分与沉淀。[NEWLINE]作为世界上种类最多样、物产最丰富的生态系统之一，该地区一直是柬埔寨粮食供应的中心。事实证明，它能够在很大程度上维持高棉文明——世界历史上最大的工业时代前综合群居文明。[NEWLINE]作为东南亚最大的淡水湖，洞里萨湖拥有种类繁多、相互联系、生物多样性高的生态区，于1997年被联合国教科文组织列为生态保护区。</Text>
+		</Row>
+	</LocalizedText>
+</GameData>

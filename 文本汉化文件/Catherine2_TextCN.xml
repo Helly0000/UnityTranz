@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Catherine2_TextCN -->
+<!-- Author: 春 -->
+<!-- DateCreated: 5/23/2020 11:10:06 PM -->
+<GameData>
+	<LocalizedText>
+		<Row Tag="LOC_TRAIT_LEADER_GEDEMO_CATHERINE2_NAME" Language="zh_Hans_CN">
+			<Text>西伯利亚财富</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_LEADER_GEDEMO_CATHERINE2_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>战略资源提供+1 [ICON_PRODUCTION] 生产力，改良后的 [ICON_RESOURCE_IRON] 铁、[ICON_RESOURCE_HORSES] 马和 [ICON_RESOURCE_URANIUM] 铀每回合产量+2。[NEWLINE]若位于 [ICON_Capital] 首都的 [ICON_TradeRoute] 贸易路线范围内，则您建立或攻占的、与雪地或冻土相邻的城市可自动形成一条通往 [ICON_Capital] 首都的道路。</Text>
+		</Row>
+
+		<Row Tag="LOC_LEADER_GEDEMO_CATHERINE2" Language="zh_Hans_CN">
+			<Text>叶卡捷琳娜二世</Text>
+		</Row>
+		
+		<Row Tag="LOC_LOADING_INFO_LEADER_GEDEMO_CATHERINE2" Language="zh_Hans_CN">
+			<Text>向您致敬，尊贵而令人敬畏的俄罗斯女王叶卡捷琳娜。在您麾下是世界上最大的国家。俄罗斯帝国的领土广袤无边，东起太平洋，西至波罗的海。尽管历经战火、干旱与各种灾难的洗礼，伟大的俄罗斯人民不仅繁荣不惜，还诞生了许多世界顶尖的艺术家与科学家。在您的指挥下，这个超级大国拥有着毁灭性的武力，使其成为历史上最强大的国家之一。叶卡捷琳娜女王啊！您的子民盼望着俄国能走向更荣耀辉煌的时代，复兴这块袤土，再现启蒙之奇迹。您愿意再次带领您的人民走向吗？您能建起一个经得住时间考验的文明吗？
+			</Text>
+		</Row>
+		<!--Civilopedia-->
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_GEDEMO_CATHERINE2_TITLE" Language="zh_Hans_CN">
+			<Text>叶卡捷琳娜二世</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_GEDEMO_CATHERINE2_SUBTITLE" Language="zh_Hans_CN">
+			<Text>俄国女沙皇</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_GEDEMO_CATHERINE2_QUOTE" Language="zh_Hans_CN">
+			<Text>你不能评判胜者。</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_GEDEMO_CATHERINE2_CHAPTER_HISTORY_PARA_1" Language="zh_Hans_CN">
+			<Text>叶卡捷琳娜大帝在18时期的后期统治俄国。她见证了俄罗斯帝国的迅速扩张，用军事力量和高明的外交手段给俄国增加了数万平方英里地盘。她是个美丽又聪慧的女子，她运用自己的魅力迷倒了欧洲最聪明的人，使她的宫廷成为整个欧洲新思想的中心。虽然她出生于德国，叶卡捷琳娜大帝却是俄国历史上最伟大的君主之一。</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_GEDEMO_CATHERINE2_CHAPTER_HISTORY_PARA_2" Language="zh_Hans_CN">
+			<Text>作为一位沙皇，叶卡捷琳娜推行以武力来扩张俄国版图的政策。在一名哥萨克擅自进入土耳其并且据称屠杀了巴尔塔的居民后，苏丹穆斯塔法三世发动了“第五次俄土战争(1768-1774)”。俄国在这场战争中获得完胜，为叶卡捷琳娜得到了乌克兰南部、高加索北部以及克里米亚，让俄国的版图扩展到黑海地区。土耳其后来想设法用第六次俄土战争拿回这些地区，却非常不幸地再次失败。在法国大革命后，叶卡捷琳娜开始恐惧在欧洲的启蒙运动会影响到君主的权力。在这世纪末之前，俄国的傀儡波兰开始出现民主的倾向。1792年，俄国军队在“1792年俄波战争”中打败了波兰的部队，后来波兰被俄国、奥地利和普鲁士分割吞并。在叶卡捷琳娜当政时期，她始终和欧洲其他强大的国家保持着密切的关系，所以在后来，普鲁士、法国和奥地利都没有阻止俄国扩张自己的版图。</Text>
+		</Row>
+
+		<!--Diplomacy-->
+		<!--FIRST MEET-->
+		<!--First AI line-->
+		<Row Tag="LOC_DIPLO_FIRST_MEET_LEADER_GEDEMO_CATHERINE2_ANY" Language="zh_Hans_CN">
+			<Text>欢迎你，陌生人。如果你像你的魅力一样机智聪明，那我们会相处得很好。</Text>
+		</Row>
+		<!--AI invitation to visit nearby City-->
+		<Row Tag="LOC_DIPLO_FIRST_MEET_VISIT_RECIPIENT_LEADER_GEDEMO_CATHERINE2_ANY" Language="zh_Hans_CN">
+			<Text>你好，我是叶卡捷琳娜二世，伟大的俄罗斯女皇，你愿意来参观我们附近的城市吗？</Text>
+		</Row>
+		<!--AI accepts Human invitation-->
+		<Row Tag="LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_POSITIVE_LEADER_GEDEMO_CATHERINE2_ANY" Language="zh_Hans_CN">
+			<Text>谢谢你。</Text>
+		</Row>
+		<!--AI invitation to exchange Capital Information-->
+		<Row Tag="LOC_DIPLO_FIRST_MEET_NO_MANS_INFO_EXCHANGE_LEADER_GEDEMO_CATHERINE2_ANY" Language="zh_Hans_CN">
+			<Text>我邀请你们交换我们各自首都的信息。</Text>
+		</Row>
+		<!--GREETINGS-->
+		<Row Tag="LOC_DIPLO_GREETING_LEADER_GEDEMO_CATHERINE2_ANY" Language="zh_Hans_CN">
+			<Text>你好！</Text>
+		</Row>
+		<!--DELEGATION-->
+		<!--AI Accepts-->
+		<Row Tag="LOC_DIPLO_ACCEPT_DELEGATION_FROM_HUMAN_LEADER_GEDEMO_CATHERINE2_ANY" Language="zh_Hans_CN">
+			<Text>我愉快地接受你的使团。</Text>
+		</Row>
+		<!--AI Rejects-->
+		<Row Tag="LOC_DIPLO_REJECT_DELEGATION_FROM_HUMAN_LEADER_GEDEMO_CATHERINE2_ANY" Language="zh_Hans_CN">
+			<Text>很遗憾，不行。</Text>
+		</Row>
+		<!--AI Requests -->
+		<Row Tag="LOC_DIPLO_DELEGATION_FROM_AI_LEADER_GEDEMO_CATHERINE2_ANY" Language="zh_Hans_CN">
+			<Text>我派遣了一个贸易代表团，带着我们国家的礼物：俄罗斯套娃、伏特加酒和毛皮。</Text>
+		</Row>
+		<!--OPEN BORDERS-->
+		<!--AI accepts from human-->
+		<Row Tag="LOC_DIPLO_ACCEPT_OPEN_BORDERS_FROM_HUMAN_LEADER_GEDEMO_CATHERINE2_ANY" Language="zh_Hans_CN">
+			<Text>是的，我同意向你们的士兵开放边境。</Text>
+		</Row>
+		<!--AI rejects from human-->
+		<Row Tag="LOC_DIPLO_REJECT_OPEN_BORDERS_FROM_HUMAN_LEADER_GEDEMO_CATHERINE2_ANY" Language="zh_Hans_CN">
+			<Text>我们目前不感兴趣。</Text>
+		</Row>
+		<!--AI requests from human-->
+		<Row Tag="LOC_DIPLO_OPEN_BORDERS_FROM_AI_LEADER_GEDEMO_CATHERINE2_ANY" Language="zh_Hans_CN">
+			<Text>你能允许我们的部队通过你的领土吗？</Text>
+		</Row>
+		<!--DECLARE FRIENDSHIP-->
+		<!--AI accepts from human-->
+		<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_HUMAN_LEADER_GEDEMO_CATHERINE2_ANY" Language="zh_Hans_CN">
+			<Text>我接受你的友谊。</Text>
+		</Row>
+		<!--AI Rejects from human -->
+		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_HUMAN_LEADER_GEDEMO_CATHERINE2_ANY" Language="zh_Hans_CN">
+			<Text>我拒绝如此荒谬的提议。</Text>
+		</Row>
+		<!--AI Requests friendship from human-->
+		<Row Tag="LOC_DIPLO_DECLARE_FRIEND_FROM_AI_LEADER_GEDEMO_CATHERINE2_ANY" Language="zh_Hans_CN">
+			<Text>仔细考虑下这一友谊提议，这对你有好处。</Text>
+		</Row>
+		<!--Human accepts AI requests, AI responds-->
+		<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_GEDEMO_CATHERINE2_ANY" Language="zh_Hans_CN">
+			<Text>谢谢你，朋友。</Text>
+		</Row>
+		<!--Human rejects AI requests, AI responds-->
+		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_GEDEMO_CATHERINE2_ANY" Language="zh_Hans_CN">
+			<Text>真遗憾。</Text>
+		</Row>
+		<!--ALLIANCE-->
+		<!--AI Requests an alliance from human-->
+		<Row Tag="LOC_DIPLO_MAKE_ALLIANCE_FROM_AI_LEADER_GEDEMO_CATHERINE2_ANY" Language="zh_Hans_CN">
+			<Text>你愿意结成同盟吗？</Text>
+		</Row>
+		<!--KUDOS & WARNINGS-->
+		<!--AI Kudos-->
+		<Row Tag="LOC_DIPLO_KUDO_EXIT_LEADER_GEDEMO_CATHERINE2_ANY" Language="zh_Hans_CN">
+			<Text>你是一个长期的伙伴，我喜欢。</Text>
+		</Row>
+		<!--AI Warnings-->
+		<Row Tag="LOC_DIPLO_WARNING_EXIT_LEADER_GEDEMO_CATHERINE2_ANY" Language="zh_Hans_CN">
+			<Text>你是个懦夫！</Text>
+		</Row>
+		<!--AI warns player for border troops-->
+		<Row Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_LEADER_GEDEMO_CATHERINE2_ANY" Language="zh_Hans_CN">
+			<Text>一群邪恶的士兵集结在我们边境……你想在不幸的事情发生之前撤走他们吗？</Text>
+		</Row>
+		<!--TRADE-->
+		<!--AI Accepts Deal-->
+		<Row Tag="LOC_DIPLO_ACCEPT_MAKE_DEAL_FROM_AI_LEADER_GEDEMO_CATHERINE2_ANY" Language="zh_Hans_CN">
+			<Text>{LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_GEDEMO_CATHERINE2_ANY}</Text>
+		</Row>
+		<!--AI Rejects Deal-->
+		<Row Tag="LOC_DIPLO_REJECT_MAKE_DEAL_FROM_AI_LEADER_GEDEMO_CATHERINE2_ANY" Language="zh_Hans_CN">
+			<Text>{LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_GEDEMO_CATHERINE2_ANY}</Text>
+		</Row>
+		<!--DENOUNCE-->
+		<!--From Human-->
+		<Row Tag="LOC_DIPLO_DENOUNCE_FROM_HUMAN_LEADER_GEDEMO_CATHERINE2_ANY" Language="zh_Hans_CN">
+			<Text>我公开抗议。</Text>
+		</Row>
+		<!--From AI-->
+		<Row Tag="LOC_DIPLO_DENOUNCE_FROM_AI_LEADER_GEDEMO_CATHERINE2_ANY" Language="zh_Hans_CN">
+			<Text>你在我们背后搞阴谋。请放心，我会警告其他人的！[NEWLINE]（谴责你）</Text>
+		</Row>
+		<!--DECLARE WAR-->
+		<!--Human Declares War-->
+		<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_HUMAN_LEADER_GEDEMO_CATHERINE2_ANY" Language="zh_Hans_CN">
+			<Text>你把我的嗜好搞错了吧？你会后悔的！</Text>
+		</Row>
+		<!--AI Declares War-->
+		<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_GEDEMO_CATHERINE2_ANY" Language="zh_Hans_CN">
+			<Text>你自己的举止行为非常差，你知道的，现在该偿还了。</Text>
+		</Row>
+		<!--MAKE PEACE-->
+		<!--AI accepts from human-->
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_AI_ACCEPT_DEAL_LEADER_GEDEMO_CATHERINE2_ANY" Language="zh_Hans_CN">
+			<Text>让我们和解。</Text>
+		</Row>
+		<!--AI refuses human-->
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_AI_REFUSE_DEAL_LEADER_GEDEMO_CATHERINE2_ANY" Language="zh_Hans_CN">
+			<Text>绝对不行。</Text>
+		</Row>
+		<!--AI requests from human-->
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_FROM_AI_LEADER_GEDEMO_CATHERINE2_ANY" Language="zh_Hans_CN">
+			<Text>我提议休战，你认为呢？</Text>
+		</Row>
+		<!--DEFEAT-->
+		<!--AI is Defeated-->
+		<Row Tag="LOC_DIPLO_DEFEAT_FROM_AI_LEADER_GEDEMO_CATHERINE2_ANY" Language="zh_Hans_CN">
+			<Text>我们被打败了，我成了你的阶下囚，我想还会有更坏的命运吧。</Text>
+		</Row>
+		<!--Human is Defeated (will see this in hotseat)-->
+		<Row Tag="LOC_DIPLO_DEFEAT_FROM_HUMAN_LEADER_GEDEMO_CATHERINE2_ANY" Language="zh_Hans_CN">
+			<Text>[LOC_DIPLO_DEFEAT_FROM_AI_LEADER_GEDEMO_CATHERINE2_ANY]</Text>
+		</Row>
+
+		<Row Tag="LOC_AGENDA_GEDEMO_CATHERINE2_NAME" Language="zh_Hans_CN">
+			<Text>北塞米拉米斯</Text>
+		</Row>
+		<Row Tag="LOC_AGENDA_GEDEMO_CATHERINE2_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>试图将尽可能多的土地纳入版图，并喜欢同样这么做的人。不喜欢领土狭小的文明。</Text>
+		</Row>
+		
+	</LocalizedText>
+</GameData>

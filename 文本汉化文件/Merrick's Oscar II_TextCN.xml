@@ -1,0 +1,418 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Merrick's Oscar II_TextCN -->
+<!-- Author: 春 -->
+<!-- DateCreated: 5/29/2020 11:33:06 PM -->
+<GameData>
+	<LocalizedText>
+		<!--LEADER-->
+		<Row Tag="LOC_LEADER_MER_OSCAR_II_SWEDEN_NAME" Language="zh_Hans_CN">
+			<Text>奥斯卡二世</Text>
+		</Row>
+		<!--Agenda-->
+		<Row Tag="LOC_AGENDA_MER_MEMORIALS_OF_THE_SWEDISH_FLEET_NAME" Language="zh_Hans_CN">
+			<Text>瑞典舰队纪念碑</Text>
+		</Row>
+		<Row Tag="LOC_AGENDA_MER_MEMORIALS_OF_THE_SWEDISH_FLEET_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>试图建设科学和生产力。喜欢同样这么做的文明，不喜欢不这么做的文明。</Text>
+		</Row>
+		<!--Kudos-->
+		<Row Tag="LOC_DIPLO_KUDOS_LEADER_MER_OSCAR_II_REASON_CULTURE" Language="zh_Hans_CN">
+			<Text>（您拥有科技文化）</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MODIFIER_AGENDA_MER_MEMORIALS_OF_THE_SWEDISH_FLEET_CULTURE" Language="zh_Hans_CN">
+			<Text>奥斯卡二世对你的科技印象深刻。</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_KUDOS_LEADER_MER_OSCAR_II_REASON_INDUSTRY" Language="zh_Hans_CN">
+			<Text>（你的生产力发达）</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MODIFIER_AGENDA_MER_MEMORIALS_OF_THE_SWEDISH_FLEET_INDUSTRY" Language="zh_Hans_CN">
+			<Text>奥斯卡二世对你的工业印象深刻。</Text>
+		</Row>
+		<!--Warning-->
+		<Row Tag="LOC_DIPLO_WARNING_LEADER_MER_OSCAR_II_SWEDEN_REASON_SMALL_CULTURE" Language="zh_Hans_CN">
+			<Text>（奥斯卡二世认为你缺乏科学）</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MODIFIER_AGENDA_MER_MEMORIALS_OF_THE_SWEDISH_FLEET_SMALL_CULTURE" Language="zh_Hans_CN">
+			<Text>奥斯卡二世认为你没有教养。</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_LEADER_MER_OSCAR_II_SWEDEN_REASON_SMALL_INDUSTRY" Language="zh_Hans_CN">
+			<Text>（奥斯卡二世认为你应该更专注于你的生产）</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MODIFIER_AGENDA_MER_MEMORIALS_OF_THE_SWEDISH_FLEET_SMALL_INDUSTRY" Language="zh_Hans_CN">
+			<Text>奥斯卡二世对你的落后工业嗤之以鼻。</Text>
+		</Row>
+		<!--DOM-->
+		<Row Tag="LOC_LOADING_INFO_LEADER_MER_OSCAR_II_SWEDEN" Language="zh_Hans_CN">
+			<Text>祝福你，奥斯卡二世，最后的瑞典和挪威之王。你对政治、艺术和科技的敏锐让你成为一名杰出的、广受爱戴的统治者，在瑞典处于一段危难的历史时期以及进行工业革命时，你一直在守望着它。在需要之时，联邦会再次寻求你的领导。</Text>
+		</Row>
+		<!--Traits-->
+		<Row Tag="LOC_TRAIT_LEADER_MER_WELFARE_OF_THE_BROTHER_PEOPLES_NAME" Language="zh_Hans_CN">
+			<Text>兄弟人民的福祉</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_LEADER_MER_WELFARE_OF_THE_BROTHER_PEOPLES_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>忠诚度满的城市进行项目与训练海军单位时+30% [ICON_Production] 生产力。拥有港口、学院或剧院广场的城市+1 [ICON_Amenities] 宜居度、+2忠诚度；若上述三个区域全都拥有，则加成翻倍。生态博物馆+2 [ICON_Science] 科技值。</Text>
+		</Row>
+		<!--Civilopedia-->
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_MER_OSCAR_II_SWEDEN_TITLE" Language="zh_Hans_CN">
+			<Text>奥斯卡二世</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_MER_OSCAR_II_SWEDEN_SUBTITLE" Language="zh_Hans_CN">
+			<Text>瑞典和挪威国王</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_MER_OSCAR_II_SWEDEN_QUOTE" Language="zh_Hans_CN">
+			<Text>我宁愿让我的人民嘲笑我的小气，也不愿让他们为我的挥霍而哭泣。</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_MER_OSCAR_II_SWEDEN_CHAPTER_HISTORY_PARA_1" Language="zh_Hans_CN">
+			<Text>【译者注：正在翻译……】[NEWLINE][NEWLINE]Oscar II, baptised Oscar Fredrik, was King of Sweden from 1872 until his death and King of Norway from 1872 until 1905. The third son of King Oscar I of Sweden and Josephine of Leuchtenberg, he was a descendant of Gustav I of Sweden through his mother.  </Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_MER_OSCAR_II_SWEDEN_CHAPTER_HISTORY_PARA_2" Language="zh_Hans_CN">
+			<Text>His acute intelligence and his aloofness from the dynastic considerations affecting most European sovereigns (both of his grandfathers were French military commanders who served under Napoleon) gave the king considerable weight as an arbitrator in international questions. At the request of Great Britain, Germany and the United States in 1889 he appointed the Chief Justice of Samoa under the Treaty of Berlin, and he was again called on to arbitrate in Samoan affairs in 1899. </Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_MER_OSCAR_II_SWEDEN_CHAPTER_HISTORY_PARA_3" Language="zh_Hans_CN">
+			<Text>He remained a strong supporter of the Navy throughout his life, and frequently visited ships of the fleet. When the coastal defence ship Oscar II was launched, he even signed his name on the vessel's aft main gun tower. In 1858 a collection of his lyrical and narrative poems, Memorials of the Swedish Fleet, published anonymously, obtained the second prize of the Swedish Academy. His "Contributions to the Military History of Sweden in the Years 1711, 1712, 1713", originally appeared in the Annals of the Academy, and were printed separately in 1865. </Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_MER_OSCAR_II_SWEDEN_CHAPTER_HISTORY_PARA_4" Language="zh_Hans_CN">
+			<Text>Being a theater lover, he commissioned a new opera house to be built by Axel Anderberg for the Royal Swedish Opera which was inaugurated on 19 September 1898. It is until today the current home of that institution. Oscar II told Henrik Ibsen that his Ghosts was "not a good play". As he was dying, he requested that the theatres not be closed on account of his death. His wishes were respected. </Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_MER_OSCAR_II_SWEDEN_CHAPTER_HISTORY_PARA_5" Language="zh_Hans_CN">
+			<Text>Oscar was king during a time when Sweden was undergoing a period of industrialization and rapid technological progress. His reign also saw the gradual decline of the Union of Sweden and Norway, which culminated in its dissolution in 1905. He was subsequently succeeded as King of Norway by his grandnephew Prince Carl of Denmark under the regnal name Haakon VII, and as King of Sweden by his eldest son, Gustaf V. </Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_MER_OSCAR_II_SWEDEN_CHAPTER_CAPSULE_BODY" Language="zh_Hans_CN">
+			<Text>奥斯卡二世领导的瑞典谋求让他的民众们保持幸福之法，为那些能获得伟人点数的项目提供加成，而这对瑞典获得诺贝尔奖十分重要。</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_MER_OSCAR_II_SWEDEN_CHAPTER_DETAILED_BODY" Language="zh_Hans_CN">
+			<Text>瑞典在赢得伟人方面的优势，被奥斯卡二世的能力所加强，他会对宜居度为“高兴的”或“欣喜若狂的”城市中所进行的项目提供加成。他的海军单位训练加成对于巩固瑞典海岸线的防御十分重要。</Text>
+		</Row>
+		<!--Diplomacy-->
+		<!--FIRST MEET-->
+		<!--First AI line-->
+		<Row Tag="LOC_DIPLO_FIRST_MEET_LEADER_MER_OSCAR_II_SWEDEN_ANY" Language="zh_Hans_CN">
+			<Text>我是瑞典国王奥斯卡二世。让我们谈谈吧，好让我们更多地了解对方，并建立持久的友谊。</Text>
+		</Row>
+		<!--AI invitation to visit nearby City-->
+		<Row Tag="LOC_DIPLO_FIRST_MEET_VISIT_RECIPIENT_LEADER_MER_OSCAR_II_SWEDEN_ANY" Language="zh_Hans_CN">
+			<Text>我最好的歌剧院在今晚会举行一场演出，你有兴趣作为贵宾出席吗？</Text>
+		</Row>
+		<!--AI accepts Human invitation-->
+		<Row Tag="LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_POSITIVE_LEADER_MER_OSCAR_II_SWEDEN_ANY" Language="zh_Hans_CN">
+			<Text>我会亲自去参观的，谢谢。</Text>
+		</Row>
+		<!--AI invitation to exchange Capital Information-->
+		<Row Tag="LOC_DIPLO_FIRST_MEET_NO_MANS_INFO_EXCHANGE_LEADER_MER_OSCAR_II_SWEDEN_ANY" Language="zh_Hans_CN">
+			<Text>我们应该交换首都的地图。</Text>
+		</Row>
+		<!--GREETINGS-->
+		<Row Tag="LOC_DIPLO_GREETING_LEADER_MER_OSCAR_II_SWEDEN_ANY" Language="zh_Hans_CN">
+			<Text>欢迎！</Text>
+		</Row>
+		<!--DELEGATION-->
+		<!--AI Accepts-->
+		<Row Tag="LOC_DIPLO_ACCEPT_DELEGATION_FROM_HUMAN_LEADER_MER_OSCAR_II_SWEDEN_ANY" Language="zh_Hans_CN">
+			<Text>我们热烈欢迎你的代表团。</Text>
+		</Row>
+		<!--AI Rejects-->
+		<Row Tag="LOC_DIPLO_REJECT_DELEGATION_FROM_HUMAN_LEADER_MER_OSCAR_II_SWEDEN_ANY" Language="zh_Hans_CN">
+			<Text>我们现在没有功夫谈论外国的政治，我们正忙于自己国内的事。</Text>
+		</Row>
+		<!--AI Requests -->
+		<Row Tag="LOC_DIPLO_DELEGATION_FROM_AI_LEADER_MER_OSCAR_II_SWEDEN_ANY" Language="zh_Hans_CN">
+			<Text>我派遣了代表团到你们的首都，带上了我最喜欢的文学的抄本。我还偷偷地放了一本自己的作品，好好享受吧！</Text>
+		</Row>
+		<!--OPEN BORDERS-->
+		<!--AI accepts from human-->
+		<Row Tag="LOC_DIPLO_ACCEPT_OPEN_BORDERS_FROM_HUMAN_LEADER_MER_OSCAR_II_SWEDEN_ANY" Language="zh_Hans_CN">
+			<Text>没问题。</Text>
+		</Row>
+		<!--AI rejects from human-->
+		<Row Tag="LOC_DIPLO_REJECT_OPEN_BORDERS_FROM_HUMAN_LEADER_MER_OSCAR_II_SWEDEN_ANY" Language="zh_Hans_CN">
+			<Text>我们必须拒绝。</Text>
+		</Row>
+		<!--AI requests from human-->
+		<Row Tag="LOC_DIPLO_OPEN_BORDERS_FROM_AI_LEADER_MER_OSCAR_II_SWEDEN_ANY" Language="zh_Hans_CN">
+			<Text>我向你提交了开放边界的请求，希望我的条件能令你满意。</Text>
+		</Row>
+		<!--DECLARE FRIENDSHIP-->
+		<!--AI accepts from human-->
+		<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_HUMAN_LEADER_MER_OSCAR_II_SWEDEN_ANY" Language="zh_Hans_CN">
+			<Text>我们考虑了你的建议，很高兴与你成为朋友。</Text>
+		</Row>
+		<!--AI Rejects from human -->
+		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_HUMAN_LEADER_MER_OSCAR_II_SWEDEN_ANY" Language="zh_Hans_CN">
+			<Text>我们已经有太多的事情需要操心了。</Text>
+		</Row>
+		<!--AI Requests friendship from human-->
+		<Row Tag="LOC_DIPLO_DECLARE_FRIEND_FROM_AI_LEADER_MER_OSCAR_II_SWEDEN_ANY" Language="zh_Hans_CN">
+			<Text>我们应该正式宣布我们的密切关系。</Text>
+		</Row>
+		<!--Human accepts AI requests, AI responds-->
+		<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_MER_OSCAR_II_SWEDEN_ANY" Language="zh_Hans_CN">
+			<Text>友谊天长地久。</Text>
+		</Row>
+		<!--Human rejects AI requests, AI responds-->
+		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_MER_OSCAR_II_SWEDEN_ANY" Language="zh_Hans_CN">
+			<Text>嗯。也许下次吧。</Text>
+		</Row>
+		<!--ALLIANCE-->
+		<!--AI Requests an alliance from human-->
+		<Row Tag="LOC_DIPLO_MAKE_ALLIANCE_FROM_AI_LEADER_MER_OSCAR_II_SWEDEN_ANY" Language="zh_Hans_CN">
+			<Text>我们向贵国正式提出联合的建议。</Text>
+		</Row>
+		<!--KUDOS & WARNINGS-->
+		<!--AI Kudos-->
+		<Row Tag="LOC_DIPLO_KUDO_EXIT_LEADER_MER_OSCAR_II_SWEDEN_CULTURE" Language="zh_Hans_CN">
+			<Text>你们是我见过最文明、最勤奋的文明之一，你应该骄傲。</Text>
+		</Row>
+		<!--AI Warnings-->
+		<Row Tag="LOC_DIPLO_WARNING_EXIT_LEADER_MER_OSCAR_II_SWEDEN_ANY" Language="zh_Hans_CN">
+			<Text>你的人民肯定百无聊赖，因为他们无所事事。</Text>
+		</Row>
+		<!--AI warns player for border troops-->
+		<Row Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_LEADER_MER_OSCAR_II_SWEDEN_ANY" Language="zh_Hans_CN">
+			<Text>我们的边境被周全地保护着，你最好还是撤军。</Text>
+		</Row>
+		<!--TRADE-->
+		<!--AI Accepts Deal-->
+		<Row Tag="LOC_DIPLO_ACCEPT_MAKE_DEAL_FROM_AI_LEADER_MER_OSCAR_II_SWEDEN_ANY" Language="zh_Hans_CN">
+			<Text>{LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_MER_OSCAR_II_SWEDEN_ANY}</Text>
+		</Row>
+		<!--AI Rejects Deal-->
+		<Row Tag="LOC_DIPLO_REJECT_MAKE_DEAL_FROM_AI_LEADER_MER_OSCAR_II_SWEDEN_ANY" Language="zh_Hans_CN">
+			<Text>{LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_MER_OSCAR_II_SWEDEN_ANY}</Text>
+		</Row>
+		<!--DENOUNCE-->
+		<!--From Human-->
+		<Row Tag="LOC_DIPLO_DENOUNCE_FROM_HUMAN_LEADER_MER_OSCAR_II_SWEDEN_ANY" Language="zh_Hans_CN">
+			<Text>我没有必要听一个没有教养的傻瓜胡说八道。</Text>
+		</Row>
+		<!--From AI-->
+		<Row Tag="LOC_DIPLO_DENOUNCE_FROM_AI_LEADER_MER_OSCAR_II_SWEDEN_ANY" Language="zh_Hans_CN">
+			<Text>你的领导缺乏智慧和判断力，你的人民应有更好的待遇。[NEWLINE]（谴责你）</Text>
+		</Row>
+		<!--Rationale-->
+		<Row Tag="LOC_DIPLO_DENOUNCE_REASON_FROM_AI_LEADER_ANY_REASON_MER_MEMORIALS_OF_THE_SWEDISH_FLEET_SMALL_CULTURE" Language="zh_Hans_CN">
+			<Text>（您缺乏文化）</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DENOUNCE_REASON_FROM_AI_LEADER_ANY_REASON_MER_MEMORIALS_OF_THE_SWEDISH_FLEET_SMALL_NAVY" Language="zh_Hans_CN">
+			<Text>（您有一支弱小的海军）</Text>
+		</Row>
+
+		<!--DECLARE WAR-->
+		<!--Human Declares War-->
+		<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_HUMAN_LEADER_MER_OSCAR_II_SWEDEN_ANY" Language="zh_Hans_CN">
+			<Text>欲战便战。</Text>
+		</Row>
+		<!--AI Declares War-->
+		<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_MER_OSCAR_II_SWEDEN_ANY" Language="zh_Hans_CN">
+			<Text>战争是我最后的选择，但你让我别无选择。</Text>
+		</Row>
+		<!--MAKE PEACE-->
+		<!--AI accepts from human-->
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_AI_ACCEPT_DEAL_LEADER_MER_OSCAR_II_SWEDEN_ANY" Language="zh_Hans_CN">
+			<Text>当然。</Text>
+		</Row>
+		<!--AI refuses human-->
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_AI_REFUSE_DEAL_LEADER_MER_OSCAR_II_SWEDEN_ANY" Language="zh_Hans_CN">
+			<Text>别以为我是个懦夫。</Text>
+		</Row>
+		<!--AI requests from human-->
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_FROM_AI_LEADER_MER_OSCAR_II_SWEDEN_ANY" Language="zh_Hans_CN">
+			<Text>战争不会给我们带来任何东西。以进步和知识之名，战争必须结束。</Text>
+		</Row>
+		<!--DEFEAT-->
+		<!--AI is Defeated-->
+		<Row Tag="LOC_DIPLO_DEFEAT_FROM_AI_LEADER_MER_OSCAR_II_SWEDEN_ANY" Language="zh_Hans_CN">
+			<Text>我承认，此次失败令我痛苦和愤怒。我会死去，我知道自己辜负了人民。</Text>
+		</Row>
+		<!--Human is Defeated (will see this in hotseat)-->
+		<Row Tag="LOC_DIPLO_DEFEAT_FROM_HUMAN_LEADER_MER_OSCAR_II_SWEDEN_ANY" Language="zh_Hans_CN">
+			<Text>{LOC_DIPLO_DEFEAT_FROM_AI_LEADER_MER_OSCAR_II_SWEDEN_ANY}</Text>
+		</Row>
+		
+		
+		<!--LEADER-->
+		<Row Tag="LOC_LEADER_MER_OSCAR_II_NORWAY_NAME" Language="zh_Hans_CN">
+			<Text>奥斯卡二世</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_MER_CHRISTIANIA" Language="zh_Hans_CN">
+			<Text>克里斯蒂安尼亚</Text>
+		</Row>
+		<!--Traits-->
+		<Row Tag="LOC_TRAIT_LEADER_MER_WELFARE_OF_THE_BROTHER_PEOPLES_NORWEGIAN_NAME" Language="zh_Hans_CN">
+			<Text>兄弟人民的福祉</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_LEADER_MER_WELFARE_OF_THE_BROTHER_PEOPLES_NORWEGIAN_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>忠诚度满的城市进行项目与训练海军单位时+30% [ICON_Production] 生产力。拥有港口、学院或剧院广场的城市+1 [ICON_Amenities] 宜居度、+2 忠诚度，若上述三个区域全都拥有，则加成翻倍。解锁市政“民族主义”后可以建造生态博物馆。</Text>
+		</Row>
+		<Row Tag="LOC_IMPROVEMENT_MER_NORWEGIAN_OPEN_AIR_MUSEUM_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>解锁建造者建造生态博物馆的能力。[NEWLINE][NEWLINE]每回合+2忠诚度。对于每一类地形（雪地、冻土、沙漠、平原或草原）中，若您在该类地形上拥有至少一座城市，则您所有生态博物馆+2 [ICON_Culture] 文化值、+2 [ICON_Tourism] 旅游业绩。每个城市仅限建造一个生态博物馆。生态博物馆所在的单元格无法被切换到其他城市。</Text>
+		</Row>
+		<!--Civilopedia-->
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_MER_OSCAR_II_NORWAY_TITLE" Language="zh_Hans_CN">
+			<Text>奥斯卡二世</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_MER_OSCAR_II_NORWAY_SUBTITLE" Language="zh_Hans_CN">
+			<Text>瑞典和挪威国王</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_MER_OSCAR_II_NORWAY_QUOTE" Language="zh_Hans_CN">
+			<Text>我宁愿让我的人民嘲笑我的小气，也不愿让他们为我的挥霍而哭泣。</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_MER_OSCAR_II_NORWAY_CHAPTER_HISTORY_PARA_1" Language="zh_Hans_CN">
+			<Text>【译者注：正在翻译……】[NEWLINE][NEWLINE]Oscar II, baptised Oscar Fredrik, was King of Sweden from 1872 until his death and King of Norway from 1872 until 1905. The third son of King Oscar I of Sweden and Josephine of Leuchtenberg, he was a descendant of Gustav I of Sweden through his mother.  </Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_MER_OSCAR_II_NORWAY_CHAPTER_HISTORY_PARA_2" Language="zh_Hans_CN">
+			<Text>His acute intelligence and his aloofness from the dynastic considerations affecting most European sovereigns (both of his grandfathers were French military commanders who served under Napoleon) gave the king considerable weight as an arbitrator in international questions. At the request of Great Britain, Germany and the United States in 1889 he appointed the Chief Justice of Samoa under the Treaty of Berlin, and he was again called on to arbitrate in Samoan affairs in 1899. </Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_MER_OSCAR_II_NORWAY_CHAPTER_HISTORY_PARA_3" Language="zh_Hans_CN">
+			<Text>He remained a strong supporter of the Navy throughout his life, and frequently visited ships of the fleet. When the coastal defence ship Oscar II was launched, he even signed his name on the vessel's aft main gun tower. In 1858 a collection of his lyrical and narrative poems, Memorials of the Swedish Fleet, published anonymously, obtained the second prize of the Swedish Academy. His "Contributions to the Military History of Sweden in the Years 1711, 1712, 1713", originally appeared in the Annals of the Academy, and were printed separately in 1865. </Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_MER_OSCAR_II_NORWAY_CHAPTER_HISTORY_PARA_4" Language="zh_Hans_CN">
+			<Text>Being a theater lover, he commissioned a new opera house to be built by Axel Anderberg for the Royal Swedish Opera which was inaugurated on 19 September 1898. It is until today the current home of that institution. Oscar II told Henrik Ibsen that his Ghosts was "not a good play". As he was dying, he requested that the theatres not be closed on account of his death. His wishes were respected. </Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_MER_OSCAR_II_NORWAY_CHAPTER_HISTORY_PARA_5" Language="zh_Hans_CN">
+			<Text>Oscar was king during a time when Sweden was undergoing a period of industrialization and rapid technological progress. His reign also saw the gradual decline of the Union of Sweden and Norway, which culminated in its dissolution in 1905. He was subsequently succeeded as King of Norway by his grandnephew Prince Carl of Denmark under the regnal name Haakon VII, and as King of Sweden by his eldest son, Gustaf V. </Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_MER_OSCAR_II_NORWAY_CHAPTER_CAPSULE_BODY" Language="zh_Hans_CN">
+			<Text>奥斯卡二世领导的挪威谋求让他的民众们保持幸福之法，为那些能获得伟人点数的项目提供加成，而这对挪威获得诺贝尔奖十分重要。</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_MER_OSCAR_II_NORWAY_CHAPTER_DETAILED_BODY" Language="zh_Hans_CN">
+			<Text>挪威在赢得伟人方面的优势，被奥斯卡二世的能力所加强，他会对宜居度为“高兴的”或“欣喜若狂的”城市中所进行的项目提供加成。他的海军单位训练加成对于巩固挪威海岸线的防御十分重要。</Text>
+		</Row>
+		<!--Diplomacy-->
+		<!--FIRST MEET-->
+		<!--First AI line-->
+		<Row Tag="LOC_DIPLO_FIRST_MEET_LEADER_MER_OSCAR_II_NORWAY_ANY" Language="zh_Hans_CN">
+			<Text>我是挪威国王奥斯卡二世。陌生人，让我们谈谈吧，好让我们更多地了解对方，并建立持久的友谊。</Text>
+		</Row>
+		<!--AI invitation to visit nearby City-->
+		<Row Tag="LOC_DIPLO_FIRST_MEET_VISIT_RECIPIENT_LEADER_MER_OSCAR_II_NORWAY_ANY" Language="zh_Hans_CN">
+			<Text>我最好的歌剧院在今晚会举行一场演出，你有兴趣作为贵宾出席吗？</Text>
+		</Row>
+		<!--AI accepts Human invitation-->
+		<Row Tag="LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_POSITIVE_LEADER_MER_OSCAR_II_NORWAY_ANY" Language="zh_Hans_CN">
+			<Text>我会亲自去参观的，谢谢。</Text>
+		</Row>
+		<!--AI invitation to exchange Capital Information-->
+		<Row Tag="LOC_DIPLO_FIRST_MEET_NO_MANS_INFO_EXCHANGE_LEADER_MER_OSCAR_II_NORWAY_ANY" Language="zh_Hans_CN">
+			<Text>我们应该交换首都的地图。</Text>
+		</Row>
+		<!--GREETINGS-->
+		<Row Tag="LOC_DIPLO_GREETING_LEADER_MER_OSCAR_II_NORWAY_ANY" Language="zh_Hans_CN">
+			<Text>欢迎！</Text>
+		</Row>
+		<!--DELEGATION-->
+		<!--AI Accepts-->
+		<Row Tag="LOC_DIPLO_ACCEPT_DELEGATION_FROM_HUMAN_LEADER_MER_OSCAR_II_NORWAY_ANY" Language="zh_Hans_CN">
+			<Text>我们热烈欢迎你的代表团。</Text>
+		</Row>
+		<!--AI Rejects-->
+		<Row Tag="LOC_DIPLO_REJECT_DELEGATION_FROM_HUMAN_LEADER_MER_OSCAR_II_NORWAY_ANY" Language="zh_Hans_CN">
+			<Text>我们现在没有功夫谈论外国的政治，我们正忙于自己国内的事。</Text>
+		</Row>
+		<!--AI Requests -->
+		<Row Tag="LOC_DIPLO_DELEGATION_FROM_AI_LEADER_MER_OSCAR_II_NORWAY_ANY" Language="zh_Hans_CN">
+			<Text>我派遣了代表团到你们的首都，带上了我最喜欢的文学的抄本。我还偷偷地放了一本自己的作品，好好享受吧！</Text>
+		</Row>
+		<!--OPEN BORDERS-->
+		<!--AI accepts from human-->
+		<Row Tag="LOC_DIPLO_ACCEPT_OPEN_BORDERS_FROM_HUMAN_LEADER_MER_OSCAR_II_NORWAY_ANY" Language="zh_Hans_CN">
+			<Text>没问题。</Text>
+		</Row>
+		<!--AI rejects from human-->
+		<Row Tag="LOC_DIPLO_REJECT_OPEN_BORDERS_FROM_HUMAN_LEADER_MER_OSCAR_II_NORWAY_ANY" Language="zh_Hans_CN">
+			<Text>我们必须拒绝。</Text>
+		</Row>
+		<!--AI requests from human-->
+		<Row Tag="LOC_DIPLO_OPEN_BORDERS_FROM_AI_LEADER_MER_OSCAR_II_NORWAY_ANY" Language="zh_Hans_CN">
+			<Text>我向你提交了开放边界的请求，希望我的条件能令你满意。</Text>
+		</Row>
+		<!--DECLARE FRIENDSHIP-->
+		<!--AI accepts from human-->
+		<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_HUMAN_LEADER_MER_OSCAR_II_NORWAY_ANY" Language="zh_Hans_CN">
+			<Text>我们考虑了你的建议，很高兴与你成为朋友。</Text>
+		</Row>
+		<!--AI Rejects from human -->
+		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_HUMAN_LEADER_MER_OSCAR_II_NORWAY_ANY" Language="zh_Hans_CN">
+			<Text>我们已经有太多的事情需要操心了。</Text>
+		</Row>
+		<!--AI Requests friendship from human-->
+		<Row Tag="LOC_DIPLO_DECLARE_FRIEND_FROM_AI_LEADER_MER_OSCAR_II_NORWAY_ANY" Language="zh_Hans_CN">
+			<Text>我们应该正式宣布我们的密切关系。</Text>
+		</Row>
+		<!--Human accepts AI requests, AI responds-->
+		<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_MER_OSCAR_II_NORWAY_ANY" Language="zh_Hans_CN">
+			<Text>友谊天长地久。</Text>
+		</Row>
+		<!--Human rejects AI requests, AI responds-->
+		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_MER_OSCAR_II_NORWAY_ANY" Language="zh_Hans_CN">
+			<Text>嗯。也许下次吧。</Text>
+		</Row>
+		<!--ALLIANCE-->
+		<!--AI Requests an alliance from human-->
+		<Row Tag="LOC_DIPLO_MAKE_ALLIANCE_FROM_AI_LEADER_MER_OSCAR_II_NORWAY_ANY" Language="zh_Hans_CN">
+			<Text>我们向贵国正式提出联合的建议。</Text>
+		</Row>
+		<!--KUDOS & WARNINGS-->
+		<!--AI Kudos-->
+		<Row Tag="LOC_DIPLO_KUDO_EXIT_LEADER_MER_OSCAR_II_NORWAY_CULTURE" Language="zh_Hans_CN">
+			<Text>你们是我见过最文明、最勤奋的文明之一，你应该骄傲。</Text>
+		</Row>
+		<!--AI Warnings-->
+		<Row Tag="LOC_DIPLO_WARNING_EXIT_LEADER_MER_OSCAR_II_NORWAY_ANY" Language="zh_Hans_CN">
+			<Text>你的人民肯定百无聊赖，因为他们无所事事。</Text>
+		</Row>
+		<!--AI warns player for border troops-->
+		<Row Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_LEADER_MER_OSCAR_II_NORWAY_ANY" Language="zh_Hans_CN">
+			<Text>我们的边境被周全地保护着，你最好还是撤军。</Text>
+		</Row>
+		<!--TRADE-->
+		<!--AI Accepts Deal-->
+		<Row Tag="LOC_DIPLO_ACCEPT_MAKE_DEAL_FROM_AI_LEADER_MER_OSCAR_II_NORWAY_ANY" Language="zh_Hans_CN">
+			<Text>{LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_MER_OSCAR_II_NORWAY_ANY}</Text>
+		</Row>
+		<!--AI Rejects Deal-->
+		<Row Tag="LOC_DIPLO_REJECT_MAKE_DEAL_FROM_AI_LEADER_MER_OSCAR_II_NORWAY_ANY" Language="zh_Hans_CN">
+			<Text>{LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_MER_OSCAR_II_NORWAY_ANY}</Text>
+		</Row>
+		<!--DENOUNCE-->
+		<!--From Human-->
+		<Row Tag="LOC_DIPLO_DENOUNCE_FROM_HUMAN_LEADER_MER_OSCAR_II_NORWAY_ANY" Language="zh_Hans_CN">
+			<Text>我没有必要听一个没有教养的傻瓜胡说八道。</Text>
+		</Row>
+		<!--From AI-->
+		<Row Tag="LOC_DIPLO_DENOUNCE_FROM_AI_LEADER_MER_OSCAR_II_NORWAY_ANY" Language="zh_Hans_CN">
+			<Text>你的领导缺乏智慧和判断力，你的人民应有更好的待遇。[NEWLINE]（谴责你）</Text>
+		</Row>
+
+		<!--DECLARE WAR-->
+		<!--Human Declares War-->
+		<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_HUMAN_LEADER_MER_OSCAR_II_NORWAY_ANY" Language="zh_Hans_CN">
+			<Text>欲战便战。</Text>
+		</Row>
+		<!--AI Declares War-->
+		<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_MER_OSCAR_II_NORWAY_ANY" Language="zh_Hans_CN">
+			<Text>战争是我最后的选择，但你让我别无选择。</Text>
+		</Row>
+		<!--MAKE PEACE-->
+		<!--AI accepts from human-->
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_AI_ACCEPT_DEAL_LEADER_MER_OSCAR_II_NORWAY_ANY" Language="zh_Hans_CN">
+			<Text>当然。</Text>
+		</Row>
+		<!--AI refuses human-->
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_AI_REFUSE_DEAL_LEADER_MER_OSCAR_II_NORWAY_ANY" Language="zh_Hans_CN">
+			<Text>别以为我是个懦夫。</Text>
+		</Row>
+		<!--AI requests from human-->
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_FROM_AI_LEADER_MER_OSCAR_II_NORWAY_ANY" Language="zh_Hans_CN">
+			<Text>战争不会给我们带来任何东西。以进步和知识之名，战争必须结束。</Text>
+		</Row>
+		<!--DEFEAT-->
+		<!--AI is Defeated-->
+		<Row Tag="LOC_DIPLO_DEFEAT_FROM_AI_LEADER_MER_OSCAR_II_NORWAY_ANY" Language="zh_Hans_CN">
+			<Text>我承认，此次失败令我痛苦和愤怒。我会死去，我知道自己辜负了人民。</Text>
+		</Row>
+		<!--Human is Defeated (will see this in hotseat)-->
+		<Row Tag="LOC_DIPLO_DEFEAT_FROM_HUMAN_LEADER_MER_OSCAR_II_NORWAY_ANY" Language="zh_Hans_CN">
+			<Text>{LOC_DIPLO_DEFEAT_FROM_AI_LEADER_MER_OSCAR_II_NORWAY_ANY}</Text>
+		</Row>
+	</LocalizedText>
+</GameData>

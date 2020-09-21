@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!-- Brandenburg_Gate_Localization_CN -->
+<!-- Author: 春 -->
+<!-- DateCreated: 4/1/2020 1:03:56 PM -->
+<GameData>
+	<LocalizedText>
+		<Row Tag="LOC_BUILDING_BRANDENBURG_GATE_NAME" Language="zh_Hans_CN">
+			<Text>勃兰登堡门</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_BRANDENBURG_GATE_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>所有在该城市训练的陆地单位+25%战斗经验值。该城市可免费获得一位 [ICON_GreatGeneral] 大将军（如果有可获得的话）。有驻军的城市每回合+3忠诚度。必须建造在相邻市中心的平坦草原、平原、沙漠和冻土上。需要军事学院（军营）。</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_BRANDENBURG_GATE_QUOTE" Language="zh_Hans_CN">
+			<Text>苍白的死神平等地叩响穷人房舍的小门和国王宫殿的大门。[NEWLINE]——贺拉斯</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_WONDERS_PAGE_BUILDING_BRANDENBURG_GATE_CHAPTER_HISTORY_PARA_1" Language="zh_Hans_CN">
+			<Text>勃兰登堡门是柏林城仅存的城门。它是一座建于1788-1791年的美丽的希腊式“凯旋门”。勃兰登堡门拥有许多柱子，顶部装饰着“胜利的战车”——由四匹马拖动的战车雕像。它坐落于菩提树下大道的尽头。</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_WONDERS_PAGE_BUILDING_BRANDENBURG_GATE_CHAPTER_HISTORY_PARA_2" Language="zh_Hans_CN">
+			<Text>二战以后，柏林被分割成由苏联及其盟友以及美国和盟友控制的两部分，苏联还建造了柏林墙来隔开这两部分。勃兰登堡门处于这两部分之间的“无人区”，从1961到1989年间没有任何一方可以访问它。勃兰登堡门在1989年作为东西德合并的一部分被重新开放。</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_WONDERS_PAGE_BUILDING_BRANDENBURG_GATE_CHAPTER_HISTORY_PARA_3" Language="zh_Hans_CN">
+			<Text>今天，它作为这个城市和国家重新统一的象征，吸引着成千上万的来自东部和西部的旅游者。</Text>
+		</Row>
+	</LocalizedText>
+</GameData>

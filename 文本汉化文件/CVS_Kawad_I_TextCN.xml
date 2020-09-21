@@ -1,0 +1,249 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- CVS_Kawad_I_TextCN -->
+<!-- Author: 春 -->
+<!-- DateCreated: 5/27/2020 11:10:25 AM -->
+<GameData>
+	<LocalizedText>
+		<!--LEADER-->
+		<Row Tag="LOC_LEADER_CVS_KAWAD_I_NAME" Language="zh_Hans_CN">
+			<Text>卡瓦德一世</Text>
+		</Row>
+		<!--DOM-->
+		<Row Tag="LOC_LOADING_INFO_LEADER_CVS_KAWAD_I" Language="zh_Hans_CN">
+			<Text>卡瓦德一世，不择手段吧。长久以来，神职人员和贵族强占着王权。用诡诈和宗教来削弱他们的力量，然后利用你重新获得的权力来实施经济和政治改革，使帝国变得更强大。你在这里所取得的成就将为你的继承人开辟一条通向伟大的道路。为了伊朗，为了库思老，采取一切必要手段。</Text>
+		</Row>
+		<!--Civilopedia-->
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_CVS_KAWAD_I_TITLE" Language="zh_Hans_CN">
+			<Text>卡瓦德一世</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_CVS_KAWAD_I_SUBTITLE" Language="zh_Hans_CN">
+			<Text>凯伊爵士</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_CVS_KAWAD_I_QUOTE" Language="zh_Hans_CN">
+			<Text>“现在，谁能奉王权之命，竭其全力，来将我的财富尽数归于他名下呢？”[NEWLINE]- 菲尔多西，《列王纪》</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_CVS_KAWAD_I_CHAPTER_HISTORY_PARA_1" Language="zh_Hans_CN">
+			<Text>【译者注：正在翻译，这也太多了草……】[NEWLINE][NEWLINE]Kawad I ascended the throne at the end of the fifth century, during a period in which the Persian monarch's power had been considerably reduced by the clergy and courtiers. What's more, the empire had been forced to make tributary payments to the Hephthalites to the east. By time his rule had come to an end, the throne and the empire had their standing improved considerably.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_CVS_KAWAD_I_CHAPTER_HISTORY_PARA_2" Language="zh_Hans_CN">
+			<Text>Kawad I could be described as machiavellian; his cunning would undermine the authority of those manipulating the throne. The principal player in his schemes was Mazdak, a Zoroastrian priest who preached an egalitarian social system. The reforms brought about by the Mazdakite movement—namely, the sharing of wealth, women, and property—would level the upper classes and make the king more appealing and accessible to the masses. Whether Kawad I believed in his message cannot be determined, but he certainly used it to his advantage.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_CVS_KAWAD_I_CHAPTER_HISTORY_PARA_3" Language="zh_Hans_CN">
+			<Text>The nobility and priests would not go down quietly, however. Their power had not been curbed enough to prevent retaliation. Near the end of the fifth century, Kawad I was imprisoned in the Prison of Oblivion, and his brother Zamasp, an anti-Mazdakite, was brought to the throne. Kawad I would not be brought to heel. Freed by his sister, he absconded to Hephthalite territory. There, he entreated the Hephthalite king for aid, and together with a considerable Hephthalite force, marched on and recaptured the throne.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_CVS_KAWAD_I_CHAPTER_HISTORY_PARA_4" Language="zh_Hans_CN">
+			<Text>With the authority of the King of Kings reclaimed, Kawad I was free to institute the economic and political reforms that are often credited to his son, Khosrow I.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_CVS_KAWAD_I_CHAPTER_HISTORY_PARA_5" Language="zh_Hans_CN">
+			<Text>The office of the "Protector of the Poor and Judge" was created to look after the poor and those in dire straits. The military, previously under one spahbed or general, was quadripartitioned. This change allowed the generals overseeing the four quarters to better address the multiple fronts on which the Sassanids were usually challenged: Rome to the west, the Hephthalites to the east, the Armenians to the north, and the Arabs to the south.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_CVS_KAWAD_I_CHAPTER_HISTORY_PARA_6" Language="zh_Hans_CN">
+			<Text>Kawad I would go on to have a cadastral survey performed. This would prove to be a boon to both the administration and farmers. Rather than taxes being calculated on a per harvest basis, properties would be taxed based on factors such as the size of the land and type of crop. This allowed the administration to operate on a more visible, predictable budget, and addressed the issue of crops going bad while waiting to be harvested for the purpose of calculating taxes.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_CVS_KAWAD_I_CHAPTER_HISTORY_PARA_7" Language="zh_Hans_CN">
+			<Text>While the Hephthalites that had long harried the empire were in decline, the western front wasn't nearly as quiet. Kawad I would gather his host and advance on Armenia. The reason for this has been explained as either Kawad I owing money to the Hephthalites, which would stride contrary to their decline, or to a general unhappiness with the Romans being unwilling to help with the defense against the Huns. Whatever the case, Kawad would capture Theodosiopolis and Martyropolis. From there, he advanced westward, where he besieged and took Amida in Mesopotamia. His subsequent battles further west would prove to be a mixed bag, which would lead to peace negotiations favorable to the Sassanids.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_CVS_KAWAD_I_CHAPTER_HISTORY_PARA_8" Language="zh_Hans_CN">
+			<Text>Roughly two decades later, Kawad would once again find reason for war. The Iberian king Gourgenes sided with the Romans because Kawad was trying to impose Zoroastrianism on his subjects. The shift threatened Sassanid control over the area, which served as an important buffer state and regular point of contention between Iran and Rome. Mesopotamia would serve as the main theater for the war between Kawad, his Arab allies, and the Byzantine Emperor Justin's forces under Belisarius. Generally, the campaigns here had no clear winner.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_CVS_KAWAD_I_CHAPTER_HISTORY_PARA_9" Language="zh_Hans_CN">
+			<Text>Kawad I faced resistance from the moment he ascended to the throne. From within and without, the odds were against him. But through wit and more than a little boldness, he was able to restore the throne to a position of power. In that, he was free to leverage reforms that resulted in a Sassanid political revival, bettered the empire, and laid the groundwork from which his son would prosper.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_CVS_KAWAD_I_CHAPTER_CAPSULE_BODY" Language="zh_Hans_CN">
+			<Text>萨珊帝国能在国际贸易中蓬勃发展，同时对单元格的魅力有着敏锐的眼光。卡瓦德一世则补充了这一发展方式，将重心放在了贸易区域、单元格魅力以及宗教性的间谍活动。</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_CVS_KAWAD_I_CHAPTER_DETAILED_BODY" Language="zh_Hans_CN">
+			<Text>萨珊帝国的优势在于对贸易，尤其是对国际贸易的偏好，因而您将会集中精力去尽可能向外派遣您的商队，以达到 [ICON_Culture] 文化值、[ICON_Production] 生产力以及 [ICON_GreatMerchant] 大商人点数的最大化产出。在这方面，萨珊拥有较大灵活性。在魅力值往往被忽略的地方，您应妥善建立发展您的城市并使其魅力值最大化，可以通过您所建造的狩猎场来提升。狩猎场可通过其磨练狩猎的能力来强化您的单位，而且由它解锁的皇家狩猎项目能通过给予小部分经验值提升来进一步强化他们。结合这点与多用的萨珊复合骑兵，以及由皇家狩猎与萨珊复合骑兵的击杀所产出的 [ICON_GreatGeneral] 大将军点数，一同成为一股不容忽视的力量。卡瓦德一世的特色改良设施，能够为其所在城市中建造在魅力为“迷人的”或“惊艳的”单元格上的区域提供 [ICON_Gold] 金币产出，而这将会进一步鼓励玩家整体规划和调控城市单元格的魅力值。此外，创立一个宗教有利于游戏前期时的间谍活动，并能提升您商业中心与港口（无论如何您都会去建造它们，因为文明重心在于贸易）的 [ICON_Faith] 信仰值产出。利用文明本身来追求文化或统治胜利，或利用其贸易的繁荣发展来支撑卡瓦德的宗教路线。</Text>
+		</Row>
+		<!--Diplomacy-->
+		<!--FIRST MEET-->
+		<!--First AI line-->
+		<Row Tag="LOC_DIPLO_FIRST_MEET_LEADER_CVS_KAWAD_I_ANY" Language="zh_Hans_CN">
+			<Text>向你致敬。在你面前的是卡瓦德一世，我因荣耀而容光焕发，血缘能够追溯到传说中的卡扬人。</Text>
+		</Row>
+		<!--AI invitation to visit nearby City-->
+		<Row Tag="LOC_DIPLO_FIRST_MEET_VISIT_RECIPIENT_LEADER_CVS_KAWAD_I_ANY" Language="zh_Hans_CN">
+			<Text>让我们到我附近的城市去休息一下，在那里我们可以喝一杯冰酸奶避暑。如果你喜欢更烈性一点的，我推荐榨海枣汁。</Text>
+		</Row>
+		<!--AI accepts Human invitation-->
+		<Row Tag="LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_POSITIVE_LEADER_CVS_KAWAD_I_ANY" Language="zh_Hans_CN">
+			<Text>随后就到。</Text>
+		</Row>
+		<!--AI invitation to exchange Capital Information-->
+		<Row Tag="LOC_DIPLO_FIRST_MEET_NO_MANS_INFO_EXCHANGE_LEADER_CVS_KAWAD_I_ANY" Language="zh_Hans_CN">
+			<Text>首都传来消息，蒂尔甘正如火如荼地进行。音乐让泰西封充满了活力，所以放下你的防备吧。吃点藏红花米糕，享受摔跤竞技场上的刺激。你会回报我们的盛情，对吗？</Text>
+		</Row>
+		<!--GREETINGS-->
+		<Row Tag="LOC_DIPLO_GREETING_LEADER_CVS_KAWAD_I_ANY" Language="zh_Hans_CN">
+			<Text>你有什么心事吗？</Text>
+		</Row>
+		<!--DELEGATION-->
+		<!--AI Accepts-->
+		<Row Tag="LOC_DIPLO_ACCEPT_DELEGATION_FROM_HUMAN_LEADER_CVS_KAWAD_I_ANY" Language="zh_Hans_CN">
+			<Text>你会举行一个欢迎会来欢迎你的使团。</Text>
+		</Row>
+		<!--AI Rejects-->
+		<Row Tag="LOC_DIPLO_REJECT_DELEGATION_FROM_HUMAN_LEADER_CVS_KAWAD_I_ANY" Language="zh_Hans_CN">
+			<Text>我现在正忙于处理内部事务。下次吧。</Text>
+		</Row>
+		<!--AI Requests -->
+		<Row Tag="LOC_DIPLO_DELEGATION_FROM_AI_LEADER_CVS_KAWAD_I_ANY" Language="zh_Hans_CN">
+			<Text>我派遣了一个满载着占星术和天文学文献的使团，以及休闲双陆棋——一种植根于琐罗亚斯德教的宇宙论的棋盘游戏。</Text>
+		</Row>
+		<!--OPEN BORDERS-->
+		<!--AI accepts from human-->
+		<Row Tag="LOC_DIPLO_ACCEPT_OPEN_BORDERS_FROM_HUMAN_LEADER_CVS_KAWAD_I_ANY" Language="zh_Hans_CN">
+			<Text>欢迎你的人民来探险，尽管我不能保证他们会离开。</Text>
+		</Row>
+		<!--AI rejects from human-->
+		<Row Tag="LOC_DIPLO_REJECT_OPEN_BORDERS_FROM_HUMAN_LEADER_CVS_KAWAD_I_ANY" Language="zh_Hans_CN">
+			<Text>这可不行。我费了好大劲修建了这些城墙。</Text>
+		</Row>
+		<!--AI requests from human-->
+		<Row Tag="LOC_DIPLO_OPEN_BORDERS_FROM_AI_LEADER_CVS_KAWAD_I_ANY" Language="zh_Hans_CN">
+			<Text>请允许我的旅人和商人自由地进入你们的土地，以便我们能更好地交流知识、文化，最重要的是——货币。</Text>
+		</Row>
+		<!--DECLARE FRIENDSHIP-->
+		<!--AI accepts from human-->
+		<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_HUMAN_LEADER_CVS_KAWAD_I_ANY" Language="zh_Hans_CN">
+			<Text>就像他们说的，亲近你的朋友，而……无所谓。有酒吗？</Text>
+		</Row>
+		<!--AI Rejects from human -->
+		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_HUMAN_LEADER_CVS_KAWAD_I_ANY" Language="zh_Hans_CN">
+			<Text>你还没有建立起友谊的融洽关系。</Text>
+		</Row>
+		<!--AI Requests friendship from human-->
+		<Row Tag="LOC_DIPLO_DECLARE_FRIEND_FROM_AI_LEADER_CVS_KAWAD_I_ANY" Language="zh_Hans_CN">
+			<Text>朋友和敌人之间的界线就像夜莺的歌声一样微妙。我们要不要听一听，看看会发生什么？</Text>
+		</Row>
+		<!--Human accepts AI requests, AI responds-->
+		<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_CVS_KAWAD_I_ANY" Language="zh_Hans_CN">
+			<Text>一切按照计划进行。</Text>
+		</Row>
+		<!--Human rejects AI requests, AI responds-->
+		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_CVS_KAWAD_I_ANY" Language="zh_Hans_CN">
+			<Text>嗯……</Text>
+		</Row>
+		<!--ALLIANCE-->
+		<!--AI Requests an alliance from human-->
+		<Row Tag="LOC_DIPLO_MAKE_ALLIANCE_FROM_AI_LEADER_CVS_KAWAD_I_ANY" Language="zh_Hans_CN">
+			<Text>同盟就像一架攻城炮。带上正确的去围城将确保获胜，而选错了会让你看起来像个蠢蛋。让我们选择前者吧。</Text>
+		</Row>
+		<!--AI warns player for border troops-->
+		<Row Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_LEADER_CVS_KAWAD_I_ANY" Language="zh_Hans_CN">
+			<Text>只要你愿意让你的军队在那里度过余生的话，那我就欢迎他们在我的边境上闲逛。</Text>
+		</Row>
+		<!--TRADE-->
+		<!--AI Accepts Deal-->
+		<Row Tag="LOC_DIPLO_ACCEPT_MAKE_DEAL_FROM_AI_LEADER_CVS_KAWAD_I_ANY" Language="zh_Hans_CN">
+			<Text>下次我们还要再来一次。</Text>
+		</Row>
+		<!--AI Rejects Deal-->
+		<Row Tag="LOC_DIPLO_REJECT_MAKE_DEAL_FROM_AI_LEADER_CVS_KAWAD_I_ANY" Language="zh_Hans_CN">
+			<Text>你把我当成傻瓜吗？</Text>
+		</Row>
+		<!--DENOUNCE-->
+		<!--From Human-->
+		<Row Tag="LOC_DIPLO_DENOUNCE_FROM_HUMAN_LEADER_CVS_KAWAD_I_ANY" Language="zh_Hans_CN">
+			<Text>你应该拥有一张用装满了蜂蜜的空心树制成的床。</Text>
+		</Row>
+		<!--From AI-->
+		<Row Tag="LOC_DIPLO_DENOUNCE_FROM_AI_LEADER_CVS_KAWAD_I_ANY" Language="zh_Hans_CN">
+			<Text>我宁愿在恶龙达哈哈的千年暴政之下辛苦劳作，也不愿忍受你的存在。[NEWLINE]（谴责你）</Text>
+		</Row>
+		<!--DECLARE WAR-->
+		<!--Human Declares War-->
+		<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_HUMAN_LEADER_CVS_KAWAD_I_ANY" Language="zh_Hans_CN">
+			<Text>在你杀死狮子之前，不要将它披在你的马匹上。自从我们第一次见面以来我就在操纵阴谋诡计，你是谁？竟敢和我谈战争？</Text>
+		</Row>
+		<!--AI Declares War-->
+		<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_CVS_KAWAD_I_ANY" Language="zh_Hans_CN">
+			<Text>现在连斯摩夫的羽毛也救不了你了。</Text>
+		</Row>
+		<!--MAKE PEACE-->
+		<!--AI accepts from human-->
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_AI_ACCEPT_DEAL_LEADER_CVS_KAWAD_I_ANY" Language="zh_Hans_CN">
+			<Text>那就休战吧。</Text>
+		</Row>
+		<!--AI refuses human-->
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_AI_REFUSE_DEAL_LEADER_CVS_KAWAD_I_ANY" Language="zh_Hans_CN">
+			<Text>让步？当猎物在狮子嘴里时，它会让步吗？</Text>
+		</Row>
+		<!--AI requests from human-->
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_FROM_AI_LEADER_CVS_KAWAD_I_ANY" Language="zh_Hans_CN">
+			<Text>让我们讨论一下条款。我准备了一座亭阁，这样我们就能阻止更多的流血事件。</Text>
+		</Row>
+		<!--DEFEAT-->
+		<!--AI is Defeated-->
+		<Row Tag="LOC_DIPLO_DEFEAT_FROM_AI_LEADER_CVS_KAWAD_I_ANY" Language="zh_Hans_CN">
+			<Text>整个世界都是我们所听到的故事；人的恶，人的荣耀，都消失了。虽然我失败了，你不必害怕；你的末日临近了，这是可以肯定的。</Text>
+		</Row>
+		<!--Human is Defeated (will see this in hotseat)-->
+		<Row Tag="LOC_DIPLO_DEFEAT_FROM_HUMAN_LEADER_CVS_KAWAD_I_ANY" Language="zh_Hans_CN">
+			<Text>整个世界都是我们所听到的故事；人的恶，人的荣耀，都消失了。虽然我失败了，你不必害怕；你的末日临近了，这是可以肯定的。</Text>
+		</Row>
+		<!--AGENDA-->
+		<Row Tag="LOC_AGENDA_CVS_TTBAM_NAME" Language="zh_Hans_CN">
+			<Text>王座，不择手段</Text>
+		</Row>
+		<Row Tag="LOC_AGENDA_CVS_TTBAM_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>喜欢间谍活动，讨厌被人指使。对那些利用信仰的人抱有好感。</Text>
+		</Row>
+		<!--KUDOS & WARNINGS-->
+		<Row Tag="LOC_DIPLO_KUDO_LEADER_CVS_KAWAD_I_REASON_HIGH_FAITH" Language="zh_Hans_CN">
+			<Text>（您信仰的产出令人满意）</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MODIFIER_CVS_TTBAM_HIGH_FAITH" Language="zh_Hans_CN">
+			<Text>卡瓦德一世喜欢那些使用信仰的人。</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_LEADER_CVS_KAWAD_I_REASON_LOW_FAITH" Language="zh_Hans_CN">
+			<Text>（您信仰的产出是不够的）</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MODIFIER_CVS_TTBAM_LOW_FAITH" Language="zh_Hans_CN">
+			<Text>卡瓦德一世反对那些缺乏信仰的人。</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_KUDO_LEADER_CVS_KAWAD_I_REASON_HAS_SPIED'" Language="zh_Hans_CN">
+			<Text>（您在监视卡瓦德一世）</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MODIFIER_CVS_TTBAM_HAS_SPIED" Language="zh_Hans_CN">
+			<Text>卡瓦德一世警惕你的秘密行动。</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_KUDO_LEADER_CVS_KAWAD_I_REASON_HAS_NOT_SPIED'" Language="zh_Hans_CN">
+			<Text>（您没有监视卡瓦德一世）</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MODIFIER_CVS_TTBAM_HAS_NOT_SPIED" Language="zh_Hans_CN">
+			<Text>卡瓦德一世喜欢那些派遣间谍去别的地方的人。</Text>
+		</Row>
+		<!--AI Kudos-->
+		<Row Tag="LOC_DIPLO_KUDO_EXIT_LEADER_CVS_KAWAD_I_ANY" Language="zh_Hans_CN">
+			<Text>如果财富垂青于忠诚的人，生存垂青于狡诈的人……那你很善于拥抱前者，而把后者留给了我。</Text>
+		</Row>
+		<!--AI Warnings-->
+		<Row Tag="LOC_DIPLO_WARNING_EXIT_LEADER_CVS_KAWAD_I_ANY" Language="zh_Hans_CN">
+			<Text>没有信仰，长夜漫漫。采取不明智的间谍活动使你的帝国不堪一击。小心，否则你就活不长了。</Text>
+		</Row>
+		<!--Leader Traits-->
+		<Row Tag="LOC_TRAIT_LEADER_CVS_KAWAD_I_TTBAM_NAME" Language="zh_Hans_CN">
+			<Text>马兹达克诡计</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_LEADER_CVS_KAWAD_I_TTBAM_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>创立 [ICON_Religion] 宗教后获得1名间谍，可以用 [ICON_Faith] 信仰值购买间谍。</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_LEADER_CVS_KAWAD_I_TTBAM_EXPAC1_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>创立 [ICON_Religion] 宗教后获得1名间谍，可以用 [ICON_Faith] 信仰值购买间谍。成功进行一次进攻性间谍任务获得+1 [ICON_GLORY_GOLDEN_AGE] 时代积分。</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_LEADER_CVS_KAWAD_I_TTBAM_EXPAC2_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>创立 [ICON_Religion] 宗教后获得1名间谍，可以用 [ICON_Faith] 信仰值购买间谍。成功进行一次进攻性间谍任务获得+1 [ICON_GLORY_GOLDEN_AGE] 时代积分。</Text>
+		</Row>
+		<!--Amargar-->
+		<Row Tag="LOC_IMPROVEMENT_CVS_AMARGAR_NAME" Language="zh_Hans_CN">
+			<Text>会计官办公室</Text>
+		</Row>
+		<Row Tag="LOC_IMPROVEMENT_CVS_AMARGAR_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>卡瓦德一世作为领袖时，解锁建造者建造萨珊特色改良设施“会计官办公室”的能力。[NEWLINE][NEWLINE]产出+2 [ICON_Gold] 金币，每相邻一种改良设施，则额外+1 [ICON_Food] 食物。由科技“货币”解锁。</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_IMPROVEMENTS_PAGE_IMPROVEMENT_CVS_AMARGAR_CHAPTER_HISTORY_PARA_1" Language="zh_Hans_CN">
+			<Text>【译者注：正在翻译……】[NEWLINE][NEWLINE]The Āmārgar was a position that must have been center to Kawad's economic and administrative reforms. Charged with tax collection, matters of real estate, and property evaluation, the Āmārgar would have overseen the implementation and upkeep of said reforms. Currency, or currency substitutes, were entrusted to their care before moving on to the central administration. An Āmārgarestan roughly translates to Office of the Āmārgar.</Text>
+		</Row>
+	</LocalizedText>
+</GameData>
